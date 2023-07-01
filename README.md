@@ -1,34 +1,29 @@
 <h1 align="center">WinUI 3 Apps List</h1>
 
-***WinUI 3** is the latest version of Microsoft's native user interface (UX) framework for Windows desktop and UWP applications. It is based on the Fluent Design System, which emphasizes simplicity, clarity, and consistency in user interface design. WinUI 3 includes a wide range of controls and features that can be used to create modern, responsive, and accessible applications..*
+***WinUI 3** is the latest version of Microsoft's native user interface (UX) framework for Windows desktop and UWP applications. It is based on the Fluent Design System, which emphasizes simplicity, clarity, and consistency in user interface design..*
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" />  I'm learning Python
+  <img src="https://drive.google.com/uc?export=download&id=1odA5Y0hN-B2hyJkjFgBWcS1d-eVRpReP">
 </p>
 <p align="center">
-  <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/nyas1/Material-You-app-list?style=for-the-badge&colorA=FCEDE9&colorB=F9ADA4&logo=github&logoColor=400008">
-</p>
-
+  
 ---
-## 📜 Table Of Contents
-- [📋 Disclaimer](#-disclaimer)
-- [🏛️ Hall Of Fame](#%EF%B8%8F-hall-of-fame)
-	- [🏆 Best Implementation of WinUI 3](#-best-implementation-of-WinUI-3)
-- [📱Known apps](#known-apps)
-	- [🌐 Browsers](#-browsers)
-	- [🖌️ Theming Apps](#%EF%B8%8F-theming-apps)
-	- [🌦️ Weather](#%EF%B8%8F-weather)
-	- [🖼️ Gallery](#%EF%B8%8F-gallery)
-	- [🗓️ Calendar](#%EF%B8%8F-calendar)
-	- [📞 Communication](#-communication)
-	- [🗺️ Maps/Navigation](#%EF%B8%8F-mapsnavigation)
-	- [📧 Email Clients](#-email-clients)
-	- [🈸 Translators](#-translators)
-	- [🤖 Artificial Intelligence](#-artificial-intelligence-ai)
-	- [⏱️ Clock/Timer](#%EF%B8%8F-clocktimer)
-	- [🎴 Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
+##   📜 Table Of Contents
+- [📋   Disclaimer](#-disclaimer)
+- [🏢   Hall Of Fame](#%EF%B8%8F-hall-of-fame)
+	- [🎖️   Best Implementation of WinUI 3](#-best-implementation-of-WinUI-3)
+- [💻   Known apps](#known-apps)
+	- [🌏   Browsers](#-browsers)
+	- [🎨   Theming Apps](#%EF%B8%8F-theming-apps)
+	- [🌥️   Weather](#%EF%B8%8F-weather)
+	- [🌄   Gallery](#%EF%B8%8F-gallery)
+	- [📅   Calendar](#%EF%B8%8F-calendar)
+	- [📞   Communication](#-communication)
+	- [🗺️   Maps/Navigation](#%EF%B8%8F-mapsnavigation)
+	- [📧   Email Clients](#-email-clients)
+	- [🈸   Translators](#-translators)
+	- [🤖   Artificial Intelligence](#-artificial-intelligence-ai)
+	- [⏰   Clock/Timer](#%EF%B8%8F-clocktimer)
+	- [🎴   Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
 	- <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /></a> [Other Windows Apps](#-other-google-apps)
 	- [🧰 System Tools](#-system-tools)
 		- [📁 File Explorers](#-file-explorers)
@@ -71,7 +66,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-## 📱Known apps
+## 💻   Known apps
 ### 👥 Social Media Clients
 - **Reddit**
 	- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`🐾`</sup>
