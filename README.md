@@ -145,25 +145,24 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ###  Photo viewer 
 
-- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
--  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
-
+- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+-  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases)
 - **Tools**
-	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
+	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox)
+	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
 	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
 ---
 
 ###  Scanners
 
-- `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
-- `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
+- `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
+- `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) `💲`
 
 ---
 ###  Productivity
 
-- `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
+- `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)
 - `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
@@ -207,69 +206,62 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
 
-- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) <sup>`🐾`</sup>
+- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
 ---
 
 ###  Accessibility
+
 - `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
   
 ---
+
 ###  System Tools
--  [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
+
+- `MW` [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
 ---
 
 ####  Device Info/Monitors
--  [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
--  [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
+
+- `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+- `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ---
+
 ####  Security
+
 - **2FA**
-	-  [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS) 
-- **Password/Pin Manager**
-	- `MDY` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
-	- `MDY` [Pincredible](https://github.com/cyb3rko/pincredible)
-- **Password Generator**
-	- `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup>
-	- `MD` [Wassword](https://github.com/polilluminato/wassword-flutter) <sup>`FOSS`</sup>
-	- `MD` [Password Generator](https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator)
-- **Firewall**
-	- `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
+	- `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS) 
 
 ---
 ####  Privacy
+
 - **File/App Encryption**
 	-  [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
 ---
 
 ####  Backup
--  [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB)
+
+-  [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 
 ---
 
 #### 🧹 Optimizer/Cleaners
+
 -  [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
 -  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 ---
+
 ####  Material Catalogs
 - `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
-- `MDY` [MaterialGallery android](https://github.com/NUmeroAndDev/MaterialGallery-android) <sup>`FOSS`</sup>
-- `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) <sup>`FOSS`</sup>
-- `MDY` [Compose Material Theme](https://play.google.com/store/apps/details?id=compose.material.theme)
-- `MDY` [Previewer](https://github.com/Smooth-E/monet-color-previewer) <sup>`FOSS`</sup>
-- `MDY` [Material3 Catalog Compose](https://play.google.com/store/apps/details?id=wonky.product.materialyoucatalog)
-- `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
-- `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
-- `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
-- `MY` [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
 
 ---
+
 ##  Sources
 
 - **Reddit:** [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/), [#3](https://www.reddit.com/r/androidapps/comments/utjsl2/best_material_you_applications/), [#4](https://www.reddit.com/r/androidapps/comments/rnnhhm/material_you_apps/)
