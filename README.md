@@ -37,9 +37,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
 |**<sup>`📆 Planned`</sup>**|<strong>Apps that haven't been released but has a planned date</strong>|
 
----
-
 ##    Overview
+
 
 ###    Best Implementation of WinUI 3
 
@@ -51,9 +50,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `MW` [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
----
-
 ##    Apps List
+
 
 ###    Social Media Clients
 
@@ -76,10 +74,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MW` [Wavee](https://github.com/christosk92/Wavee)
 - **Youtube**
 	- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
-   
----
 
 ###  Notes/Reminders/Draw-Board
+
+------------
 
 - **Notes**
 	- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
@@ -91,9 +89,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Draw Board**
 	- `MW` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
----
-
 ###  Media
+
+------------
 
 ####  Music Players
 
@@ -117,9 +115,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
----
-
 ###  Browsers
+
+------------
 
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
   
@@ -131,9 +129,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
   
 -  [Microsoft Edge]( )
 
----
-
 ###  Theming Apps
+
+------------
 
 - **Personalization**
   
@@ -141,18 +139,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
    
 	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
 
----
+###  Games
 
-###  Games & Emulators
+------------
 
-- **Games**
-	- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
+- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
    
-	- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
-
----
+- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ###  Photo viewer 
+
+------------
 
 - `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
   
@@ -166,50 +163,53 @@ This list is solely a compilation of apps that adopt the Material You design gui
  
 	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
----
+###  Scanner
 
-###  Scanners
+------------
 
 - `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
   
 - `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) `💲`
 
----
 ###  Productivity
+
+------------
 
 - `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)
   
 - `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
----
-
 ###  Email Clients
+
+------------
 
 - `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
----
 ###  Translators
+
+------------
+
 - `MW` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
----
-
 ###  Artificial Intelligence (AI)
+
+------------
 
 - `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
   
 - `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
----
-
 ###  Wallpaper / Widget
+
+------------
 
 - `MW` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 
 -  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
-	
----
 
 ###  Download Managers
+
+------------
 
 - **YouTube**
 	- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
@@ -224,67 +224,59 @@ This list is solely a compilation of apps that adopt the Material You design gui
   
 	- `MW` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
----
-
 ### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
+
+------------
 
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
   
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
----
-
 ###  System Tools
+
+------------
 
 - `MW` [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
----
-
 ####  Device Info/Monitors
+
+------------
 
 - `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
   
 - `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
----
-
 ####  Security&Privacy
+
+------------
 
 - `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
   
 - `MW` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
-	
----
 
 ####  Backup
 
+------------
+
 - `MW` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 
----
-
 #### 🧹 Optimizer/Cleaners
+
+------------
 
 -  [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
   
 -  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
----
-
 ####  Material Catalogs
+
+------------
 
 - `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 ---
 
-##  Sources
 
-- **Reddit:** [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/), [#3](https://www.reddit.com/r/androidapps/comments/utjsl2/best_material_you_applications/), [#4](https://www.reddit.com/r/androidapps/comments/rnnhhm/material_you_apps/)
-- **Telegram:** [popMODS](https://t.me/popMODS), [WSTprojects](https://t.me/WSTprojects), [WPX Projects](https://t.me/WSTprojects), [progetto materiali](https://t.me/projectmaterial), [FossDroid](https://t.me/FossDroidAndroid), [Free Softwares [Android]](https://t.me/foss_Android)
-- **Similar Lists:** [sysworx's](https://github.com/sysworx/Material-You-app-list)<sup><sup>🪦</sup></sup>, [Naverim's](https://github.com/Naverim/Material-You-app-list)<sup><sup>🪦</sup></sup>, [TeaEndsAcronyms's](https://github.com/TeaEndsAcronyms/Material-You-Apps), [misaka-13766's](https://github.com/misaka-13766/Material-You-App-Repository)
-
-##  Tools Used
-- [✍️ StackEdit](https://stackedit.io/)
-- [📜 DocToc](https://github.com/thlorenz/doctoc)
 
 ## 😼 Author
 <p>
