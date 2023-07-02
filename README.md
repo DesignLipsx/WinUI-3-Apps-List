@@ -153,7 +153,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
 - `MW` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
 - `MW` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
-- `MW` [Swift Browser]()
+- `MW` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 - `MW` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💲`  
 - `MW` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💲`  
 - `MW` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💲`  
@@ -207,18 +207,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ------------
 
 - `MW` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
--  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
-- `MW` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`  
-- `MW` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`  
-- `MW` [Wintoys]()
+- `MW` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+- `MW` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`
+- `MW` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`
+- `MW` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `MW` [Tabbed™️](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
+- `MW` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 
 ------------
 
 ###  Download Managers
 
 - **YouTube**
-	- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
-   
+
+	- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)   
 	- `MW` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
    
 - **Instagram**
@@ -231,24 +233,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
+###  Other Windows Apps
 
-- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
-  
+- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
 ------------
-
-###  System Tools
-
-- `MW` [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
 ####  Device Info/Monitors
 
 ------------
 
-- `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
-  
+- `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
 - `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ------------
@@ -256,15 +252,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ####  Security&Privacy
 
 
-- `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
-  
+- `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
 - `MW` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
-
-------------
-
-####  Backup
-
-- `MW` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 
 ------------
 
