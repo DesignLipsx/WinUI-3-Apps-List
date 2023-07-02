@@ -7,6 +7,7 @@
 <p align="center">
   <p align="center">
   <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
+
 </p>
 
 ---
