@@ -27,10 +27,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ##    Apps List
 ### 🧑‍💻   Social Media Clients
 - **GitHub**
-	-  [GitHub](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
+	-  [FluentHub](https://github.com/FluentHub/FluentHub)
+  	-  [JitHub](https://github.com/JitHubApp/JitHubV2)
 
 - **Reddit**
 	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
+ 	-  [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 
 - **Telegram**
 	-  [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
@@ -48,14 +50,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
 	
 - **Draw Board**
-	-   [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw)
+	-   [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
  
 ---
 ### 🎬 Media
 
 #### 🎵 Music Players
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
--  [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
+-  [Screenbox](https://github.com/huynhsontung/Screenbox/)
 -  [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
 
 #### ▶️ Video Players
@@ -75,6 +77,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🌐 Browsers
 -  [Yttrium](https://github.com/muznyo/Yttrium)
+-  [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
+-  [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
 -  [Swift Browser]( )
 -  [Microsoft Edge]( )
 
