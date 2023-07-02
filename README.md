@@ -26,7 +26,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 |**`MI`**|Apps that follow Mica Design|✔️|❌|
 |**`WI`**|Apps that follow WinUI 3 Design|❌|✔️|
 
-### 🔖 Other tags
+- #### Other abbreviations
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
