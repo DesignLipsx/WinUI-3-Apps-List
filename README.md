@@ -47,7 +47,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
  	-  [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
 - **Reminders**
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)	
+	-  [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)	
 - **Draw Board**
 	-   [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
@@ -118,7 +118,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🔬 Scanners
 - `MDY` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
-- `MDY` [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 
 ---
@@ -161,8 +160,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🤖 Artificial Intelligence (AI)
 -  [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
-- `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
-- `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
+-  [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ---
 ### ⏱️ Clock/Timer
@@ -242,15 +240,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [LSPatch](https://github.com/LSPosed/LSPatch) <sup>`FOSS`</sup>
 	- `MDY` [KernelSU](https://github.com/tiann/KernelSU/) <sup>`FOSS`</sup>
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
 ---
 
 #### 📲 Device Info/Monitors
-- `MDY` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware) <sup>`🐾`</sup>
-- `MDY` [YASNAC](https://github.com/RikkaW/YASNAC)  <sup>`FOSS`</sup> <sup>`🐾`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+-  [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+-  [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 
 ---
 #### 🔐 Security
