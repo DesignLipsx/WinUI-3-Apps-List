@@ -109,9 +109,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
-------------
-
 ###  Browsers
+
+------------
 
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
