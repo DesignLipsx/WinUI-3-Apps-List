@@ -64,7 +64,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ####  Telegram
 - `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Discord
-- `MW` [Discord-mica](https://github.com/mazOnGitHub/discord-mica)
+- `MW` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
 ####  Twitter
 - `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
 ####  WhatsApp
@@ -121,7 +121,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
   
 - **Tools**
-  
+    
 	- `MW` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
 
 ------------
@@ -214,7 +214,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ###  Translators
 
-- `MW` [Translate](https://t.co/Tz9BoDKVlM)
+- `MW` [Translate](https://t.co/Tz9BoDKVlM)`⚠️ [Steps Required]`
 
 ------------
 
@@ -235,13 +235,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-###  Other Windows Apps
-
-- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
-- `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
-
-------------
-
 ####  Device Info/Monitors
 
 - `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
@@ -256,11 +249,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-#### 🧹 Optimizer/Cleaners
+####  Optimizer/Cleaners
 
--  [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+- `MW` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
   
--  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
+- `MW` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
+
+------------
+
+###  Other Windows Apps
+
+- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
+- `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
 ------------
 
