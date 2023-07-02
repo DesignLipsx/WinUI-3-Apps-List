@@ -34,7 +34,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
-|**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
+|**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup|
 |**<sup>`📆 Planned`</sup>**|<strong>Apps that haven't been released but has a planned date</strong>|
 
 ##    Overview
@@ -53,45 +53,43 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ##    Apps List
 
 
-###    Social Media Clients
+###  Social Media Clients
 
-- **GitHub**
-	- `MW` [FluentHub](https://github.com/FluentHub/FluentHub)
-  	- `MW` [JitHub](https://github.com/JitHubApp/JitHubV2)
-  	  
-- **Reddit**
-	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
- 	- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
-    
-- **Telegram**
-	- `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
-   
-- **Twitter**
-	- `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
-- **WhatsApp**
-	- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
-- **Spotify**
-	- `MW` [Wavee](https://github.com/christosk92/Wavee)
-- **Youtube**
-	- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
-
-###  Notes/Reminders/Draw-Board
+####  GitHub
+- `MW` [FluentHub](https://github.com/FluentHub/FluentHub)
+- `MW` [JitHub](https://github.com/JitHubApp/JitHubV2)  	  
+####  Reddit
+-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
+- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)    
+####  Telegram
+- `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)   
+####  Twitter
+- `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
+####  WhatsApp
+- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
+####  Spotify
+- `MW` [Wavee](https://github.com/christosk92/Wavee)
+####  Youtube
+- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
 
 ------------
+
+###  Notes/Reminders/Draw-Board
 
 - **Notes**
 	- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
    
- 	- `MW` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
+   	- `MW` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
+   	  
 - **Reminders**
 	- `MW` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
    
 - **Draw Board**
 	- `MW` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
-###  Media
-
 ------------
+
+###  Media
 
 ####  Music Players
 
