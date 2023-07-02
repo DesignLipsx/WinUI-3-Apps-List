@@ -10,7 +10,7 @@
 ##   📋 Table Of Contents
 - [📑   Disclaimer](#-disclaimer)
 - [🏛️   Hall Of Fame](#%EF%B8%8F-hall-of-fame)
-	- [🎖️  Best Implementation of WinUI 3](#-best-implementation-of-WinUI-3)
+	- [🎖️  Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
 - [💻   Known apps](#known-apps)
 	- [🌏   Browsers](#-browsers)
 	- [🎨   Theming Apps](#%EF%B8%8F-theming-apps)
@@ -53,21 +53,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 - [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
-
-
+  
 <sub>[📋Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ## 💻   Known apps
 ### 🧑‍💻   Social Media Clients
 - **Reddit**
-	- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`🐾`</sup>
-	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
-	- `MDY` [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
-	- `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
-	- `MY` [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
-	- `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup>
-	- `MY` [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey)
+	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
+	
 - **Twitter**
 	- `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
 	- `MY` [harpy for Twitter](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
@@ -84,26 +78,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
 	- `Soon?`<sup>[`when?`](https://discord.com/channels/1015931589865246730/1015931590741872712/1093249016646598786)</sup> [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-- **Instagram**
-	- `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🐾`</sup>
-	- `MY` [Honista](https://t.me/Honistagram)
 - **Telegram**
-	- `MDY` [MDGram](https://play.google.com/store/apps/details?id=org.telegram.mdgram) <sup>`🐾`</sup>
-	- `MDY` [exteraGram](https://github.com/exteraSquad/exteraGram) <sup>`FOSS`</sup>
-	- `MDY` [Lilgram](https://github.com/lilchill666/LilGram) <sup>`FOSS`</sup>
-	- `MY` [Owlgram](https://owlgram.org/) <sup>`🪦`</sup>
-	- `MY` [Nekogram](https://nekogram.app/) <sup>`FOSS`</sup>
-	- `MY` [Nagram](https://github.com/NextAlone/Nagram) <sup>`FOSS`</sup>
-- **Matrix**
-	- `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`FOSS`</sup>
-- **Lemmy**
-	- `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`FOSS`</sup>
-	- `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-	- `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`FOSS`</sup>
-- **Other Messaging Apps** 
-	- `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`FOSS`</sup>, `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`FOSS`</sup>, `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
-	- `MDY` [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-	- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
+	- `MDY` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
+   
+[Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
+	-  [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
+	-  [WhatsApp](ms-windows-store://pdp/?productid=9NKSQGP7F2NH&mode=mini)
 - **Miscellaneous**
 	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
 	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
