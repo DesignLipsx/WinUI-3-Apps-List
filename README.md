@@ -76,7 +76,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
    
 ---
 
-### 📝 Notes/Reminders/Draw-Board
+###  Notes/Reminders/Draw-Board
 
 - **Notes**
 	- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
@@ -88,16 +88,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
     
 ---
 
-### 🎬 Media
+###  Media
 
-#### 🎵 Music Players
+####  Music Players
 
 - `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 - `MW` [Melosik ](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `MW` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
-#### ▶️ Video Players
+#### ▶ Video Players
 
 - `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
@@ -105,19 +105,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
 - `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
 
-#### 📺 Streaming Services
+####  Streaming Services
 
 - `MW` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 - `MW` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
-#### 🎙️ Podcast
+#### 🎙 Podcast
 
 - `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
 ---
 
-### 🌐 Browsers
+###  Browsers
 
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
@@ -127,7 +127,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 
-### 🖌️ Theming Apps
+### 🖌 Theming Apps
 
 - **Personalization**
 	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
@@ -135,7 +135,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 
-### 🎮 Games & Emulators
+###  Games & Emulators
 
 - **Games**
 	- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
@@ -143,7 +143,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 
-### 🖼️ Photo viewer 
+###  Photo viewer 
 
 - `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
 -  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
@@ -155,37 +155,37 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 
-### 🔬 Scanners
+###  Scanners
 
 - `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
 - `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 
 ---
-### 🗓️ Productivity
+###  Productivity
 
 - `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
 - `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
 
-### 📧 Email Clients
+###  Email Clients
 
 - `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 ---
-### 🈸 Translators
+###  Translators
 - `MW` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
 ---
 
-### 🤖 Artificial Intelligence (AI)
+###  Artificial Intelligence (AI)
 
 - `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
 - `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ---
 
-### 🎴 Wallpaper / Widget
+###  Wallpaper / Widget
 
 - `MW` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 
@@ -193,7 +193,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	
 ---
 
-### ⬇️ Download Managers
+###  Download Managers
 
 - **YouTube**
 	- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
@@ -212,22 +212,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 
-### 👁️‍🗨️ Accessibility
+###  Accessibility
 - `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
   
 ---
-### 🧰 System Tools
+###  System Tools
 -  [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
 ---
 
-#### 📲 Device Info/Monitors
+####  Device Info/Monitors
 -  [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 -  [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ---
-#### 🔐 Security
+####  Security
 - **2FA**
 	-  [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS) 
 - **Password/Pin Manager**
@@ -241,13 +241,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
 
 ---
-#### 🔏 Privacy
+####  Privacy
 - **File/App Encryption**
 	-  [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
 ---
 
-#### 💾 Backup
+####  Backup
 -  [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB)
 
 ---
@@ -257,7 +257,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 ---
-#### 🧩 Material Catalogs
+####  Material Catalogs
 - `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 - `MDY` [MaterialGallery android](https://github.com/NUmeroAndDev/MaterialGallery-android) <sup>`FOSS`</sup>
 - `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) <sup>`FOSS`</sup>
@@ -270,13 +270,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MY` [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
 
 ---
-## 🪢 Sources
+##  Sources
 
 - **Reddit:** [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/), [#3](https://www.reddit.com/r/androidapps/comments/utjsl2/best_material_you_applications/), [#4](https://www.reddit.com/r/androidapps/comments/rnnhhm/material_you_apps/)
 - **Telegram:** [popMODS](https://t.me/popMODS), [WSTprojects](https://t.me/WSTprojects), [WPX Projects](https://t.me/WSTprojects), [progetto materiali](https://t.me/projectmaterial), [FossDroid](https://t.me/FossDroidAndroid), [Free Softwares [Android]](https://t.me/foss_Android)
 - **Similar Lists:** [sysworx's](https://github.com/sysworx/Material-You-app-list)<sup><sup>🪦</sup></sup>, [Naverim's](https://github.com/Naverim/Material-You-app-list)<sup><sup>🪦</sup></sup>, [TeaEndsAcronyms's](https://github.com/TeaEndsAcronyms/Material-You-Apps), [misaka-13766's](https://github.com/misaka-13766/Material-You-App-Repository)
 
-## 🔧 Tools Used
+##  Tools Used
 - [✍️ StackEdit](https://stackedit.io/)
 - [📜 DocToc](https://github.com/thlorenz/doctoc)
 
