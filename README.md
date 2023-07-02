@@ -122,9 +122,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ###  Browsers
 
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
+  
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
+  
 - `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
+  
 - `MW` [Swift Browser]( )
+  
 -  [Microsoft Edge]( )
 
 ---
@@ -132,7 +136,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ###  Theming Apps
 
 - **Personalization**
+  
 	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
+   
 	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
@@ -149,10 +155,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ###  Photo viewer 
 
 - `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+  
 -  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases)
+  
 - **Tools**
+  
 	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox)
+   
 	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
+ 
 	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
 ---
@@ -160,12 +171,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ###  Scanners
 
 - `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
+  
 - `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) `💲`
 
 ---
 ###  Productivity
 
 - `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)
+  
 - `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
@@ -183,6 +196,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ###  Artificial Intelligence (AI)
 
 - `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
+  
 - `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ---
@@ -215,15 +229,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
 
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
+  
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
----
-
-###  Accessibility
-
-- `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
-- `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
-  
 ---
 
 ###  System Tools
@@ -235,37 +243,35 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ####  Device Info/Monitors
 
 - `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+  
 - `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ---
 
-####  Security
+####  Security&Privacy
 
-- **2FA**
-	- `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS) 
-
----
-####  Privacy
-
-- **File/App Encryption**
-	-  [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
-
+- `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
+  
+- `MW` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
+	
 ---
 
 ####  Backup
 
--  [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
+- `MW` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 
 ---
 
 #### 🧹 Optimizer/Cleaners
 
 -  [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+  
 -  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 ---
 
 ####  Material Catalogs
+
 - `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 ---
