@@ -18,16 +18,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ## 🏷️ Tags
 
-### 🎨 Material you Tags
+### 🎨 WinUI 3 Tags
 |Abbreviation|Mica|WinUI 3 Design|
 |:-:|:-:|:-:|
-|**`FULL`**|✔️|✔️|
-|**`FD`**|✔️|❌|
-|**`WD`**|❌|✔️|
+|**`MW`**|✔️|✔️|
+|**`MI`**|✔️|❌|
+|**`WI`**|❌|✔️|
 |**`?`**|❓|❓|
-- #### **`FULL`** - An app that follow **BOTH** WinUI 3 design and Mica Effect.
-- #### **`FD`** - An app that follow Mica Effect but not WinUI 3 design.
-- #### **`WD`** - An App that follow WinUI 3 design but not Mica Effect.
+- #### **`MW`** - An app that follow **BOTH** WinUI 3 design and Mica Effect.
+- #### **`MI`** - An app that follow Mica Effect but not WinUI 3 design.
+- #### **`WI`** - An App that follow WinUI 3 design but not Mica Effect.
 - #### **`?`** - An app that is not yet released.
 
 ### 🔖 Other tags
@@ -39,9 +39,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 
-## 🏛️   Overview
+##    Overview
 
-### 🏆   Best Implementation of WinUI 3
+###    Best Implementation of WinUI 3
 
 - [Files App](https://github.com/files-community/files)
 - [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
@@ -55,36 +55,36 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ##    Apps List
 
-### 🧑‍💻   Social Media Clients
+###    Social Media Clients
 
 - **GitHub**
-	-  [FluentHub](https://github.com/FluentHub/FluentHub)
-  	-  [JitHub](https://github.com/JitHubApp/JitHubV2)
+	- `MW` [FluentHub](https://github.com/FluentHub/FluentHub)
+  	- `MW` [JitHub](https://github.com/JitHubApp/JitHubV2)
 - **Reddit**
 	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
- 	-  [Carpeddit](https://github.com/itsWindows11/Carpeddit)
+ 	- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 - **Telegram**
-	-  [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
+	- `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
 - **Twitter**
-	-  [Bluesky](https://bsky.app/profile/firecube.bsky.social)
+	- `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
 - **WhatsApp**
-	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
+	- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
 - **Spotify**
-	-  [Wavee](https://github.com/christosk92/Wavee)
+	- `MW` [Wavee](https://github.com/christosk92/Wavee)
 - **Youtube**
-	-  [Wavee](https://github.com/christosk92/Wavee)
+	- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
    
 ---
 
 ### 📝 Notes/Reminders/Draw-Board
 
 - **Notes**
-	-  [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
- 	-  [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
+	- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
+ 	- `MW` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
 - **Reminders**
-	-  [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)	
+	- `MW` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)	
 - **Draw Board**
-	-   [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
+	- `MW` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
 ---
 
@@ -92,37 +92,37 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🎵 Music Players
 
--  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
--  [Screenbox](https://github.com/huynhsontung/Screenbox/)
--  [Melosik ](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
--  [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
+- `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+- `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
+- `MW` [Melosik ](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
+- `MW` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
 #### ▶️ Video Players
 
--  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
--  [Screenbox](https://github.com/huynhsontung/Screenbox/)
+- `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+- `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 
 ####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
--  [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
+- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
 
 #### 📺 Streaming Services
 
--  [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
+- `MW` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
--  [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
+- `MW` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 #### 🎙️ Podcast
 
--  [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
+- `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
 ---
 
 ### 🌐 Browsers
 
--  [Yttrium](https://github.com/muznyo/Yttrium)
--  [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
--  [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
--  [Swift Browser]( )
+- `MW` [Yttrium](https://github.com/muznyo/Yttrium)
+- `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
+- `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
+- `MW` [Swift Browser]( )
 -  [Microsoft Edge]( )
 
 ---
@@ -130,90 +130,78 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🖌️ Theming Apps
 
 - **Personalization**
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)
+	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
+	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
 
 ### 🎮 Games & Emulators
 
 - **Games**
-	-  [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
-    	-  [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
+	- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
+    	- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ---
 
 ### 🖼️ Photo viewer 
 
--  [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
+- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
 -  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
 
 - **Tools**
-	-  [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	-  [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
-	-  [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
+	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
+	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
 ---
 
 ### 🔬 Scanners
 
--  [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
--  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
+- `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
+- `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 
 ---
 ### 🗓️ Productivity
 
--  [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
--  [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
+- `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
+- `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
 
 ### 📧 Email Clients
 
--  [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 ---
 ### 🈸 Translators
--  [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+- `MW` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
 ---
 
 ### 🤖 Artificial Intelligence (AI)
 
--  [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
--  [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
-
----
-
-### ⏱️ Clock/Timer
-
-- `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
-- `MDY` [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) <sup>`FOSS`</sup>
+- `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
+- `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ---
 
 ### 🎴 Wallpaper / Widget
 
-- **Wallpaper**
-	-  [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
-	-  [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
+- `MW` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 
-- **Widgets/Shortcuts**
-	-  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
-	-  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
-
-
+-  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+	
 ---
 
 ### ⬇️ Download Managers
 
 - **YouTube**
-	-  [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
-	-  [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+	- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
+	- `MW` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
 - **Instagram**
-	-  [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
+	- `MW` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
 - **Torrenting**
-	-   [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
+	- `MW` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
 ---
 
