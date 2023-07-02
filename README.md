@@ -16,7 +16,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🏛️   Overview
 ### 🏆   Best Implementation of WinUI 3
-- [Files](https://github.com/files-community/files)
+- [Files App](https://github.com/files-community/files)
 - [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
