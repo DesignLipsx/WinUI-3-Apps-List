@@ -34,10 +34,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 |**<sup>`📆 Planned`</sup>**|<strong>Apps that in development</strong>|
 |**<sup>`🗑️ Discontinued`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
 
-##    Overview
+## Overview
 
 
-###    Best Implementation of WinUI 3
+###  Best Implementation of WinUI 3
 
 - `MW` [Files App](https://github.com/files-community/files)
 - `MW` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
