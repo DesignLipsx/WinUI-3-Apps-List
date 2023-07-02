@@ -63,6 +63,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 ####  Telegram
 - `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
+####  Discord
+- `MW` [Discord-mica](https://github.com/mazOnGitHub/discord-mica)
 ####  Twitter
 - `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
 ####  WhatsApp
@@ -135,6 +137,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	
 ------------
 
+###  Browser
+
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
 - `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
@@ -161,14 +165,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💲`  
 - `MW` [Barcoder - Easy Barcode Generator](https://apps.microsoft.com/store/detail/barcoder-easy-barcode-generator/9N4JLMD75QGZ) `💲`  
 - `MW` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
-- `MW` [Swift Browser]()
-
-------------
-
-###  Games
-
-- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
-- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ------------
 
@@ -178,27 +174,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 - `MW` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `MW` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
-
-###  Email Clients
-
-------------
-
-- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
-
-------------
-
-###  Translators
-
-- `MW` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-
-------------
-
-###  Artificial Intelligence (AI)
-
-------------
-
-- `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)  
-- `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+- `MW` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
+- `MW` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 
 ------------
 
@@ -213,6 +190,35 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
 - `MW` [Tabbed™️](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
 - `MW` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
+
+------------
+
+###  Artificial Intelligence (AI)
+
+------------
+
+- `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)  
+- `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+- `MW` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T))
+
+------------
+
+###  Games
+
+- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
+- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
+
+------------
+
+###  Email Clients
+
+- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+
+------------
+
+###  Translators
+
+- `MW` [Translate](https://t.co/Tz9BoDKVlM)
 
 ------------
 
