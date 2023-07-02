@@ -60,32 +60,29 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [JitHub](https://github.com/JitHubApp/JitHubV2)  	  
 ####  Reddit
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
-- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)    
+- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 ####  Telegram
-- `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)   
+- [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Twitter
 - `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
 ####  WhatsApp
-- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
+- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 ####  Spotify
 - `MW` [Wavee](https://github.com/christosk92/Wavee)
 ####  Youtube
-- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
+- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 ------------
 
 ###  Notes/Reminders/Draw-Board
 
-- **Notes**
-	- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
-   
-   	- `MW` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
-   	  
-- **Reminders**
-	- `MW` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
-   
-- **Draw Board**
-	- `MW` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
+####  Notes
+- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
+- `MW` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
+####  Reminders
+- `MW` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
+####  Draw Board
+- `MW` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
 ------------
 
@@ -106,48 +103,44 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ####  Streaming Services
 
 - `MW` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
-
 - `MW` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 ####  Podcast
 
 - `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
-###  Browsers
-
 ------------
 
+###  Browsers
+
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
-  
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
-  
 - `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
-  
 - `MW` [Swift Browser]( )
-  
 -  [Microsoft Edge]( )
 
 ###  Theming Apps
 
 ------------
 
-- **Personalization**
+####  Personalization
   
-	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
+- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
    
-	- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
-
-###  Games
+- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ------------
+
+###  Games
 
 - `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
    
 - `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
+------------
+
 ###  Photo viewer 
 
-------------
 
 - `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
   
@@ -161,17 +154,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
  
 	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
-###  Scanner
-
 ------------
+
+###  Scanner
 
 - `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
   
 - `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) `💲`
 
-###  Productivity
-
 ------------
+
+###  Productivity
 
 - `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)
   
@@ -183,11 +176,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
-###  Translators
-
 ------------
 
+###  Translators
+
 - `MW` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+
+------------
 
 ###  Artificial Intelligence (AI)
 
@@ -197,6 +192,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
   
 - `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
+------------
+
 ###  Wallpaper / Widget
 
 ------------
@@ -205,9 +202,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 -  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
 
-###  Download Managers
-
 ------------
+
+###  Download Managers
 
 - **YouTube**
 	- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
@@ -222,17 +219,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
   
 	- `MW` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
-### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
-
 ------------
+
+### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
 
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
   
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
-###  System Tools
-
 ------------
+
+###  System Tools
 
 - `MW` [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
@@ -244,31 +241,32 @@ This list is solely a compilation of apps that adopt the Material You design gui
   
 - `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
+------------
+
 ####  Security&Privacy
 
-------------
 
 - `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
   
 - `MW` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
-####  Backup
-
 ------------
+
+####  Backup
 
 - `MW` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 
-#### 🧹 Optimizer/Cleaners
-
 ------------
+
+#### 🧹 Optimizer/Cleaners
 
 -  [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
   
 -  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
-####  Material Catalogs
-
 ------------
+
+####  Material Catalogs
 
 - `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
