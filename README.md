@@ -11,7 +11,7 @@
 ### 📋   Disclaimer
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 
-- 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
+- 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
 ## 🏛️   Overview
@@ -29,41 +29,39 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **GitHub**
 	-  [FluentHub](https://github.com/FluentHub/FluentHub)
   	-  [JitHub](https://github.com/JitHubApp/JitHubV2)
-
 - **Reddit**
 	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
  	-  [Carpeddit](https://github.com/itsWindows11/Carpeddit)
-
 - **Telegram**
 	-  [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
-
  - **WhatsApp**
-	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
- -  
+	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
  - **Spotify**
+	-  [Wavee](https://github.com/christosk92/Wavee)
+ - **Youtube**
 	-  [Wavee](https://github.com/christosk92/Wavee)
    
 ---
 ### 📝 Notes/Reminders/Draw-Board
 - **Notes**
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)
- 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
-
+	-  [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
+ 	-  [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
 - **Reminders**
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)
-	
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)	
 - **Draw Board**
 	-   [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
- 
+    
 ---
 ### 🎬 Media
 
 #### 🎵 Music Players
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 -  [Screenbox](https://github.com/huynhsontung/Screenbox/)
+-  [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
 #### ▶️ Video Players
-- [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+-  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+-  [Screenbox](https://github.com/huynhsontung/Screenbox/)
 
 ####  <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube Clients
 -  [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
@@ -100,8 +98,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🎮 Games & Emulators
 - **Games**
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)
-    	-  [JustNotes](https://github.com/jjewuz/JustNotes)
+	-  [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
+    	-  [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ---
 ### 🖼️ Gallery
@@ -119,7 +117,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔬 Scanners
-- `MDY` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`FOSS`</sup>
+- `MDY` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
 - `MDY` [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 
@@ -152,8 +150,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 📧 Email Clients
-- `MDY` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
-- `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
+-  [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 ---
 ### 🈸 Translators
