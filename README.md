@@ -62,7 +62,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
 - `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 ####  Telegram
-- [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
+- `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Twitter
 - `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
 ####  WhatsApp
@@ -116,8 +116,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
 - `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
-- `MW` [Swift Browser]( )
--  [Microsoft Edge]( )
+- `MW` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser)
+-  [Microsoft Edge](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 
 ###  Theming Apps
 
@@ -125,49 +125,41 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ####  Personalization
   
-- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
-   
+- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)   
 - `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ------------
 
 ###  Games
 
-- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
-   
+- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ------------
 
-###  Photo viewer 
+###  Photo viewer
 
-
-- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
-  
+- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)  
 -  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases)
   
 - **Tools**
   
-	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox)
-   
-	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie)
- 
+	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox)   
+	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) 
 	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
 ------------
 
 ###  Scanner
 
-- `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
-  
+- `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`  
 - `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) `💲`
 
 ------------
 
 ###  Productivity
 
-- `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)
-  
+- `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ###  Email Clients
