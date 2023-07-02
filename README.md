@@ -26,6 +26,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ##    Apps List
 ### 🧑‍💻   Social Media Clients
+- **GitHub**
+	-  [GitHub](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
+
 - **Reddit**
 	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
 
