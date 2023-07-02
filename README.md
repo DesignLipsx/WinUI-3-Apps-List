@@ -14,8 +14,41 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
+
+
+## 🏷️ Tags
+
+### 🎨 Material you Tags
+|Abbreviation|WinUI 3|WinUI 3 Design|
+|:-:|:-:|:-:|
+|**`FULL`**|✔️|✔️|
+|**`FD`**|✔️|❌|
+|**`FD`**||❌
+|**`?`**|❓|❓|
+- #### **`FULL`** - An app that follow **BOTH** WinUI 3 design and Mica Effect.
+- #### **`FD`** - An app that follow Mica Effect but not WinUI 3 design.
+- #### **`MD`** - An App that follow material 3 design but not dynamic colouring.
+- #### **`?`** - An app that is not yet released.
+
+### 🔖 Other tags
+|Abbreviation|Definition|
+|:-:|--|
+|**<sup>`☕`</sup>**|<strong> apps that i personally use!</strong>|
+|**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
+|**<sup>`#️⃣`</sup>**|<strong>Apps that require root!</strong> <sup><a  href="https://en.wikipedia.org/w/index.php?title=Rooting_(Android)&oldid=1161953097">`Definition`</a></sup>|
+|**<sup>`🧩`</sup>**|<strong>Apps that require the Xposed framework!</strong> <sup><a  href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`Definition`</a></sup>|
+|**<sup>`🧋FOSS`</sup>** | <strong> open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
+|**<sup>`Modded`</sup>** |<strong> modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
+|**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
+|**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
+|**<sup>`📆 Planned`</sup>**|<strong>Apps that haven't been released but has a planned date</strong>|
+
+---
+
 ## 🏛️   Overview
+
 ### 🏆   Best Implementation of WinUI 3
+
 - [Files App](https://github.com/files-community/files)
 - [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
@@ -25,8 +58,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
 ---
+
 ##    Apps List
+
 ### 🧑‍💻   Social Media Clients
+
 - **GitHub**
 	-  [FluentHub](https://github.com/FluentHub/FluentHub)
   	-  [JitHub](https://github.com/JitHubApp/JitHubV2)
@@ -45,7 +81,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  [Wavee](https://github.com/christosk92/Wavee)
    
 ---
+
 ### 📝 Notes/Reminders/Draw-Board
+
 - **Notes**
 	-  [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
  	-  [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
@@ -55,15 +93,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-   [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
 ---
+
 ### 🎬 Media
 
 #### 🎵 Music Players
+
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 -  [Screenbox](https://github.com/huynhsontung/Screenbox/)
 -  [Melosik ](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 -  [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
 #### ▶️ Video Players
+
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 -  [Screenbox](https://github.com/huynhsontung/Screenbox/)
 
@@ -71,15 +112,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
 
 #### 📺 Streaming Services
+
 -  [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 -  [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 #### 🎙️ Podcast
+
 -  [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
 ---
+
 ### 🌐 Browsers
+
 -  [Yttrium](https://github.com/muznyo/Yttrium)
 -  [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
 -  [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
@@ -87,6 +132,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [Microsoft Edge]( )
 
 ---
+
 ### 🖌️ Theming Apps
 
 - **Personalization**
@@ -94,13 +140,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
+
 ### 🎮 Games & Emulators
+
 - **Games**
 	-  [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
     	-  [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ---
+
 ### 🖼️ Photo viewer 
+
 -  [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
 -  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
 
@@ -110,29 +160,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
 ---
+
 ### 🔬 Scanners
+
 -  [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
 -  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 
 ---
 ### 🗓️ Productivity
+
 -  [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
-- `MDY` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
+-  [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
 
-### 🎙️ Audio Recorder
-- `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
-- `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
-
----
-
-### 🗺️ Maps/Navigation
-- `MDY` [BTC Map](https://github.com/teambtcmap/btcmap-android) <sup>`FOSS`</sup>
-- `MDY` [Mulciber](https://play.google.com/store/apps/details?id=it.mirko.bus)
-
----
 ### 📧 Email Clients
+
 -  [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 ---
@@ -140,17 +183,23 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
 ---
+
 ### 🤖 Artificial Intelligence (AI)
+
 -  [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
 -  [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ---
+
 ### ⏱️ Clock/Timer
+
 - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
 - `MDY` [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) <sup>`FOSS`</sup>
 
 ---
-### 🎴 Wallpaper / Widget	
+
+### 🎴 Wallpaper / Widget
+
 - **Wallpaper**
 	-  [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 	-  [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
@@ -161,7 +210,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 
 ---
+
 ### ⬇️ Download Managers
+
 - **YouTube**
 	-  [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	-  [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
@@ -171,11 +222,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-   [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
 ---
+
 ### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
+
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) <sup>`🐾`</sup>
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
 ---
+
 ### 👁️‍🗨️ Accessibility
 - `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
@@ -183,25 +237,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🧰 System Tools
 -  [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
-
----
-
-#### #️⃣ SuperUser
-- **Magisk Manager**
-	- `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [Magisk Delta Monet](https://github.com/HuskyDG/magisk-files) <sup>`FOSS`</sup>
-- **Module Managers**
-	- `MDY` [Mrepo](https://github.com/ya0211/MRepo) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [FoxMMM](https://github.com/Androidacy/MagiskModuleManager) <sup>`FOSS`</sup>
-- **Magisk Detector**
-	- `MDY` [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) <sup>`FOSS`</sup>, [Ruru](https://github.com/byxiaorun/Ruru) <sup>`FOSS`</sup>
-- **Modules**
-	- [Monet-All](https://monet.jerryz.com.cn/en/) <sup>`FOSS`</sup> <sup>[`Material You for unsupported apps`](https://monet.jerryz.com.cn/en/guide/apps)</sup> <sup>`⚠️ Use with caution!`</sup>
-- **Miscellaneous**
-	- `MDY` [Shizuku](https://github.com/RikkaApps/Shizuku) <sup>`FOSS`</sup>
-	- `MDY` [LSPosed](https://github.com/LSPosed/LSPosed) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [LSPatch](https://github.com/LSPosed/LSPatch) <sup>`FOSS`</sup>
-	- `MDY` [KernelSU](https://github.com/tiann/KernelSU/) <sup>`FOSS`</sup>
 
 ---
 
