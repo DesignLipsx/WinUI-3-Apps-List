@@ -7,15 +7,15 @@
 <p align="center">
   
 ---
-##   📜 Table Of Contents
-- [📋   Disclaimer](#-disclaimer)
-- [🏢   Hall Of Fame](#%EF%B8%8F-hall-of-fame)
-	- [🎖️   Best Implementation of WinUI 3](#-best-implementation-of-WinUI-3)
+##   📋 Table Of Contents
+- [📑   Disclaimer](#-disclaimer)
+- [🏛️   Hall Of Fame](#%EF%B8%8F-hall-of-fame)
+	- [🎖️  Best Implementation of WinUI 3](#-best-implementation-of-WinUI-3)
 - [💻   Known apps](#known-apps)
 	- [🌏   Browsers](#-browsers)
 	- [🎨   Theming Apps](#%EF%B8%8F-theming-apps)
 	- [🌥️   Weather](#%EF%B8%8F-weather)
-	- [🌄   Gallery](#%EF%B8%8F-gallery)
+	- [🛤️   Gallery](#%EF%B8%8F-gallery)		
 	- [📅   Calendar](#%EF%B8%8F-calendar)
 	- [📞   Communication](#-communication)
 	- [🗺️   Maps/Navigation](#%EF%B8%8F-mapsnavigation)
@@ -24,50 +24,42 @@
 	- [🤖   Artificial Intelligence](#-artificial-intelligence-ai)
 	- [⏰   Clock/Timer](#%EF%B8%8F-clocktimer)
 	- [🎴   Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
-	- <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="17" /></a> [Other Windows Apps](#-other-google-apps)
-	- [🧰 System Tools](#-system-tools)
-		- [📁 File Explorers](#-file-explorers)
-		- [🛍️ App Stores](#%EF%B8%8F-app-stores)
-		- [#️⃣ SuperUser](#%EF%B8%8F%E2%83%A3-superuser)
-		- [🔦 Flashlight](#-flashlight)
-		- [📲 Device Info/Monitors](#-device-infomonitors)
-		- [🔐 Security](#-security)
-		- [🔏 Privacy](#-privacy)
-		- [📦 App Managers](#-app-managers)
-		- [💾 Backup](#-backup)
-		- [👋 Gesture Control](#-gesture-control)
-		- [🕹️ Device Automation](#%EF%B8%8F-device-automation)
-		- [🧹 Optimizer/Cleaners](#-optimizercleaners)
-		- [🧩 Material Catalogs](#-material-catalogs)
-	- [🔧 Miscellaneous Apps](#-miscellaneous-apps)
-- [🪢 Sources](#-sources)
-- [🔧 Tools Used](#-tools-used)
-- [😼 Author](#-author)
+	- 🪟  </a> [Other Windows Apps](#-other-windows-apps)
+	- [🛠️   System Tools](#-system-tools)
+		- [📁   File Explorers](#-file-explorers)
+		- [💻   Device Info/Monitors](#-device-infomonitors)
+		- [🔐   Security](#-security)
+		- [🔏   Privacy](#-privacy)
+		- [🗃️   Backup](#-backup)
+		- [🧹   Optimizer/Cleaners](#-optimizercleaners)
+		- [🧩   Material Catalogs](#-material-catalogs)
+	- [🔧   Miscellaneous Apps](#-miscellaneous-apps)
+- [🪢   Sources](#-sources)
+- [🔧   Tools Used](#-tools-used)
+- [😼   Author](#-author)
 
 ---
-### 📋 Disclaimer
+### 📋   Disclaimer
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 
-- ⛔ Some indicators might be wrong as I interpreted if they're MD/MY/MDY or not by the screenshots. Please report wrong indicators.  
-- ⚠️ Some apps might require additional setup in order to achieve MY theming.  
 - 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
-## 🏛️ Hall Of Fame
-### 🏆 Best Implementation of WinUI 3
-- [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
+## 🏛️   Hall Of Fame
+### 🏆   Best Implementation of WinUI 3
 - [Files](https://github.com/files-community/files)
+- [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 - [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+<sub>[📋Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ## 💻   Known apps
-### 👥 Social Media Clients
+### 🧑‍💻   Social Media Clients
 - **Reddit**
 	- `MDY` [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`🐾`</sup>
 	- `MDY` [FatBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit)
@@ -740,7 +732,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
-### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Google Apps
+### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) <sup>`🐾`</sup>
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 - `MDY` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
