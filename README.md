@@ -36,43 +36,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
    
 ---
-### 📝 Notes/To-do/Wish-lists
+### 📝 Notes/Reminders/Draw-Board
 - **Notes**
-	- `MDY` [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) <sup>`🐾`</sup>
-	- `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup>
-	- `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) 
-	- `MDY` [Saber](https://github.com/adil192/saber) <sup>`FOSS`</sup>
-	- `MDY` [Firenote](https://github.com/T8RIN/Firenote) <sup>`FOSS`</sup>
-	- `MDY` [MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) <sup>`FOSS`</sup>
+	-  [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) <sup>`🐾`</sup>
+	-  [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup>
 
-- **Diary/Journal**
-	- `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
-	- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`FOSS`</sup>
-- **Wish-lists**
-	- `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 - **Reminders**
 	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
-	- `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) <sup>`FOSS`</sup>
-	- `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
-	- `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme) <sup>`FOSS`</sup>
-	- `MY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
+	
 - **Draw Board**
-	- `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`FOSS`</sup>
-- **Miscellaneous**
-	- `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
-	- `MDY` [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
-	- `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
-	- `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
-	- `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
-	- `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`FOSS`</sup>
-	- `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`FOSS`</sup>
-	- `MD` [Projman](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
-	- `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`FOSS`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
+	-   [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw)
+ 
 ---
 ### 🎬 Media
+
 #### 🎵 Music Players
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 -  [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
@@ -168,8 +145,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) <sup>`FOSS`</sup>
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
 ---
 ### 🈸 Translators
 - `MDY` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
@@ -182,14 +157,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
 - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
 ---
 ### ⏱️ Clock/Timer
 - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
 - `MDY` [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) <sup>`FOSS`</sup>
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ### 🎴 Icons / Wallpaper / Widgets
@@ -206,7 +178,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	- `MDY` [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) <sup>`💰`</sup>
 	- `MDY` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) <sup>`💰`</sup>
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ### ⬇️ Download Managers
@@ -223,48 +194,27 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Miscellaneous**
 	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
 ---
 ### 🧮 Calculators/Unit Convertors
 - `MDY` [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`FOSS`</sup>
 - `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) <sup>`FOSS`</sup>, `MDY` [zCalc (fork)](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup>
 - `MDY` [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
+  
 ---
 ### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) <sup>`🐾`</sup>
 - `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
 ---
 ### 👁️‍🗨️ Accessibility
 - `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
 - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
+  
 ---
 ### 🧰 System Tools
 
 #### 📁 File Explorers
-- `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) <sup>`FOSS`</sup>
-- `MDY` [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>`FOSS`</sup>
-- `MDY` [Root Explorer](https://t.me/projectmaterial/880) <sup>`MOD`</sup>
-- `MDY` [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`FOSS`</sup>
-- `MDY` [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
-- `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer) <sup>`💰`</sup>
-- `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`🐾`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator)`OR`[`#2`](https://github.com/jamal2362/Monet-Generator)</sup>
-- `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
-- **File Transfer**
-	- `MDY` [LocalSend](https://github.com/localsend/localsend) <sup>`FOSS`</sup>
-	- `MD` [Photon](https://github.com/abhi16180/photon) <sup>`FOSS`</sup>
-	- `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`FOSS`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+-  [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
 ---
 
