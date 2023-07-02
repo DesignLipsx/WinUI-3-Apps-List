@@ -31,7 +31,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
 |**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup|
 |**<sup>`📆 Planned`</sup>**|<strong>Apps that in development</strong>|
-|**<sup>`🗑️`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
+|**<sup>`🗑️ Discontinued`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
 
 ##    Overview
 
