@@ -89,7 +89,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🖌️ Theming Apps
 
-- **SystemUI**
+- **Personalization**
 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
@@ -111,12 +111,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🔬 Scanners
-- `MDY` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
-- `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
+-  [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T)
+-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
 
 ---
-### 🗓️ Calendar
-- `MDY` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
+### 🗓️ Productivity
+-  [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
 - `MDY` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
@@ -138,8 +138,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ### 🈸 Translators
 -  [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-
-
 
 ---
 ### 🤖 Artificial Intelligence (AI)
@@ -164,8 +162,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### ⬇️ Download Managers
-- **Full-Featured Download Manager**
-	-  [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
 - **YouTube**
 	-  [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	-  [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
@@ -174,12 +170,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Torrenting**
 	-   [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
----
-### 🧮 Calculators/Unit Convertors
-- `MDY` [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`FOSS`</sup>
-- `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) <sup>`FOSS`</sup>, `MDY` [zCalc (fork)](https://github.com/ziadOUA/zCalc) <sup>`FOSS`</sup>
-- `MDY` [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
-  
 ---
 ### <a href="https://imgbb.com/"><img src="https://i.ibb.co/FswwgBr/2504914.png" alt="2504914" width="20" /></a> Other Windows Apps
 - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) <sup>`🐾`</sup>
@@ -192,8 +182,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
   
 ---
 ### 🧰 System Tools
-
-#### 📁 File Explorers
 -  [Modern Winver](https://apps.microsoft.com/store/detail/modern-winver/9ND14WHFRGSX?hl=en-us&gl=us)
 
 ---
