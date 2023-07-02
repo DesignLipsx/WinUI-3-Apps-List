@@ -92,7 +92,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
-- `MW` [Melosik ](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
+- `MW` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `MW` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
 ####  Video Players
@@ -119,14 +119,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser)
 -  [Microsoft Edge](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 
-###  Theming Apps
-
 ------------
 
-####  Personalization
+###  Utilities
   
-- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)   
-- `MW` [JustNotes](https://github.com/jjewuz/JustNotes)
+- `MW` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
+- `MW` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
+- `MW` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
+- `MW` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
+- `MW` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
+- `MW` [Wintoys]()
+- `MW` [Wintoys]()
+- `MW` [Wintoys]()
+- `MW` [Wintoys]()
 
 ------------
 
@@ -160,7 +165,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ###  Productivity
 
 - `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
-- `MW` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
+- `MW` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 
 ###  Email Clients
 
