@@ -113,6 +113,28 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
+###  Photo viewer
+
+- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)  
+-  [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
+  
+- **Tools**
+  
+	- `MW` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
+
+------------
+
+###  Pdf viewer
+
+- `MW` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)
+  
+- **Tools**
+  
+	- `MW` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
+	- `MW` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
+	
+------------
+
 - `MW` [Yttrium](https://github.com/muznyo/Yttrium)
 - `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
 - `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
@@ -128,10 +150,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
 - `MW` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
 - `MW` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
-- `MW` [Wintoys]()
-- `MW` [Wintoys]()
-- `MW` [Wintoys]()
-- `MW` [Wintoys]()
+- `MW` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
+- `MW` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
+- `MW` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
+- `MW` [Swift Browser]()
+- `MW` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💲`  
+- `MW` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💲`  
+- `MW` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💲`  
+- `MW` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💲`  
+- `MW` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💲`  
+- `MW` [Barcoder - Easy Barcode Generator](https://apps.microsoft.com/store/detail/barcoder-easy-barcode-generator/9N4JLMD75QGZ) `💲`  
+- `MW` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
+- `MW` [Swift Browser]()
 
 ------------
 
@@ -142,30 +172,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-###  Photo viewer
-
-- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)  
--  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases)
-  
-- **Tools**
-  
-	- `MW` [Image Toolbox](https://github.com/T8RIN/ImageToolbox)   
-	- `MW` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) 
-	- `MW` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
-
-------------
-
-###  Scanner
-
-- `MW` [QRCoder](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`  
-- `MW` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) `💲`
-
-------------
-
 ###  Productivity
 
 - `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `MW` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
+- `MW` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
+- `MW` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
 
 ###  Email Clients
 
@@ -185,19 +197,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-- `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
-  
+- `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)  
 - `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ------------
 
-###  Wallpaper / Widget
+###  Personalize
 
 ------------
 
 - `MW` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
-
 -  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+- `MW` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`  
+- `MW` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`  
+- `MW` [Wintoys]()
 
 ------------
 
