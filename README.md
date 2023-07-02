@@ -244,15 +244,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ####  Device Info/Monitors
 
-------------
-
 - `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
 - `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ------------
 
 ####  Security&Privacy
-
 
 - `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
 - `MW` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
