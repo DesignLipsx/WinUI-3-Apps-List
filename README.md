@@ -7,38 +7,7 @@
 <p align="center">
   
 ---
-##   📋 Table Of Contents
-- [📑   Disclaimer](#-disclaimer)
-- [🏛️   Hall Of Fame](#%EF%B8%8F-hall-of-fame)
-	- [🎖️  Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
-- [💻   Known apps](#known-apps)
-	- [🌏   Browsers](#-browsers)
-	- [🎨   Theming Apps](#%EF%B8%8F-theming-apps)
-	- [🌥️   Weather](#%EF%B8%8F-weather)
-	- [🛤️   Gallery](#%EF%B8%8F-gallery)		
-	- [📅   Calendar](#%EF%B8%8F-calendar)
-	- [📞   Communication](#-communication)
-	- [🗺️   Maps/Navigation](#%EF%B8%8F-mapsnavigation)
-	- [📧   Email Clients](#-email-clients)
-	- [🈸   Translators](#-translators)
-	- [🤖   Artificial Intelligence](#-artificial-intelligence-ai)
-	- [⏰   Clock/Timer](#%EF%B8%8F-clocktimer)
-	- [🎴   Icons / Wallpaper / Widgets](#-icons--wallpaper--widgets)
-	- 🪟  </a> [Other Windows Apps](#-other-windows-apps)
-	- [🛠️   System Tools](#-system-tools)
-		- [📁   File Explorers](#-file-explorers)
-		- [💻   Device Info/Monitors](#-device-infomonitors)
-		- [🔐   Security](#-security)
-		- [🔏   Privacy](#-privacy)
-		- [🗃️   Backup](#-backup)
-		- [🧹   Optimizer/Cleaners](#-optimizercleaners)
-		- [🧩   Material Catalogs](#-material-catalogs)
-	- [🔧   Miscellaneous Apps](#-miscellaneous-apps)
-- [🪢   Sources](#-sources)
-- [🔧   Tools Used](#-tools-used)
-- [😼   Author](#-author)
 
----
 ### 📋   Disclaimer
 This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
 
@@ -53,11 +22,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 - [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
-  
-<sub>[📋Table Of Contents](#-table-of-contents)</sub>
 
 ---
-## 💻   Known apps
+## 💻   Apps List
 ### 🧑‍💻   Social Media Clients
 - **Reddit**
 	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
