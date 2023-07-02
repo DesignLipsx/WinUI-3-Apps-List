@@ -17,6 +17,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🏛️   Overview
 ### 🏆   Best Implementation of WinUI 3
 - [Files App](https://github.com/files-community/files)
+- [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
@@ -34,11 +35,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
  	-  [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 - **Telegram**
 	-  [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
- - **WhatsApp**
+- **Twitter**
+	-  [Bluesky](https://bsky.app/profile/firecube.bsky.social)
+- **WhatsApp**
 	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)    
- - **Spotify**
+- **Spotify**
 	-  [Wavee](https://github.com/christosk92/Wavee)
- - **Youtube**
+- **Youtube**
 	-  [Wavee](https://github.com/christosk92/Wavee)
    
 ---
@@ -104,7 +107,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Tools**
 	-  [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
 	-  [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
-	- `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
+	-  [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
 
 ---
 ### 🔬 Scanners
@@ -117,17 +120,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [MotoCalendar](https://t.me/DroidRepo/245) <sup>`PORT`</sup>
 
 ---
-### 📞 Communication
-- **Contacts**
-	- `MDY` [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>`FOSS`</sup>
-	- `MDY` [Connect You](https://github.com/Bnyro/ConnectYou) <sup>`FOSS`</sup>
-	- `MDY` [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts) <sup>`🐾`</sup>
-- **SMS Messenger**
-	- `MDY` [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`FOSS`</sup>
-	- `MDY` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) <sup>`🐾`</sup>
-	- `MDY` [MotoMessage](https://www.pling.com/p/1884299/) <sup>`PORT`</sup>
 
----
 ### 🎙️ Audio Recorder
 - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
@@ -144,9 +137,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🈸 Translators
-- `MDY` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+-  [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+
 
 ---
 ### 🤖 Artificial Intelligence (AI)
@@ -157,7 +150,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### ⏱️ Clock/Timer
 - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
 - `MDY` [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) <sup>`FOSS`</sup>
-
 
 ---
 ### 🎴 Wallpaper / Widget	
