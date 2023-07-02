@@ -19,14 +19,17 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.*
 
 ### ➡️ Abbreviations
-- #### Difference between MD, MY, MDY
+
+- **Difference between MD, MY, MDY**
+
 |Abbreviation|Meaning|Mica|WinUI 3 Design|
 |:-:|:-:|:-:|:-:|
 |**`MW`**|Apps that have both WinUI 3 design and Mica Effect|✔️|✔️|
 |**`MI`**|Apps that follow Mica Design|✔️|❌|
 |**`WI`**|Apps that follow WinUI 3 Design|❌|✔️|
 
-- #### Other abbreviations
+- **Other abbreviations**
+
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
