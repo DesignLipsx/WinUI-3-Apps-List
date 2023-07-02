@@ -5,11 +5,14 @@
   <img src="https://drive.google.com/uc?export=download&id=1odA5Y0hN-B2hyJkjFgBWcS1d-eVRpReP">
 </p>
 <p align="center">
-  
+  <p align="center">
+  <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
+</p>
+
 ---
 
 ### 📋   Disclaimer
-This list is solely a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow MD3 guidelines.
+This list is solely a compilation of apps that adopt the WinUI 3 Design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow WinUI 3 Design guidelines.
 
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.*
 
