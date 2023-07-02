@@ -91,29 +91,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
-### 🌦️ Weather
-	-  [JustNotes](https://github.com/jjewuz/JustNotes)
- 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
-
----
 ### 🎮 Games & Emulators
 - **Games**
 	-  [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
     	-  [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ---
-### 🖼️ Gallery
-- `MDY` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
-- `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
+### 🖼️ Photo viewer 
+-  [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
+-  [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
 
 - **Tools**
-	- `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
+	-  [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	-  [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
 	- `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
-	- `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
-	- `MDY` [SnapSeed](https://t.me/waifupx_official) <sup>`MOD`</sup>
-	- `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`FOSS`</sup>
-	- `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 ---
 ### 🔬 Scanners
@@ -169,35 +160,27 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 
 ---
-### 🎴 Icons / Wallpaper / Widgets
-- **Icons**
-	- `MDY` [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons)
-	- `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
-	- `MDY` [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) <sup>`💰`</sup>
-	
+### 🎴 Wallpaper / Widget	
 - **Wallpaper**
-	- `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
-	- `MDY` [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
+	-  [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
+	-  [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
 
 - **Widgets/Shortcuts**
-	- `MDY` [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) <sup>`💰`</sup>
-	- `MDY` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) <sup>`💰`</sup>
+	-  [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+	-  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 
 
 ---
 ### ⬇️ Download Managers
 - **Full-Featured Download Manager**
-	- `MY` [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) <sup>`🐾`</sup>
+	-  [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
 - **YouTube**
-	- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MDY` [YTDLnis](https://github.com/deniscerri/ytdlnis) <sup>`FOSS`</sup>
-- **Spotify**
-	- `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+	-  [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
+	-  [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+- **Instagram**
+	-  [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
 - **Torrenting**
-	- `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`FOSS`</sup>
-	- `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
-- **Miscellaneous**
-	- `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
+	-   [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
 ---
 ### 🧮 Calculators/Unit Convertors
@@ -244,23 +227,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 📲 Device Info/Monitors
 -  [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
--  [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+-  [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ---
 #### 🔐 Security
 - **2FA**
-	- `MDY` [Mauth](https://github.com/X1nto/Mauth) <sup>`FOSS`</sup>
-	- `MDY` [Keyring OTP](https://gitlab.com/aorszulak/keyring) <sup>`FOSS`</sup>
-	- `MDY` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-	- `MD` [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) <sup>`FOSS`</sup>
+	-  [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS) 
 - **Password/Pin Manager**
 	- `MDY` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
-	- `MDY` [Pincredible](https://github.com/cyb3rko/pincredible) <sup>`FOSS`</sup>
-	- `MDY` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) <sup>`FOSS`</sup>
-	- `MDY` [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore)
-	- `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`FOSS`</sup>
-	- `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`FOSS`</sup>
-	- `MD` [KeySpace](https://github.com/Keyspace-cloud/android) <sup>`FOSS`</sup>
+	- `MDY` [Pincredible](https://github.com/cyb3rko/pincredible)
 - **Password Generator**
 	- `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`FOSS`</sup>
 	- `MD` [Wassword](https://github.com/polilluminato/wassword-flutter) <sup>`FOSS`</sup>
@@ -268,48 +243,21 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Firewall**
 	- `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`FOSS`</sup>
 
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
 ---
 #### 🔏 Privacy
 - **File/App Encryption**
-	- `MDY` [AstraCrypt](https://play.google.com/store/apps/details?id=com.nevidimka655.astracrypt)
-	- `MDY` [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto)
-	- `MDY` [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship)
-	- `MDY` [Confidant](https://github.com/YangDai-Github/Encryptor-Android) <sup>`FOSS`</sup>
-	- `MD` [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) <sup>`FOSS`</sup>
-- **Email Forwarding**
-	- `MDY` [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) <sup>`FOSS`</sup>
-- **Permission Managers**
-	- `MDY` [Apps Ops](https://play.google.com/store/apps/details?id=rikka.appops)
-	- `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`FOSS`</sup>
-- **Link Cleaners**
-	- `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`FOSS`</sup>
-	- `MY` [URLCheck](https://github.com/TrianguloY/UrlChecker) <sup>`FOSS`</sup>
-- **Miscellaneous**
-	- `MDY` [AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard) <sup>`FOSS`</sup>
-	- `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
-	
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+	-  [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
 ---
 
 #### 💾 Backup
-- `MDY` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`🐾`</sup>
-- `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`FOSS`</sup>
-- `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) <sup>`FOSS`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+-  [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB)
 
 ---
 
 #### 🧹 Optimizer/Cleaners
-- `MDY` [Android Enhancer](https://github.com/iamlooper/Android-Enhancer) <sup>`🐾`</sup> <sup>`#️⃣`</sup>
-- `MDY` [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) <sup>`FOSS`</sup>
-- `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs) <sup>`#️⃣`</sup>
-- `MD` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`FOSS`</sup> <sup>`🐾`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
+-  [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+-  [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 ---
 #### 🧩 Material Catalogs
@@ -323,15 +271,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
 - `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
 - `MY` [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
----
-### 🔧 Miscellaneous Apps
-- `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`FOSS`</sup>
-- `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
 ---
 ## 🪢 Sources
