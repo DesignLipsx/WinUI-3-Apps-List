@@ -14,7 +14,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - 🔗 The provided links might be from GitHub, GitLab, Play Store, F-Droid, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.
 
 ---
-## 🏛️   Hall Of Fame
+## 🏛️   Overview
 ### 🏆   Best Implementation of WinUI 3
 - [Files](https://github.com/files-community/files)
 - [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
@@ -24,67 +24,17 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
 ---
-## 💻   Apps List
+##    Apps List
 ### 🧑‍💻   Social Media Clients
 - **Reddit**
 	-  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
-	
-- **Twitter**
-	- `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
-	- `MY` [harpy for Twitter](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
-	- `MY` [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
-	- `MY` [Quacker](https://github.com/TheHCJ/Quacker) <sup>`FOSS`</sup>
-- **Mastodon**
-	- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`FOSS`</sup>
-	- `MDY` [Dimett](https://github.com/MateriiApps/Dimett) <sup>`FOSS`</sup>
-	- `MDY` [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon)
-	- `MDY` [trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
-	- `MY` [Megalodon for Mastodon](https://github.com/sk22/megalodon) <sup>`FOSS`</sup>
-- **Discord**
-	- `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
-	- `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
-	- `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`⚠️Requires Additional Setup:`[`#1`](https://github.com/MrSpidercat/Matu)`OR`[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-	- `Soon?`<sup>[`when?`](https://discord.com/channels/1015931589865246730/1015931590741872712/1093249016646598786)</sup> [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`FOSS`</sup> <sup>`🐾`</sup>
+
 - **Telegram**
-	- `MDY` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
+	-  [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q?hl=en-us&gl=us)
+
+ - **WhatsApp**
+	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
    
-[Molly](https://github.com/mollyim/mollyim-android) <sup>`FOSS`</sup>
-	-  [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite)
-	-  [WhatsApp](ms-windows-store://pdp/?productid=9NKSQGP7F2NH&mode=mini)
-- **Miscellaneous**
-	- `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`FOSS`</sup>
-	- `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) <sup>`FOSS`</sup>
-	- `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup>
-	- `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`FOSS`</sup>
-	- `MDY` [Fedilab](https://codeberg.org/tom79/Fedilab) <sup>`FOSS`</sup>
-	- `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`FOSS`</sup>
-	- `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup>
-	- `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) <sup>`FOSS`</sup>
-	- `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
-	- `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`FOSS`</sup>
-	- `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
-	- `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
-	- `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
-	- `MD` [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) <sup>`FOSS`</sup>
-	- `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
-
-<sub>[📜Table Of Contents](#-table-of-contents)</sub>
-
----
-### 📖 Readers
-- **Manga/Novel/E-book Reader**
-	- `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`FOSS`</sup>, [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`FOSS`</sup>, [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`FOSS`</sup>
-	- `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup>
-	- `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`FOSS`</sup>
-	- `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`FOSS`</sup>
-	- `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`FOSS`</sup>
-	- `MDY` [Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) <sup>`FOSS`</sup>
-	- `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) <sup>`FOSS`</sup>
-	- `MD` [IReader](https://github.com/IReaderorg/IReader) <sup>`FOSS`</sup>
-	- `MD` [LNReader](https://github.com/LNReader/lnreader) <sup>`FOSS`</sup>
-	- `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup>
-	- `MY` [Hentoid](https://github.com/h6rd/Hentoid-Material-You) <sup>`FOSS`</sup>
-	- `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 - **RSS/News Reader**
 	- `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`FOSS`</sup>
 	- `MDY` [News](https://github.com/bubelov/news) <sup>`FOSS`</sup>
@@ -142,15 +92,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>`FOSS`</sup> , `MDY` [Metro (Fork)](https://github.com/MuntashirAkon/Metro) <sup>`FOSS`</sup>
 - `MDY` [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) <sup>`🐾`</sup>
 - `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
-- `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`FOSS`</sup>
-- `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`FOSS`</sup>
-- `MDY` [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>`FOSS`</sup>
-- `MDY` [Musicmax](https://github.com/MaximillianLeonov/Musicmax) <sup>`FOSS`</sup>
-- `MDY` [Vanilla Music Player](https://play.google.com/store/apps/details?id=com.kyant.vanilla)
-- `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) <sup>`FOSS`</sup>
-- `MDY` [Mellow Music](https://github.com/SuhasDissa/MellowMusic) <sup>`FOSS`</sup>
-- `MD` [mucke](https://github.com/moritz-weber/mucke) <sup>`FOSS`</sup>
-- `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💰`</sup>
+
 #### ▶️ Video Players
 - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup> <sup>`🐾`</sup>, [VLC Media Player](https://t.me/projectmaterial/914) <sup>`MOD`</sup>
 - `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) <sup>`FOSS`</sup> <sup>`🐾`</sup>
