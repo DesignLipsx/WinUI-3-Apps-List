@@ -57,6 +57,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🎵 Music Players
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 -  [Screenbox](https://github.com/huynhsontung/Screenbox/)
+-  [Melosik ](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 -  [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
 #### ▶️ Video Players
@@ -72,8 +73,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 #### 🎙️ Podcast
--  [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
--  [AntennaPod](https://github.com/AntennaPod/AntennaPod)
+-  [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
 ---
 ### 🌐 Browsers
@@ -103,7 +103,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🖼️ Gallery
-- `MDY` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
+- `MDY` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) <sup>`🐾`</sup>
 - `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) <sup>`FOSS`</sup>
 
 - **Tools**
