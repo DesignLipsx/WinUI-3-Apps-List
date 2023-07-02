@@ -39,15 +39,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
  - **WhatsApp**
 	-  [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
+ -  
+ - **Spotify**
+	-  [Wavee](https://github.com/christosk92/Wavee)
    
 ---
 ### 📝 Notes/Reminders/Draw-Board
 - **Notes**
-	-  [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) <sup>`🐾`</sup>
-	-  [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`FOSS`</sup>
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)
+ 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
 - **Reminders**
-	- `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 	
 - **Draw Board**
 	-   [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
@@ -58,7 +61,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 #### 🎵 Music Players
 -  [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 -  [Screenbox](https://github.com/huynhsontung/Screenbox/)
--  [Auxio](https://github.com/OxygenCobalt/Auxio) <sup>`FOSS`</sup>
 
 #### ▶️ Video Players
 - [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
@@ -67,12 +69,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 -  [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4?hl=en-us&gl=us)
 
 #### 📺 Streaming Services
--  [Aniyomi](https://github.com/jmir1/aniyomi) <sup>`FOSS`</sup>
--  [CloudStream-3](https://github.com/recloudstream/cloudstream) <sup>`FOSS`</sup>
+-  [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
+
+-  [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 #### 🎙️ Podcast
 -  [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)	
--  [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`FOSS`</sup>
+-  [AntennaPod](https://github.com/AntennaPod/AntennaPod)
 
 ---
 ### 🌐 Browsers
@@ -86,19 +89,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🖌️ Theming Apps
 
 - **SystemUI**
-	- `MDY` [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`#️⃣`</sup>
-	- `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
 ### 🌦️ Weather
-- `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
-- `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)
+ 	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
 ### 🎮 Games & Emulators
 - **Games**
-	- `MDY` [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) <sup>`FOSS`</sup>
-	- `MDY` [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
+	-  [JustNotes](https://github.com/jjewuz/JustNotes)
+    	-  [JustNotes](https://github.com/jjewuz/JustNotes)
 
 ---
 ### 🖼️ Gallery
@@ -160,7 +163,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ---
 ### 🤖 Artificial Intelligence (AI)
-- `MDY` [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga)
+-  [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)
 - `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`FOSS`</sup>
 - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`FOSS`</sup>
 
