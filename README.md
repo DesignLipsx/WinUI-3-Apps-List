@@ -13,29 +13,21 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.*
 
----
-
-
-## 🏷️ Tags
-
-### 🎨 WinUI 3 Tags
-|Abbreviation|Mica|WinUI 3 Design|
-|:-:|:-:|:-:|
-|**`MW`**|✔️|✔️|
-|**`MI`**|✔️|❌|
-|**`WI`**|❌|✔️|
-|**`?`**|❓|❓|
-- #### **`MW`** - An app that follow **BOTH** WinUI 3 design and Mica Effect.
-- #### **`MI`** - An app that follow Mica Effect but not WinUI 3 design.
-- #### **`WI`** - An App that follow WinUI 3 design but not Mica Effect.
-- #### **`?`** - An app that is not yet released.
+### ➡️ Abbreviations
+- #### Difference between MD, MY, MDY
+|Abbreviation|Meaning|Mica|WinUI 3 Design|
+|:-:|:-:|:-:|:-:|
+|**`MW`**|Apps that have both WinUI 3 design and Mica Effect|✔️|✔️|
+|**`MI`**|Apps that follow Mica Design|✔️|❌|
+|**`WI`**|Apps that follow WinUI 3 Design|❌|✔️|
 
 ### 🔖 Other tags
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
 |**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup|
-|**<sup>`📆 Planned`</sup>**|<strong>Apps that haven't been released but has a planned date</strong>|
+|**<sup>`📆 Planned`</sup>**|<strong>Apps that in development</strong>|
+|**<sup>`🗑️`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
 
 ##    Overview
 
@@ -60,13 +52,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MW` [JitHub](https://github.com/JitHubApp/JitHubV2)  	  
 ####  Reddit
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
-- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
+- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `🗑️ Discontinued`
 ####  Telegram
 - `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Discord
 - `MW` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
 ####  Twitter
-- `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social)
+- `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆 Planned`
 ####  WhatsApp
 - `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 ####  Spotify
@@ -111,8 +103,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 - `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
-###  Browsers
-
 ------------
 
 ###  Photo viewer
@@ -139,9 +129,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ###  Browser
 
-- `MW` [Yttrium](https://github.com/muznyo/Yttrium)
-- `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon)
-- `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp)
+- `MW` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
+- `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
+- `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
 - `MW` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser)
 -  [Microsoft Edge](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 
@@ -199,25 +189,6 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-###  Games
-
-- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
-- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
-
-------------
-
-###  Email Clients
-
-- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
-
-------------
-
-###  Translators
-
-- `MW` [Translate](https://t.co/Tz9BoDKVlM)`⚠️ [Steps Required]`
-
-------------
-
 ###  Download Managers
 
 ###  YouTube
@@ -257,16 +228,35 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ------------
 
-###  Other Windows Apps
+###  Games
 
-- `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
-- `MDY` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
+- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ------------
 
-####  Material Catalogs
+###  Email Clients
 
-- `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
+- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+
+------------
+
+###  Translators
+
+- `MW` [Translate](https://t.co/Tz9BoDKVlM) `⚠️ [Steps Required]`
+
+------------
+
+###  Other Windows Apps
+
+- `MW` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
+- `MW` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+
+------------
+
+####  WinUI 3 Catalogs
+
+- `MW` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 ---
 
