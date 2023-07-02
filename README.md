@@ -19,28 +19,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ## 🏷️ Tags
 
 ### 🎨 Material you Tags
-|Abbreviation|WinUI 3|WinUI 3 Design|
+|Abbreviation|Mica|WinUI 3 Design|
 |:-:|:-:|:-:|
 |**`FULL`**|✔️|✔️|
 |**`FD`**|✔️|❌|
-|**`FD`**||❌
+|**`WD`**|❌|✔️|
 |**`?`**|❓|❓|
 - #### **`FULL`** - An app that follow **BOTH** WinUI 3 design and Mica Effect.
 - #### **`FD`** - An app that follow Mica Effect but not WinUI 3 design.
-- #### **`MD`** - An App that follow material 3 design but not dynamic colouring.
+- #### **`WD`** - An App that follow WinUI 3 design but not Mica Effect.
 - #### **`?`** - An app that is not yet released.
 
 ### 🔖 Other tags
 |Abbreviation|Definition|
 |:-:|--|
-|**<sup>`☕`</sup>**|<strong> apps that i personally use!</strong>|
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
-|**<sup>`#️⃣`</sup>**|<strong>Apps that require root!</strong> <sup><a  href="https://en.wikipedia.org/w/index.php?title=Rooting_(Android)&oldid=1161953097">`Definition`</a></sup>|
-|**<sup>`🧩`</sup>**|<strong>Apps that require the Xposed framework!</strong> <sup><a  href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`Definition`</a></sup>|
-|**<sup>`🧋FOSS`</sup>** | <strong> open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
-|**<sup>`Modded`</sup>** |<strong> modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 |**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
-|**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
 |**<sup>`📆 Planned`</sup>**|<strong>Apps that haven't been released but has a planned date</strong>|
 
 ---
