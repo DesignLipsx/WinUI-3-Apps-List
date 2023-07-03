@@ -24,9 +24,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 |Abbreviation|Meaning|Mica|WinUI 3 Design|
 |:-:|:-:|:-:|:-:|
-|**`MW`**|Apps that have both WinUI 3 design and Mica Effect|✔️|✔️|
-|**`MI`**|Apps that follow Mica Design|✔️|❌|
-|**`WI`**|Apps that follow WinUI 3 Design|❌|✔️|
+|**`WMD`**|Apps that have both WinUI 3 design and Mica Effect|✔️|✔️|
+|**`WM`**|Apps that follow Mica Design|✔️|❌|
+|**`WD`**|Apps that follow WinUI 3 Design|❌|✔️|
 
 - **Other abbreviations**
 
