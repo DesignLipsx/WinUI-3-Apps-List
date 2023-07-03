@@ -200,20 +200,20 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Download Managers
 
-###  Full-Featured Download Manager
+####  Full-Featured Download Manager
 
 - `WMD` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K)
 
-###  YouTube
+####  YouTube
 
 - `WMD` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)   
 - `WMD` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
    
-###  Instagram
+####  Instagram
   
 - `WMD` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
    
-###  Torrenting
+####  Torrenting
   
 - `WMD` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
