@@ -140,7 +140,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WMD` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
 - `WMD` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
 - `WMD` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
-- `WMD` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser)
+- `WMD` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆 In development`
 -  [Microsoft Edge](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 
 ------------
@@ -171,7 +171,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WMD` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 - `WMD` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WMD` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
-- `WMD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
+- `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
 - `WMD` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 
 ###  Personalize
@@ -223,14 +223,13 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ####  Security&Privacy
 
 - `WMD` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
-- `WMD` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
+- `WD` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
 ------------
 
 ####  Optimizer/Cleaners
 
-- `WMD` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
-  
+- `WMD` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)  
 - `WMD` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 ------------
@@ -244,7 +243,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Email Clients
 
-- `WMD` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+- `WMD` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL) `[No Google Acoount Support]`
 
 ------------
 
