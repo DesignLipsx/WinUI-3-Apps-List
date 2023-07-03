@@ -42,13 +42,13 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Best Implementation of WinUI 3
 
-- `MW` [Files App](https://github.com/files-community/files)
-- `MW` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
-- `MW` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
-- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
-- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-- `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
-- `MW` [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
+- `WMD` [Files App](https://github.com/files-community/files)
+- `WMD` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
+- `WMD` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
+- `WMD` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+- `WMD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
+- `WMD` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+- `WMD` [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
 ##    Apps List
 
@@ -56,35 +56,35 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ###  Social Media Clients
 
 ####  GitHub
-- `MW` [FluentHub](https://github.com/FluentHub/FluentHub)
-- `MW` [JitHub](https://github.com/JitHubApp/JitHubV2)  	  
+- `WMD` [FluentHub](https://github.com/FluentHub/FluentHub)
+- `WMD` [JitHub](https://github.com/JitHubApp/JitHubV2)  	  
 ####  Reddit
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
-- `MW` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `🗑️ Discontinued`
+- `WMD` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `🗑️ Discontinued`
 ####  Telegram
-- `MW` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
+- `WMD` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Discord
-- `MW` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
+- `WMD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
 ####  Twitter
-- `MW` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆 Planned`
+- `WMD` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆 Planned`
 ####  WhatsApp
-- `MW` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
+- `WMD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 ####  Spotify
-- `MW` [Wavee](https://github.com/christosk92/Wavee)
+- `WMD` [Wavee](https://github.com/christosk92/Wavee)
 ####  Youtube
-- `MW` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
+- `WMD` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 ------------
 
 ###  Notes/Reminders/Draw-Board
 
 ####  Notes
-- `MW` [Quick Pad ](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
-- `MW` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
+- `WMD` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
+- `WMD` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
 ####  Reminders
-- `MW` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
+- `WMD` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
 ####  Draw Board
-- `MW` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
+- `WMD` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
     
 ------------
 
@@ -92,108 +92,107 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Music Players
 
-- `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
-- `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
-- `MW` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
-- `MW` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
+- `WMD` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+- `WMD` [Screenbox](https://github.com/huynhsontung/Screenbox/)
+- `WMD` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
+- `WMD` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
 ####  Video Players
 
-- `MW` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
-- `MW` [Screenbox](https://github.com/huynhsontung/Screenbox/)
+- `WMD` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
+- `WMD` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 
 ####  Streaming Services
 
-- `MW` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
-- `MW` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
+- `WMD` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
+- `WMD` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
 
 ####  Podcast
 
-- `MW` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
+- `WMD` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
 ------------
 
 ###  Photo viewer
 
-- `MW` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)  
+- `WMD` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)  
 -  [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
   
 - **Tools**
     
-	- `MW` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
+	- `WMD` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
 
 ------------
 
 ###  Pdf viewer
 
-- `MW` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)
+- `WMD` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)
   
 - **Tools**
   
-	- `MW` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
-	- `MW` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
+	- `WMD` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
+	- `WMD` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
 	
 ------------
 
 ###  Browser
 
-- `MW` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
-- `MW` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
-- `MW` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
-- `MW` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser)
+- `WMD` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
+- `WMD` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
+- `WMD` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
+- `WMD` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser)
 -  [Microsoft Edge](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 
 ------------
 
 ###  Utilities
   
-- `MW` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
-- `MW` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
-- `MW` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
-- `MW` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
-- `MW` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
-- `MW` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
-- `MW` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
-- `MW` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
-- `MW` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
-- `MW` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💲`  
-- `MW` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💲`  
-- `MW` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💲`  
-- `MW` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💲`  
-- `MW` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💲`  
-- `MW` [Barcoder - Easy Barcode Generator](https://apps.microsoft.com/store/detail/barcoder-easy-barcode-generator/9N4JLMD75QGZ) `💲`  
-- `MW` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/store/detail/qrcoder-easy-qr-code-generator/9NGPP9JX361T) `💲`
+- `WMD` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
+- `WMD` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
+- `WMD` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
+- `WMD` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
+- `WMD` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
+- `WMD` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
+- `WMD` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
+- `WMD` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
+- `WMD` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
+- `WMD` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
+- `WMD` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💲`  
+- `WMD` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💲`  
+- `WMD` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💲`  
+- `WMD` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💲`  
+- `WMD` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💲`  
 
 ------------
 
 ###  Productivity
 
-- `MW` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
-- `MW` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
-- `MW` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
-- `MW` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
-- `MW` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
-- `MW` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
+- `WMD` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
+- `WMD` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
+- `WMD` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
+- `WMD` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
+- `WMD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
+- `WMD` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 
 ###  Personalize
 
 ------------
 
-- `MW` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
-- `MW` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
-- `MW` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
-- `MW` [Tabbed™️](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
-- `MW` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
-- `MW` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`
-- `MW` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`
+- `WMD` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
+- `WMD` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+- `WMD` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `WMD` [Tabbed™️](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
+- `WMD` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
+- `WMD` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`
+- `WMD` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`
 
 ------------
 
 ###  Artificial Intelligence (AI)
 
-- `MW` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)  
-- `MW` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
-- `MW` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T))
+- `WMD` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)  
+- `WMD` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+- `WMD` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 ------------
 
@@ -201,70 +200,70 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  YouTube
 
-- `MW` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)   
-- `MW` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+- `WMD` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)   
+- `WMD` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
    
 ###  Instagram
   
-- `MW` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
+- `WMD` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
    
 ###  Torrenting
   
-- `MW` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
+- `WMD` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 
 ------------
 
 ####  Device Info/Monitors
 
-- `MW` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
-- `MW` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
+- `WMD` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
+- `WMD` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
 ------------
 
 ####  Security&Privacy
 
-- `MW` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
-- `MW` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
+- `WMD` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
+- `WMD` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
 ------------
 
 ####  Optimizer/Cleaners
 
-- `MW` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+- `WMD` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
   
-- `MW` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
+- `WMD` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 ------------
 
 ###  Games
 
-- `MW` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
-- `MW` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
+- `WMD` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
+- `WMD` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 
 ------------
 
 ###  Email Clients
 
-- `MW` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+- `WMD` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 ------------
 
 ###  Translators
 
-- `MW` [Translate](https://t.co/Tz9BoDKVlM) `⚠️ [Steps Required]`
+- `WMD` [Translate](https://t.co/Tz9BoDKVlM) `⚠️ [Steps Required]`
 
 ------------
 
 ###  Other Windows Apps
 
-- `MW` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
-- `MW` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+- `WMD` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
+- `WMD` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 
 ------------
 
 ####  WinUI 3 Catalogs
 
-- `MW` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
+- `WMD` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
 
 ---
 
