@@ -279,7 +279,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ## 😼 Author
 <p>
   <a href="https://github.com/nyas1">
-    <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&colorB=black&logo=github&logoColor=black" alt="GitHub">
+    <img src="https://drive.google.com/uc?export=download&id=19mJ8Hu1TvqglbS4W3hBYkL7dsWl5otmB">
   </a>
   <a href="https://discord.com/users/528161316033265674">
     <img src="https://img.shields.io/badge/Discord-@Nyas%239999-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
