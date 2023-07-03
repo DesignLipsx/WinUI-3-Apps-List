@@ -186,6 +186,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WMD` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 - `WMD` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`
 - `WMD` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`
+- `WMD` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💲`
 
 ------------
 
@@ -198,6 +199,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ------------
 
 ###  Download Managers
+
+###  Full-Featured Download Manager
+
+- `WMD` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K)
 
 ###  YouTube
 
@@ -267,7 +272,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ---
 
-
+- `WMD` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
+- `WMD` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
+- `WMD` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 
 ## 😼 Author
 <p>
