@@ -56,6 +56,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
 
+####  Mastodon
+
+- `WDM` [Bluechirp](https://discord.com/channels/372137812037730304/1120194129289297970) `📆 Planned`
+
 ####  Reddit
 
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
@@ -85,6 +89,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
+- `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music)
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
@@ -95,6 +100,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Streaming Services
 
+- `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
 - `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
 
@@ -192,9 +198,11 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Productivity
 
+- `WDM` [Tomato app]() `In Development`
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
+- `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
 - `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
@@ -206,8 +214,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ###  Personalize
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
+- `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
 - `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
 - `WDM` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `WDM` [10Mica](https://github.com/ahmed605/10Mica) `For windows 10`
 - `WDM` [Tabbed™️](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
 - `WDM` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 - `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`
@@ -249,6 +259,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - Device Info/Monitors
 
+	- `WDM` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
 	- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
 	- `WDM` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
@@ -283,7 +294,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - Translators
 
-	- `WDM` [Translate](https://t.co/Tz9BoDKVlM) `⚠️ [Steps Required]`
+	- `WDM` [Translate](https://github.com/shef3r/Translate/releases/tag/4.0-beta1)
 
 ------------
 
@@ -322,6 +333,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
+- `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
 
 ------------
 
@@ -352,8 +364,25 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [QTWin11](https://github.com/witalihirsch/QTWin11)
+- `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
+
 
 ---
+
+- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+
+- `WDM` [CtrlHelp](https://discord.com/channels/372137812037730304/1045797759602659359)
+- `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
+
+
+- `WDM` [Automated Identity](https://discord.com/channels/372137812037730304/1124052720647671862)
+
+- `WDM` [Tomato app]()
+- `WDM` [QTWin11]()
+
+
+
 
 
 ## 😼 Author
