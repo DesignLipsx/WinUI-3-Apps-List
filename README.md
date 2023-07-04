@@ -70,12 +70,14 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ###  Notes/Reminders/Draw-Board
 
 ####  Notes
-- `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl=en-in&gl=in&rtc=1)
-- `WDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT?hl=en-us&gl=us)
+
+- `WDM` [Fluent Pad](https://github.com/Lixkote/WritePad)
+- `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl)
+- `WDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
 ####  Reminders
 - `WDM` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
 ####  Draw Board
-- `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2?hl=en-in&gl=in&cid=Reddit&rtc=1)
+- `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
     
 ------------
 
@@ -95,8 +97,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Streaming Services
 
-- `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
-- `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&epi=TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00%29%287593%29%281243925%29%28TnL5HPStwNw-FIXteVyt0PWwL5gng7t9HA%29%28%29&irclickid=_11222zcw90kfdkp6xwleeyjbhf2xeh6nshrbmm2c00)
+- `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
+- `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
 
 ####  Spotify Client
 - `WDM` [Wavee](https://github.com/christosk92/Wavee)
@@ -110,7 +112,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ###  Photo viewer
 
 - `WDM` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)  
--  [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
+- `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
   
 - **Tools**
     
@@ -135,7 +137,6 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆 In development`
--  [Microsoft Edge](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 
 ------------
 
@@ -158,6 +159,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
 - `WDM` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
 - `WDM` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
+- `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
@@ -264,7 +266,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ####  Security&Privacy
 
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
-- `WD` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
+- `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
+- `WM` [Pass11](https://github.com/LawOff/Pass11)
 
 ------------
 
