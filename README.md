@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <p align="center">
-  <b>Please <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
+  <b>Please <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Glowing Star" width="30" height="30" /> the repo if you like.</b>
 
 </p>
 
@@ -327,8 +327,21 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Other Windows Apps
 
-- `WDM` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)  
-- `WDM` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+- `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)  
+- `WD` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+- `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT)
+- `WDM` [Microsoft Photos](https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4)
+- `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5)
+- `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
+- `WDM` [Movies & TV](https://apps.microsoft.com/store/detail/movies-tv/9WZDNCRFJ3P2)
+- `WDM` [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H)
+- `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)
+- `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR)
+- `WDM` [Microsoft Edge Browser](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
+- `WDM` [Quick Assist](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5)
+- `WDM` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D)
+- `WDM` [Feedback Hub](https://apps.microsoft.com/store/detail/feedback-hub/9NBLGGH4R32N)
+- `WDM` [Get Help](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T)
 
 ------------
 
