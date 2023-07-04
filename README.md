@@ -146,6 +146,15 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
+####  File explorer 
+
+- `WMD` [Files App](https://github.com/files-community/files)
+- `WMD` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
+- `WMD` [Adv File Explorer](https://apps.microsoft.com/store/detail/adv-file-explorer/9MVSVN9D3G5Z)
+- `WMD` [MyFTP](https://apps.microsoft.com/store/detail/myftp/9NWZSP0XCMHC)
+
+------------
+
 ###  Utilities
   
 - `WMD` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
@@ -157,6 +166,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WMD` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
 - `WMD` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
 - `WMD` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
+- `WMD` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WMD` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
 - `WMD` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💲`  
 - `WMD` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💲`  
@@ -168,6 +178,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Productivity
 
+- `WMD` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
 - `WMD` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `WMD` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 - `WMD` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
@@ -192,9 +203,30 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Artificial Intelligence (AI)
 
-- `WMD` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl=en-in&gl=in&cid=EasyAiWebsite&rtc=1)  
+- `WMD` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)  
 - `WMD` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 - `WMD` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+
+------------
+
+####  Developer tools
+
+- `WMD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC)
+- `WMD` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
+- `WMD` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
+- `WMD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
+- `WMD` []()
+- `WMD` []()
+
+------------
+
+####  WSA
+
+- `WMD` [APK Installers](https://apps.microsoft.com/store/detail/apk-installers/9P2JFQ43FPPG)
+- `WMD` [Apk Installer on WSA](https://apps.microsoft.com/store/detail/apk-installer-on-wsa/9N1TWH0BPJPS)
+- `WMD` [WSATools - APK installer and more](https://apps.microsoft.com/store/detail/wsatools-apk-installer-and-more/9N4P75DXL6FG)
+- `WMD` [Aow Tools](https://apps.microsoft.com/store/detail/aow-tools/9NXM6552H2QL?hl=en-us&gl=us)
+- `WMD` []()
 
 ------------
 
@@ -268,7 +300,12 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  WinUI 3 Catalogs
 
-- `WMD` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
+- `WMD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC)
+- `WMD` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
+- `WMD` []()
+- `WMD` []()
+- `WMD` []()
+- `WMD` []()
 
 ---
 
