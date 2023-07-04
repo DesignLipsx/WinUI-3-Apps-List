@@ -132,10 +132,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Browser
 
-- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
-- `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
+- `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆 In development`
+- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
 
 ------------
 
@@ -192,18 +192,18 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Productivity
 
-- `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
-- `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
-- `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
-- `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
+- `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
+- `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
+- `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
+- `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)  
 
-###  Personalize
-
 ------------
+
+###  Personalize
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
@@ -346,7 +346,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ## 😼 Author
 <p>
   <a href="https://github.com/nyas1">
-    <img src="https://drive.google.com/uc?export=download&id=19mJ8Hu1TvqglbS4W3hBYkL7dsWl5otmB">
+    <img src="https://drive.google.com/uc?export=download&id=1AxUtJcAlcwGjZkpj_N42BAi39A4ZN0EJ">
   </a>
   <a href="https://discord.com/users/528161316033265674">
     <img src="https://img.shields.io/badge/Discord-@Nyas%239999-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
