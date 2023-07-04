@@ -54,6 +54,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Discord
 
+- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆 In development`
 - `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
 
 ####  Mastodon
@@ -215,6 +216,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
+- `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
 - `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
 - `WDM` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
 - `WDM` [10Mica](https://github.com/ahmed605/10Mica) `For windows 10`
@@ -241,6 +243,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - Full-Featured Download Manager
 
 	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K)
+   	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia)
 
 - YouTube
 
@@ -326,6 +329,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
+- `WDM` [Sketchable Plus]()
 
 ------------
 
@@ -379,6 +383,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Automated Identity](https://discord.com/channels/372137812037730304/1124052720647671862)
 
 - `WDM` [Tomato app]()
+- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
+- `WDM` [QTWin11]()
+- `WDM` [QTWin11]()
+- `WDM` [QTWin11]()
 - `WDM` [QTWin11]()
 
 
