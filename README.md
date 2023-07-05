@@ -139,7 +139,6 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Streaming Services
 
-- `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
 - `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
 
@@ -150,6 +149,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ####  Podcast
 
 - `WDM` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
+- `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -366,7 +366,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Developer tools
 
-####  GitHub
+####  GitHub Client
 
 - `WDM` [FluentHub](https://github.com/FluentHub/FluentHub)
 - `WDM` [JitHub](https://github.com/JitHubApp/JitHubV2)
@@ -380,8 +380,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Multimedia design
+###  Multimedia
 
+- `WDM` [Camo](https://reincubate.com/camo/)
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
@@ -438,16 +439,12 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ---
 
+- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
+- `WDM` [AniMoe]()
+- `WDM` [AniMoe]()
 
 - `WDM` [CtrlHelp](https://discord.com/channels/372137812037730304/1045797759602659359)
 - `WDM` [Automated Identity](https://discord.com/channels/372137812037730304/1124052720647671862)
-
-- `WDM` [QTWin11]()
-- `WDM` [QTWin11]()
-- `WDM` [QTWin11]()
-- `WDM` [QTWin11]()
-
-
 
 
 
