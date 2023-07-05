@@ -130,7 +130,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
-<sub>[Applist Menu](#-applist-menu)</sub>
+<sub>[Applist Menu](#applist-menu)</sub>
 
 ------------
 
