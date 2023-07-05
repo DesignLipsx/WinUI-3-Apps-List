@@ -2,7 +2,7 @@
 
 ***WinUI 3** is the latest version of Microsoft's native user interface (UX) framework for Windows desktop and UWP applications. It is based on the Fluent Design System, which emphasizes simplicity, clarity, and consistency in user interface design..*
 <p align="center">
-  <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/blob/main/Win%20ui3.png?raw=true">
+  <img src="https://drive.google.com/uc?export=download&id=1Y42hELgJnvBbgqfRC8ljb7i91bIySm1p">
 </p>
 <p align="center">
   <p align="center">
