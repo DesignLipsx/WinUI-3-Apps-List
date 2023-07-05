@@ -56,11 +56,6 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - [File explorer](#file-explorer)
 - [Utilities](#utilities) 
 - [Notes/Reminders/Draw-Board](#notesremindersdraw-board)
-	- [Music Players](#music-players)
- 	- [Video Players](#video-players)
- 	- [Streaming Services](#streaming-services)
- 	- [Spotify Client](#spotify-client)
- 	- [Podcast](#podcast)
 - [Productivity](#productivity)
 - [Personalize](#personalize)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
@@ -74,9 +69,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
  	- [Translators](#translators)
  	- [WSA](#wsa)
 - [Developer Tools](#developer-tools)
-	- [GitHub](#github)
+	- [GitHub Client](#github-client)
  	- [Other](#other) 
-- [Multimedia design](#multimedia-design)
+- [Multimedia design](#multimedia)
 - [Games](#games)
 - [Other Windows Apps](#other-windows-apps)
 - [WinUI 3 Catalogs](#winui-3-catalogs)
@@ -159,8 +154,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)  
-- **Tools**
-    
+- **Tools**    
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
@@ -169,10 +163,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Pdf viewer
 
-- `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)
-  
-- **Tools**
-  
+- `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)  
+- **Tools**  
 	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
 	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
 	
@@ -413,19 +405,19 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Other Windows Apps
 
-- `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)  
-- `WD` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+- `WDM` [Microsoft Edge Browser](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 - `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT)
 - `WDM` [Microsoft Photos](https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4)
-- `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5)
-- `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
-- `WDM` [Movies & TV](https://apps.microsoft.com/store/detail/movies-tv/9WZDNCRFJ3P2)
 - `WDM` [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H)
 - `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)
+- `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
+- `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5)
+- `WDM` [Movies & TV](https://apps.microsoft.com/store/detail/movies-tv/9WZDNCRFJ3P2)
 - `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR)
-- `WDM` [Microsoft Edge Browser](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
+- `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)  
 - `WDM` [Quick Assist](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5)
-- `WDM` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D)
+- `WD` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+- `WD` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D)
 - `WDM` [Feedback Hub](https://apps.microsoft.com/store/detail/feedback-hub/9NBLGGH4R32N)
 - `WDM` [Get Help](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T)
 
