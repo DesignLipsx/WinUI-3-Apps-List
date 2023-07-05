@@ -99,14 +99,14 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆 In development`
 - `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
 ####  Mastodon
-- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆 In development`
+- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 ####  Reddit
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎ Discontinued`
 ####  Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Twitter
-- `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆 Planned`
+- `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 ####  WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 ####  Youtube
@@ -174,10 +174,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Browser
 
-- `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆 In development`
-- `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
-- `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆 In development`
-- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
+- `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
+- `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆`
+- `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆`
+- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆`
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -260,6 +260,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
+- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
 - `WDM` [Tomato app]() `In Development`
 
@@ -385,7 +386,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
-- `WDM` [Sketchable Plus]()
+- `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -437,14 +438,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ---
 
-- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
-
-
-
-
 
 - `WDM` [AniMoe]()
-
 - `WDM` [CtrlHelp](https://discord.com/channels/372137812037730304/1045797759602659359)
 - `WDM` [Automated Identity](https://discord.com/channels/372137812037730304/1124052720647671862)
 
