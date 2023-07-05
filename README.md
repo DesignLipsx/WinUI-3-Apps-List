@@ -28,15 +28,63 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 |Abbreviation|Definition|
 |:-:|--|
-|**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
+|**<sup>`💰`</sup>**|<strong> paid Apps!</strong>
 |**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup|
 |**<sup>`📆 Planned`</sup>**|<strong>Apps that in development</strong>|
 |**<sup>`❎ Discontinued`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
 
+
+## 📜Applist Menu
+
+-  [Social Media](#social-media)
+	- [Discord](#discord)
+ 	- [Mastodon](#mastodon)
+ 	- [Reddit](#reddit)
+ 	- [Telegram](#telegram)
+ 	- [Twitter](#twitter)
+ 	- [Whatsapp](#whatsapp)
+	- [Youtube](#youtube)
+- [Media](#media)
+	- [Music Players](#music-players)
+ 	- [Video Players](#video-players)
+ 	- [Streaming Services](#streaming-services)
+ 	- [Spotify Client](#spotify-client)
+ 	- [Podcast](#podcast) 
+- [Photo viewer](#photo-viewer)
+- [Pdf viewer](#pdf-viewer)
+- [Browser](#browser)
+- [File explorer](#file-explorer)
+- [Utilities](#utilities) 
+- [Notes/Reminders/Draw-Board](#notesremindersdraw-board)
+	- [Music Players](#music-players)
+ 	- [Video Players](#video-players)
+ 	- [Streaming Services](#streaming-services)
+ 	- [Spotify Client](#spotify-client)
+ 	- [Podcast](#podcast)
+- [Productivity](#productivity)
+- [Personalize](#personalize)
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+- [Tools](#tools)
+	- [Download Managers](#download-managers)
+ 	- [Device Info/Monitors](#device-infomonitors)
+ 	- [Security&Privacy](#securityprivacy)
+ 	- [News](#news)
+ 	- [Optimizer/Cleaners](#optimizercleaners)
+	- [Email Clients](#email-clients)
+ 	- [Translators](#translators)
+ 	- [WSA](#wsa)
+- [Developer Tools](#developer-tools)
+	- [GitHub](#github)
+ 	- [Other](#other) 
+- [Multimedia design](#multimedia-design)
+- [Games](#games)
+- [Other Windows Apps](#other-windows-apps)
+- [WinUI 3 Catalogs](#winui-3-catalogs)
+
 ## Overview
 
 
-###  Best Implementation of WinUI 3
+### Best Implementation of WinUI 3
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
@@ -192,12 +240,12 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WDM` [A.Click - Auto Clicker](https://apps.microsoft.com/store/detail/aclick-auto-clicker/9MV9MFVB6R5V)
-- `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
-- `WDM` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💲`  
-- `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💲`  
-- `WDM` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💲`  
-- `WDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💲`  
-- `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💲`  
+- `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💰`
+- `WDM` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💰`  
+- `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰`  
+- `WDM` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💰`  
+- `WDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💰`  
+- `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💰`  
 
 ------------
 
@@ -225,13 +273,13 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
 - `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
-- `WDM` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
+- `WDM` [Acrylic](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 - `WDM` [10Mica](https://github.com/ahmed605/10Mica) `For windows 10`
-- `WDM` [Tabbed™️](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
-- `WDM` [Acrylic™️](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
-- `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💲`
-- `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💲`
-- `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💲`
+- `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
+- `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
+- `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
 
 ------------
 
