@@ -59,7 +59,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Mastodon
 
-- `WDM` [Bluechirp](https://discord.com/channels/372137812037730304/1120194129289297970) `📆 Planned`
+- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆 In development`
 
 ####  Reddit
 
@@ -188,6 +188,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
+- `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
+- `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WDM` [A.Click - Auto Clicker](https://apps.microsoft.com/store/detail/aclick-auto-clicker/9MV9MFVB6R5V)
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💲`
@@ -201,16 +204,18 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ###  Productivity
 
-- `WDM` [Tomato app]() `In Development`
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
+- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 - `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
 - `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
-- `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)  
+- `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
+- `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
+- `WDM` [Tomato app]() `In Development`
 
 ------------
 
@@ -218,6 +223,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
+- `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
 - `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
 - `WDM` [Mica™️](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
@@ -341,6 +347,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
 - `WDM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
+- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
 
 ------------
 
@@ -376,17 +383,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ---
 
-- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
 
 - `WDM` [CtrlHelp](https://discord.com/channels/372137812037730304/1045797759602659359)
-- `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
-- `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
-
-
 - `WDM` [Automated Identity](https://discord.com/channels/372137812037730304/1124052720647671862)
 
-- `WDM` [Tomato app]()
-- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
 - `WDM` [QTWin11]()
 - `WDM` [QTWin11]()
 - `WDM` [QTWin11]()
