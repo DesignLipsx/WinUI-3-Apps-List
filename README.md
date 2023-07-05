@@ -212,7 +212,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-####  File explorer 
+###  File explorer 
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
