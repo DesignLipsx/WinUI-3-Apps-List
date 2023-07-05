@@ -34,7 +34,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 |**<sup>`❎ Discontinued`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
 
 
-##  📃 Applist Menu
+##  📃 Table Of Contents
 
 - [Social Media](#social-media)
 	- [Discord](#discord)
@@ -101,36 +101,23 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ###  Social Media
 
 ####  Discord
-
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆 In development`
 - `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
-
 ####  Mastodon
-
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆 In development`
-
 ####  Reddit
-
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎ Discontinued`
-
 ####  Telegram
-
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
-
 ####  Twitter
-
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆 Planned`
-
 ####  WhatsApp
-
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-
 ####  Youtube
-
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
-<sub>[📃 Applist Menu](#-applist-menu)</sub>
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -164,6 +151,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ###  Photo viewer
@@ -173,6 +162,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - **Tools**
     
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -185,6 +176,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
 	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
 	
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ###  Browser
@@ -193,6 +186,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆 In development`
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆 In development`
 - `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆 In development`
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -213,6 +208,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
     
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ####  File explorer 
@@ -221,6 +218,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
 - `WDM` [Adv File Explorer](https://apps.microsoft.com/store/detail/adv-file-explorer/9MVSVN9D3G5Z)
 - `WDM` [MyFTP](https://apps.microsoft.com/store/detail/myftp/9NWZSP0XCMHC)
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -249,6 +248,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💰`  
 - `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💰`  
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ###  Productivity
@@ -265,6 +266,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
 - `WDM` [Tomato app]() `In Development`
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -283,6 +286,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
 - `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ###  Artificial Intelligence (AI)
@@ -290,6 +295,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)  
 - `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -353,6 +360,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Aow Tools](https://apps.microsoft.com/store/detail/aow-tools/9NXM6552H2QL?hl=en-us&gl=us)
 - `WDM` [WSATools - APK installer and more](https://apps.microsoft.com/store/detail/wsatools-apk-installer-and-more/9N4P75DXL6FG)
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ###  Developer tools
@@ -367,6 +376,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ###  Multimedia design
@@ -375,6 +386,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
 - `WDM` [Sketchable Plus]()
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -385,6 +398,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
 - `WDM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 - `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
@@ -406,6 +421,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Feedback Hub](https://apps.microsoft.com/store/detail/feedback-hub/9NBLGGH4R32N)
 - `WDM` [Get Help](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T)
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
 ------------
 
 ####  WinUI 3 Catalogs
@@ -417,6 +434,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [QTWin11](https://github.com/witalihirsch/QTWin11)
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
 
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ---
 
