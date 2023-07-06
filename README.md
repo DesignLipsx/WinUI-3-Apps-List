@@ -90,6 +90,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
+---
+
 ## 📑 Apps List
 
 ### 👨‍💻 Social Media
@@ -125,6 +127,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Stylophone](https://github.com/Difegue/Stylophone)
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
+- `WDM` [Musicloud - Music Downloader](https://apps.microsoft.com/store/detail/musicloud-music-downloader/9P6V0D62D4BQ)
 
 #### ▶️ Video Players
 
@@ -165,7 +168,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ### 📄 Pdf viewer
 
 - `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)  
-- **Tools**  
+- **Tools**
+	- `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)  
 	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
 	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
 	
@@ -206,9 +210,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-### 🎨 Personalize
+### 🎨 Personalization 
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
+- `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
 - `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
 - `WM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
@@ -273,6 +278,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- `WD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
+- `WDM` [RunManager]https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
+- `WDM` [Super Launcher](https://apps.microsoft.com/store/detail/super-launcher/9N269JD69VCX)
+- `WDM` [TaskbarWebsites](https://apps.microsoft.com/store/detail/taskbarwebsites/9MZ8WTK48VHT)
 - `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
@@ -334,6 +343,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
 - `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
+- `WM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
+
 
 #### 📰 News
 
@@ -341,7 +352,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 #### 🧹 Optimizer/Cleaners
 
-- `WDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)  
+- `WDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+- `WD` [Duplicates Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49)  
 - `WDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
 #### 📧 Email Clients
@@ -388,6 +400,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
+- `WDM` [Codly Snippet Manager]https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
 - `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
