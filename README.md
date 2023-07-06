@@ -32,7 +32,7 @@
 	 	- [Streaming Services](#-streaming-services)
 	 	- [Spotify Client](-#-spotify-client)
 	 	- [Podcast](-#-podcast) 
-	- [Photo viewer](#-photo-viewer)
+	- [Photo viewer](#%EF%B8%8F-photo-viewer)
 	- [Pdf viewer](#-pdf-viewer)
 	- [Browser](#-browser)
   	- [Notes](#-notesremindersdraw-board)
