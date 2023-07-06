@@ -89,8 +89,6 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-- `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
-- `WDM` [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
 ## 📑 Apps List
 
