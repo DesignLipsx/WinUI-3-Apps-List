@@ -10,7 +10,7 @@
 
 </p>
 
---- 
+---
 
 ##  📃 Table Of Contents
 
@@ -18,7 +18,7 @@
 - [Abbreviations](#abbreviations)
 - [Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
 - [Apps List](#-apps-list)
-	- [Social Media](#social-media)
+	- [Social Media](#-social-media)
 		- [Discord](#discord)
 	 	- [Mastodon](#mastodon)
 	 	- [Reddit](#reddit)
@@ -26,36 +26,36 @@
 	 	- [Twitter](#twitter)
 	 	- [Whatsapp](#whatsapp)
 		- [Youtube](#youtube)
-	- [Media](#media)
-		- [Music Players](#music-players)
-	 	- [Video Players](#video-players)
-	 	- [Streaming Services](#streaming-services)
-	 	- [Spotify Client](#spotify-client)
-	 	- [Podcast](#podcast) 
-	- [Photo viewer](#photo-viewer)
-	- [Pdf viewer](#pdf-viewer)
-	- [Browser](#browser)
-  	- [Notes](#notesremindersdraw-board)
-  	- [Personalize](#personalize)
-	- [Productivity](#productivity)
-	- [File explorer](#file-explorer)
-	- [Utilities](#utilities) 
-	- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-	- [Tools](#tools)
-		- [Download Managers](#download-managers)
-	 	- [Device Info/Monitors](#device-infomonitors)
-	 	- [Security&Privacy](#securityprivacy)
-	 	- [News](#news)
-	 	- [Optimizer/Cleaners](#optimizercleaners)
-		- [Email Clients](#email-clients)
-	 	- [Translators](#translators)
-	 	- [WSA](#wsa)
-	- [Multimedia & Design](#multimedia--design)
-  	- [Games](#games)
-	- [Developer Tools](#developer-tools)
+	- [Media](#-media)
+		- [Music Players](#-music-players)
+	 	- [Video Players](-#-video-players)
+	 	- [Streaming Services](#-streaming-services)
+	 	- [Spotify Client](-#-spotify-client)
+	 	- [Podcast](-#-podcast) 
+	- [Photo viewer](-#-photo-viewer)
+	- [Pdf viewer](#-pdf-viewer)
+	- [Browser](#-browser)
+  	- [Notes](#-notesremindersdraw-board)
+  	- [Personalize](#-personalize)
+	- [Productivity](#-productivity)
+	- [File explorer](#-file-explorer)
+	- [Utilities](-#-utilities) 
+	- [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
+	- [Tools](-#-tools)
+		- [Download Managers](-#-download-managers)
+	 	- [Device Info/Monitors](#-device-infomonitors)
+	 	- [Security&Privacy](#-securityprivacy)
+	 	- [News](#-news)
+	 	- [Optimizer/Cleaners](#-optimizercleaners)
+		- [Email Clients](#-email-clients)
+	 	- [Translators](#-translators)
+	 	- [WSA](#-wsa)
+	- [Multimedia & Design](-#-multimedia--design)
+  	- [Games](#-games)
+	- [Developer Tools](#-developer-tools)
 		- [GitHub Client](#github-client)
 	 	- [Other](#other) 
-	- [Other Windows Apps](#other-windows-apps)
+	- [Other Windows Apps](#-other-windows-apps)
 	- [WinUI 3 Catalogs](#winui-3-catalogs)
 
 ---
@@ -110,7 +110,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 ####  WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-#### Youtube
+####  Youtube
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
@@ -259,7 +259,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-### 🛠️ Utilities
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="25" height="25" /> Utilities
   
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
@@ -301,7 +301,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 #### ⬇️ Download Managers
 
@@ -319,7 +319,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
   
 	- `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
    
-- 🔗 Torrenting
+-  Torrenting
   
 	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
@@ -365,7 +365,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Multimedia & Design
+### 💠 Multimedia & Design
 
 - `WDM` [Camo](https://reincubate.com/camo/)
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
