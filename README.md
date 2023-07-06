@@ -12,13 +12,61 @@
 
 ---
 
+##  📃 Table Of Contents
+
+- [Disclaimer](#disclaimer)
+- [Abbreviations](#abbreviations)
+- [Best Implementation of WinUI 3](#best-implementation-of-winui-3)
+- [Apps List](#apps-list)
+	- [Social Media](#social-media)
+		- [Discord](#discord)
+	 	- [Mastodon](#mastodon)
+	 	- [Reddit](#reddit)
+	 	- [Telegram](#telegram)
+	 	- [Twitter](#twitter)
+	 	- [Whatsapp](#whatsapp)
+		- [Youtube](#youtube)
+	- [Media](#media)
+		- [Music Players](#music-players)
+	 	- [Video Players](#video-players)
+	 	- [Streaming Services](#streaming-services)
+	 	- [Spotify Client](#spotify-client)
+	 	- [Podcast](#podcast) 
+	- [Photo viewer](#photo-viewer)
+	- [Pdf viewer](#pdf-viewer)
+	- [Browser](#browser)
+  	- [Notes](#notesremindersdraw-board)
+  	- [Personalize](#personalize)
+	- [Productivity](#productivity)
+	- [File explorer](#file-explorer)
+	- [Utilities](#utilities) 
+	- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+	- [Tools](#tools)
+		- [Download Managers](#download-managers)
+	 	- [Device Info/Monitors](#device-infomonitors)
+	 	- [Security&Privacy](#securityprivacy)
+	 	- [News](#news)
+	 	- [Optimizer/Cleaners](#optimizercleaners)
+		- [Email Clients](#email-clients)
+	 	- [Translators](#translators)
+	 	- [WSA](#wsa)
+	- [Multimedia & Design](#multimedia--design)
+  	- [Games](#games)
+	- [Developer Tools](#developer-tools)
+		- [GitHub Client](#github-client)
+	 	- [Other](#other) 
+	- [Other Windows Apps](#other-windows-apps)
+	- [WinUI 3 Catalogs](#winui-3-catalogs)
+
+---
+
 ### 📄   Disclaimer
 This list is solely a compilation of apps that adopt the WinUI 3 Design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow WinUI 3 Design guidelines.
 
 - ❗ Some indicators might be wrong as I interpreted if they're WD/WM/WDM or not by the screenshots. Please report wrong indicators.
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.*
 
-###  Indicators
+###  Abbreviations
 
 - **`WD`** Apps that follow WinUI 3 Design
 - **`WM`** Apps that follow Mica Material
@@ -26,60 +74,14 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
  ###  Other abbreviations 
 
-|Abbreviation|Definition|
-|:-:|--|
-|**<sup>`💰`</sup>**|<strong> paid Apps!</strong>
-|**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup|
-|**<sup>`📆 Planned`</sup>**|<strong>Apps that in development</strong>|
-|**<sup>`❎ Discontinued`</sup>**|<strong> App is discontinued/paused indefinitely.</strong>
+- `💰` Paid Apps!
+- `⚠️ Steps Required` Additional steps required to install/setup
+- `📆 Planned` Apps that in development
+- `❎ Discontinued` App is discontinued/paused indefinitely
 
+---
 
-##  📃 Table Of Contents
-
-- [Social Media](#social-media)
-	- [Discord](#discord)
- 	- [Mastodon](#mastodon)
- 	- [Reddit](#reddit)
- 	- [Telegram](#telegram)
- 	- [Twitter](#twitter)
- 	- [Whatsapp](#whatsapp)
-	- [Youtube](#youtube)
-- [Media](#media)
-	- [Music Players](#music-players)
- 	- [Video Players](#video-players)
- 	- [Streaming Services](#streaming-services)
- 	- [Spotify Client](#spotify-client)
- 	- [Podcast](#podcast) 
-- [Photo viewer](#photo-viewer)
-- [Pdf viewer](#pdf-viewer)
-- [Browser](#browser)
-- [File explorer](#file-explorer)
-- [Utilities](#utilities) 
-- [Notes/Reminders/Draw-Board](#notesremindersdraw-board)
-- [Productivity](#productivity)
-- [Personalize](#personalize)
-- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-- [Tools](#tools)
-	- [Download Managers](#download-managers)
- 	- [Device Info/Monitors](#device-infomonitors)
- 	- [Security&Privacy](#securityprivacy)
- 	- [News](#news)
- 	- [Optimizer/Cleaners](#optimizercleaners)
-	- [Email Clients](#email-clients)
- 	- [Translators](#translators)
- 	- [WSA](#wsa)
-- [Developer Tools](#developer-tools)
-	- [GitHub Client](#github-client)
- 	- [Other](#other) 
-- [Multimedia design](#multimedia)
-- [Games](#games)
-- [Other Windows Apps](#other-windows-apps)
-- [WinUI 3 Catalogs](#winui-3-catalogs)
-
-## Overview
-
-
-### Best Implementation of WinUI 3
+## Best Implementation of WinUI 3
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
@@ -92,17 +94,16 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ##    Apps List
 
-
 ###  Social Media
 
 ####  Discord
-- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆 In development`
-- `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️ [Steps Required]`
+- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
+- `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️`
 ####  Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 ####  Reddit
 -  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
-- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎ Discontinued`
+- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
 ####  Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 ####  Twitter
@@ -131,6 +132,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
+- **Tools**    
+	- `WDM` [AVC - Any Video Converter, MP4 Converter](https://apps.microsoft.com/store/detail/avc-any-video-converter-mp4-converter/9PMVGZSGZXVB)
 
 ####  Streaming Services
 
@@ -205,6 +208,46 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
+###  Personalize
+
+- `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
+- `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
+- `WDM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
+- `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
+- `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
+- `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
+- `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
+- `WDM` [Acrylic](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
+- `WDM` [10Mica](https://github.com/ahmed605/10Mica) `For windows 10`
+- `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
+- `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
+- `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
+------------
+
+###  Productivity
+
+- `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
+- `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
+- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
+- `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
+- `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
+- `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
+- `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
+- `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
+- `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
+- `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
+- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
+- `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
+- `WDM` [Tomato app]() `In Development`
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
+------------
+
 ###  File explorer 
 
 - `WDM` [Files App](https://github.com/files-community/files)
@@ -247,50 +290,11 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Productivity
-
-- `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
-- `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
-- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
-- `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
-- `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
-- `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
-- `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
-- `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
-- `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
-- `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
-- `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
-- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
-- `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
-- `WDM` [Tomato app]() `In Development`
-
-<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
-
-------------
-
-###  Personalize
-
-- `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
-- `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
-- `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
-- `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
-- `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
-- `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
-- `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
-- `WDM` [Acrylic](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
-- `WDM` [10Mica](https://github.com/ahmed605/10Mica) `For windows 10`
-- `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
-- `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
-- `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
-
-<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
-
-------------
-
 ###  Artificial Intelligence (AI)
 
 - `WDM` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
-- `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)  
+- `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
+- `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
 - `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
@@ -361,6 +365,18 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
+###  Multimedia & Design
+
+- `WDM` [Camo](https://reincubate.com/camo/)
+- `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
+- `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
+- `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
+- `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
+
+<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
+
+------------
+
 ###  Developer tools
 
 ####  GitHub Client
@@ -375,18 +391,6 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
-
-<sub>[📃 Table Of Contents](#-table-of-contents)</sub>
-
-------------
-
-###  Multimedia
-
-- `WDM` [Camo](https://reincubate.com/camo/)
-- `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
-- `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
-- `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
-- `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -436,24 +440,5 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
----
 
 
-- `WDM` [AniMoe]()
-- `WDM` [CtrlHelp](https://discord.com/channels/372137812037730304/1045797759602659359)
-- `WDM` [Automated Identity](https://discord.com/channels/372137812037730304/1124052720647671862)
-
-
-
-## 😼 Author
-<p>
-  <a href="https://github.com/nyas1">
-    <img src="https://drive.google.com/uc?export=download&id=1AxUtJcAlcwGjZkpj_N42BAi39A4ZN0EJ">
-  </a>
-  <a href="https://discord.com/users/528161316033265674">
-    <img src="https://img.shields.io/badge/Discord-@Nyas%239999-%235865F2.svg?style=for-the-badge&colorA=c1c2fa&colorB=404271&logo=discord&logoColor=585aab" alt="Discord">
-  </a>
-  <a href="https://t.me/nyas69">
-    <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&colorA=97cbff&colorB=00639b&logo=telegram&logoColor=277bba" alt="Telegram">
-  </a>
-</p>
