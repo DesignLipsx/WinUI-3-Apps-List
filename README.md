@@ -153,7 +153,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-### 🏞️ Photo viewer
+### 🖼️ Photo viewer
 
 - `WDM` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)  
