@@ -94,7 +94,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ## 📑 Apps List
 
-###  Social Media
+### 👨‍💻 Social Media
 
 ####  Discord
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
@@ -110,16 +110,16 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 ####  WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-####  Youtube
+#### <img src="https://drive.google.com/uc?export=download&id=1mYbdcCyGrci9pUbOtfC-hNCFCT86mDfX"> Youtube
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
-###  Media
+### 🎬 Media
 
-####  Music Players
+#### 🎧 Music Players
 
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
@@ -128,14 +128,14 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 
-####  Video Players
+#### ▶️ Video Players
 
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 - **Tools**    
 	- `WDM` [AVC - Any Video Converter, MP4 Converter](https://apps.microsoft.com/store/detail/avc-any-video-converter-mp4-converter/9PMVGZSGZXVB)
 
-####  Streaming Services
+#### 📺 Streaming Services
 
 - `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
@@ -144,7 +144,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee)
 
-####  Podcast
+#### 🎙️ Podcast
 
 - `WDM` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 - `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
@@ -153,7 +153,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Photo viewer
+### 🏞️ Photo viewer
 
 - `WDM` [Visum Photo Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)  
@@ -164,7 +164,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Pdf viewer
+### 📄 Pdf viewer
 
 - `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)  
 - **Tools**  
@@ -175,7 +175,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Browser
+### 🌐 Browser
 
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
 - `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆`
@@ -186,9 +186,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Notes/Reminders/Draw-Board
+### 📒 Notes/Reminders/Draw-Board
 
-####  Notes
+#### 📝 Notes
 
 - `WDM` [Fluent Pad](https://github.com/Lixkote/WritePad)
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl)
@@ -196,11 +196,11 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
 - `WDM` [TowPad](https://github.com/itsWindows11/TowPad)
 
-####  Reminders
+#### 🔔 Reminders
 
 - `WDM` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9)
 
-####  Draw Board
+#### ⬜ Draw Board
 
 - `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
     
@@ -208,7 +208,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Personalize
+### 🎨 Personalize
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
@@ -228,7 +228,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Productivity
+### 📈 Productivity
 
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V)
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
@@ -248,7 +248,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  File explorer 
+### 📁 File explorer 
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
@@ -259,7 +259,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Utilities
+### 🛠️ Utilities
   
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
@@ -290,7 +290,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Artificial Intelligence (AI)
+### 🤖 Artificial Intelligence (AI)
 
 - `WDM` [Engage](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
@@ -301,9 +301,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-##  Tools
+## 🛠️ Tools
 
-####  Download Managers
+#### ⬇️ Download Managers
 
 - Full-Featured Download Manager
 
@@ -319,42 +319,42 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
   
 	- `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
    
-- Torrenting
+- 🔗 Torrenting
   
 	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
 	- `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
 
-####  Device Info/Monitors
+#### 📊 Device Info/Monitors
 
 - `WDM` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
 - `WDM` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 
-####  Security&Privacy
+#### 🔒 Security&Privacy
 
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
 - `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
 
-####  News
+#### 📰 News
 
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX)  
 
-####  Optimizer/Cleaners
+#### 🧹 Optimizer/Cleaners
 
 - `WDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)  
 - `WDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
-####  Email Clients
+#### 📧 Email Clients
 
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL) `[No Google Acoount Support]`
 
-####  Translators
+#### 🈵 Translators
 
 - `WDM` [Translate](https://github.com/shef3r/Translate/releases/tag/4.0-beta1)
 
-####  WSA
+#### 🤖 WSA
 
 - `WDM` [APK Installers](https://apps.microsoft.com/store/detail/apk-installers/9P2JFQ43FPPG)
 - `WDM` [Apk Installer on WSA](https://apps.microsoft.com/store/detail/apk-installer-on-wsa/9N1TWH0BPJPS)
@@ -377,7 +377,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Developer tools
+### 🧑‍💻 Developer tools
 
 ####  GitHub Client
 
@@ -396,7 +396,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Games
+### 🎮 Games
 
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
@@ -409,7 +409,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-###  Other Windows Apps
+### 🪟 Other Windows Apps
 
 - `WDM` [Microsoft Edge Browser](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
 - `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT)
