@@ -110,7 +110,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 ####  WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-#### <img src="https://drive.google.com/uc?export=download&id=1mYbdcCyGrci9pUbOtfC-hNCFCT86mDfX"> Youtube
+#### Youtube
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
