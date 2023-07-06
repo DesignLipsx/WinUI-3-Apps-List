@@ -14,10 +14,10 @@
 
 ##  📃 Table Of Contents
 
-- [Disclaimer](#disclaimer)
+- [Disclaimer](#-disclaimer)
 - [Abbreviations](#abbreviations)
-- [Best Implementation of WinUI 3](#best-implementation-of-winui-3)
-- [Apps List](#apps-list)
+- [Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
+- [Apps List](#-apps-list)
 	- [Social Media](#social-media)
 		- [Discord](#discord)
 	 	- [Mastodon](#mastodon)
@@ -60,19 +60,19 @@
 
 ---
 
-### 📄   Disclaimer
+### 📄 Disclaimer
 This list is solely a compilation of apps that adopt the WinUI 3 Design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow WinUI 3 Design guidelines.
 
 - ❗ Some indicators might be wrong as I interpreted if they're WD/WM/WDM or not by the screenshots. Please report wrong indicators.
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.*
 
-###  Abbreviations
+####  Abbreviations
 
 - **`WD`** Apps that follow WinUI 3 Design
 - **`WM`** Apps that follow Mica Material
 - **`WDM`** Apps that have both WinUI 3 design and Mica Material
 
- ###  Other abbreviations 
+ ####  Other abbreviations 
 
 - `💰` Paid Apps!
 - `⚠️ Steps Required` Additional steps required to install/setup
@@ -81,7 +81,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ---
 
-## Best Implementation of WinUI 3
+## ✨ Best Implementation of WinUI 3
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
@@ -92,7 +92,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP)
 
-##    Apps List
+## 📑 Apps List
 
 ###  Social Media
 
@@ -212,7 +212,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [AccentColorizer](https://github.com/Difegue/DialogueForest)
-- `WDM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
+- `WM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
 - `WDM` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
@@ -242,7 +242,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
-- `WDM` [Tomato app]() `In Development`
+- `WDM` [Tomato app]() `📆`
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -386,11 +386,11 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Other
 
-- `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
+- `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -401,8 +401,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
-- `WDM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
-- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+- **Tools**
+	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+ 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
 
@@ -439,6 +440,3 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
-
-
-
