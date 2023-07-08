@@ -36,7 +36,7 @@
 	- [Pdf viewer](#-pdf-viewer)
 	- [Browser](#-browser)
   	- [Notes](#-notesremindersdraw-board)
-  	- [Personalize](#-personalize)
+  	- [Personalization](#-personalization)
 	- [Productivity](#-productivity)
 	- [File explorer](#-file-explorer)
 	- [Utilities](#-utilities) 
@@ -75,7 +75,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
  ####  Other abbreviations 
 
 - `💰` Paid Apps!
-- `⚠️ Steps Required` Additional steps required to install/setup
+- `🎨` Theme!
 - `📆 Planned` Apps that in development
 - `❎ Discontinued` App is discontinued/paused indefinitely
 
@@ -98,11 +98,12 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Discord
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
-- `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `⚠️`
+- `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨`
+- `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
 ####  Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 ####  Reddit
--  [Readit](https://apps.microsoft.com/store/detail/readit/9NBLGGH189C8?hl=en-us&gl=us)
+- `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
 ####  Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
@@ -222,7 +223,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
 - `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
 - `WDM` [Acrylic](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
-- `WDM` [10Mica](https://github.com/ahmed605/10Mica) `For windows 10`
+- `WDM` [10Mica](https://github.com/ahmed605/10Mica)
 - `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
 - `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
 - `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
@@ -262,7 +263,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ------------
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="25" height="25" /> Utilities
+### 🔧 Utilities
   
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
@@ -279,7 +280,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 - `WD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
-- `WDM` [RunManager]https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
+- `WDM` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 - `WDM` [Super Launcher](https://apps.microsoft.com/store/detail/super-launcher/9N269JD69VCX)
 - `WDM` [TaskbarWebsites](https://apps.microsoft.com/store/detail/taskbarwebsites/9MZ8WTK48VHT)
 - `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
@@ -400,7 +401,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
-- `WDM` [Codly Snippet Manager]https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
+- `WDM` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
+- `WD` [3D Engine](https://apps.microsoft.com/store/detail/3d-engine/9NFSX6JPV0PS)
 - `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 
 <sub>[📃 Table Of Contents](#-table-of-contents)</sub>
