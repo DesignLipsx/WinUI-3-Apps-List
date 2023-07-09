@@ -17,6 +17,7 @@
 - [Disclaimer](#-disclaimer)
 - [Abbreviations](#abbreviations)
 - [Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
+- [Newly Added Apps](#-newly-added-apps)
 - [Apps List](#-apps-list)
 	- [Social Media](#-social-media)
 		- [Discord](#-discord)
@@ -89,6 +90,17 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
+
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
+
+---
+
+## 🆕 Newly Added Apps!
+
+- `WDM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
+- `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
+
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ---
 
