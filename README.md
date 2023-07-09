@@ -97,7 +97,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ## 🆕 Newly Added Apps!
 
-- `WDM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
+- `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -108,29 +108,29 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ### 👨‍💻 Social Media
 
-#### <img src="https://img.icons8.com/?size=512&id=2mIgusGquJFz&format=png" width="20" height="20" /> Discord
+#### <img src="https://img.icons8.com/?size=512&id=2mIgusGquJFz&format=png" width="21" height="21" /> Discord
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
-- `WDM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
-- `WDM` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
+- `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
+- `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨`
 
-#### <img src="https://gitlab.comwork.io/uploads/-/system/project/avatar/1695/logo-mastodon.png" width="20" height="20" /> Mastodon
+#### <img src="https://gitlab.comwork.io/uploads/-/system/project/avatar/1695/logo-mastodon.png" width="21" height="21" /> Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 
-#### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="20" height="20" /> Reddit
+#### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
 
-#### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="20" height="20" /> Telegram
+#### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 
-#### <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="20" height="20" /> Twitter
+#### <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="21" height="21" /> Twitter
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 
-#### <img src="https://img.icons8.com/?size=512&id=AltfLkFSP7XN&format=png" width="20" height="20" /> WhatsApp
+#### <img src="https://img.icons8.com/?size=512&id=AltfLkFSP7XN&format=png" width="21" height="21" /> WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
-#### <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png" width="20" height="20" /> Youtube
+#### <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png" width="21" height="21" /> Youtube
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -161,7 +161,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
 
-#### <img src="https://img.icons8.com/?size=512&id=G9XXzb9XaEKX&format=png"   width="20" height="20" /> Spotify Client
+#### <img src="https://img.icons8.com/?size=512&id=G9XXzb9XaEKX&format=png"   width="21" height="21" /> Spotify Client
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee)
 
@@ -331,21 +331,21 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 #### ⬇️ Download Managers
 
-- <img src="https://img.icons8.com/?size=512&id=oWNmXOb2HARO&format=png"   width="20" height="20" /> Full-Featured Download Manager
+- <img src="https://img.icons8.com/?size=512&id=oWNmXOb2HARO&format=png"   width="21" height="21" /> Full-Featured Download Manager
 
 	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia)
 	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰`
 
-- <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="20" height="20" /> YouTube
+- <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
 
 	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)   
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
    
-- <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="20" height="20" /> Instagram
+- <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
   
 	- `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
    
-- <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="20" height="20" /> Torrenting
+- <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
   
 	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
@@ -421,12 +421,12 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ### 🧑‍💻 Developer tools
 
-#### <img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"   width="20" height="20" /> GitHub Client
+#### <img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
 
 - `WDM` [FluentHub](https://github.com/FluentHub/FluentHub)
 - `WDM` [JitHub](https://github.com/JitHubApp/JitHubV2)
 
-#### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="20" height="20" /> Other
+#### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
