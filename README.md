@@ -200,7 +200,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ### 🌐 Browser
 
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
-- `WDM` [Project Radon](https://github.com/itzbluebxrry/Project-Radon) `📆`
+- `WDM` [Radon Browser](https://github.com/itzbluebxrry/Project-Radon) `📆`
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆`
 - `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆`
 
