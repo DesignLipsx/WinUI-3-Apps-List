@@ -97,8 +97,22 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ## 🆕 Newly Added Apps!
 
+- `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
+- `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
+- `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
+- `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
+- `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
+- `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
+- `WDM` [美剧社](https://apps.microsoft.com/store/detail/%E7%BE%8E%E5%89%A7%E7%A4%BE/9MXPQ2SRXKXL)
+- `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
+- `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF)
+- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
+- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
+- `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
+- `WD` [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ)
 - `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
+
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -114,7 +128,10 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨`
 
-#### <img src="https://gitlab.comwork.io/uploads/-/system/project/avatar/1695/logo-mastodon.png" width="21" height="21" /> Mastodon
+#### <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="21" height="21" /> Instagram
+- `WD` [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ)
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1200px-Mastodon_Logotype_%28Simple%29.svg.png" width="18" height="18" /> Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
@@ -234,6 +251,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
+- `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
+- `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
@@ -255,12 +274,15 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB?hl=en-us&gl=us)
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
+- `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
+- `WDM` [美剧社](https://apps.microsoft.com/store/detail/%E7%BE%8E%E5%89%A7%E7%A4%BE/9MXPQ2SRXKXL)
 - `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
 - `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
+- `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰`
@@ -298,9 +320,11 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
+- `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 - `WD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
 - `WD` [TaskbarWebsites](https://apps.microsoft.com/store/detail/taskbarwebsites/9MZ8WTK48VHT)
+- `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
 - `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
@@ -319,6 +343,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ### 🤖 Artificial Intelligence (AI)
 
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
+- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
 - `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
@@ -338,8 +363,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
 
-	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)   
+	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+	- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
    
 - <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
   
@@ -382,6 +408,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 #### 🈵 Translators
 
 - `WDM` [Translate](https://github.com/shef3r/Translate)
+- `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF)
 
 #### 🤖 WSA
 
@@ -435,6 +462,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
 - `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
+- `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
+- `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
 - `WD` [3D Engine](https://apps.microsoft.com/store/detail/3d-engine/9NFSX6JPV0PS)
 - `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 
@@ -471,3 +500,4 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
+
