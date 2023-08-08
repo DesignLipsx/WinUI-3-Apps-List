@@ -6,8 +6,12 @@
 </p>
 <p align="center">
   <p align="center">
-  <b>Please <img src="https://em-content.zobj.net/source/microsoft-teams/363/glowing-star_1f31f.png"   width="30" height="30" /> the repo if you like.</b>
-
+  <b>Please <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png"   width="30" height="30" /> the repo if you like.</b>
+</p>
+<p align="center">
+  <a href="https://discord.com/channels/714581497222398064/1127236520366047322">
+    <span style="display:inline-block;"><strong><u>Join the WinUI 3 Apps Showcase Discord discussion and suggest new apps</u></strong></span>
+  </a>
 </p>
 
 ---
@@ -97,29 +101,12 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ## 🆕 Newly Added Apps!
 
-- `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
-- `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
-- `WDM` [AuText](https://apps.microsoft.com/store/detail/autext/9NP0PJHCSRH3)
-- `WDM` [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
-- `WD` [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
-- `WD` [ConTeXt IDE](https://apps.microsoft.com/store/detail/context-ide/9NN9Q389TTJR)
-- `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3)
-- `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
-- `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
-- `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
-- `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
-- `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
-- `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
-- `WDM` [美剧社](https://apps.microsoft.com/store/detail/%E7%BE%8E%E5%89%A7%E7%A4%BE/9MXPQ2SRXKXL)
-- `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
-- `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF)
-- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
-- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
-- `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
-- `WD` [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ)
-- `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
-- `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
+*Last **4 apps** that were recently added to list!*
 
+- `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
+- `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
+- `WDM` [HandySub](https://github.com/ghost1372/HandySub)
+- `WD` [Unpaint](https://github.com/axodox/unpaint)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -319,6 +306,8 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
   
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
+- `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
+- `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
 - `WDM` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
 - `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
@@ -331,6 +320,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WD` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
+- `WDM` [HandySub](https://github.com/ghost1372/HandySub)
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
@@ -437,6 +427,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 ### 💠 Multimedia & Design
 
 - `WDM` [Camo](https://reincubate.com/camo/)
+- `WD` [Unpaint](https://github.com/axodox/unpaint)
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
@@ -515,3 +506,6 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
+------------
+
+[Join the WinUI 3 Apps Showcase Discord discussion and suggest new apps!](https://discord.com/channels/714581497222398064/1127236520366047322)
