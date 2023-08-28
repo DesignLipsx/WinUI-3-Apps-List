@@ -62,6 +62,7 @@
 	 	- [Other](#-other) 
 	- [Other Windows Apps](#-other-windows-apps)
 	- [WinUI 3 Catalogs](#-winui-3-catalogs)
+   	- [Contributing to the WinUI 3 Apps List](#-contributing-to-the-winui-3-apps-list-1)
 
 ---
 
