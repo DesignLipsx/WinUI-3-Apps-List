@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/channels/714581497222398064/1127236520366047322">
-    <span style="display:inline-block;"><strong><u>Join the WinUI 3 Apps Showcase Discord discussion and suggest new apps</u></strong></span>
+    <span style="display:inline-block;"><strong><u>WinUI 3 Apps Showcase Discord discussion</u></strong></span>
   </a>
 </p>
 
@@ -84,9 +84,24 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `📆 Planned` Apps that in development
 - `❎ Discontinued` App is discontinued/paused indefinitely
 
+ #### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
+
+Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how you can add your app:
+
+1. Fork this repository.
+2. Add your app to the appropriate section in the README.md file, following the existing format.
+3. Create a pull request to suggest your changes.
+4. Our team will review your submission and merge it if it meets our criteria.
+
+Please ensure your app fits the WinUI 3 category and provide a brief description and link.
+
+Thank you for being a part of our community!
+
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Best Implementation of WinUI 3
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis" width="25" height="25" /> Best Implementation of WinUI 3
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
@@ -504,8 +519,21 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
 
-<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
-
 ------------
 
-[Join the WinUI 3 Apps Showcase Discord discussion and suggest new apps!](https://discord.com/channels/714581497222398064/1127236520366047322)
+ #### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
+
+Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how you can add your app:
+
+1. Fork this repository.
+2. Add your app to the appropriate section in the README.md file, following the existing format.
+3. Create a pull request to suggest your changes.
+4. I will review your submission and merge it if it meets our criteria.
+
+Please ensure your app fits the WinUI 3 category and provide correct indicators and link.
+
+- **`WD`** Apps that follow WinUI 3 Design
+- **`WM`** Apps that follow Mica Material
+- **`WDM`** Apps that have both WinUI 3 design and Mica Material
+
+Thank you for being a part of our community!
