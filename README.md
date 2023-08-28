@@ -458,6 +458,7 @@ Thank you for being a part of our community!
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
+- `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - **🔧 Tools**
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
