@@ -94,7 +94,7 @@ Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how
 3. Create a pull request to suggest your changes.
 4. Our team will review your submission and merge it if it meets our criteria.
 
-Please ensure your app fits the WinUI 3 category and provide a brief description and link.
+Please ensure your app fits the WinUI 3 category and provide a brief description and link. Don't forget to add your apps to the newly added apps section!
 
 Thank you for being a part of our community!
 
@@ -117,8 +117,9 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **4 apps** that were recently added to list!*
+*Last **5 apps** that were recently added to list!*
 
+- `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WDM` [HandySub](https://github.com/ghost1372/HandySub)
@@ -552,7 +553,7 @@ Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how
 3. Create a pull request to suggest your changes.
 4. I will review your submission and merge it if it meets our criteria.
 
-Please ensure your app fits the WinUI 3 category and provide correct indicators and link.
+Please ensure your app fits the WinUI 3 category and provide a brief description and link. Don't forget to add your apps to the newly added apps section!
 
 - **`WD`** Apps that follow WinUI 3 Design
 - **`WM`** Apps that follow Mica Material
