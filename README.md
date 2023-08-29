@@ -204,7 +204,9 @@ Thank you for being a part of our community!
 ### 🏜️ Photo viewer
 
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
-- `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)  
+- `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
+- `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer)
+- `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - **🔧 Tools**    
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
 
@@ -244,7 +246,9 @@ Thank you for being a part of our community!
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
 - `WDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
 - `WDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
-- `WD` [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
+- `WD`  [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
+- `WDM` [Ferrpad](https://github.com/shef3r/ferrpad)
+- `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
 
 #### 🔔 Reminders
@@ -265,6 +269,8 @@ Thank you for being a part of our community!
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
 - `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
 - `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
+- `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
+- `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
@@ -287,6 +293,7 @@ Thank you for being a part of our community!
 ### 📈 Productivity
 
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB)
+- `WD` [Pasteboard](https://www.pasteboard.app)
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 - `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
@@ -299,6 +306,7 @@ Thank you for being a part of our community!
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
+- `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8?cid=github&launch=true&mode=mini)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰`
 - `WDM` [Tomato app]() `📆`
@@ -322,18 +330,20 @@ Thank you for being a part of our community!
   
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
+- `WDM` [Dropshelf](https://apps.microsoft.com/store/detail/dropshelf/9MZPC6P14L7N)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
 - `WDM` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
 - `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
+- `WDM` [Fluent Weather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457?hl=en-us&gl=us)
 - `WDM` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
 - `WDM` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
 - `WDM` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
 - `WDM` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
 - `WDM` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
-- `WD` [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
-- `WD` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
+- `WD`  [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
+- `WD`  [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
 - `WDM` [HandySub](https://github.com/ghost1372/HandySub)
@@ -347,6 +357,11 @@ Thank you for being a part of our community!
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WDM` [A.Click - Auto Clicker](https://apps.microsoft.com/store/detail/aclick-auto-clicker/9MV9MFVB6R5V)
+- `WM`  [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
+- `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ)
+- `WDM` [BLuetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
+- `WM` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
+- `WD`  [Everything Toolbar](https://github.com/srwi/EverythingToolbar)
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💰`
 - `WDM` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💰`  
 - `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰`  
@@ -378,7 +393,7 @@ Thank you for being a part of our community!
 - <img src="https://img.icons8.com/?size=512&id=oWNmXOb2HARO&format=png"   width="21" height="21" /> Full-Featured Download Manager
 
 	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia)
-	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰`
+	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰` 
 
 - <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
 
@@ -412,6 +427,7 @@ Thank you for being a part of our community!
 
 #### 📰 News
 
+- `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds)
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
 
 #### 🧹 Optimizer/Cleaners
@@ -443,7 +459,8 @@ Thank you for being a part of our community!
 ### 💠 Multimedia & Design
 
 - `WDM` [Camo](https://reincubate.com/camo/)
-- `WD` [Unpaint](https://github.com/axodox/unpaint)
+- `WD`  [Unpaint](https://github.com/axodox/unpaint)
+- `WD`  [System Color Picker](https://apps.microsoft.com/store/detail/system-color-picker/9PDNCSSK83F1)
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
@@ -458,9 +475,11 @@ Thank you for being a part of our community!
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
+- `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - **🔧 Tools**
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+        - `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
  
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -476,9 +495,11 @@ Thank you for being a part of our community!
 #### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
+- `WDM` [Mica Editor](https://apps.microsoft.com/store/detail/mica-editor/9PGZBDP9PSPF?hl=en-in&gl=in&rtc=1)
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [QTWin11](https://github.com/witalihirsch/QTWin11)
+- `WDM` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
 - `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
