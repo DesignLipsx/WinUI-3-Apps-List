@@ -122,7 +122,6 @@ Thank you for being a part of our community!
 - `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
-- `WDM` [HandySub](https://github.com/ghost1372/HandySub)
 - `WD` [Unpaint](https://github.com/axodox/unpaint)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -348,7 +347,6 @@ Thank you for being a part of our community!
 - `WD`  [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
-- `WDM` [HandySub](https://github.com/ghost1372/HandySub)
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
@@ -441,7 +439,7 @@ Thank you for being a part of our community!
 
 #### 📧 Email Clients
 
-- `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL) `[No Google Acoount Support]`
+- `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 #### 🈵 Translators
 
