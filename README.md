@@ -117,7 +117,7 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **5 apps** that were recently added to list!*
+*Last **4 apps** that were recently added to list!*
 
 - `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
