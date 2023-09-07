@@ -1,7 +1,6 @@
 <h1 align="center">WinUI 3 Apps List</h1>
 
 ***WinUI 3** is the latest version of Microsoft's native user interface (UX) framework for Windows desktop and UWP applications. It is based on the Fluent Design System, which emphasizes simplicity, clarity, and consistency in user interface design..*
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1Y42hELgJnvBbgqfRC8ljb7i91bIySm1p">
 </p>
@@ -17,82 +16,76 @@
 
 ---
 
-## 📑 Table Of Contents
+##  📑 Table Of Contents
 
 - [Disclaimer](#-disclaimer)
 - [Abbreviations](#abbreviations)
 - [Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
 - [Newly Added Apps](#-newly-added-apps)
 - [Apps List](#-apps-list)
-  - [Social Media](#-social-media)
-    - [Discord](#-discord)
-      - [Mastodon](#-mastodon)
-      - [Reddit](#-reddit)
-      - [Telegram](#-telegram)
-      - [Twitter](#-twitter)
-      - [Whatsapp](#-whatsapp)
-    - [Youtube](#-youtube)
-  - [Media](#-media)
-    - [Music Players](#-music-players)
-      - [Video Players](#%EF%B8%8F-video-players)
-      - [Streaming Services](#-streaming-services)
-      - [Spotify Client](#-spotify-client)
-      - [Podcast](#%EF%B8%8F-podcast) 
-  - [Photo viewer](#%EF%B8%8F-photo-viewer)
-  - [Pdf viewer](#-pdf-viewer)
-  - [Browser](#-browser)
-    - [Notes](#-notesremindersdraw-board)
-    - [Personalization](#-personalization)
-  - [Productivity](#-productivity)
-  - [File explorer](#-file-explorer)
-  - [Utilities](#-utilities) 
-  - [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-  - [Tools](#%EF%B8%8F-tools)
-    - [Download Managers](#%EF%B8%8F-download-managers)
-      - [Device Info/Monitors](#-device-infomonitors)
-      - [Security&Privacy](#-securityprivacy)
-      - [News](#-news)
-      - [Optimizer/Cleaners](#-optimizercleaners)
-    - [Email Clients](#-email-clients)
-      - [Translators](#-translators)
-      - [WSA](#-wsa)
-  - [Multimedia & Design](#-multimedia--design)
-    - [Games](#-games)
-  - [Developer Tools](#-developer-tools)
-    - [GitHub Client](#-github-client)
-      - [Other](#-other) 
-  - [Other Windows Apps](#-other-windows-apps)
-  - [WinUI 3 Catalogs](#-winui-3-catalogs)
-    - [Contributing to the WinUI 3 Apps List](#-contributing-to-the-winui-3-apps-list-1)
+	- [Social Media](#-social-media)
+		- [Discord](#-discord)
+	 	- [Mastodon](#-mastodon)
+	 	- [Reddit](#-reddit)
+	 	- [Telegram](#-telegram)
+	 	- [Twitter](#-twitter)
+	 	- [Whatsapp](#-whatsapp)
+		- [Youtube](#-youtube)
+	- [Media](#-media)
+		- [Music Players](#-music-players)
+	 	- [Video Players](#%EF%B8%8F-video-players)
+	 	- [Streaming Services](#-streaming-services)
+	 	- [Spotify Client](#-spotify-client)
+	 	- [Podcast](#%EF%B8%8F-podcast) 
+	- [Photo viewer](#%EF%B8%8F-photo-viewer)
+	- [Pdf viewer](#-pdf-viewer)
+	- [Browser](#-browser)
+  	- [Notes](#-notesremindersdraw-board)
+  	- [Personalization](#-personalization)
+	- [Productivity](#-productivity)
+	- [File explorer](#-file-explorer)
+	- [Utilities](#-utilities) 
+	- [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
+	- [Tools](#%EF%B8%8F-tools)
+		- [Download Managers](#%EF%B8%8F-download-managers)
+	 	- [Device Info/Monitors](#-device-infomonitors)
+	 	- [Security&Privacy](#-securityprivacy)
+	 	- [News](#-news)
+	 	- [Optimizer/Cleaners](#-optimizercleaners)
+		- [Email Clients](#-email-clients)
+	 	- [Translators](#-translators)
+	 	- [WSA](#-wsa)
+	- [Multimedia & Design](#-multimedia--design)
+  	- [Games](#-games)
+	- [Developer Tools](#-developer-tools)
+		- [GitHub Client](#-github-client)
+	 	- [Other](#-other) 
+	- [Other Windows Apps](#-other-windows-apps)
+	- [WinUI 3 Catalogs](#-winui-3-catalogs)
+   	- [Contributing to the WinUI 3 Apps List](#-contributing-to-the-winui-3-apps-list-1)
 
 ---
 
 ### 📄 Disclaimer
-
 This list is solely a compilation of apps that adopt the WinUI 3 Design guidelines and does not consider the functionality or utility of the listed apps (the listed apps may or may not be useful). There may be other apps that follow WinUI 3 Design guidelines.
 
 - ❗ Some indicators might be wrong as I interpreted if they're WD/WM/WDM or not by the screenshots. Please report wrong indicators.
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.*
 
-#### Abbreviations
+####  Abbreviations
 
 - **`WD`** Apps that follow WinUI 3 Design
-
 - **`WM`** Apps that follow Mica Material
-
 - **`WDM`** Apps that have both WinUI 3 design and Mica Material
-  
-  #### Other abbreviations
+
+ ####  Other abbreviations 
 
 - `💰` Paid Apps!
-
 - `🎨` Theme!
-
 - `📆 Planned` Apps that in development
-
 - `❎ Discontinued` App is discontinued/paused indefinitely
-  
-  #### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
+
+ #### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
 
 Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how you can add your app:
 
@@ -140,39 +133,31 @@ Thank you for being a part of our community!
 ### 👨‍💻 Social Media
 
 #### <img src="https://img.icons8.com/?size=512&id=2mIgusGquJFz&format=png" width="21" height="21" /> Discord
-
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
 - `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨`
 
 #### <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="21" height="21" /> Instagram
-
 - `WD` [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ)
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1200px-Mastodon_Logotype_%28Simple%29.svg.png" width="18" height="18" /> Mastodon
-
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
-
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
 
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
-
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 
 #### <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="21" height="21" /> Twitter
-
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=AltfLkFSP7XN&format=png" width="21" height="21" /> WhatsApp
-
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
 #### <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png" width="21" height="21" /> Youtube
-
 - `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -196,7 +181,7 @@ Thank you for being a part of our community!
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 - **🔧 Tools**    
-  - `WDM` [AVC - Any Video Converter, MP4 Converter](https://apps.microsoft.com/store/detail/avc-any-video-converter-mp4-converter/9PMVGZSGZXVB)
+	- `WDM` [AVC - Any Video Converter, MP4 Converter](https://apps.microsoft.com/store/detail/avc-any-video-converter-mp4-converter/9PMVGZSGZXVB)
 
 #### 📺 Streaming Services
 
@@ -223,7 +208,7 @@ Thank you for being a part of our community!
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer)
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - **🔧 Tools**    
-  - `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
+	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -233,10 +218,10 @@ Thank you for being a part of our community!
 
 - `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)  
 - **🔧 Tools**
-  - `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)  
-  - `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
-  - `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
-
+	- `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)  
+	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
+	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
+	
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
@@ -264,8 +249,8 @@ Thank you for being a part of our community!
 - `WD`  [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
 - `WDM` [Ferrpad](https://github.com/shef3r/ferrpad)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
-- `WDM` [Typedown]([Microsoft Apps](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4))
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
+- `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 
 #### 🔔 Reminders
 
@@ -274,12 +259,12 @@ Thank you for being a part of our community!
 #### ⬜ Draw Board
 
 - `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
-
+    
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
-### 🎨 Personalization
+### 🎨 Personalization 
 
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
@@ -331,7 +316,7 @@ Thank you for being a part of our community!
 
 ------------
 
-### 📁 File explorer
+### 📁 File explorer 
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
@@ -343,7 +328,7 @@ Thank you for being a part of our community!
 ------------
 
 ### 🔧 Utilities
-
+  
 - `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
@@ -407,25 +392,25 @@ Thank you for being a part of our community!
 #### ⬇️ Download Managers
 
 - <img src="https://img.icons8.com/?size=512&id=oWNmXOb2HARO&format=png"   width="21" height="21" /> Full-Featured Download Manager
-  
-  - `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia)
-  - `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰` 
+
+	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia)
+	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰` 
 
 - <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
-  
-  - `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
-  - `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
-  - `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
 
+	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
+	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+	- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
+   
 - <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
   
-  - `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
-
+	- `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
+   
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
   
-  - `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
-  - `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
-  - `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
+	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
+	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
+	- `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
 
 #### 📊 Device Info/Monitors
 
@@ -439,6 +424,7 @@ Thank you for being a part of our community!
 - `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
 - `WM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
+
 
 #### 📰 News
 
@@ -493,10 +479,10 @@ Thank you for being a part of our community!
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
 - `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - **🔧 Tools**
-  - `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
-  - `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
-    - `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
-
+	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
+	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+        - `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
+ 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
@@ -559,7 +545,7 @@ Thank you for being a part of our community!
 
 ------------
 
-#### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
+ #### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
 
 Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how you can add your app:
 
