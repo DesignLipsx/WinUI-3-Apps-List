@@ -250,6 +250,7 @@ Thank you for being a part of our community!
 - `WDM` [Ferrpad](https://github.com/shef3r/ferrpad)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
+- `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 
 #### 🔔 Reminders
 
