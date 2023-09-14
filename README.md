@@ -117,12 +117,14 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **4 apps** that were recently added to list!*
+*Last **6 apps** that were recently added to list!*
 
-- `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
-- `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
-- `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
-- `WD` [Unpaint](https://github.com/axodox/unpaint)
+- `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
+- `WDM` [Natsurianko.FluentLauncher](https://www.microsoft.com/en-in/p/natsuriankofluentlauncher/9P4NQQXQ942P)
+- `WD` [Shortcuts Center](https://apps.microsoft.com/store/detail/shortcuts-center/9NFX8MMVG9X6)
+- `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
+- `WDM` [Fixdows](https://apps.microsoft.com/store/detail/fixdows/9NKSGDKQ4L85)
+- `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -248,9 +250,9 @@ Thank you for being a part of our community!
 - `WDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
 - `WD`  [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
 - `WDM` [Ferrpad](https://github.com/shef3r/ferrpad)
+- `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
-- `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 
 #### 🔔 Reminders
 
@@ -295,6 +297,7 @@ Thank you for being a part of our community!
 
 - `WD` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB)
 - `WD` [Pasteboard](https://www.pasteboard.app)
+- `WD` [Shortcuts Center](https://apps.microsoft.com/store/detail/shortcuts-center/9NFX8MMVG9X6)
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 - `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
@@ -334,6 +337,7 @@ Thank you for being a part of our community!
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 - `WDM` [Dropshelf](https://apps.microsoft.com/store/detail/dropshelf/9MZPC6P14L7N)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
+- `WDM` [Fixdows](https://apps.microsoft.com/store/detail/fixdows/9NKSGDKQ4L85)
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
 - `WDM` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
@@ -477,6 +481,8 @@ Thank you for being a part of our community!
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
+- `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
+- `WDM` [Natsurianko.FluentLauncher](https://www.microsoft.com/en-in/p/natsuriankofluentlauncher/9P4NQQXQ942P)
 - `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
 - **🔧 Tools**
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
@@ -542,6 +548,7 @@ Thank you for being a part of our community!
 - `WD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC)
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
+- `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
 
 ------------
 
