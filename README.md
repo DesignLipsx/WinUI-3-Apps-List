@@ -50,7 +50,7 @@
 		- [Download Managers](#%EF%B8%8F-download-managers)
 	 	- [Device Info/Monitors](#-device-infomonitors)
 	 	- [Security&Privacy](#-securityprivacy)
-	 	- [News](#-news)
+	 	- [News & Weather](#-news)
 	 	- [Optimizer/Cleaners](#-optimizercleaners)
 		- [Email Clients](#-email-clients)
 	 	- [Translators](#-translators)
@@ -117,8 +117,9 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **6 apps** that were recently added to list!*
+*Last **7 apps** that were recently added to list!*
 
+- `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
 - `WDM` [Natsurianko.FluentLauncher](https://www.microsoft.com/en-in/p/natsuriankofluentlauncher/9P4NQQXQ942P)
 - `WD` [Shortcuts Center](https://apps.microsoft.com/store/detail/shortcuts-center/9NFX8MMVG9X6)
@@ -432,6 +433,7 @@ Thank you for being a part of our community!
 
 #### 📰 News
 
+- `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
 - `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds)
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
 
