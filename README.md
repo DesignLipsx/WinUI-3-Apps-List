@@ -12,6 +12,14 @@
   <a href="https://discord.com/channels/714581497222398064/1127236520366047322">
     <span style="display:inline-block;"><strong><u>WinUI 3 Apps Showcase Discord discussion</u></strong></span>
   </a>
+•  
+  <a href="#-newly-added-apps">
+    <span style="display:inline-block;"><strong><u>Newly Added Apps</u></strong></span>
+  </a>
+•  
+  <a href="#-contributing-to-the-winui-3-apps-list">
+    <span style="display:inline-block;"><strong><u>Contributing</u></strong></span>
+  </a>
 </p>
 
 ---
