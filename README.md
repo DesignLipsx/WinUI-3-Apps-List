@@ -118,8 +118,9 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **10 apps** that were recently added to list!*
+*Last **11 apps** that were recently added to list!*
 
+- `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic)
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
 - `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
@@ -428,6 +429,10 @@ Thank you for being a part of our community!
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
 	- `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
 
+- <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Other
+  
+	- `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic)
+ 
 #### 📊 Device Info/Monitors
 
 - `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
