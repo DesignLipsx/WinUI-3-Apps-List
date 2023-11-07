@@ -595,5 +595,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - **`WD`** Apps that follow WinUI 3 Design
 - **`WM`** Apps that follow Mica Material
 - **`WDM`** Apps that have both WinUI 3 design and Mica Material
+- **`WDA`** Apps that have both WinUI 3 design and Acrylic Material
 
 Thank you for being a part of our community!
