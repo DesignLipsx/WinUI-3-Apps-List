@@ -206,7 +206,7 @@ Thank you for being a part of our community!
 - `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
 
-#### <img src="https://img.icons8.com/?size=512&id=G9XXzb9XaEKX&format=png"   width="21" height="21" /> Spotify Client
+#### <img src="https://img.icons8.com/?size=80&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee)
 
