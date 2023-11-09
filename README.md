@@ -136,16 +136,6 @@ Thank you for being a part of our community!
 - `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [Notepads](https://github.com/0x7c13/Notepads)
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
-- `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic)
-- `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
-- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
-- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
-- `WD` [Text To Speech Live UI](https://apps.microsoft.com/detail/text-to-speech-live-ui/9MWHWTD64HPL)
-- `WD` [Fine Screen Recorder & Screen Record](https://apps.microsoft.com/detail/fine-screen-recorder-%26screen-record/9NFPNX6XF6Z7)
-- `WD` [Screen Recorder Pro.](https://apps.microsoft.com/detail/screen-recorder-pro/9P4PF7SGF95R) `💰`
-- `WDM` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
-- `WDM` [Tagger](https://github.com/NickvisionApps/Tagger)
-- `WD` [Ritt](https://apps.microsoft.com/detail/9N020ZXP2Z1G)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -155,7 +145,7 @@ Thank you for being a part of our community!
 
 ### 👨‍💻 Social Media
 
-#### <img src="https://img.icons8.com/?size=512&id=2mIgusGquJFz&format=png" width="21" height="21" /> Discord
+#### <img src="https://img.icons8.com/?size=256&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
 - `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
@@ -174,10 +164,13 @@ Thank you for being a part of our community!
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
 
-#### <img src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" width="21" height="21" /> Twitter
+#### <img src="https://img.icons8.com/?size=256&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 
-#### <img src="https://img.icons8.com/?size=512&id=AltfLkFSP7XN&format=png" width="21" height="21" /> WhatsApp
+#### <img src="https://img.icons8.com/?size=256&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
+- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5) `📆`
+
+#### <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
 #### <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png" width="21" height="21" /> Youtube
