@@ -47,6 +47,7 @@
 	 	- [Podcast](#%EF%B8%8F-podcast) 
 	- [Photo viewer](#%EF%B8%8F-photo-viewer)
 	- [Pdf viewer](#-pdf-viewer)
+	- [App Store](#-app-store)
 	- [Browser](#-browser)
   	- [Notes](#-notesremindersdraw-board)
   	- [Personalization](#-personalization)
@@ -128,6 +129,13 @@ Thank you for being a part of our community!
 
 *Last **11 apps** that were recently added to list!*
 
+- `WDM` [Magpie](https://github.com/Blinue/Magpie)
+- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
+- `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
+- `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
+- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
+- `WDM` [Notepads](https://github.com/0x7c13/Notepads)
+- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
 - `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic)
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
@@ -226,6 +234,7 @@ Thank you for being a part of our community!
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - **🔧 Tools**    
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
+   	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -239,6 +248,16 @@ Thank you for being a part of our community!
 	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
 	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
 	
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
+
+------------
+
+### 🌐 App Store
+
+- `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
+- `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
+- `WDM` [Microsoft Store](https://apps.microsoft.com/home?hl=en-us&gl=US)
+
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
@@ -258,6 +277,10 @@ Thank you for being a part of our community!
 
 #### 📝 Notes
 
+- `WDM` [Mica Editor](https://www.microsoft.com/store/apps/9PGZBDP9PSPF)
+- `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
+- `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
+- `WDM` [Notepads](https://github.com/0x7c13/Notepads)
 - `WDM` [TowPad](https://github.com/itsWindows11/TowPad)
 - `WDM` [Fluent Pad](https://github.com/Lixkote/WritePad)
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
@@ -290,6 +313,7 @@ Thank you for being a part of our community!
 - `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
 - `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
+- `WDM` [Magpie](https://github.com/Blinue/Magpie)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
 - `WD` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
@@ -348,10 +372,10 @@ Thank you for being a part of our community!
 
 ### 🔧 Utilities
 
-- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 - `WDM` [Dropshelf](https://apps.microsoft.com/store/detail/dropshelf/9MZPC6P14L7N)
+- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WDM` [Fixdows](https://apps.microsoft.com/store/detail/fixdows/9NKSGDKQ4L85)
 - `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S)
@@ -525,26 +549,24 @@ Thank you for being a part of our community!
 
 - `WDM` [FluentHub](https://github.com/FluentHub/FluentHub)
 - `WDM` [JitHub](https://github.com/JitHubApp/JitHubV2)
+- `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
+- `WDM` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
+- `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
+- `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
+- `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
+- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
+- `WDM` [QTWin11](https://github.com/witalihirsch/QTWin11)
+- `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
+- `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
+- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
+- `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
+- `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
+- `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
 
 #### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
-- `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
-- `WDM` [Mica Editor](https://apps.microsoft.com/store/detail/mica-editor/9PGZBDP9PSPF?hl=en-in&gl=in&rtc=1)
-- `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
-- `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
-- `WDM` [QTWin11](https://github.com/witalihirsch/QTWin11)
-- `WDM` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
-- `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
-- `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
-- `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
-- `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
-- `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
-- `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
-- `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
-- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
-- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
+- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 - `WD` [3D Engine](https://apps.microsoft.com/store/detail/3d-engine/9NFSX6JPV0PS)
-- `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
