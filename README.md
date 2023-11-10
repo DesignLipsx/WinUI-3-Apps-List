@@ -161,7 +161,7 @@ Thank you for being a part of our community!
 
 #### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
-- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
+- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
 
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
@@ -170,7 +170,7 @@ Thank you for being a part of our community!
 - `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
 
 #### <img src="https://img.icons8.com/?size=256&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
-- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5) `📆`
+- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
 
 #### <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
