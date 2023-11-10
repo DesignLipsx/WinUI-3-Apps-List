@@ -127,8 +127,9 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **8 apps** that were recently added to list!*
+*Last **9 apps** that were recently added to list!*
 
+- `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer)
@@ -258,10 +259,12 @@ Thank you for being a part of our community!
 
 ### 🌐 Browser
 
+- `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
 - `WDM` [Radon Browser](https://github.com/itzbluebxrry/Project-Radon) `📆`
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆`
 - `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆`
+- `WDM` [Odyssey]() `📆`
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
