@@ -127,8 +127,9 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **11 apps** that were recently added to list!*
+*Last **8 apps** that were recently added to list!*
 
+- `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
@@ -341,7 +342,8 @@ Thank you for being a part of our community!
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
-- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
+- `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
+- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) `📆`
 - `WD` [Text To Speech Live UI](https://apps.microsoft.com/detail/text-to-speech-live-ui/9MWHWTD64HPL)
 - `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8?cid=github&launch=true&mode=mini)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
