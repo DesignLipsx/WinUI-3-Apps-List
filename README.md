@@ -264,7 +264,7 @@ Thank you for being a part of our community!
 - `WDM` [Radon Browser](https://github.com/itzbluebxrry/Project-Radon) `📆`
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆`
 - `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆`
-- `WDM` [Odyssey]() `📆`
+- `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆`
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
