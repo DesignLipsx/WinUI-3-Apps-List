@@ -58,7 +58,7 @@
 	- [Tools](#%EF%B8%8F-tools)
 		- [Download Managers](#%EF%B8%8F-download-managers)
 	 	- [Device Info/Monitors](#-device-infomonitors)
-	 	- [Security&Privacy](#-securityprivacy)
+	 	- [Security&Privacy](#-security--privacy)
 	 	- [News & Weather](#-news)
 	 	- [Optimizer/Cleaners](#-optimizercleaners)
 		- [Email Clients](#-email-clients)
@@ -127,21 +127,21 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **13 apps** that were recently added to list!*
+*Last **13 apps** that were recently added to the list!*
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
-- `WDM` [UTE](https://github.com/jpbandroid/UTE)
-- `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
-- `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
+- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
+- `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
+- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
-- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
-- `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
-- `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
-- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [Notepads](https://github.com/0x7c13/Notepads)
-- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
+- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
+- `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
+- `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
+- `WDM` [UTE](https://github.com/jpbandroid/UTE)
+- `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -428,13 +428,13 @@ Thank you for being a part of our community!
 
 ### 🤖 Artificial Intelligence (AI)
 
-- `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
-- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
-- `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
-- `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
+- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
 - `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+- `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
+- `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
+- `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -451,9 +451,9 @@ Thank you for being a part of our community!
 
 - <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
 
+	- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
 	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
-	- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
    
 - <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
   
@@ -471,30 +471,29 @@ Thank you for being a part of our community!
  
 #### 📊 Device Info/Monitors
 
-- `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
-- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)  
 - `WDM` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
+- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+- `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
 
-#### 🔒 Security&Privacy
+#### 🔒 Security & Privacy
 
-- `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)  
-- `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
 - `WM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
-
+- `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
+- `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
 #### 📰 News
 
-- `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
 - `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds)
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
+- `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
 
 #### 🧹 Optimizer/Cleaners
 
-- `WDM` [PhotoFiles - Duplicate & Similar Photo Cleaner](https://apps.microsoft.com/store/detail/photofiles-lite-duplicate-photos-cleaner/9PN31DTGG9GM)
 - `WDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+- `WDM` [PhotoFiles - Duplicate & Similar Photo Cleaner](https://apps.microsoft.com/store/detail/photofiles-lite-duplicate-photos-cleaner/9PN31DTGG9GM)
+- `WD` [Duplicates Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49)
 - `WDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
-- `WD` [Duplicates Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49)  
 
 #### 📧 Email Clients
 
@@ -502,8 +501,8 @@ Thank you for being a part of our community!
 
 #### 🈵 Translators
 
-- `WDM` [Translate](https://github.com/shef3r/Translate)
 - `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF)
+- `WDM` [Translate](https://github.com/shef3r/Translate)
 
 #### 🤖 WSA
 
@@ -519,12 +518,12 @@ Thank you for being a part of our community!
 ### 💠 Multimedia & Design
 
 - `WDM` [Camo](https://reincubate.com/camo/)
-- `WD`  [Unpaint](https://github.com/axodox/unpaint)
-- `WD`  [System Color Picker](https://apps.microsoft.com/store/detail/system-color-picker/9PDNCSSK83F1)
 - `WDM` [Character Map UWP](https://apps.microsoft.com/store/detail/character-map-uwp/9WZDNCRDXF41)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
-- `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
 - `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
+- `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
+- `WD` [System Color Picker](https://apps.microsoft.com/store/detail/system-color-picker/9PDNCSSK83F1)
+- `WD` [Unpaint](https://github.com/axodox/unpaint)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -532,12 +531,12 @@ Thank you for being a part of our community!
 
 ### 🎮 Games
 
-- `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)   
-- `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald)
-- `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
-- `WDM` [Natsurianko.FluentLauncher](https://www.microsoft.com/en-in/p/natsuriankofluentlauncher/9P4NQQXQ942P)
+- `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe)
 - `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048)
+- `WDM` [Natsurianko.FluentLauncher](https://www.microsoft.com/en-in/p/natsuriankofluentlauncher/9P4NQQXQ942P)
+- `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
+- `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
 - **🔧 Tools**
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
@@ -551,25 +550,25 @@ Thank you for being a part of our community!
 
 #### <img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
 
-- `WDM` [FluentHub](https://github.com/FluentHub/FluentHub)
-- `WDM` [JitHub](https://github.com/JitHubApp/JitHubV2)
-- `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
-- `WDM` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
-- `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
-- `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
-- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
-- `WDM` [QTWin11](https://github.com/witalihirsch/QTWin11)
-- `WDM` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
-- `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
-- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
-- `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
-- `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
+- `WD` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
 - `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
+- `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
+- `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
+- `WD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
+- `WD` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
+- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
+- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
+- `WD` [FluentHub](https://github.com/FluentHub/FluentHub)
+- `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
+- `WD` [JitHub](https://github.com/JitHubApp/JitHubV2)
+- `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
+- `WD` [QTWin11](https://github.com/witalihirsch/QTWin11)
+- `WD` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
 
 #### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
-- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 - `WD` [3D Engine](https://apps.microsoft.com/store/detail/3d-engine/9NFSX6JPV0PS)
+- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -577,21 +576,21 @@ Thank you for being a part of our community!
 
 ### 🪟 Other Windows Apps
 
-- `WDM` [Microsoft Edge Browser](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
-- `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT)
-- `WDM` [Microsoft Photos](https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4)
-- `WDM` [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H)
-- `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)
-- `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
-- `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5)
-- `WDM` [Movies & TV](https://apps.microsoft.com/store/detail/movies-tv/9WZDNCRFJ3P2)
-- `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR)
-- `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)  
-- `WD` [Quick Assist](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5)
-- `WD` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
-- `WD` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D)
 - `WDM` [Feedback Hub](https://apps.microsoft.com/store/detail/feedback-hub/9NBLGGH4R32N)
 - `WDM` [Get Help](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T)
+- `WDM` [Microsoft Edge Browser](https://apps.microsoft.com/store/detail/microsoft-edge-browser/XPFFTQ037JWMHS)
+- `WDM` [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H)
+- `WDM` [Microsoft Photos](https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4)
+- `WD` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D)
+- `WD` [Quick Assist](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5)
+- `WDM` [Movies & TV](https://apps.microsoft.com/store/detail/movies-tv/9WZDNCRFJ3P2)
+- `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)
+- `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
+- `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5)
+- `WD` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+- `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR)
+- `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT)
+- `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -599,11 +598,11 @@ Thank you for being a part of our community!
 
 #### 📖 WinUI 3 Catalogs
 
-- `WD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC)
-- `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
-- `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
+- `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
+- `WD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC)
+- `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
 
 ------------
 
