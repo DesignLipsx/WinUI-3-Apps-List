@@ -355,7 +355,7 @@ Thank you for being a part of our community!
 
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [Ferrpad](https://github.com/shef3r/ferrpad)
-- `WDM` [Fluent Pad](https://github.com/Lixkote/WritePad)
+- `WDM` [RectifyPad](https://github.com/Lixkote/WritePad)
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
