@@ -127,8 +127,12 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **9 apps** that were recently added to list!*
+*Last **13 apps** that were recently added to list!*
 
+- `WDM` [Axela](https://github.com/jpbandroid/Axela)
+- `WDM` [UTE](https://github.com/jpbandroid/UTE)
+- `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
+- `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
 - `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
@@ -278,6 +282,7 @@ Thank you for being a part of our community!
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
 - `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit)
 - `WDM` [Notepads](https://github.com/0x7c13/Notepads)
+- `WDM` [UTE](https://github.com/jpbandroid/UTE)
 - `WDM` [TowPad](https://github.com/itsWindows11/TowPad)
 - `WDM` [Fluent Pad](https://github.com/Lixkote/WritePad)
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
@@ -307,7 +312,6 @@ Thank you for being a part of our community!
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
 - `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
 - `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
-- `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
 - `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
@@ -315,11 +319,14 @@ Thank you for being a part of our community!
 - `WM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
 - `WD` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
 - `WD` [WidgetBox](https://apps.microsoft.com/store/detail/widgetbox-modern-widget-collection/9NF1ZHFJBCZJ)
+- `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
 - `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
 - `WD` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
 - `WD` [Acrylic](https://apps.microsoft.com/store/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 - `WDM` [AuText](https://apps.microsoft.com/store/detail/autext/9NP0PJHCSRH3)
 - `WDM` [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
+- `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
+- `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰`
 - `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
 - `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
@@ -425,6 +432,7 @@ Thank you for being a part of our community!
 
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
 - `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
+- `WDM` [Axela](https://github.com/jpbandroid/Axela)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
@@ -549,7 +557,6 @@ Thank you for being a part of our community!
 - `WDM` [JitHub](https://github.com/JitHubApp/JitHubV2)
 - `WDM` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDM` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
-- `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
 - `WDM` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
@@ -597,6 +604,7 @@ Thank you for being a part of our community!
 - `WD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC)
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows)
+- `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
 
 ------------
