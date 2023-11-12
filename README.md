@@ -314,14 +314,10 @@ Thank you for being a part of our community!
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
    	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
 
-<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
-
 #### 🎙️ Podcast
 
 - `WDM` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 - `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
-
-<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 #### 📺 Streaming Services
 
@@ -334,6 +330,8 @@ Thank you for being a part of our community!
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 - **🔧 Tools**    
 	- `WDM` [AVC - Any Video Converter, MP4 Converter](https://apps.microsoft.com/store/detail/avc-any-video-converter-mp4-converter/9PMVGZSGZXVB)
+
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
