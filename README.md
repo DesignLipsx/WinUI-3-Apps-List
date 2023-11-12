@@ -152,10 +152,11 @@ Thank you for being a part of our community!
 ### 👨‍💻 Social Media
 
 #### <img src="https://img.icons8.com/?size=256&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
-- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
-- `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
-- `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
+
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨`
+- `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨`
+- `WM` [Mica-Discord](https://github.com/Get0457/Mica-Discord)
+- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="21" height="21" /> Instagram
 - `WD` [Indirect](https://apps.microsoft.com/store/detail/indirect/9PHW4KJ8JVNZ)
@@ -164,8 +165,8 @@ Thank you for being a part of our community!
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
-- `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
+- `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q)
@@ -549,6 +550,11 @@ Thank you for being a part of our community!
 
 #### <img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
 
+- `WD` [FluentHub](https://github.com/FluentHub/FluentHub)
+- `WD` [JitHub](https://github.com/JitHubApp/JitHubV2)
+
+#### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
+
 - `WD` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
 - `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
 - `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
@@ -557,15 +563,10 @@ Thank you for being a part of our community!
 - `WD` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
 - `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
-- `WD` [FluentHub](https://github.com/FluentHub/FluentHub)
 - `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
-- `WD` [JitHub](https://github.com/JitHubApp/JitHubV2)
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
 - `WD` [QTWin11](https://github.com/witalihirsch/QTWin11)
 - `WD` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
-
-#### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
-
 - `WD` [3D Engine](https://apps.microsoft.com/store/detail/3d-engine/9NFSX6JPV0PS)
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 
