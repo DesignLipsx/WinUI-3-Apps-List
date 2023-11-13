@@ -129,17 +129,23 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **13 apps** that were recently added to the list!*
+*Last **19 apps** that were recently added to the list!*
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
+- `WDM` [Aurora - search, browse and explore](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
+- `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
 - `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
+- `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
+- `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WDM` [Notepads](https://github.com/0x7c13/Notepads)
+- `WDM` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer)
+- `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
 - `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
 - `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
 - `WDM` [UTE](https://github.com/jpbandroid/UTE)
@@ -192,6 +198,7 @@ Thank you for being a part of our community!
 ### 🤖 Artificial Intelligence (AI)
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
+- `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
 - `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
 - `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
@@ -213,10 +220,11 @@ Thank you for being a part of our community!
 
 ### 🌐 Browser
 
+- `WDM` [Aurora](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
 - `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆`
-- `WDM` [Radon Browser](https://github.com/itzbluebxrry/Project-Radon) `📆`
+- `WDM` [Radon Browser](https://apps.microsoft.com/detail/Radon%20Browser%20Dev/9N38CTMDRBFF)
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆`
 - `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆`
 
@@ -237,12 +245,13 @@ Thank you for being a part of our community!
 - `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
 - `WD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WD` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
-- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
 - `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
+- `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL?hl=en-us&gl=US)
 - `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
 - `WD` [QTWin11](https://github.com/witalihirsch/QTWin11)
 - `WD` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
+- `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
 - `WD` [3D Engine](https://apps.microsoft.com/store/detail/3d-engine/9NFSX6JPV0PS)
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 
@@ -421,7 +430,8 @@ Thank you for being a part of our community!
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
 - `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
-- `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)  
+- `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+- `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
 - `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8?cid=github&launch=true&mode=mini)
@@ -545,6 +555,8 @@ Thank you for being a part of our community!
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 - `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ)
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
+- `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
+- `WD` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
 - `WDM` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
 - `WDM` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
