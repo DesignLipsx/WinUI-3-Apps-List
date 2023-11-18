@@ -129,11 +129,12 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **19 apps** that were recently added to the list!*
+*Last **20 apps** that were recently added to the list!*
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
 - `WDM` [Aurora - search, browse and explore](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
+- `WDM` [Croak](https://github.com/MehranAkbarii/Croak)
 - `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
@@ -397,6 +398,7 @@ Thank you for being a part of our community!
 - `WDM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
 - `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
 - `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
+- `WDM` [Croak](https://github.com/MehranAkbarii/Croak)
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
