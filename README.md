@@ -282,7 +282,7 @@ Thank you for being a part of our community!
 - **🔧 Tools**
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
-        - `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
+	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
  
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
