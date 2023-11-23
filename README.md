@@ -129,7 +129,7 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **20 apps** that were recently added to the list!*
+*Last **22 apps** that were recently added to the list!*
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
 - `WDM` [Aurora - search, browse and explore](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
@@ -147,10 +147,12 @@ Thank you for being a part of our community!
 - `WDM` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer)
 - `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
+- `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
 - `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
 - `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
 - `WDM` [UTE](https://github.com/jpbandroid/UTE)
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
+- `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -265,6 +267,7 @@ Thank you for being a part of our community!
 - `WD` [Adv File Explorer](https://apps.microsoft.com/store/detail/adv-file-explorer/9MVSVN9D3G5Z)
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [MyFTP](https://github.com/luandersonn/MyFTP)
+- `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -416,6 +419,7 @@ Thank you for being a part of our community!
 - `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 - `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
+- `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
