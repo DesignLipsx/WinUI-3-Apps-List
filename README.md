@@ -104,7 +104,7 @@ Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how
 1. Fork this repository.
 2. Add your app to the appropriate section in the README.md file, following the existing format.
 3. Create a pull request to suggest your changes.
-4. Our team will review your submission and merge it if it meets our criteria.
+4. I will review your submission and merge it if it meets our criteria.
 
 Please ensure your app fits the WinUI 3 category and provide a brief description and link. Don't forget to add your apps to the newly added apps section!
 
