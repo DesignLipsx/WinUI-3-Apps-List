@@ -28,7 +28,7 @@
 
 - [Disclaimer](#-disclaimer)
 - [Abbreviations](#abbreviations)
-- [Best Implementation of WinUI 3](#-best-implementation-of-winui-3)
+- [Best Implementation of WinUI 3](#-best-implementation-of-winui)
 - [Newly Added Apps](#-newly-added-apps)
 - [Apps List](#-apps-list)
   - [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
@@ -114,7 +114,7 @@ Thank you for being a part of our community!
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI 3
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
