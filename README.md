@@ -130,7 +130,7 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **22 apps** that were recently added to the list!*
+*Last **23 apps** that were recently added to the list!*
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
 - `WDM` [Aurora - search, browse and explore](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
@@ -154,6 +154,7 @@ Thank you for being a part of our community!
 - `WDM` [UTE](https://github.com/jpbandroid/UTE)
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
+- `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -518,6 +519,7 @@ Thank you for being a part of our community!
 
 - `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF)
 - `WDM` [Translate](https://github.com/shef3r/Translate)
+- `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT)
 
 #### 🤖 WSA
 
