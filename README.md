@@ -118,6 +118,8 @@ Thank you for being a part of our community!
 
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
+- `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
+- `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser)
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
@@ -498,7 +500,7 @@ Thank you for being a part of our community!
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
 - `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
-#### 📰 News
+#### 📰 News & Weather
 
 - `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds)
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
