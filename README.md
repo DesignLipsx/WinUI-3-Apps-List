@@ -132,32 +132,10 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **23 apps** that were recently added to the list!*
+*Last **2 apps** that were recently added to the list!*
 
-- `WDM` [Axela](https://github.com/jpbandroid/Axela)
-- `WDM` [Aurora - search, browse and explore](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
-- `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
-- `WDM` [Croak](https://github.com/MehranAkbarii/Croak)
-- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
-- `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
-- `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
-- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
-- `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL)
-- `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
-- `WDM` [Magpie](https://github.com/Blinue/Magpie)
-- `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
-- `WDM` [Notepads](https://github.com/0x7c13/Notepads)
-- `WDM` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
-- `WDM` [Rectify11](https://github.com/Rectify11/Installer)
-- `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
-- `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
-- `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
-- `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
-- `WDM` [UTE](https://github.com/jpbandroid/UTE)
-- `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
-- `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
-- `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
+- `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9?hl=en-us&gl=US)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -391,6 +369,7 @@ Thank you for being a part of our community!
 
 - `WDM` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9) `💰`
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
+- `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9?hl=en-us&gl=US) `💰`
 
 #### ⬜ Draw Board
 
