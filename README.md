@@ -157,6 +157,7 @@ Thank you for being a part of our community!
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
 - `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT)
+- `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -388,6 +389,7 @@ Thank you for being a part of our community!
 #### 🔔 Reminders
 
 - `WDM` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9) `💰`
+- `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 
 #### ⬜ Draw Board
 
