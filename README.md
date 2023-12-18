@@ -378,6 +378,7 @@ Thank you for being a part of our community!
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
 - `WDM` [Mica Editor](https://www.microsoft.com/store/apps/9PGZBDP9PSPF)
+- `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WD`  [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
 - `WDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
 - `WDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
@@ -389,7 +390,6 @@ Thank you for being a part of our community!
 #### 🔔 Reminders
 
 - `WDM` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9) `💰`
-- `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 
 #### ⬜ Draw Board
 
