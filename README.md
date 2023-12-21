@@ -47,7 +47,7 @@
     - [Streaming Services](#-streaming-services)
     - [Video Players](#%EF%B8%8F-video-players)
   - [Multimedia & Design](#-multimedia--design)
-  - [News & Weather](#-news)
+  - [News & Weather](#-news--weather)
   - [Notes/Reminders/Draw Board](#-notesremindersdraw-board)
   - [Optimizer/Cleaners](#-optimizercleaners)
   - [Personalization](#-personalization)
@@ -65,7 +65,7 @@
     - [Device Info/Monitors](#-device-infomonitors)
     - [Download Managers](#%EF%B8%8F-download-managers)
     - [Email Clients](#-email-clients)
-    - [News](#-news)
+    - [News & Weather](#-news--weather)
     - [Optimizer/Cleaners](#-optimizercleaners)
     - [Security & Privacy](#-security--privacy)
     - [Translators](#-translators)
@@ -175,7 +175,7 @@ Thank you for being a part of our community!
 - `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
 #### <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png" width="21" height="21" /> Youtube
-- `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
+- `WDM` [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) `💰`
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
