@@ -290,7 +290,7 @@ Thank you for being a part of our community!
 
 #### <img src="https://img.icons8.com/?size=80&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
 
-- `WDM` [Wavee](https://github.com/christosk92/Wavee)
+- `WDM` [Wavee](https://github.com/christosk92/Wavee)`📆`
 
 ### 📄 Pdf viewer
 
@@ -549,7 +549,6 @@ Thank you for being a part of our community!
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
 - `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
 - `WD` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
-- `WDM` [Rectify Winver](https://apps.microsoft.com/store/detail/rectify-winver/9NKZHB76GN8B)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
 - `WDM` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
 - `WD` [Ritt](https://apps.microsoft.com/detail/9N020ZXP2Z1G)
