@@ -8,7 +8,7 @@
   <p align="center">
   <b>Please <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png"   width="30" height="30" /> the repo if you like.</b>
 </p>
-<p align="center">
+<p align="center"
   <a href="https://discord.com/channels/714581497222398064/1127236520366047322">
     <span style="display:inline-block;"><strong><u>WinUI 3 Apps Showcase Discord discussion</u></strong></span>
   </a>
@@ -290,7 +290,7 @@ Thank you for being a part of our community!
 
 #### <img src="https://img.icons8.com/?size=80&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
 
-- `WDM` [Wavee](https://github.com/christosk92/Wavee)`📆`
+- `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆`
 
 ### 📄 Pdf viewer
 
