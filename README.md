@@ -136,6 +136,7 @@ Thank you for being a part of our community!
 
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9?hl=en-us&gl=US)
+- `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -542,6 +543,7 @@ Thank you for being a part of our community!
 - `WM`  [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
 - `WD`  [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
 - `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
+- `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 - `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ)
