@@ -132,7 +132,7 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **2 apps** that were recently added to the list!*
+*Last **3 apps** that were recently added to the list!*
 
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9?hl=en-us&gl=US)
