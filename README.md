@@ -132,8 +132,13 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **3 apps** that were recently added to the list!*
+*Last **8 apps** that were recently added to the list!*
 
+- `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW?hl=en-us&gl=US)
+- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
+- `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
+- `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer)
+- `WDM` [HotLyric](https://www.microsoft.com/store/productId/9MXFFHVQVBV9)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9?hl=en-us&gl=US)
 - `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
@@ -192,6 +197,7 @@ Thank you for being a part of our community!
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
+- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -286,6 +292,8 @@ Thank you for being a part of our community!
 - `WDM` [Stylophone](https://github.com/Difegue/Stylophone)
 - `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music)
 - **🔧 Tools**
+	- `WDM` [HotLyric](https://www.microsoft.com/store/productId/9MXFFHVQVBV9)
+	- `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
 	- `WDM` [Tagger](https://github.com/NickvisionApps/Tagger)
 
 #### <img src="https://img.icons8.com/?size=80&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
@@ -306,6 +314,7 @@ Thank you for being a part of our community!
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
+
 - **🔧 Tools**    
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
    	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
@@ -319,6 +328,8 @@ Thank you for being a part of our community!
 
 - `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
 - `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
+- `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer)
+- `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW?hl=en-us&gl=US)
 
 #### ▶️ Video Players
 
