@@ -134,6 +134,7 @@ Thank you for being a part of our community!
 
 *Last **8 apps** that were recently added to the list!*
 
+- `WD` `WM` `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW?hl=en-us&gl=US)
 - `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
 - `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
@@ -141,7 +142,6 @@ Thank you for being a part of our community!
 - `WDM` [HotLyric](https://www.microsoft.com/store/productId/9MXFFHVQVBV9)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9?hl=en-us&gl=US)
-- `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -391,6 +391,7 @@ Thank you for being a part of our community!
 
 ### 🎨 Personalization 
 
+- `WD` `WM` `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
 - `WDM` [Acrylic](https://apps.microsoft.com/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 - `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
