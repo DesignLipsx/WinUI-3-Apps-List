@@ -190,6 +190,7 @@ Thank you for being a part of our community!
 ### 🤖 Artificial Intelligence (AI)
 
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
+- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
 - `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
@@ -197,7 +198,6 @@ Thank you for being a part of our community!
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
-- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -272,9 +272,9 @@ Thank you for being a part of our community!
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
 - **🔧 Tools**
-	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
+	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
  
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -311,8 +311,8 @@ Thank you for being a part of our community!
 ### 🏜️ Photo viewer
 
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer)
-- `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
+- `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
 - **🔧 Tools**    
@@ -368,12 +368,12 @@ Thank you for being a part of our community!
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
 - `WDM` [Mica Editor](https://www.microsoft.com/store/apps/9PGZBDP9PSPF)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
+- `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
 - `WD`  [SkyNotepad](https://apps.microsoft.com/store/detail/skynotepad/9PN4B4WGKV6H)
 - `WDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
 - `WDM` [TowPad](https://github.com/itsWindows11/TowPad)
 - `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 - `WDM` [UTE](https://github.com/jpbandroid/UTE)
-- `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
 
 #### 🔔 Reminders
 
@@ -391,7 +391,6 @@ Thank you for being a part of our community!
 
 ### 🎨 Personalization 
 
-- `WD` `WM` `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
 - `WDM` [Acrylic](https://apps.microsoft.com/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
 - `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
@@ -408,6 +407,7 @@ Thank you for being a part of our community!
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰`
 - `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
 - `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
+- `WD` `WM` `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
 - `WDM` [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 - `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
