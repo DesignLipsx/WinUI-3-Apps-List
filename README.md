@@ -132,8 +132,31 @@ Thank you for being a part of our community!
 
 ## 🆕 Newly Added Apps!
 
-*Last **8 apps** that were recently added to the list!*
+*Last **30 apps** that were recently added to the list!*
 
+- `WDM` [BitWallpaper](https://github.com/torum/BitWallpaper)
+- `WDM` [ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI)
+- `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT)
+- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9N5L51XTRJ19?hl=en-us&gl=US)
+- `WDM` [Fluent Auto Clicker](https://github.com/RyanLua/FluentAutoClicker)
+- `WDM` [Flint](https://github.com/sh0ckj0ckey/Flint)
+- `WD` [ActionRepeater](https://github.com/cyberrex5/ActionRepeater)
+- `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
+- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium)
+- `WDM` [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
+- `WDM` [TvTime](https://github.com/WinUICommunity/TvTime)
+- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
+- `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop)
+- `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)
+- `WD` [HashTool](https://github.com/KiyanYang/DotVast.HashTool.WinUI)
+- `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ?hl=en-us&gl=US)
+- `WDM` [Amethyst Releases](https://github.com/KinectToVR/Amethyst-Releases)
+- `WDM` [Kemono Downloader GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI)
+- `WD` [SimpleList](https://github.com/aiguoli/SimpleList)
+- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse)
+- `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W?rtc=1&hl=en-in&gl=IN)
+- `WDM` [PyQt Fluent Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+- `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR?hl=en-us&gl=US)
 - `WD` `WM` `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW?hl=en-us&gl=US)
 - `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
@@ -232,6 +255,7 @@ Thank you for being a part of our community!
 
 #### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
+- `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)
 - `WD` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
 - `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
 - `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
@@ -242,6 +266,7 @@ Thank you for being a part of our community!
 - `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL?hl=en-us&gl=US)
 - `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
+- `WDM` [PyQt Fluent Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 - `WD` [QTWin11](https://github.com/witalihirsch/QTWin11)
 - `WD` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K?hl=en-us&gl=us)
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
@@ -272,9 +297,12 @@ Thank you for being a part of our community!
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
 - **🔧 Tools**
+	- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
+	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
+	- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium)
  
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -287,6 +315,7 @@ Thank you for being a part of our community!
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `WDM` [Musicloud - Music Downloader](https://apps.microsoft.com/store/detail/musicloud-music-downloader/9P6V0D62D4BQ)
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
+- `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT)
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/)
 - `WDM` [Stylophone](https://github.com/Difegue/Stylophone)
@@ -315,7 +344,8 @@ Thank you for being a part of our community!
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
-- **🔧 Tools**    
+- **🔧 Tools**
+	- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9N5L51XTRJ19?hl=en-us&gl=US)
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
    	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
 
@@ -400,6 +430,7 @@ Thank you for being a part of our community!
 - `WDM` [Croak](https://github.com/MehranAkbarii/Croak)
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
+- `WDM` [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
 - `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
@@ -478,6 +509,8 @@ Thank you for being a part of our community!
 
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Other
   
+  	- `WDM` [TvTime](https://github.com/WinUICommunity/TvTime)
+	- `WDM` [Kemono Downloader GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI)
 	- `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic)
  
 #### 📊 Device Info/Monitors
@@ -486,8 +519,14 @@ Thank you for being a part of our community!
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
 
+#### 🎙️ Finance
+
+- `WDM` [BitWallpaper](https://github.com/torum/BitWallpaper)
+
 #### 🔒 Security & Privacy
 
+- `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
+- `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR?hl=en-us&gl=US)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
 - `WM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
@@ -529,7 +568,9 @@ Thank you for being a part of our community!
 
 ### 🔧 Utilities
 
+- `WD` [ActionRepeater](https://github.com/cyberrex5/ActionRepeater)
 - `WDM` [A.Click - Auto Clicker](https://apps.microsoft.com/store/detail/aclick-auto-clicker/9MV9MFVB6R5V)
+- `WDM` [Amethyst Releases](https://github.com/KinectToVR/Amethyst-Releases)
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💰`
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [BLuetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
@@ -540,26 +581,32 @@ Thank you for being a part of our community!
 - `WDM` [Dropshelf](https://apps.microsoft.com/store/detail/dropshelf/9MZPC6P14L7N)
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WD`  [Everything Toolbar](https://github.com/srwi/EverythingToolbar)
+- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WM` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
-- `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
 - `WDM` [Fixdows](https://apps.microsoft.com/store/detail/fixdows/9NKSGDKQ4L85)
+- `WDM` [Flint](https://github.com/sh0ckj0ckey/Flint)
+- `WDM` [Fluent Auto Clicker](https://github.com/RyanLua/FluentAutoClicker)
 - `WDM` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
 - `WDM` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
 - `WDM` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
 - `WDM` [Fluent Weather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457?hl=en-us&gl=us)
 - `WD` [Fine Screen Recorder & Screen Record](https://apps.microsoft.com/detail/fine-screen-recorder-%26screen-record/9NFPNX6XF6Z7)
+- `WD` [HashTool](https://github.com/KiyanYang/DotVast.HashTool.WinUI)
 - `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰
 - `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💰`
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WM`  [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
 - `WD`  [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
+- `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop)
 - `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
 - `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
+- `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ?hl=en-us&gl=US)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 - `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ)
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
+- `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W)
 - `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
 - `WD` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley)
@@ -570,7 +617,10 @@ Thank you for being a part of our community!
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
 - `WD` [Screen Recorder Pro.](https://apps.microsoft.com/detail/screen-recorder-pro/9P4PF7SGF95R) `💰`
 - `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker)
-- `WD` [TaskbarWebsites](https://apps.microsoft.com/store/detail/taskbarwebsites/9MZ8WTK48VHT)- `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- `WD` [SimpleList](https://github.com/aiguoli/SimpleList)
+- `WD` [TaskbarWebsites](https://apps.microsoft.com/store/detail/taskbarwebsites/9MZ8WTK48VHT)
+- `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- `WDM` [ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI)
 - `WDM` [Twinkle Tray: Brightness Slider](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK)
 - `WD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
 - `WDM` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💰` 
