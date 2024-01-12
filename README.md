@@ -47,7 +47,7 @@
     - [Video Players](#%EF%B8%8F-video-players)
   - [Multimedia & Design](#-multimedia--design)
   - [News & Weather](#-news--weather)
-  - [Notes/Reminders/Draw Board](#-notesremindersdraw-board)
+  - [Notes/To-do/Wish-lists](#-notesto-dowish-lists)
   - [Optimizer/Cleaners](#-optimizercleaners)
   - [Personalization](#-personalization)
   - [Productivity](#-productivity)
@@ -469,13 +469,12 @@ Thank you for being a part of our community!
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰`
 - `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
 - `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
-- `WD` `WM` `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
+- `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
 - `WDM` [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 - `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
 - `WDM` [Tiles](https://github.com/jpbandroid/Tiles)
 - `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM)
-- `WDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
 - `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
