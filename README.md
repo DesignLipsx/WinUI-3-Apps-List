@@ -226,6 +226,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Aurora](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
+- `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
 - `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆`
 - `WDM` [Radon Browser](https://apps.microsoft.com/detail/Radon%20Browser%20Dev/9N38CTMDRBFF)
@@ -676,6 +677,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Al-Anvar](https://github.com/ghost1372/Al-Anvar)
 - `WD` [BattleAssistant](https://github.com/ArchieHill/BattleAssistant)
 - `WDM` [FoodDesire](https://github.com/haritha99ch/FoodDesire)
+- `WDM` [Functs](https://apps.microsoft.com/detail/9PG1X814X0GB)
 - `WDM` [Inventory](https://github.com/LeftTwixWand/Inventory)
 - `WD` [Library Management System](https://github.com/Diyari-Kurdi/Library-Management-System) `📆`
 
