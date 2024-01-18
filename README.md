@@ -130,8 +130,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **50 apps** that were recently added to the list!*
+*Last **20 apps** that were recently added to the list!*
 
+- `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
+- `WDM` [Functs](https://apps.microsoft.com/detail/9PG1X814X0GB)
 - `WD` [ActionRepeater](https://github.com/cyberrex5/ActionRepeater)
 - `WDM` [Al-Anvar](https://github.com/ghost1372/Al-Anvar)
 - `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)
@@ -150,38 +152,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Fluent Auto Clicker](https://github.com/RyanLua/FluentAutoClicker)
 - `WDM` [FoodDesire](https://github.com/haritha99ch/FoodDesire)
 - `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF)
-- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
-- `WD` [HashTool](https://github.com/KiyanYang/DotVast.HashTool.WinUI)
-- `WDM` [HikariEditor](https://github.com/Himeyama/HikariEditor)
-- `WDM` [Inventory](https://github.com/LeftTwixWand/Inventory) `📆`
-- `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR)
-- `WDM` [Kemono Downloader GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI)
-- `WDA` [Library Management System](https://github.com/Diyari-Kurdi/Library-Management-System)
-- `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop)
-- `WDM` [Lucompressor](https://apps.microsoft.com/detail/9NB140MC75LN)
-- `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ)
-- `WDM` [PaletteNet](https://github.com/tmk907/PaletteNet)
-- `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT)
-- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium)
-- `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W?rtc=1&hl=en-in&gl=IN)
-- `WDM` [PyQt Fluent Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
-- `WDM` [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop)
-- `WD` [RepoBackup](https://github.com/GuildOfCalamity/RepoBackup) `📆`
-- `WDA` [Rufus Next](https://github.com/rasyidf/rufus-next) `📆`
-- `WDM` [TaskList](https://github.com/GuildOfCalamity/TaskList)
-- `WD` [tg-pics](https://github.com/sfted/tg-pics) `📆`
-- `WDM` [ThrowObjectDetectionWinUI](https://github.com/0Kirby/ThrowObjectDetectionWinUI)
-- `WDA` [ToDoManager-WinUI3](https://github.com/navi705/ToDoManager-WinUI3) `📆`
-- `WD` [TubeSync](https://github.com/manusoft/youtube-downloader-desktop)
-- `WDM` [TvTime](https://github.com/WinUICommunity/TvTime)
-- `WDM` [Service Manager](https://github.com/Chr1st1anSzech/Service-Manager) `📆`
-- `WD` [SimpleList](https://github.com/aiguoli/SimpleList)
-- `WDM` [Simple QR Code Maker](https://github.com/TheJoeFin/Simple-QR-Code-Maker) `📆`
-- `WDM` [Wake on LAN](https://apps.microsoft.com/detail/9N0JJ4VHZ6X5)
-- `WDM` [WinTube](https://github.com/Areoxy/WinTube)
-- `WDA` [WSA File Link](https://github.com/Direct5dom/WSAFileLink)
-- `WD` [XAML Brewer WinUI3 LiveChart2 Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample)
-- `WD` [XAML Brewer WinUI3 SkiaSharp Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample)
   
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
