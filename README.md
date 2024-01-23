@@ -85,10 +85,9 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 ####  Abbreviations
 
-- **`WD`** Apps that follow WinUI 3 Design
-- **`WM`** Apps that follow Mica Material
-- **`WDM`** Apps that have both WinUI 3 design and Mica Material
-- **`WDA`** Apps that have both WinUI 3 design and Acrylic Material
+- **`WD`** Apps that follow WinUI 3 Design Only.
+- **`WDM`** Apps that have both WinUI 3 design and Mica Material.
+- **`WDA`** Apps that have both WinUI 3 design and Acrylic Material.
 
 ####  Other abbreviations
 
@@ -333,10 +332,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ### 🏜️ Photo viewer
 
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer)
-- `WM` [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
-
 - **🔧 Tools**
 	- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9N5L51XTRJ19)
 	- `WDM` [AIC - Any Image Converter, JPG Converter](https://apps.microsoft.com/store/detail/aic-any-image-converter-jpg-converter/9NN44CM8T0GS)
@@ -436,7 +433,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Magpie](https://github.com/Blinue/Magpie)
 - `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰`
-- `WM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
+- `WDM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
 - `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
 - `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
 - `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
@@ -529,7 +526,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
 - `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
-- `WM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
+- `WDM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
 - `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
 
@@ -585,7 +582,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WD`  [Everything Toolbar](https://github.com/srwi/EverythingToolbar)
 - `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
-- `WM` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
+- `WDM` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Fixdows](https://apps.microsoft.com/store/detail/fixdows/9NKSGDKQ4L85)
 - `WDM` [Flint](https://github.com/sh0ckj0ckey/Flint)
@@ -600,8 +597,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰
 - `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💰`
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
-- `WM`  [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
-- `WD`  [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
+- `WDM`  [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
+- `WDA`  [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
 - `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop)
 - `WDM` [Lucompressor](https://apps.microsoft.com/detail/9NB140MC75LN)
 - `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
@@ -694,7 +691,6 @@ Thank you for your interest in contributing to the WinUI 3 Apps List! Here's how
 
 Please ensure your app fits the WinUI 3 category and provide a brief description and link. Don't forget to add your apps to the [Newly Added Apps](#-newly-added-apps) section.
 
-- **`WD`** Apps that follow WinUI 3 Design only
-- **`WM`** Apps that follow Mica Material only
-- **`WDM`** Apps that have both WinUI 3 design and Mica Material
-- **`WDA`** Apps that have both WinUI 3 design and Acrylic Material
+- **`WD`** Apps that follow WinUI 3 Design only.
+- **`WDM`** Apps that have both WinUI 3 design and Mica Material.
+- **`WDA`** Apps that have both WinUI 3 design and Acrylic Material.
