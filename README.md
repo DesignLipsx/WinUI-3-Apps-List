@@ -129,28 +129,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **20 apps** that were recently added to the list!*
+*Last **4 apps** that were recently added to the list!*
 
-- `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
-- `WDM` [Functs](https://apps.microsoft.com/detail/9PG1X814X0GB)
-- `WD` [ActionRepeater](https://github.com/cyberrex5/ActionRepeater)
-- `WDM` [Al-Anvar](https://github.com/ghost1372/Al-Anvar)
-- `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)
-- `WDM` [Amethyst Releases](https://github.com/KinectToVR/Amethyst-Releases)
-- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9N5L51XTRJ19)
-- `WD` [BattleAssistant](https://github.com/ArchieHill/BattleAssistant)
-- `WDM` [BitWallpaper](https://github.com/torum/BitWallpaper)
-- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse)
-- `WDM` [DayDayUp](https://github.com/Fangjin98/daydayup)
-- `WDM` [DbToys](https://github.com/NeilQ/DbToys)
-- `WDA` [Disenchant Music Player](https://github.com/DenryDu/Disenchant-Music-Player) `📆`
-- `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
-- `WDM` [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
-- `WD` [FeedDesk](https://apps.microsoft.com/detail/9PGDGKFSV6L9?rtc=1&hl=en-in&gl=IN)
-- `WDM` [Flint](https://github.com/sh0ckj0ckey/Flint)
-- `WDM` [Fluent Auto Clicker](https://github.com/RyanLua/FluentAutoClicker)
-- `WDM` [FoodDesire](https://github.com/haritha99ch/FoodDesire)
-- `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF)
+- `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
+- `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
+- `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
+- `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
   
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -288,6 +272,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
 - **🔧 Tools**
+	- `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 	- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
@@ -458,11 +443,13 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
 - `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
-- `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)  
+- `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar)
+- `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
+- `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
 - `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8?cid=github&launch=true&mode=mini)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
@@ -572,6 +559,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [A.Click - Auto Clicker](https://apps.microsoft.com/store/detail/aclick-auto-clicker/9MV9MFVB6R5V)
 - `WDM` [Amethyst Releases](https://github.com/KinectToVR/Amethyst-Releases)
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💰`
+- `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [BLuetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
 - `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S)
