@@ -199,6 +199,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🪟 App Store
 
+- `WDA` [FluentStore](https://github.com/yoshiask/FluentStore)
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)
 - `WDM` [Microsoft Store](https://apps.microsoft.com/home)
 - `WDM` [WingetUI](https://github.com/marticliment/WingetUI)
