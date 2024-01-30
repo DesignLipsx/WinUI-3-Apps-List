@@ -129,8 +129,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **4 apps** that were recently added to the list!*
+*Last **5 apps** that were recently added to the list!*
 
+- `WDA` [FluentStore](https://github.com/yoshiask/FluentStore)
 - `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
 - `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
