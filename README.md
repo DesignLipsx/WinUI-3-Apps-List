@@ -131,6 +131,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 *Last **5 apps** that were recently added to the list!*
 
+- `WDM` [fHash](https://github.com/sunjw/fhash)
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore)
 - `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
 - `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
@@ -572,6 +573,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [EnergyStar X](https://apps.microsoft.com/store/detail/energystar-x/9NM58D33RWHJ)
 - `WD`  [Everything Toolbar](https://github.com/srwi/EverythingToolbar)
 - `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy)
+- `WDM` [fHash](https://github.com/sunjw/fhash)
 - `WDM` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WDM` [Fixdows](https://apps.microsoft.com/store/detail/fixdows/9NKSGDKQ4L85)
