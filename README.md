@@ -129,8 +129,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **5 apps** that were recently added to the list!*
+*Last **8 apps** that were recently added to the list!*
 
+- `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
+- `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
 - `WDM` [fHash](https://github.com/sunjw/fhash)
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore)
 - `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
@@ -503,6 +505,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
  
 #### 📊 Device Info/Monitors
 
+- `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
 - `WDM` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
@@ -536,6 +539,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 📧 Email Clients
 
+- `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
 
 #### 🈵 Translators
