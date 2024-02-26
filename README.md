@@ -129,7 +129,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **12 apps** that were recently added to the list!*
+*Last **13 apps** that were recently added to the list!*
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -143,6 +143,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
 - `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
+- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -285,6 +286,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 	- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+    - `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
 	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
