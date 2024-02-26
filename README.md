@@ -129,7 +129,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **8 apps** that were recently added to the list!*
+*Last **9 apps** that were recently added to the list!*
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -139,6 +139,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
+- `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
   
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -234,7 +235,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)
 - `WD` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
-- `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
+- `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
+- `WDM` [DbToys](https://github.com/NeilQ/DbToys)
 - `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
 - `WDM` [DbToys](https://github.com/NeilQ/DbToys)
 - `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
