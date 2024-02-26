@@ -129,7 +129,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **11 apps** that were recently added to the list!*
+*Last **12 apps** that were recently added to the list!*
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -142,6 +142,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
 - `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
+- `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
+
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -575,6 +577,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [BLuetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
 - `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S)
+- `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WDM` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💰`  
 - `WDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💰`
