@@ -129,7 +129,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **10 apps** that were recently added to the list!*
+*Last **11 apps** that were recently added to the list!*
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -141,7 +141,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
 - `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
 - `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
-  
+- `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -521,6 +521,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 🔒 Security & Privacy
 
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
+- `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
 - `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
 - `WDM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
