@@ -129,7 +129,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **9 apps** that were recently added to the list!*
+*Last **10 apps** that were recently added to the list!*
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -140,6 +140,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
 - `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
+- `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
   
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -361,6 +362,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
+- `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
 - `WD` [System Color Picker](https://apps.microsoft.com/store/detail/system-color-picker/9PDNCSSK83F1)
 - `WD` [Unpaint](https://github.com/axodox/unpaint)
 
