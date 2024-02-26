@@ -138,12 +138,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
 - `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
-- `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
+- `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
 - `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
 - `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
-- `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
-- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
+- `WDA` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
+- `WDA` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -462,7 +462,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
-- `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
+- `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
 - `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8?cid=github&launch=true&mode=mini)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
