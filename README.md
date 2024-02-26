@@ -129,7 +129,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **8 apps** that were recently added to the list!*
+*Last **13 apps** that were recently added to the list!*
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -139,7 +139,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55)
-  
+- `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
+- `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
+- `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
+- `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
+- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
+
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ---
@@ -234,6 +239,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit)
 - `WD` [App Packages Viewer](https://apps.microsoft.com/store/detail/app-packages-viewer/9NH1HGNGHB0W)
+- `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
 - `WD` [Codly Snippet Manager](https://apps.microsoft.com/store/detail/codly-snippet-manager/9PGPG8PCF2F9)
 - `WD` [ConTeXt IDE](https://github.com/WelterDevelopment/ConTeXt-IDE-WinUI)
 - `WDM` [DbToys](https://github.com/NeilQ/DbToys)
@@ -280,6 +286,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 	- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse)
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest)
+	- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
 	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
@@ -359,6 +366,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
+- `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
 - `WD` [System Color Picker](https://apps.microsoft.com/store/detail/system-color-picker/9PDNCSSK83F1)
 - `WD` [Unpaint](https://github.com/axodox/unpaint)
 
@@ -517,6 +525,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 🔒 Security & Privacy
 
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
+- `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
 - `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR)
 - `WM` [Pass11](https://github.com/LawOff/Pass11)
 - `WDM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
@@ -570,6 +579,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
 - `WDM` [BLuetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
 - `WDM` [ClassevivaPCTO](https://apps.microsoft.com/store/detail/classevivapcto/9PNST3M88D1S)
+- `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
 - `WDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X)
 - `WDM` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💰`  
 - `WDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💰`
