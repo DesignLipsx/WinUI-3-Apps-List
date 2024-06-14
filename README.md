@@ -144,6 +144,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
 - `WDA` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
 - `WDA` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
+- `WDM` `WDA` [Arc Browser](https://arc.net/)
+- `WDM` [Apple Devices](https://www.microsoft.com/store/productId/9NP83LWLPZ9K?ocid=pdpshare)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -217,6 +219,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🌐 Browser
 
+- `WDM` `WDA` [Arc Browser](https://arc.net/)
 - `WDM` [Aurora](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
 - `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
@@ -343,8 +346,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 📺 Streaming Services
 
-- `WDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
-- `WDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
+- `WDM` [Apple Music](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
+- `WDM` [Apple TV](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer)
 - `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW)
 
@@ -574,6 +577,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [ActionRepeater](https://github.com/cyberrex5/ActionRepeater)
 - `WDM` [A.Click - Auto Clicker](https://apps.microsoft.com/store/detail/aclick-auto-clicker/9MV9MFVB6R5V)
 - `WDM` [Amethyst Releases](https://github.com/KinectToVR/Amethyst-Releases)
+- `WDM` [Apple Devices](https://www.microsoft.com/store/productId/9NP83LWLPZ9K?ocid=pdpshare)
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💰`
 - `WDM` [Batch File Manager PRO](https://apps.microsoft.com/detail/9NRQ9GJQBQJN?ocid=pdpshare&hl=en-us&gl=US) `💰`
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io)
