@@ -169,7 +169,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
-- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
+- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
