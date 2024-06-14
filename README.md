@@ -68,7 +68,7 @@
     - [Optimizer/Cleaners](#-optimizercleaners)
     - [Security & Privacy](#-security--privacy)
     - [Translators](#-translators)
-    - [WSA](#-wsa)
+    - [WSA](#-wsa) `❎`
   - [Utilities](#-utilities)
   - [WinUI 3 Catalogs](#-winui-3-catalogs)
   - [Miscellaneous](#-miscellaneous)
@@ -117,7 +117,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser)
-- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG) `❎`
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
@@ -169,7 +169,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
 
 #### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
-- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit)
+- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨`
 
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
@@ -221,13 +221,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` `WDA` [Arc Browser](https://arc.net/)
 - `WDM` [Aurora](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
-- `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `📆`
+- `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `❎`
 - `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
-- `WDM` [Fluent Browser](https://github.com/ItsPi3141/fluent-browser)
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆`
 - `WDM` [Radon Browser](https://apps.microsoft.com/detail/Radon%20Browser%20Dev/9N38CTMDRBFF)
-- `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `📆`
-- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `📆`
+- `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `❎`
+- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `❎`
 
 ------------
 
@@ -237,6 +236,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [FluentHub](https://github.com/FluentHub/FluentHub)
 - `WD` [JitHub](https://github.com/JitHubApp/JitHubV2)
+- `WD` [JitHub WinSDK](https://github.com/JitHubApp/JitHub) `📅`
 
 #### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
@@ -420,7 +420,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ### 🎨 Personalization 
 
 - `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer)
-- `WDM` [Acrylic](https://apps.microsoft.com/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3)
+- `WDM` [Acrylic](https://apps.microsoft.com/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3) `💰`
 - `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
 - `WDM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
 - `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
@@ -560,7 +560,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Translate](https://github.com/shef3r/Translate)
 - `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT)
 
-#### 🤖 WSA
+#### 🤖 WSA `❎`
 
 - `WDM` [APK Installers](https://apps.microsoft.com/store/detail/apk-installers/9P2JFQ43FPPG)
 - `WDM` [Apk Installer on WSA](https://apps.microsoft.com/store/detail/apk-installer-on-wsa/9N1TWH0BPJPS)
@@ -604,7 +604,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Fine Screen Recorder & Screen Record](https://apps.microsoft.com/detail/fine-screen-recorder-%26screen-record/9NFPNX6XF6Z7)
 - `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF)
 - `WD` [HashTool](https://github.com/KiyanYang/DotVast.HashTool.WinUI)
-- `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰
+- `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰`
 - `WDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) `💰`
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WDM`  [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
