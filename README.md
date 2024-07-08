@@ -541,6 +541,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds)
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
 - `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
+- `WDM`[Lively Weather](https://apps.microsoft.com/detail/9pp0mfqfvsc5)
+- `WDM`[Skyline Weather](https://apps.microsoft.com/detail/9n33pk9646x9)
 
 #### 🧹 Optimizer/Cleaners
 
