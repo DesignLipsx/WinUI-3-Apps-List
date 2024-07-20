@@ -67,6 +67,7 @@
     - [News & Weather](#-news--weather)
     - [Optimizer/Cleaners](#-optimizercleaners)
     - [Security & Privacy](#-security--privacy)
+    - [Calculators](#-calculators)
     - [Translators](#-translators)
     - [WSA](#-wsa) `❎`
   - [Utilities](#-utilities)
@@ -113,6 +114,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI
 
+- `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
@@ -131,6 +133,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 *Last **13 apps** that were recently added to the list!*
 
+- `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
 - `WDM` [fHash](https://github.com/sunjw/fhash)
@@ -555,6 +558,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+
+#### ➗ Calculators
+
+- `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
 
 #### 🈵 Translators
 
