@@ -667,7 +667,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)
 - `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L)
 - `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5)
-- `WD` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
+- `WDA` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 - `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR)
 - `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT)
 - `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3)
