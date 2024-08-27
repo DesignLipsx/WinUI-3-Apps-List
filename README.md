@@ -253,6 +253,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WD` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
+- `WDM` `WDA` [iNKORE.UI.WPF.Modern](https://github.com/iNKORE-NET/UI.WPF.Modern)
 - `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL)
 - `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
 - `WDM` [PaletteNet](https://github.com/tmk907/PaletteNet)
@@ -394,6 +395,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [HikariEditor](https://github.com/Himeyama/HikariEditor)
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
+- `WDM` `WDA` [Inkways](https://github.com/iNKORE-NET/Inkways)
 - `WDM` [Mica Editor](https://www.microsoft.com/store/apps/9PGZBDP9PSPF)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
@@ -466,6 +468,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+- `WDM` `WDA` [MCSkinn](https://github.com/iNKORE-NET/MCSkinn)
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
