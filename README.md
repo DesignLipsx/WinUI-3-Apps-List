@@ -132,7 +132,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **9 apps** that were recently added to the list!*
+*Last **10 apps** that were recently added to the list!*
 
 - `WDM` [2FAGuard](https://github.com/timokoessler/2FAGuard)
 - `WDM` [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
@@ -141,6 +141,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [密罐 - 妥善保存蜜码](https://apps.microsoft.com/detail/9nlzpbcs0f5c)
 - `WD` [PageFabric](https://www.microsoft.com/store/apps/9P170799PF3Q)
 - `WDM` [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
+- `WDM` [Transhef](https://github.com/shef3r/Transhef)
 - `WDM` [Totoro](https://github.com/insomniachi/Totoro)
 - `WDM` [Yugen.DJ](https://github.com/Yugen-Apps/Yugen.DJ)
 
@@ -569,8 +570,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 🈵 Translators
 
-- `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF)
-- `WDM` [Translate](https://github.com/shef3r/Translate)
+- `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF) `💰`
+- `WDM` [Translate](https://github.com/shef3r/Translate) `❎`
+- `WDM` [Transhef](https://github.com/shef3r/Transhef)
 - `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT)
 
 #### 🤖 WSA `❎`
