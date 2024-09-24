@@ -38,7 +38,7 @@
     - [Other](#-other)
   - [File Explorer](#-file-explorer)
   - [Games](#-games)
-  - [Lifestyle](#-lifestyle)
+  - [Lifestyle](#-%EF%B8%8F-lifestyle)
   - [Media](#-media)
     - [Music Players](#-music-players)
     - [Photo Viewer](#%EF%B8%8F-photo-viewer)
