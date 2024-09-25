@@ -391,7 +391,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium)
-	 - `WD` [YT2MP3](https://github.com/0zean/YT2MP3)
+	- `WD` [YT2MP3](https://github.com/0zean/YT2MP3)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
