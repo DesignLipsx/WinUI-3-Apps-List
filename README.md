@@ -32,6 +32,7 @@
 - [Newly Added Apps](#-newly-added-apps)
 - [Apps List](#-apps-list)
   - [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
+  - [Books & Reference](#-books--Reference)
   - [Browser](#-browser)
   - [Developer Tools](#-developer-tools)
     - [GitHub Client](#-github-client)
@@ -133,8 +134,37 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **49 apps** that were recently added to the list!*
+*Last **78 apps** that were recently added to the list!*
 
+- `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7)
+- `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
+- `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
+- `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h)
+- `WD` [Audibly — Audiobook Player](https://apps.microsoft.com/detail/9p6r1m1gg9jr)
+- `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf)
+- `WD` [ePub+](https://apps.microsoft.com/detail/9pfspmjkkqht)
+- `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
+- `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
+- `WDM` [FluentInfo](https://apps.microsoft.com/detail/9n949bzl5km2)
+- `WD` [Fluent Regex - test regular expressions](https://apps.microsoft.com/detail/9n9814wtcx43)
+- `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
+- `WDM` [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj)
+- `WD` [Local AI Studio](https://apps.microsoft.com/detail/9n4361rz0748)
+- `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q)
+- `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds)
+- `WD` [MDC AI](https://apps.microsoft.com/detail/9nw24n9w33c9)
+- `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
+- `WD` [Nuget Pacman](https://apps.microsoft.com/detail/9pb3fzp9nm36) `💰`
+- `WDM` [Ollama](https://apps.microsoft.com/detail/9pn5vmgszgsn)
+- `WDM` [Podcasted](https://apps.microsoft.com/detail/9nxwgr2b1p26)
+- `WD` [Turbo Play](https://apps.microsoft.com/detail/9phlccswskn2)
+- `WD` [Ultra Music & Video Downloader PRO](https://apps.microsoft.com/detail/9p9pwlkpr1k8)
+- `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf)
+- `WDA` [WinUi++](https://apps.microsoft.com/detail/xp9brhtxn0z3v7)
+- `WD` [YT Video & MP3 Downloader and Converter](https://apps.microsoft.com/detail/9n15nknh976h)
+- `WD` [Secure Folder, Files and Encrypt](https://apps.microsoft.com/detail/9mvd647dwgm8)
+- `WDM` [See My Server](https://apps.microsoft.com/detail/9mtgbs9ptch8)
+- `WD` [SpectroTime](https://apps.microsoft.com/detail/9p5mxj239vml)
 - `WD` [AT-Image-Converter](https://github.com/airtaxi/AT-Image-Converter)
 - `WDM` [Any-Image Converter](https://apps.microsoft.com/detail/9nnw5b0l559r)
 - `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
@@ -234,16 +264,34 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🤖 Artificial Intelligence (AI)
 
+- `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h)
+- `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
+- `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)
+- `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf)
 - `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
 - `WDM` [ChloeGPT](https://apps.microsoft.com/detail/9pfq76kcwgzn)
-- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
 - `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`
 - `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
+- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
+- `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds)
+- `WD` [MDC AI](https://apps.microsoft.com/detail/9nw24n9w33c9)
+- `WDM` [Ollama](https://apps.microsoft.com/detail/9pn5vmgszgsn)
+- `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf)
+
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
+
+------------
+
+### 📕 Books & Reference
+
+- `WD` [Audibly — Audiobook Player](https://apps.microsoft.com/detail/9p6r1m1gg9jr)
+- `WD` [ePub+](https://apps.microsoft.com/detail/9pfspmjkkqht)
+- `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -296,6 +344,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [IP Port Scanner](https://apps.microsoft.com/detail/9p63kdgkz30d)
 - `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL)
 - `WD` [Network Tools Collection Desktop Edition](https://apps.microsoft.com/detail/9nw6l8plqmm]-)
+- `WD` [Nuget Pacman](https://apps.microsoft.com/detail/9pb3fzp9nm36)`💰`
 - `WDM` [PaletteNet](https://github.com/tmk907/PaletteNet)
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
 - `WDM` [PyQt Fluent Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
@@ -403,11 +452,14 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [HEIC.JPG Converter](https://apps.microsoft.com/detail/9nw5p352bqm8) `💰`
    	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/9ntvcmpjm5v3)
 	- `WD` [ImageRate & Slideshow](https://apps.microsoft.com/detail/9nz1b660k8mc)
+	- `WDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
+	- `WD` [Turbo Play](https://apps.microsoft.com/detail/9phlccswskn2)
 
 #### 🎙️ Podcast
 
 - `WDM` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
 - `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
+- `WDM` [Podcasted](https://apps.microsoft.com/detail/9nxwgr2b1p26)
 
 #### 📺 Streaming Services
 
@@ -415,11 +467,13 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Apple TV](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer)
 - `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW)
+- `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
 
 #### 📺 Tracking Services
 
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe)
 - `WDM` [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+- `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q)
 - `WDM` [Totoro](https://github.com/insomniachi/Totoro)
 
 #### ▶️ Video Players
@@ -434,6 +488,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Blu-ray Player](https://apps.microsoft.com/detail/9ntn82vjlpfq)
 - `WDM` [DVD Player - Play DVD](https://apps.microsoft.com/detail/9pc9t9bsqklt)
+- `WDM` [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj)
 - **🔧 Tools**
 	- `WDM` [CD Ripper - Rip CD to Mp3](https://apps.microsoft.com/detail/9pgs5rbvwjzb)
 	- `WDM` [DVD Ripper](https://apps.microsoft.com/detail/9np0ktx797vl)
@@ -550,10 +605,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Pasteboard](https://www.pasteboard.app)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
-- `WDM` [Rulia - Manga Reader](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8?cid=github&launch=true&mode=mini)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
 - `WDM` [Shortcuts Center](https://apps.microsoft.com/store/detail/shortcuts-center/9NFX8MMVG9X6)
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
+- `WD` [SpectroTime](https://apps.microsoft.com/detail/9p5mxj239vml)
 - `WDM` [Text To Speech Live UI](https://apps.microsoft.com/detail/text-to-speech-live-ui/9MWHWTD64HPL)
 - `WDM` [Tomato app]() `📆`
 - `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
@@ -571,6 +626,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - <img src="https://img.icons8.com/?size=512&id=oWNmXOb2HARO&format=png"   width="21" height="21" /> Full-Featured Download Manager
 
+	- `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
 	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia)
 	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰` 
 
@@ -579,7 +635,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Pro Video Downloader for YT](https://apps.microsoft.com/detail/9pnrd0w9sc7w)
 	- `WD` [TubeSync](https://github.com/manusoft/youtube-downloader-desktop)
 	- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
+	- `WD` [Ultra Music & Video Downloader PRO](https://apps.microsoft.com/detail/9p9pwlkpr1k8)
 	- `WDM` [WinTube](https://github.com/Areoxy/WinTube)
+	- `WD` [YT Video & MP3 Downloader and Converter](https://apps.microsoft.com/detail/9n15nknh976h)
 	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
    
@@ -590,6 +648,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
   
 	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
+	- `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
 	- `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6)
 	- `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
@@ -603,9 +662,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
  
 #### 📊 Device Info/Monitors
 
-- `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
 - `WDM` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
+- `WDM` [Hardware information (temperature monitoring)](https://apps.microsoft.com/detail/9n9q4ld8286v)
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
+- `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
 - `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
 
 #### 🎙️ Finance
@@ -615,6 +675,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 🔒 Security & Privacy
 
 - `WDM` [2FAGuard](https://github.com/timokoessler/2FAGuard)
+- `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass)
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
 - `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR)
@@ -622,6 +683,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
 - `WDM` [SecureFolderFS](https://apps.microsoft.com/store/detail/securefolderfs/9NZ7CZRN7GG8)
+- `WD` [Secure Folder, Files and Encrypt](https://apps.microsoft.com/detail/9mvd647dwgm8)
 
 #### 📰 News & Weather
 
@@ -702,6 +764,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Flipuent](https://apps.microsoft.com/detail/9p8h6jlnqhjk)
 - `WDM` [Fluent Auto Clicker](https://github.com/RyanLua/FluentAutoClicker)
 - `WDM` [Fluent Flyouts Battery (Preview)](https://apps.microsoft.com/store/detail/fluent-flyouts-battery-preview/9NWXR2MKSNX7)
+- `WDM` [FluentInfo](https://apps.microsoft.com/detail/9n949bzl5km2)
+- `WD` [Fluent Regex - test regular expressions](https://apps.microsoft.com/detail/9n9814wtcx43)
 - `WDM` [Fluent Screen Recorder](https://apps.microsoft.com/store/detail/fluent-screen-recorder/9MWV79XLFQH7)
 - `WDM` [Fluent Search](https://apps.microsoft.com/store/detail/fluent-search/9NK1HLWHNP8S)
 - `WDM` [Fluent Weather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
@@ -736,6 +800,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [Rufus Next](https://github.com/rasyidf/rufus-next) `📆`
 - `WDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
 - `WD`  [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
+- `WDM` [See My Server](https://apps.microsoft.com/detail/9mtgbs9ptch8)
 - `WDM` [Service Manager](https://github.com/Chr1st1anSzech/Service-Manager) `📆`
 - `WDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
 - `WDM` [Screen.Recorder](https://apps.microsoft.com/detail/9mswxd994dm1)
@@ -754,6 +819,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Winver UWP](https://apps.microsoft.com/store/detail/winver-uwp/9N60S2VFMB7L)
 - `WD` [WSAppBak](https://github.com/MadCkull/WSAppBak)
+- `WDA` [WinUi++](https://apps.microsoft.com/detail/xp9brhtxn0z3v7)
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8)
 - `WDM` [密罐 - 妥善保存蜜码](https://apps.microsoft.com/detail/9nlzpbcs0f5c) `💰`
 
