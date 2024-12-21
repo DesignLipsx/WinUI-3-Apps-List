@@ -134,13 +134,14 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **78 apps** that were recently added to the list!*
+*Last **79 apps** that were recently added to the list!*
 
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7)
 - `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
 - `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h)
 - `WD` [Audibly — Audiobook Player](https://apps.microsoft.com/detail/9p6r1m1gg9jr)
+- `WDM` [Automated Menu Management System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) 
 - `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf)
 - `WD` [ePub+](https://apps.microsoft.com/detail/9pfspmjkkqht)
 - `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
@@ -861,6 +862,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 📖 Miscellaneous
 
 - `WDM` [Al-Anvar](https://github.com/ghost1372/Al-Anvar)
+- `WDM` [Automated Menu Management System](https://github.com/abdbbdii/Automated-Menu-Ordering-System)
 - `WD` [BattleAssistant](https://github.com/ArchieHill/BattleAssistant)
 - `WD` [DiscordFileMasterV2](https://github.com/Shailosingh/DiscordFileMasterV2)
 - `WDM` [FoodDesire](https://github.com/haritha99ch/FoodDesire)
