@@ -134,7 +134,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **79 apps** that were recently added to the list!*
+*Last **80 apps** that were recently added to the list!*
 
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7)
 - `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
@@ -146,6 +146,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [ePub+](https://apps.microsoft.com/detail/9pfspmjkkqht)
 - `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
 - `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
+- `WDA` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨`
 - `WDM` [FluentInfo](https://apps.microsoft.com/detail/9n949bzl5km2)
 - `WD` [Fluent Regex - test regular expressions](https://apps.microsoft.com/detail/9n9814wtcx43)
 - `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
@@ -313,6 +314,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Aurora](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
 - `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `❎`
 - `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
+- `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨`
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆`
 - `WDM` [Radon Browser](https://apps.microsoft.com/detail/Radon%20Browser%20Dev/9N38CTMDRBFF)
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `❎`
