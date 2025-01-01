@@ -146,7 +146,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [ePub+](https://apps.microsoft.com/detail/9pfspmjkkqht)
 - `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
 - `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
-- `WDA` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨`
+- `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨`
 - `WDM` [FluentInfo](https://apps.microsoft.com/detail/9n949bzl5km2)
 - `WD` [Fluent Regex - test regular expressions](https://apps.microsoft.com/detail/9n9814wtcx43)
 - `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
