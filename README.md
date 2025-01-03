@@ -134,8 +134,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **80 apps** that were recently added to the list!*
+*Last **84 apps** that were recently added to the list!*
 
+- `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
+- `WD` [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+- `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+- `WDM` [MCSkinn](https://apps.microsoft.com/detail/9N8SJT329HH1)
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7)
 - `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
@@ -216,7 +220,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8)
 - `WDM` [YTB.Downloader](https://apps.microsoft.com/detail/9nlcb909p1cf)
 - `WD` [YT2MP3](https://github.com/0zean/YT2MP3)
-
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -392,6 +395,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
 	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
+  - `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+  - `WDM` [MCSkinn](https://apps.microsoft.com/detail/9N8SJT329HH1?hl=zh-cn&gl=US&ocid=pdpshare)
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium)
 	- `WD` [YT2MP3](https://github.com/0zean/YT2MP3)
@@ -521,6 +526,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### ⬜ Draw Board
 
 - `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
+- `WD` [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
 
 #### 📝 Notes
 
@@ -851,6 +857,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 📖 WinUI 3 Catalogs
 
+- `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
