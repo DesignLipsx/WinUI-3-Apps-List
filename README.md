@@ -296,6 +296,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
 	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
 	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch)
+  - `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+  - `WDM` [MCSkinn](https://apps.microsoft.com/detail/9N8SJT329HH1?hl=zh-cn&gl=US&ocid=pdpshare)
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium)
  
@@ -386,6 +388,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### ⬜ Draw Board
 
 - `WDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
+- `WD` [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
 
 #### 📝 Notes
 
@@ -395,7 +398,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [HikariEditor](https://github.com/Himeyama/HikariEditor)
 - `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
 - `WDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
-- `WDM` `WDA` [Inkways](https://github.com/iNKORE-NET/Inkways)
 - `WDM` [Mica Editor](https://www.microsoft.com/store/apps/9PGZBDP9PSPF)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes)
 - `WDM` [Quick Pad](https://apps.microsoft.com/store/detail/quick-pad-fluent-notepad-app/9PDLWQHTLSV3?hl) `💰`
@@ -681,6 +683,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 📖 WinUI 3 Catalogs
 
+- `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G?hl=neutral&gl=US&ocid=pdpshare)
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
