@@ -253,7 +253,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WD` [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W)
 - `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
-- `WDM` `WDA` [iNKORE.UI.WPF.Modern](https://github.com/iNKORE-NET/UI.WPF.Modern)
 - `WDM` [Loopback Manager](https://apps.microsoft.com/detail/9NTJ6CX698CL)
 - `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
 - `WDM` [PaletteNet](https://github.com/tmk907/PaletteNet)
