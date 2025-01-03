@@ -133,6 +133,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 *Last **13 apps** that were recently added to the list!*
 
+- `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
+- `WD` [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+- `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+- `WDM` [MCSkinn](https://apps.microsoft.com/detail/9N8SJT329HH1)
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
@@ -145,10 +149,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Colors.Rainbow](https://github.com/sh0ckj0ckey/Colors.Rainbow)
 - `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer)
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot)
-- `WDA` [Conscript](https://github.com/sh0ckj0ckey/Conscript)
-- `WDA` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
-- `WDM` `WDA` [Arc Browser](https://arc.net/)
-- `WDM` [Apple Devices](https://www.microsoft.com/store/productId/9NP83LWLPZ9K?ocid=pdpshare)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -469,7 +469,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
 - `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
-- `WDM` `WDA` [MCSkinn](https://github.com/iNKORE-NET/MCSkinn)
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
@@ -682,7 +681,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 📖 WinUI 3 Catalogs
 
-- `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G?hl=neutral&gl=US&ocid=pdpshare)
+- `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
 - `WDM` [MVVM Toolkit Sample App](https://apps.microsoft.com/store/detail/mvvm-toolkit-sample-app/9NKLCF1LVZ5H)
 - `WDM` [Syncfusion WinUI Controls Gallery](https://apps.microsoft.com/store/detail/syncfusion-winui-controls-gallery/9N0FP16DDC06?hl)
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM)
