@@ -295,7 +295,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ------------
 
-### 🪟 App Store
+### 💼 App Store
 
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup>
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
