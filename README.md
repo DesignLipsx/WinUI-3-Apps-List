@@ -134,8 +134,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **84 apps** that were recently added to the list!*
+*Last **85 apps** that were recently added to the list!*
 
+- `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
 - `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
 - `WD` [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
 - `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
@@ -476,6 +477,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer)
 - `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW)
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
+- `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
 
 #### 📺 Tracking Services
 
