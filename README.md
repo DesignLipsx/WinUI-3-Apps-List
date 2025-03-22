@@ -371,12 +371,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ------------
 
 ### 🎮 Games
-
 - `WDM` [Emerald](https://github.com/RiversideValley/Emerald) <sup>`FOSS`</sup>
 - `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe) <sup>`FOSS`</sup>
 - `WM`  [Fluent 2048](https://github.com/Zingzy/fluent-2048) <sup>`FOSS`</sup>
 - `WDM` [Gues.io](https://www.microsoft.com/en-in/p/guesio/9mt0dpsh2lcw)
-- `WDM` [Natsurianko.FluentLauncher](https://www.microsoft.com/en-in/p/natsuriankofluentlauncher/9P4NQQXQ942P)
 - `WDM` [OurSweeper](https://www.xbox.com/en-in/games/store/oursweeper/9pb8sdwv419v?rtc=1)
 - `WDM` [Sudoku](https://www.microsoft.com/en-in/p/sudoku/9NBLGGH08DC5)
 - **🔧 Tools**
@@ -392,6 +390,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WM` [Mixplay for Mixer](https://apps.microsoft.com/store/detail/mixplay-for-mixer/9PN94D9BDFZM)
 	- `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium) <sup>`FOSS`</sup>
 	- `WD` [YT2MP3](https://github.com/0zean/YT2MP3) <sup>`FOSS`</sup>
+ 	- `WDM` [Fluent Launcher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
