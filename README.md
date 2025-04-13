@@ -300,7 +300,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup>
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
 - `WDM` [Microsoft Store](https://apps.microsoft.com/home)
-- `WDM` [WingetUI](https://github.com/marticliment/UniGetUI) <sup>`FOSS`</sup>
+- `WDM` [UniGetUI](https://github.com/marticliment/UniGetUI) <sup>`FOSS`</sup>
 
 ------------
 
@@ -581,7 +581,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Tiles](https://github.com/jpbandroid/Tiles) <sup>`FOSS`</sup>
 - `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) <sup>`FOSS`</sup>
 - `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
-- `WDM` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
