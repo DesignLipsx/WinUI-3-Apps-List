@@ -134,8 +134,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **85 apps** that were recently added to the list!*
+*Last **86 apps** that were recently added to the list!*
 
+- `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
 - `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
 - `WD` [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry)
@@ -279,6 +280,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds)
 - `WD` [MDC AI](https://apps.microsoft.com/detail/9nw24n9w33c9)
 - `WDM` [Ollama](https://apps.microsoft.com/detail/9pn5vmgszgsn)
+- `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -604,6 +606,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Microsoft PowerToys](https://github.com/microsoft/PowerToys) <sup>`FOSS`</sup>
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
+- `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
 - `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
 - `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
@@ -786,6 +789,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ)
+- `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WD` [Phobos](https://apps.microsoft.com/detail/9n9mxc18zx4l)
 - `WDM` [PhotoToys](https://apps.microsoft.com/store/detail/phototoys/9N3NH8S6N1DD)
 - `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ)
