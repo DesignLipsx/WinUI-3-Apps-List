@@ -317,6 +317,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Radon Browser](https://github.com/itzbluebxrry/Radon-Browser) <sup>`FOSS`</sup>
 - `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `❎` <sup>`FOSS`</sup>
 - `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `❎` <sup>`FOSS`</sup>
+- `WDA` [Zen Browser](https://zen-browser.app) <sup>`FOSS`</sup>
 
 ------------
 
