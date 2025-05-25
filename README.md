@@ -256,7 +256,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
 
 #### <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
-- `WDM` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
+- `WD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
