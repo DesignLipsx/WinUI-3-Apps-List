@@ -874,7 +874,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Inventory](https://github.com/LeftTwixWand/Inventory) <sup>`FOSS`</sup>
 - `WD` [Library Management System](https://github.com/Diyari-Kurdi/Library-Management-System) `📆` <sup>`FOSS`</sup>
 - `WD` [Maze-Generator](https://github.com/atslughorn/Maze-Generator) <sup>`FOSS`</sup>
-
+- `WDM` [MuMuPlayer](https://mumu.163.com/download/) (only the Windows on ARM version is WinUI)
 ------------
 
 #### <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/108184606/deb658e0-14f1-4bbb-8f43-0b147e9806e9" width="25" height="25" /> Contributing to the WinUI 3 Apps List
