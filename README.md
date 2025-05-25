@@ -134,8 +134,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **86 apps** that were recently added to the list!*
-
+*Last **88 apps** that were recently added to the list!*
+- `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
+- `WDM` [Netease MuMuPlayer](https://mumu.163.com/) `📆` (only the Windows on ARM version is WinUI)
 - `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
 - `WDM` [iNKORE.UI.WPF.Modern Gallery](https://apps.microsoft.com/detail/9N3JS11ZC38G)
@@ -483,6 +484,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Awesome Media Player WinUI3](https://github.com/BluDay/awesome-media-player-winui3) `📆` <sup>`FOSS`</sup>
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) <sup>`FOSS`</sup>
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
+- `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
 - **🔧 Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
 
@@ -874,6 +876,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Inventory](https://github.com/LeftTwixWand/Inventory) <sup>`FOSS`</sup>
 - `WD` [Library Management System](https://github.com/Diyari-Kurdi/Library-Management-System) `📆` <sup>`FOSS`</sup>
 - `WD` [Maze-Generator](https://github.com/atslughorn/Maze-Generator) <sup>`FOSS`</sup>
+- `WDM` [Netease MuMuPlayer](https://mumu.163.com/) `📆` (only the Windows on ARM version is WinUI)
 
 ------------
 
