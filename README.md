@@ -298,7 +298,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ------------
 
-### 💼 App Store
+### 💼 Application Store
 
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup>
 - `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
@@ -321,7 +321,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ------------
 
-### 🧑‍💻 Developer tools
+### 🧑‍💻 Developer Tools
 
 #### <img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
 
@@ -361,13 +361,15 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ------------
 
-### 📁 File explorer 
+### 📁 File Manager
 
 - `WD` [Adv File Explorer](https://apps.microsoft.com/store/detail/adv-file-explorer/9MVSVN9D3G5Z)
 - `WDM` [Files App](https://github.com/files-community/files) <sup>`FOSS`</sup>
 - `WDM` [MyFTP](https://github.com/luandersonn/MyFTP) <sup>`FOSS`</sup>
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
+- `WDM` `WDA` [RX-Explorer (WAS)](https://apps.microsoft.com/detail/9pdn2q3dcqs3)
+- `WDM` `WDA` [RX-Explorer (UWP)](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -431,7 +433,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆` <sup>`FOSS`</sup>
 
-### 📄 Pdf viewer
+### 📄 PDF Viewer
 
 - `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)  
 - **🔧 Tools**
@@ -442,7 +444,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
 	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
 
-### 🏜️ Photo viewer
+### 🏜️ Photo Viewer
 
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
@@ -517,7 +519,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ------------
 
-### 📒 Notes/To-do/Wish-lists
+### 📒 Notes / To-do / Wish-lists
 
 #### ⬜ Draw Board
 
@@ -548,7 +550,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes) <sup>`FOSS`</sup>
 - `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9) `💰`
 
-#### 🔔 To-Do/Task
+#### 🔔 To-Do / Task
 
 - `WDM` [DayDayUp](https://github.com/Fangjin98/daydayup) `📆` <sup>`FOSS`</sup>
 - `WDM` [TaskList](https://github.com/GuildOfCalamity/TaskList) `📆` <sup>`FOSS`</sup>
@@ -583,6 +585,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 - `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
 - `WDM` [Tiles](https://github.com/jpbandroid/Tiles) <sup>`FOSS`</sup>
+- `WDM` [Timeline Wallpaper](https://apps.microsoft.com/detail/9n7vhq989bb7)
 - `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) <sup>`FOSS`</sup>
 - `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) <sup>`FOSS`</sup>
@@ -664,7 +667,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Kemono Downloader GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI) <sup>`FOSS`</sup>
 	- `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic) <sup>`FOSS`</sup>
  
-#### 📊 Device Info/Monitors
+#### 📊 Device Info / Monitors
 
 - `WDM` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
 - `WDM` [Hardware information (temperature monitoring)](https://apps.microsoft.com/detail/9n9q4ld8286v)
@@ -696,10 +699,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
 - `WDM` [FluentWeather](https://github.com/Gabboxl/FluentWeather) <sup>`FOSS`</sup>
 - `WDM` [LightWeather](https://apps.microsoft.com/detail/9nblggh516s4)
-- `WDM`[Lively Weather](https://apps.microsoft.com/detail/9pp0mfqfvsc5)
-- `WDM`[Skyline Weather](https://github.com/zxbmmmmmmmmm/SkylineWeather) <sup>`FOSS`</sup>
+- `WDM` [Lively Weather](https://apps.microsoft.com/detail/9pp0mfqfvsc5)
+- `WDM` [Skyline Weather](https://github.com/zxbmmmmmmmmm/SkylineWeather) <sup>`FOSS`</sup>
 
-#### 🧹 Optimizer/Cleaners
+#### 🧹 Optimizer / Cleaners
 
 - `WDM` [Cleaner for PC](https://apps.microsoft.com/detail/9nj3nwt4k0h6) `💰`
 - `WDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
@@ -715,6 +718,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### ➗ Calculators
 
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
+- `WDM` [Windows Calculator](https://github.com/Microsoft/calculator) <sup>`FOSS`</sup>
 
 #### 🈵 Translators
 
