@@ -618,10 +618,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
 - `WD` [SpectroTime](https://apps.microsoft.com/detail/9p5mxj239vml)
 - `WDM` [Text To Speech Live UI](https://apps.microsoft.com/detail/text-to-speech-live-ui/9MWHWTD64HPL)
-- `WDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WD` [WinUI3 File Search Engine](https://github.com/israel-dryer/WinUI3-File-Search-Engine) <sup>`FOSS`</sup>
-- `WDM` [美剧社](https://apps.microsoft.com/store/detail/%E7%BE%8E%E5%89%A7%E7%A4%BE/9MXPQ2SRXKXL)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -635,7 +633,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 	- `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
 	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia) <sup>`FOSS`</sup>
-	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰` 
+	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰`	
+    - `WDM` [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) `📆` <sup>`FOSS`</sup> (Based on [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets), not WinUI)
+
 
 - <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
 
@@ -830,7 +830,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [WSAppBak](https://github.com/MadCkull/WSAppBak) <sup>`FOSS`</sup>
 - `WDA` [WinUi++](https://apps.microsoft.com/detail/xp9brhtxn0z3v7)
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8)
-- `WDM` [密罐 - 妥善保存蜜码](https://apps.microsoft.com/detail/9nlzpbcs0f5c) `💰`
+- `WDM` [Honeypot](https://apps.microsoft.com/detail/9nlzpbcs0f5c) `💰`
 
 ------------
 
