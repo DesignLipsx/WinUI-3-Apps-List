@@ -691,6 +691,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
 - `WDM` [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) <sup>`FOSS`</sup>
 - `WD` [Secure Folder, Files and Encrypt](https://apps.microsoft.com/detail/9mvd647dwgm8)
+- `WDM` [Transparent Lock Screen](https://lockscreen.softros.com/)
 
 #### 📰 News & Weather
 
