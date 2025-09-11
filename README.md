@@ -269,7 +269,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)  <sup>`FOSS`</sup>
 - `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf)
-- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M?rtc=1&hl=en-in&gl=IN)
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
 - `WDM` [ChloeGPT](https://apps.microsoft.com/detail/9pfq76kcwgzn)
@@ -283,7 +282,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Ollama](https://apps.microsoft.com/detail/9pn5vmgszgsn)
 - `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf)
-
+- `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) <sup>`FOSS`</sup>
+- `WDM` [Rodel Agent](https://github.com/Richasy/Rodel.Agent) <sup>`FOSS`</sup>
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
@@ -487,6 +487,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) <sup>`FOSS`</sup>
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
+- `WDM` [Rodel Player](https://apps.microsoft.com/detail/9nb0h051m4v4) `📆`
 - **🔧 Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
 
@@ -647,6 +648,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WD` [YT Video & MP3 Downloader and Converter](https://apps.microsoft.com/detail/9n15nknh976h)
 	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+
+- bilibili
+	- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M)
    
 - <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
   
