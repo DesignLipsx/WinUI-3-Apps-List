@@ -45,7 +45,7 @@
     - [Photo Viewer](#%EF%B8%8F-photo-viewer)
     - [Pdf Viewer](#-pdf-viewer)
     - [Podcast](#%EF%B8%8F-podcast)
-    - [Streaming Services](#-streaming-services)
+    - [ing Services](#-ing-services)
     - [Tracking Services](#-tracking-services)
     - [Video Players](#%EF%B8%8F-video-players)
   - [Multimedia & Design](#-multimedia--design)
@@ -473,11 +473,11 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW)
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
 - `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
+- `WDM` [AllLive](https://github.com/xiaoyaocz/AllLive) <sup>`FOSS`</sup>
 
 #### 📺 Tracking Services
 
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup>
-- `WDM` [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) <sup>`FOSS`</sup>
 - `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q)
 - `WDM` [Totoro](https://github.com/insomniachi/Totoro) <sup>`FOSS`</sup>
 
@@ -650,7 +650,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
 
 - bilibili
-	- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M)
+	- `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) <sup>`FOSS`</sup>
+    - `WDM` `WDA` [BiliLite](https://github.com/ywmoyue/biliuwp-lite)
    
 - <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
   
@@ -658,7 +659,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
    
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
   
-	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
+	- `WDM` [Byte Torrent](https://apps.microsoft.com/store/detail/byte-torrent/9PJT9PBVG7K8)
 	- `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) <sup>`FOSS`</sup>
 	- `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6)
