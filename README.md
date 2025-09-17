@@ -45,7 +45,7 @@
     - [Photo Viewer](#%EF%B8%8F-photo-viewer)
     - [Pdf Viewer](#-pdf-viewer)
     - [Podcast](#%EF%B8%8F-podcast)
-    - [Streaming Services](#-ing-services)
+    - [Streaming Services](#-streaming-services)
     - [Tracking Services](#-tracking-services)
     - [Video Players](#%EF%B8%8F-video-players)
   - [Multimedia & Design](#-multimedia--design)
@@ -659,7 +659,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
    
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
   
-	- `WDM` [Byte Torrent](https://apps.microsoft.com/store/detail/byte-torrent/9PJT9PBVG7K8)
+	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/detail/9pjt9pbvg7k8)
 	- `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) <sup>`FOSS`</sup>
 	- `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6)
