@@ -45,7 +45,7 @@
     - [Photo Viewer](#%EF%B8%8F-photo-viewer)
     - [Pdf Viewer](#-pdf-viewer)
     - [Podcast](#%EF%B8%8F-podcast)
-    - [ing Services](#-ing-services)
+    - [Streaming Services](#-ing-services)
     - [Tracking Services](#-tracking-services)
     - [Video Players](#%EF%B8%8F-video-players)
   - [Multimedia & Design](#-multimedia--design)
@@ -419,7 +419,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
 - `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT) <sup>`FOSS`</sup>
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) <sup>`FOSS`</sup>
-- `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Stylophone](https://github.com/Difegue/Stylophone) <sup>`FOSS`</sup>
 - `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup>
 - **🔧 Tools**
@@ -488,6 +487,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
 - `WDM` [Rodel Player](https://apps.microsoft.com/detail/9nb0h051m4v4) `📆`
+- `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
+- `WDM` `WDA` [zPlayer UWP](https://apps.microsoft.com/detail/9p6f8445w4kr)
 - **🔧 Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
 
