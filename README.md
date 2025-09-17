@@ -487,7 +487,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
 - `WDM` [Rodel Player](https://apps.microsoft.com/detail/9nb0h051m4v4) `📆`
-- `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` `WDA` [zPlayer UWP](https://apps.microsoft.com/detail/9p6f8445w4kr)
 - **🔧 Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
