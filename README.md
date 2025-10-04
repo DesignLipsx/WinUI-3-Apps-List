@@ -249,8 +249,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q) <sup>`FOSS`</sup>
 
-#### <img src="https://img.icons8.com/?size=256&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
-- `WDM` [Bluesky](https://bsky.app/profile/firecube.bsky.social) `📆`
+#### <img src="https://img.icons8.com/?size=256&id=KxHlias9AgZt&format=png" width="21" height="21" /> Bluesky
+- `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts)
 
 #### <img src="https://img.icons8.com/?size=256&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
@@ -264,23 +264,21 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🤖 Artificial Intelligence (AI)
 
-- `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h)
+- `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h) `💰`
 - `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
 - `WDM` [Axela](https://github.com/jpbandroid/Axela)  <sup>`FOSS`</sup>
 - `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf)
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS)
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
-- `WDM` [ChloeGPT](https://apps.microsoft.com/detail/9pfq76kcwgzn)
-- `WDM` [Clippy by FireCube](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T)
+- `WDM` [Paperclip by FireCube](https://apps.microsoft.com/detail/9nwk37s35v5)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/store/detail/easychat-ai-%E2%80%93-chat-get-answers/9NXK0PK5ZS1B?hl)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned`  <sup>`FOSS`</sup>
-- `WDM` [Fantasy Copliot](https://apps.microsoft.com/store/detail/fantasy-copliot/9NB0NB3MLQTM)
-- `WD` [GPT Labs](https://apps.microsoft.com/store/detail/gpt-labs/9P2FX8S80WHS)
+- `WDM` [Rodel Agent](hhttps://apps.microsoft.com/detail/9nb0nb3mlqtm)
+- `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs)
 - `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds)
 - `WD` [MDC AI](https://apps.microsoft.com/detail/9nw24n9w33c9)
-- `WDM` [Ollama](https://apps.microsoft.com/detail/9pn5vmgszgsn)
-- `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
+- `WDA` [Perfect Memory](https://apps.microsoft.com/detail/XP9M33WLFS472F)
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf)
 - `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) <sup>`FOSS`</sup>
 - `WDM` [Rodel Agent](https://github.com/Richasy/Rodel.Agent) <sup>`FOSS`</sup>
@@ -311,13 +309,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` `WDA` [Arc Browser](https://arc.net/)
 - `WDM` [Aurora](https://apps.microsoft.com/detail/aurora-search-browse-and-explore/9MXZLDLCTFWL)
-- `WDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) `❎` <sup>`FOSS`</sup>
-- `WDM` [FireBrowserWinUi](https://apps.microsoft.com/detail/9PCN40XXVCVB)
+- `WDM` [Riverside Graphite](https://apps.microsoft.com/detail/9PCN40XXVCVB)
 - `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆` <sup>`FOSS`</sup>
-- `WDM` [Radon Browser](https://github.com/itzbluebxrry/Radon-Browser) <sup>`FOSS`</sup>
-- `WDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) `❎` <sup>`FOSS`</sup>
-- `WDM` [Yttrium](https://github.com/muznyo/Yttrium) `❎` <sup>`FOSS`</sup>
+- `WDM` [Radon Browser](https://github.com/imscythra/radon-browser) <sup>`FOSS`</sup>
 
 ------------
 
@@ -327,7 +322,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
 - `WD` [JitHub](https://github.com/JitHubApp/JitHubV2) <sup>`FOSS`</sup>
-- `WD` [JitHub WinSDK](https://github.com/JitHubApp/JitHub) `📅` <sup>`FOSS`</sup>
 
 #### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
@@ -339,12 +333,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Developers Toolbox](https://apps.microsoft.com/store/detail/developers-toolbox/9N6J5X2172Q8)
 - `WD` [Dev Home GitHub Extension (Preview)](https://apps.microsoft.com/store/detail/dev-home-github-extension-preview/9NZCC27PR6N6)
 - `WD` [DevToys](https://github.com/DevToys-app/DevToys) <sup>`FOSS`</sup>
-- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/encrypt-tools/9P8LN5RP6RC6)
-- `WD` [GWSL](https://apps.microsoft.com/store/detail/gwsl/9NL6KD1H33V3)
+- `WD` [Encrypt Tools](https://apps.microsoft.com/detail/9p8ln5rp6rc6)
+- `WD` [GWSL](https://apps.microsoft.com/detail/9nl6kd1h33v3)
 - `WD` [Image Format Conversion Tool](https://apps.microsoft.com/detail/9p9bxtfg4rtn)
 - `WD` [IP Port Scanner](https://apps.microsoft.com/detail/9p63kdgkz30d)
 - `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop) <sup>`FOSS`</sup>
-- `WD` [Network Tools Collection Desktop Edition](https://apps.microsoft.com/detail/9NW6L8PLQMM4)
+- `WD` [Network Tools Collection Desktop Edition](https://apps.microsoft.com/detail/9nw6l8plqmm4)
 - `WD` [Nuget Pacman](https://apps.microsoft.com/detail/9pb3fzp9nm36)`💰`
 - `WDM` [PaletteNet](https://github.com/tmk907/PaletteNet) <sup>`FOSS`</sup>
 - `WD` [Publishing your WinUI 3 App](https://apps.microsoft.com/detail/publishing-your-winui-3-app/9P05X2F4MV0T)
@@ -353,7 +347,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) <sup>`FOSS`</sup>
 - `WDM` [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) <sup>`FOSS`</sup>
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
-- `WD` [TextDiff UWP](https://apps.microsoft.com/store/detail/textdiff-uwp/9P8FPD4XS74K) <sup>`FOSS`</sup>
+- `WD` [TextDiff UWP](https://apps.microsoft.com/detail/9p8fpd4xs74k) <sup>`FOSS`</sup>
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/winui-3-serial-port-communication/9N97V1RZGT1P)
 - `WDM` [WUC Gallery](https://apps.microsoft.com/detail/9mswnv3wmqc1)
 
@@ -368,8 +362,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [MyFTP](https://github.com/luandersonn/MyFTP) <sup>`FOSS`</sup>
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) `💰`
 - `WDM` [Shrestha Files Free](https://apps.microsoft.com/store/detail/shrestha-files-free/9PLL2XRXQ9LF)
-- `WDM` `WDA` [RX-Explorer (WAS)](https://apps.microsoft.com/detail/9pdn2q3dcqs3)
-- `WDM` `WDA` [RX-Explorer (UWP)](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
+- `WDM` `WDA` [RX-Explorer (WAS)](https://apps.microsoft.com/detail/9pdn2q3dcqs3) `💰`
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -388,7 +381,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse) <sup>`FOSS`</sup>
 	- `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest) <sup>`FOSS`</sup>
 	- `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold) <sup>`FOSS`</sup>
-	- `WDM` [Game Calender](https://apps.microsoft.com/store/detail/game-calendar/9WZDNCRD1P4N)
+	- `WDM` [Game Calender](https://apps.microsoft.com/detail/9wzdncrd1p4n)
 	- `WD` [GenshinSwitch](https://github.com/GenshinMatrix/genshin-switch) <sup>`FOSS`</sup>
   	- `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion) <sup>`FOSS`</sup>
   	- `WDM` [MCSkinn](https://apps.microsoft.com/detail/9N8SJT329HH1?hl=zh-cn&gl=US&ocid=pdpshare)
@@ -412,7 +405,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 🎧 Music Players
 
 - `WDA` [Disenchant Music Player](https://github.com/DenryDu/Disenchant-Music-Player) `📆 Planned` <sup>`FOSS`</sup>
-- `WD` [Folderity](https://github.com/Shailosingh/Folderity) <sup>`FOSS`</sup>
+- `WD` [Folderity](https://github.com/Shailosingh/Folderity) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [haikusMediaPlayer](https://github.com/haiku-balls/haikusMediaPlayer) <sup>`FOSS`</sup>
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
 - `WDM` [Musicloud - Music Downloader](https://apps.microsoft.com/store/detail/musicloud-music-downloader/9P6V0D62D4BQ)
@@ -435,24 +428,22 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 📄 PDF Viewer
 
-- `WDM` [Fluetro PDF](https://apps.microsoft.com/store/detail/fluetro-pdf/9NSR7B2LT6LN)  
+- `WDM` [Fluetro PDF](https://apps.microsoft.com/detail/9nsr7b2lt6ln)  
 - **🔧 Tools**
-	- `WDM` [PDF Creator from Images](https://apps.microsoft.com/detail/9nxrg1l5rmp6?)
+	- `WDM` [PDF Creator from Images](https://apps.microsoft.com/detail/9nxrg1l5rmp6)
 	- `WDM` [PDF Splitter / Merger](https://apps.microsoft.com/detail/9n2kgnh5bz8f)
 	- `WDM` [PDF.Office Converter](https://apps.microsoft.com/detail/9nw5c7830tnw)
-	- `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)  
-	- `WDM` [Pdf.JPG - PDF to JPG, PDF Converter](https://apps.microsoft.com/store/detail/pdfjpg-pdf-to-jpg-pdf-converter/9NJ9N3MG9JLW)
-	- `WDM` [PDF Unlocker - Unlock PDF, Remove Password](https://apps.microsoft.com/store/detail/pdf-unlocker-unlock-pdf-remove-password/9P20WBQVFD4N)
+	- `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
 
 ### 🏜️ Photo Viewer
 
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
-- `WDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
+- `WDM` [Visum Photo Viewer](https://apps.microsoft.com/detail/9n1x3z50blm8)
 - **🔧 Tools**
 	- `WD` [AT-Image-Converter](https://github.com/airtaxi/AT-Image-Converter) <sup>`FOSS`</sup>
-	- `WDM` [Any-Image Converter](https://apps.microsoft.com/detail/9nnw5b0l559r)
-	- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9N5L51XTRJ19)
+	- `WDM` [Any Image Converter.](https://apps.microsoft.com/detail/9nwqc9kdxktb)
+	- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9n5l51xtrj19)
 	- `WDM` [HEIC.JPG Converter](https://apps.microsoft.com/detail/9nw5p352bqm8) `💰`
    	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/9ntvcmpjm5v3)
 	- `WD` [ImageRate & Slideshow](https://apps.microsoft.com/detail/9nz1b660k8mc)
@@ -461,18 +452,17 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### 🎙️ Podcast
 
-- `WDM` [FluentCast](https://apps.microsoft.com/store/detail/fluentcast/9PM46JRSDQQR)
+- `WDM` [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr)
 - `WDM` [Grover Podcast](https://matheus-inacio.github.io/grover-podcast/)
 - `WDM` [Podcasted](https://apps.microsoft.com/detail/9nxwgr2b1p26)
 
 #### 📺 Streaming Services
 
-- `WDM` [Apple Music](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
-- `WDM` [Apple TV](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
+- `WDM` [Apple Music](https://apps.microsoft.com/detail/9pfhdd62mxs1)
+- `WDM` [Apple TV](https://apps.microsoft.com/detail/9nm4t8b9jqz1)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
-- `WDM` [iQIYI](https://apps.microsoft.com/detail/9NBLGGH5WXNW)
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
-- `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
+- `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
 
 #### 📺 Tracking Services
 
@@ -512,8 +502,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Sketchable Plus](https://apps.microsoft.com/store/detail/sketchable-plus/9MZZLHTZ5N02)
 - `WDM` [The Color Palette](https://apps.microsoft.com/store/detail/the-color-palette/9PBK4B7HBJXG)
 - `WDM` [Summer](https://github.com/sh0ckj0ckey/Summer) <sup>`FOSS`</sup>
-- `WD` [PageFabric](https://www.microsoft.com/store/apps/9P170799PF3Q)
-- `WD` [System Color Picker](https://apps.microsoft.com/store/detail/system-color-picker/9PDNCSSK83F1)
+- `WD` [PageFabric](https://apps.microsoft.com/detail/9p170799pf3q)
+- `WD` [System Color Picker](https://apps.microsoft.com/detail/9pdncssk83f1)
 - `WD` [Unpaint](https://github.com/axodox/unpaint) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -533,7 +523,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Ferrpad](https://github.com/shef3r/ferrpad) <sup>`FOSS`</sup>
 - `WDM` [FluentEdit](https://apps.microsoft.com/store/detail/fluentedit/9NWL9M9JPQ36)
 - `WDM` [HikariEditor](https://github.com/Himeyama/HikariEditor) <sup>`FOSS`</sup>
-- `WDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
+- `WDM` [HiNote](https://apps.microsoft.com/store/detail/9N94LT5S8FD9)
 - `WDM` [Ivirius Text Editor](https://github.com/IviriusMain/Ivirius-Text-Editor) <sup>`FOSS`</sup>
 - `WDM` [Mica Editor](https://www.microsoft.com/store/apps/9PGZBDP9PSPF)
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes) <sup>`FOSS`</sup>
@@ -543,13 +533,11 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Storylines](https://github.com/morning4coffe-dev/storylines) <sup>`FOSS`</sup>
 - `WDM` [TowPad](https://github.com/itsWindows11/TowPad) <sup>`FOSS`</sup>
 - `WDM` [Typedown](https://github.com/byxiaozhi/Typedown) <sup>`FOSS`</sup>
-- `WDM` [UTE](https://github.com/jpbandroid/UTE) <sup>`FOSS`</sup>
 
 #### 🔔 Reminders
 
-- `WDM` [AlertMe](https://apps.microsoft.com/store/detail/alertme-quick-reminder-notifications/9MW5VRL0BQT9) `💰`
+- `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9mw5vrl0bqt9) `💰`
 - `WDM` `WDA` [MyNotes](https://github.com/ErenCanUtku/MyNotes) <sup>`FOSS`</sup>
-- `WDM` [Quick Reminder Alerts](https://apps.microsoft.com/detail/9MW5VRL0BQT9) `💰`
 
 #### 🔔 To-Do / Task
 
@@ -567,28 +555,25 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Acrylic](https://apps.microsoft.com/detail/acrylic%E2%84%A2%EF%B8%8F/9PHF4S5SJJG3) `💰`
 - `WDM` [AI Wallpapers](https://apps.microsoft.com/store/detail/ai-wallpapers/9NSQGRZKH163)
 - `WDM` [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435) <sup>`FOSS`</sup>
-- `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD)
-- `WDM` [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q)
+- `WDM` [backiee - Wallpaper Studio 10](https://apps.microsoft.com/detail/9wzdncrfhzcd)
+- `WDM` [BeWidgets](https://apps.microsoft.com/detail/9nq07fg50h2q)
 - `WDM` [Croak](https://github.com/MehranAkbarii/Croak) <sup>`FOSS`</sup>
 - `WDM` [Desktop Live Wallpapers](https://apps.microsoft.com/store/detail/desktop-live-wallpapers/9NZ370XBFQMG)
 - `WDM` [Dynamic theme](https://apps.microsoft.com/store/detail/dynamic-theme/9NBLGGH1ZBKW)
 - `WDM` [EverythingToolbar](https://github.com/srwi/EverythingToolbar) <sup>`FOSS`</sup>
-- `WDM` [FolderIconizer - Change Folder Icons](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
+- `WDM` [Custom Folder Icon Changer](https://apps.microsoft.com/store/detail/foldericonizer-change-folder-icons/9PLQDJ5XCNL3) `💰`
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 - `WDM` [Magpie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
 - `WDM` [Mica](https://apps.microsoft.com/store/detail/mica%E2%84%A2%EF%B8%8F/9N7LF08JZ98K)
 - `WDM` [MyDay - Hourly Day Planner](https://apps.microsoft.com/store/detail/myday-hourly-day-planner/9P8QTKPD2WK3) `💰`
 - `WDM` [MyerSplash](https://apps.microsoft.com/store/detail/myersplash-photos/9NBLGGH4VCSN?hl=en-in&gl=in&rtc=1)
-- `WDM` [Power Widgets - interactive widgets](https://apps.microsoft.com/store/detail/power-widgets-interactive-widgets/9NLHP5KRXZQ7)  `💰`
 - `WD` [RainbowFrame](https://apps.microsoft.com/detail/9p0pflqk1b0w)
-- `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full)
-- `WDM` [Tabbed](https://apps.microsoft.com/store/detail/tabbed%E2%84%A2%EF%B8%8F/9PNTW3WL9SRQ)
-- `WDM` [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
-- `WDM` [TheMenu](https://apps.microsoft.com/store/detail/themenu/9P1RPMSH1TPB) `💰`
-- `WDM` [Tiles](https://github.com/jpbandroid/Tiles) <sup>`FOSS`</sup>
+- `WDM` `WDA` [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/xp8jgpbhtjglcq)
+- `WDM` [Tabbed](https://apps.microsoft.com/detail/9pntw3wl9srq)
+- `WDM` [T-Drive](https://apps.microsoft.com/detail/9mvd1pkdtxsn)
+- `WDM` [TheMenu](https://apps.microsoft.com/detail/9p1rpmsh1tpb) `💰`
 - `WDM` [Timeline Wallpaper](https://apps.microsoft.com/detail/9n7vhq989bb7)
 - `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) <sup>`FOSS`</sup>
-- `WdM` [Wallhaven UWP](https://apps.microsoft.com/store/detail/wallhaven-uwp/9NJLDD2934RK?hl=en-in&gl=in&rtc=1)
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -599,24 +584,21 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Barcode Fonts Trial](https://apps.microsoft.com/detail/9n2n5j6q9t51) <sup>`FOSS`</sup>
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰`
-- `WDM` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB)
+- `WDM` [Clipboard Canvas](https://apps.microsoft.com/detail/9nn2nzg8rltb)
 - `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
-- `WDM` [FCN for Writers](https://apps.microsoft.com/store/detail/fcn-for-writers/9P28H11CKGWC)
-- `WDM` [File Optimizer](https://apps.microsoft.com/store/detail/file-optimizer/9P322WWXH4D0)
-- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/store/detail/flowtex-preview-beta/9NT79075T86L)
-- `WDM` [GPT Powertoys](https://apps.microsoft.com/detail/9npmswgvbs2w)
+- `WDM` [FCN for Writers](https://apps.microsoft.com/detail/9p28h11ckgwc)
+- `WDM` [File Optimizer](https://apps.microsoft.com/detail/9p322wwxh4d0) `💰`
+- `WDM` [FlowTeX preview beta](https://apps.microsoft.com/detail/9nt79075t86l)
 - `WDM` [Ink Workspace](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
 - `WDM` [Live Home 3D - House Design](https://apps.microsoft.com/detail/9PG2CXWTKVB1)
-- `WDM` [Magic 365](https://apps.microsoft.com/detail/magic-365/9PG7JS2B17TD)
 - `WDM` [Microsoft PowerToys](https://github.com/microsoft/PowerToys) <sup>`FOSS`</sup>
 - `WDM` [Nokana](https://apps.microsoft.com/detail/9MTQ1WTFK7TW)
 - `WD` [Pasteboard](https://www.pasteboard.app)
 - `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
 - `WDM` [Pomodoro Timer - Focus](https://apps.microsoft.com/detail/9PCBNR8L2J55) `💰`
-- `WDM` [QuickChat](https://apps.microsoft.com/store/detail/quickchat/9PFXGHNKXMK0)
-- `WDM` [Shapr3D](https://apps.microsoft.com/store/detail/shapr3d/9N4K9QFV4XFC)
-- `WDM` [Shortcuts Center](https://apps.microsoft.com/store/detail/shortcuts-center/9NFX8MMVG9X6)
-- `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/store/detail/socialize-up-manage-all-your-social-media/9NBLGGH6C75V)
+- `WDM` [Shapr3D](https://apps.microsoft.com/detail/9n4k9qfv4xfc)
+- `WDM` [Shortcuts Center](https://apps.microsoft.com/detail/9nfx8mmvg9x6)
+- `WDM` [Socialize Up - Manage all your Social Media!](https://apps.microsoft.com/detail/9nblggh6c75v)
 - `WD` [SpectroTime](https://apps.microsoft.com/detail/9p5mxj239vml)
 - `WDM` [Text To Speech Live UI](https://apps.microsoft.com/detail/text-to-speech-live-ui/9MWHWTD64HPL)
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
@@ -634,27 +616,22 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 	- `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
 	- `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia) <sup>`FOSS`</sup>
-	- `WDM` [YH File Download Manager](https://apps.microsoft.com/store/detail/yh-file-download-manager/9N1S7G773K1K) `💰`	
+	- `WDM` [YH File Download Manager](https://apps.microsoft.com/detail/9n1s7g773k1k) `💰`	
     - `WDM` [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) `📆` <sup>`FOSS`</sup> (Based on [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets), not WinUI)
 
 
 - <img src="https://img.icons8.com/?size=512&id=9a46bTk3awwI&format=png"   width="21" height="21" /> YouTube
 
-	- `WDM` [Pro Video Downloader for YT](https://apps.microsoft.com/detail/9pnrd0w9sc7w)
 	- `WD` [TubeSync](https://github.com/manusoft/youtube-downloader-desktop) <sup>`FOSS`</sup>
 	- `WD` [Tube Music Pro](https://apps.microsoft.com/store/detail/tube-music-pro/9NBVVZBCWXX3)
 	- `WD` [Ultra Music & Video Downloader PRO](https://apps.microsoft.com/detail/9p9pwlkpr1k8)
 	- `WDM` [WinTube](https://github.com/Areoxy/WinTube) <sup>`FOSS`</sup>
 	- `WD` [YT Video & MP3 Downloader and Converter](https://apps.microsoft.com/detail/9n15nknh976h)
-	- `WDM` [YTD - YT Video Downloader](https://apps.microsoft.com/store/detail/ytd-yt-video-downloader/9MZQ5285RW0Q)
 	- `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
+	- `WDM` [YTB.Downloader](https://apps.microsoft.com/detail/9nlcb909p1cf)
 
 - bilibili
 	- `WDM` [Bili.Copilot](https://apps.microsoft.com/detail/9MVFJLPH517M)
-   
-- <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
-  
-	- `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
    
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
   
@@ -662,8 +639,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
 	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) <sup>`FOSS`</sup>
 	- `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6)
-	- `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
-	- `WDM` [YTB.Downloader](https://apps.microsoft.com/detail/9nlcb909p1cf)
+	- `WDM` [youTorrent](https://apps.microsoft.com/detail/9p2qmbvqrcfn)
 
 - <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Other
   
@@ -689,10 +665,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot) <sup>`FOSS`</sup>
-- `WDM` [Keep Safe For Password](https://apps.microsoft.com/detail/9PLWTK2W9KNR)
 - `WM` [Pass11](https://github.com/LawOff/Pass11) <sup>`FOSS`</sup>
 - `WDM` [Password Plus Generator](https://apps.microsoft.com/store/detail/password-plus-generator/9P9SSPR1MLB9)
-- `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/store/detail/protecc-2fa-authenticator-totp/9PJX91M06TZS)
+- `WDM` [Protecc - 2FA Authenticator TOTP](https://apps.microsoft.com/detail/9pjx91m06tzs)
 - `WDM` [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) <sup>`FOSS`</sup>
 - `WD` [Secure Folder, Files and Encrypt](https://apps.microsoft.com/detail/9mvd647dwgm8)
 - `WDM` [Transparent Lock Screen](https://lockscreen.softros.com/)
@@ -701,7 +676,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [FeedDesk](https://github.com/torum/FeedDesk) <sup>`FOSS`</sup>
 - `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds) <sup>`FOSS`</sup>
-- `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/store/detail/fluent-hn-hacker-news-client/9N8PDZHCPQHX) `💰`
+- `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/detail/9n8pdzhcpqhx) `💰`
 - `WDM` [FluentWeather](https://github.com/Gabboxl/FluentWeather) <sup>`FOSS`</sup>
 - `WDM` [LightWeather](https://apps.microsoft.com/detail/9nblggh516s4)
 - `WDM` [Lively Weather](https://apps.microsoft.com/detail/9pp0mfqfvsc5)
@@ -710,7 +685,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 🧹 Optimizer / Cleaners
 
 - `WDM` [Cleaner for PC](https://apps.microsoft.com/detail/9nj3nwt4k0h6) `💰`
-- `WDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
+- `WDM` [Duplicate Cleaner - Remove Duplicates](https://apps.microsoft.com/detail/9nflq6q6wt1p)
 - `WDM` [PhotoFiles - Duplicate & Similar Photo Cleaner](https://apps.microsoft.com/store/detail/photofiles-lite-duplicate-photos-cleaner/9PN31DTGG9GM)
 - `WD` [Duplicates Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49)
 - `WDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
@@ -728,17 +703,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 🈵 Translators
 
 - `WDM` [MagicTranslate: Simple translator](https://apps.microsoft.com/store/detail/magictranslate-simple-translator/9NGB2P0TSMBF) `💰`
-- `WDM` [Translate](https://github.com/shef3r/Translate) `❎` <sup>`FOSS`</sup>
 - `WDM` [Transhef](https://github.com/shef3r/Transhef) <sup>`FOSS`</sup>
-- `WDM` [WordWeaver](https://apps.microsoft.com/detail/9P603G6G0XPT) ([GitHub](https://github.com/itsWindows11/WordWeaver)) <sup>`FOSS`</sup>
-
-#### 🤖 WSA `❎`
-
-- `WDM` [APK Installers](https://apps.microsoft.com/store/detail/apk-installers/9P2JFQ43FPPG)
-- `WDM` [Apk Installer on WSA](https://apps.microsoft.com/store/detail/apk-installer-on-wsa/9N1TWH0BPJPS)
-- `WDM` [Aow Tools](https://apps.microsoft.com/store/detail/aow-tools/9NXM6552H2QL)
-- `WDM` [WSATools - APK installer and more](https://apps.microsoft.com/store/detail/wsatools-apk-installer-and-more/9N4P75DXL6FG)
-- `WDA` [WSA File Link](https://github.com/Direct5dom/WSAFileLink) <sup>`FOSS`</sup>
+- `WDM` [WordWeaver](https://github.com/itsWindows11/WordWeaver) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
