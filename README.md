@@ -456,6 +456,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
 	- `WD` [PodcastChapterEditor](https://github.com/snivets/PodcastChapterEditor) <sup>`FOSS`</sup>
 	- `WDM` [Tagger](https://github.com/NickvisionApps/Tagger) <sup>`FOSS`</sup>
+	- `WDM` [VideoGenius - Any Video Converter](https://apps.microsoft.com/detail/9mxrwwzxn8dk) `💰`
 	- `WDM` [Yugen.DJ](https://github.com/Yugen-Apps/Yugen.DJ) <sup>`FOSS`</sup>
 
 #### <img src="https://img.icons8.com/?size=80&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
@@ -466,6 +467,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Fluetro PDF](https://apps.microsoft.com/detail/9nsr7b2lt6ln)  
 - **🔧 Tools**
+	- `WDM` [PageToPDF - Webpage to PDF](https://apps.microsoft.com/detail/9nc15tmpz901) `💰`
 	- `WDM` [PDF Creator from Images](https://apps.microsoft.com/detail/9nxrg1l5rmp6)
 	- `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
 	- `WDM` [PDF Splitter / Merger](https://apps.microsoft.com/detail/9n2kgnh5bz8f)
@@ -487,11 +489,13 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
    	- `WDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/9ntvcmpjm5v3)
 	- `WDM` [ImgConverter - Convert Your Images](https://apps.microsoft.com/detail/9nn18b4dvfdf)
 	- `WD` [ImageRate & Slideshow](https://apps.microsoft.com/detail/9nz1b660k8mc)
+	- `WDM` [ImageScaler - Batch Image Resizer](https://apps.microsoft.com/detail/9pg8fq5pspdc) `💰`
 	- `WD` [LL Video Audio Converter](https://apps.microsoft.com/detail/9n9sb1k40kgc)
 	- `WDM` [ModernICO Converter](https://apps.microsoft.com/detail/9nzl0c0z1mmk)
 	- `WDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
 	- `WD` [Turbo Play](https://apps.microsoft.com/detail/9phlccswskn2)
 	- `WDM` [Webp Converter | Convert to PNG JPEG](https://apps.microsoft.com/detail/9nnzjtc21gdj)
+	- `WDM` [WebToImage - Webpage to Image](https://apps.microsoft.com/detail/9nhjm003mmsq) `💰`
 
 #### 🎙️ Podcast
 
@@ -640,7 +644,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰`
 - `WDM` [Clipboard Canvas](https://apps.microsoft.com/detail/9nn2nzg8rltb)
 - `WDM` [Control A](https://apps.microsoft.com/detail/9pb9sl4vbwd2)
-- `WDM` [Create Hotkeys and Remap Keys - Shortcuts IT](https://apps.microsoft.com/store/detail/create-hotkeys-and-remap-keys-shortcuts-it/9N3CJ2K795VD)
 - `WDM` [FCN for Writers](https://apps.microsoft.com/detail/9p28h11ckgwc)
 - `WDM` [File Optimizer](https://apps.microsoft.com/detail/9p322wwxh4d0) `💰`
 - `WDM` [FlowTeX preview beta](https://apps.microsoft.com/detail/9nt79075t86l)
@@ -713,7 +716,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [Vidder Video Downloader](https://apps.microsoft.com/detail/9njjx5ns63x2)
     - `WD` [YT Video & MP3 Downloader and Converter](https://apps.microsoft.com/detail/9n15nknh976h)
 	- `WDM` [YTMP3 Video Downloader and YT MP3 Converter](https://apps.microsoft.com/detail/9p59cckx7c5x)
-    - `WDM` [Yt.MP3 - YT to MP3](https://apps.microsoft.com/store/detail/ytmp3-yt-to-mp3-yt-video-downloader/9NGH84LZQC37)
     - `WDM` [YTB.Downloader](https://apps.microsoft.com/detail/9nlcb909p1cf)
 
 #### 📧 Email Clients
@@ -743,6 +745,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Cleaner for PC](https://apps.microsoft.com/detail/9nj3nwt4k0h6) `💰`
 - `WDM` [Duplicate Cleaner - Remove Duplicates](https://apps.microsoft.com/detail/9nflq6q6wt1p)
 - `WD` [Duplicates Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49)
+- `WDM` [PC Junk Cleaner](https://apps.microsoft.com/detail/9pj4qz6t6942) `💰`
 - `WDM` [PhotoFiles - Duplicate & Similar Photo Cleaner](https://apps.microsoft.com/store/detail/photofiles-lite-duplicate-photos-cleaner/9PN31DTGG9GM)
 - `WDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
 
@@ -801,6 +804,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Desktop Toolkit](https://apps.microsoft.com/store/detail/desktop-toolkit/9N8PFLMMR9BW) `💰`
 - `WDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) `💰`
 - `WD` [Document Scan](https://apps.microsoft.com/detail/9pgt3fkjzbr9)
+- `WDM` [DisplayScan - View Monitor Info](https://apps.microsoft.com/detail/9pbxflwnzflv) `💰`
 - `WDM` [Dropshelf](https://apps.microsoft.com/store/detail/dropshelf/9MZPC6P14L7N)
 - `WDM` [Droid Transfer](https://apps.microsoft.com/detail/9p77nqgzmg1c)
 - `WDM` [DVD Ripper - Rip DVD](https://apps.microsoft.com/detail/9np0ktx797v)
@@ -813,6 +817,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
 - `WD` [Fine Screen Recorder & Screen Record](https://apps.microsoft.com/detail/fine-screen-recorder-%26screen-record/9NFPNX6XF6Z7)
 - `WDM` [Fire Flyouts](https://apps.microsoft.com/detail/9nwxr2mksnx7)
+- `WDM` [FileLister - File List Export](https://apps.microsoft.com/detail/9p890ddtf9s0) `💰`
 - `WDM` [Fixdows](https://apps.microsoft.com/store/detail/9NKSGDKQ4L85)
 - `WDM` [Flint](https://github.com/sh0ckj0ckey/Flint) <sup>`FOSS`</sup>
 - `WDM` [Fluent Auto Clicker](https://github.com/RyanLua/FluentAutoClicker)
@@ -825,6 +830,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [FluentFlyout](https://apps.microsoft.com/detail/9n45nsm4tnbp)
 - `WD` [Flipuent](https://apps.microsoft.com/detail/9p8h6jlnqhjk)
 - `WDM` [Fluver](https://apps.microsoft.com/detail/9n3lmss7xl2k)
+- `WDM` [Frequency Sound Generator](https://apps.microsoft.com/detail/9ngjl1pb8j9b) `💰`
 - `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF)
 - `WDM` [GUID Pro](https://apps.microsoft.com/detail/9nwdpt7w3c08)
 - `WD` [HashTool](https://github.com/KiyanYang/DotVast.HashTool.WinUI) <sup>`FOSS`</sup>
@@ -836,14 +842,18 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [ISOMaker - ISO Image Creator](https://apps.microsoft.com/store/detail/isomaker-iso-image-creator/9NP1ZVJW7BV2) `💰`
 - `WDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
 - `WDM` [Lecture Countdown](https://apps.microsoft.com/store/detail/lecture-countdown/9P4NPSWTX7LK)
+- `WDM` [LinkRevealer - Reveal Actual URL](https://apps.microsoft.com/detail/9pp364bf9163) `💰`
 - `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop)
+- `WDM` [Lorem Ipsum Maker](https://apps.microsoft.com/detail/9mz1tc659prr) `💰`
 - `WDM` [Lucompressor](https://apps.microsoft.com/detail/9NB140MC75LN)
 - `WD` [LYLG For UWP](https://apps.microsoft.com/detail/9nj5v22l6c66)
 - `WD` [MaskedAIChat](https://apps.microsoft.com/detail/9pp344qwxrds)
+- `WDM` [MDF2ISO - MDF to ISO Converter](https://apps.microsoft.com/detail/9p6k8mvh8dz8) `💰`
 - `WDM` [MediaMaster App](https://apps.microsoft.com/detail/9n1xs6sn1v2f)
 - `WDA` [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
 - `WDM` [ModernFlyouts (Preview)](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP)
 - `WDM` [Monitorian](https://apps.microsoft.com/detail/9NW33J738BL0)
+- `WDM` [Mouse Jump - Move Mouse to Screen](https://apps.microsoft.com/detail/9pb4nvrt0vtp) `💰`
 - `WDM` [MyTools1](https://apps.microsoft.com/detail/9p8kkslj76g3)
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5)
 - `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ)
@@ -854,6 +864,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
 - `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W)
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2) `💰`
+- `WDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9ngpp9jx361t) `💰`
+- `WDM` [Quick JSON to NDJSON Converter](https://apps.microsoft.com/detail/9nclnt6pzhx3) `💰`
 - `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
 - `WD` [Reader Copilot](https://apps.microsoft.com/detail/reader-copilot/9PFZCKRHW0BC)
 - `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup>
@@ -869,6 +881,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Screen.Recorder](https://apps.microsoft.com/detail/9mswxd994dm1)
 - `WD` [Screen Recorder Pro.](https://apps.microsoft.com/detail/screen-recorder-pro/9P4PF7SGF95R) `💰`
 - `WDM` [See My Server](https://apps.microsoft.com/detail/9mtgbs9ptch8)
+- `WDM` [Self Signed Certificate Maker](https://apps.microsoft.com/detail/9ng2p6wjlgp7) `💰`
 - `WDM` [Service Manager](https://github.com/Chr1st1anSzech/Service-Manager) `📆`
 - `WDM` [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv)
 - `WD` [SimpleList](https://github.com/aiguoli/SimpleList) <sup>`FOSS`</sup>
@@ -937,7 +950,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [BattleAssistant](https://github.com/ArchieHill/BattleAssistant) <sup>`FOSS`</sup>
 - `WD` [DiscordFileMasterV2](https://github.com/Shailosingh/DiscordFileMasterV2) <sup>`FOSS`</sup>
 - `WDM` [FoodDesire](https://github.com/haritha99ch/FoodDesire) <sup>`FOSS`</sup>
-- `WDM` [Functs](https://apps.microsoft.com/detail/9PG1X814X0GB)
 - `WDM` [Inventory](https://github.com/LeftTwixWand/Inventory) <sup>`FOSS`</sup>
 - `WD` [Library Management System](https://github.com/Diyari-Kurdi/Library-Management-System) `📆` <sup>`FOSS`</sup>
 - `WD` [Maze-Generator](https://github.com/atslughorn/Maze-Generator) <sup>`FOSS`</sup>
