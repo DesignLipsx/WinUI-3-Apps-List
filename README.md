@@ -134,6 +134,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ---
 
+## 📑 Apps List
+
 ## 🆕 Newly Added Apps!
 
 *Last **92 apps** that were recently added to the list!*
@@ -234,40 +236,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ---
-
-## 📑 Apps List
-
-### 👨‍💻 Social Media
-
-#### <img src="https://img.icons8.com/?size=256&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
-
-- `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
-- `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
-- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
-
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1200px-Mastodon_Logotype_%28Simple%29.svg.png" width="18" height="18" /> Mastodon
-- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
-- `WD` [Dowstodon](https://apps.microsoft.com/detail/9phnv45jvr2s) <sup>`FOSS`</sup>
-
-#### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
-- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
-- `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨` <sup>`FOSS`</sup>
-
-#### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
-- `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q) <sup>`FOSS`</sup>
-
-#### <img src="https://img.icons8.com/?size=256&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
-- `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts)
-
-#### <img src="https://img.icons8.com/?size=256&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
-- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
-
-#### <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
-- `WD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
-
-<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
-
-------------
 
 ### 🤖 Artificial Intelligence (AI)
 
@@ -670,6 +638,38 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [USB Drive Manager](https://apps.microsoft.com/detail/9n1bqgx8h8h6)
 - `WD` [WinUI3 File Search Engine](https://github.com/israel-dryer/WinUI3-File-Search-Engine) <sup>`FOSS`</sup>
 - `WD` [Words come true](https://apps.microsoft.com/detail/9pdz7s5z1zh2)
+
+<sub>[📑 Table Of Contents](#-table-of-contents)</sub>
+
+------------
+
+### 👨‍💻 Social Media
+
+#### <img src="https://img.icons8.com/?size=256&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
+
+- `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
+- `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
+- `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1200px-Mastodon_Logotype_%28Simple%29.svg.png" width="18" height="18" /> Mastodon
+- `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆`
+- `WD` [Dowstodon](https://apps.microsoft.com/detail/9phnv45jvr2s) <sup>`FOSS`</sup>
+
+#### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
+- `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎`
+- `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨` <sup>`FOSS`</sup>
+
+#### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
+- `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q) <sup>`FOSS`</sup>
+
+#### <img src="https://img.icons8.com/?size=256&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
+- `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts)
+
+#### <img src="https://img.icons8.com/?size=256&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
+- `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5)
+
+#### <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
+- `WD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
