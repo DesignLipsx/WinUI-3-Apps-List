@@ -136,9 +136,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 📑 Apps List
 
-## 🆕 Newly Added Apps!
-
-*Last **92 apps** that were recently added to the list!*
+### 🆕 Newly Added Apps!
 
 - `WDM` [AI Client](https://apps.microsoft.com/detail/9pcs50q9gg7h)
 - `WD` [AI Image Generation](https://apps.microsoft.com/detail/9nx86c9rp9bj)
@@ -418,7 +416,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Stylophone](https://github.com/Difegue/Stylophone) <sup>`FOSS`</sup>
 - `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup>
 - `WDM` [Video Media Player - All Formats](https://apps.microsoft.com/detail/9n5j0j3fcg8t)
-- **🔧 Tools**
+- **Music Tools**
 	- `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
 	- `WDM` [HotLyric](https://www.microsoft.com/store/productId/9MXFFHVQVBV9)
 	- `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
@@ -434,7 +432,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ### 📄 PDF Viewer
 
 - `WDM` [Fluetro PDF](https://apps.microsoft.com/detail/9nsr7b2lt6ln)  
-- **🔧 Tools**
+- **PDF Tools**
 	- `WDM` [PageToPDF - Webpage to PDF](https://apps.microsoft.com/detail/9nc15tmpz901) `💰`
 	- `WDM` [PDF Creator from Images](https://apps.microsoft.com/detail/9nxrg1l5rmp6)
 	- `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
@@ -447,7 +445,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
 - `WDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590)
 - `WDM` [Visum Photo Viewer](https://apps.microsoft.com/detail/9n1x3z50blm8)
-- **🔧 Tools**
+- **Image Tools**
 	- `WD` [AT-Image-Converter](https://github.com/airtaxi/AT-Image-Converter) <sup>`FOSS`</sup>
 	- `WDM` [Any Image Converter.](https://apps.microsoft.com/detail/9nwqc9kdxktb)
 	- `WDM` [ArtWorks](https://apps.microsoft.com/detail/9n5l51xtrj19)
@@ -493,7 +491,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
 - `WDM` [Rodel Player](https://apps.microsoft.com/detail/9nb0h051m4v4) `📆`
-- **🔧 Tools**
+- **Video Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
 
 #### ▶️ Other Players
