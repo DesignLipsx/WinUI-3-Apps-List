@@ -196,6 +196,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [PassMaker - Advanced Password Generator](https://apps.microsoft.com/detail/9mtnmklt725l)
 - `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2)
+- `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup>
 - `WD` [Recipe Collection](https://apps.microsoft.com/detail/9ntdrjcq2p53)
 - `WDM` [Rename WinUI](https://apps.microsoft.com/detail/9n43msj4r03p)
 - `WD` [Rodel Reader](https://apps.microsoft.com/detail/9pfzckrhw0bc)
