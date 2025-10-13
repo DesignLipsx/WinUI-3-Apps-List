@@ -211,6 +211,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Sticky Notes Studio](https://apps.microsoft.com/detail/9n22flw0gqqw)
 - `WDM` [Syncfusion WPF Controls Examples](https://apps.microsoft.com/detail/9n99kdhrff6g)
 - `WDM` [Taskie](https://apps.microsoft.com/detail/9n201wbcfj91)
+- `WDM` [Time Squeeze](https://apps.microsoft.com/detail/9nfjxwblwgmp) `💰`
 - `WD` [TouchCopy](https://apps.microsoft.com/detail/9nblggh67g56)
 - `WDM` [TranslatePro](https://apps.microsoft.com/detail/9n1p9zwzhht7)
 - `WDM` [USB Drive Manager](https://apps.microsoft.com/detail/9n1bqgx8h8h6)
@@ -632,6 +633,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [S Renamer - Rename Multiple Files and Folders](https://apps.microsoft.com/detail/9npl1hpr5kmb) `💰`
 - `WD` [SpectroTime](https://apps.microsoft.com/detail/9p5mxj239vml)
 - `WDM` [Text To Speech Live UI](https://apps.microsoft.com/detail/text-to-speech-live-ui/9MWHWTD64HPL)
+- `WDM` [Time Squeeze](https://apps.microsoft.com/detail/9nfjxwblwgmp) `💰`
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WDM` [USB Drive Manager](https://apps.microsoft.com/detail/9n1bqgx8h8h6)
 - `WD` [WinUI3 File Search Engine](https://github.com/israel-dryer/WinUI3-File-Search-Engine) <sup>`FOSS`</sup>
