@@ -344,7 +344,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/9n97v1rzgt1p)
 - `WDM` [WUC Gallery](https://apps.microsoft.com/detail/9mswnv3wmqc1)
 - `WD` [XAML Path Icons](https://apps.microsoft.com/detail/9mtbnqsz9nz9)
-
+- `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI)
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
@@ -950,12 +950,13 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows) <sup>`FOSS`</sup>
 - `WD` [XAML Brewer WinUI3 LiveChart2 Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample) <sup>`FOSS`</sup>
 - `WD` [XAML Brewer WinUI3 SkiaSharp Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample) <sup>`FOSS`</sup>
-
+- `WD` [DevWinUI Gallery](https://apps.microsoft.com/detail/DevWinUI%20Gallery%20App/9nmx5x5dlsrq?launch=true&mode=mini)
 ------------
 
 #### 📖 Miscellaneous
 
 - `WDM` [Al-Anvar](https://github.com/ghost1372/Al-Anvar) <sup>`FOSS`</sup>
+- `WDM` [PSX Master](https://github.com/ghost1372/PSXMaster)
 - `WDM` [Automated Menu Management System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) <sup>`FOSS`</sup>
 - `WD` [BattleAssistant](https://github.com/ArchieHill/BattleAssistant) <sup>`FOSS`</sup>
 - `WD` [DiscordFileMasterV2](https://github.com/Shailosingh/DiscordFileMasterV2) <sup>`FOSS`</sup>
