@@ -224,6 +224,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [Widget Pro](https://apps.microsoft.com/detail/9nv0n2fwq00d)
 - `WDM` [Widgets for UniGetUI](https://apps.microsoft.com/detail/9nb9m5kz8slx)
 - `WD` [Windows App Manager](https://apps.microsoft.com/detail/9mvjj5q28cj2)
+- `WDM` [WindowSill](https://getwindowsill.app/)
 - `WDM` [WinUIEssentials.WinUI3Example](https://apps.microsoft.com/detail/9pcc690bcmt9)
 - `WD` [Working Timer](https://apps.microsoft.com/detail/9n71w9g714rk)
 - `WD` [Words come true](https://apps.microsoft.com/detail/9pdz7s5z1zh2)
@@ -271,6 +272,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rodel Agent](https://github.com/Richasy/Rodel.Agent) <sup>`FOSS`</sup>
 - `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) <sup>`FOSS`</sup>
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf)
+- `WDM` [WindowSill](https://getwindowsill.app/)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -602,6 +604,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [VideoScreensaver](https://apps.microsoft.com/detail/9nkx7w0j4cst)
 - `WDA` [Widget Pro](https://apps.microsoft.com/detail/9nv0n2fwq00d)
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) <sup>`FOSS`</sup>
+- `WDM` [WindowSill](https://getwindowsill.app/)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -638,6 +641,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [United Sets preview beta](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL)
 - `WDM` [USB Drive Manager](https://apps.microsoft.com/detail/9n1bqgx8h8h6)
 - `WD` [WinUI3 File Search Engine](https://github.com/israel-dryer/WinUI3-File-Search-Engine) <sup>`FOSS`</sup>
+- `WDM` [WindowSill](https://getwindowsill.app/)
 - `WD` [Words come true](https://apps.microsoft.com/detail/9pdz7s5z1zh2)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
