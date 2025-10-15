@@ -120,6 +120,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI
 
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
+- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
@@ -165,6 +166,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [DVD Ripper - Rip DVD](https://apps.microsoft.com/detail/9np0ktx797v)
 - `WDM` [Email Inboxes](https://apps.microsoft.com/detail/9mx57pfkf3gc)
 - `WDM` [English Dictionary - Offline](https://apps.microsoft.com/detail/9nsmlkmc3wb6)
+- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
 - `WD` [FaceFusion](https://apps.microsoft.com/detail/9n51zv1t45wr)
 - `WDM` [Fairmark](https://apps.microsoft.com/detail/9pdm2qk92715)
 - `WDA` [FastTranscribe](https://apps.microsoft.com/detail/9n6smgczrpcj)
@@ -257,6 +259,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK)
 - `WDM` [EasyChat AI](https://apps.microsoft.com/detail/9nxk0pk5zs1b)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned` <sup>`FOSS`</sup>
+- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
 - `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs)
 - `WDM` [Interviewer Copilot](https://apps.microsoft.com/detail/9pjvpmsb6gvh)
 - `WD` [Local AI Assistant](https://apps.microsoft.com/detail/9n9l7mz02t2n)
@@ -719,6 +722,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 📧 Email Clients
 
 - `WDM` [Email Inboxes](https://apps.microsoft.com/detail/9mx57pfkf3gc)
+- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
 - `WDM` [Outlook for Windows](https://apps.microsoft.com/detail/9NRX63209R7B?ocid=pdpshare&hl=en-us&gl=US)
 - `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) <sup>`FOSS`</sup>
 
@@ -754,6 +758,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [2FAGuard](https://github.com/timokoessler/2FAGuard) <sup>`FOSS`</sup>
 - `WDM` [Cyber Vault](https://apps.microsoft.com/detail/9n35prv6lwmn)
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
+- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot) <sup>`FOSS`</sup>
 - `WM` [Pass11](https://github.com/LawOff/Pass11) <sup>`FOSS`</sup>
 - `WD` [PassGenie - Secure Password Manager](https://apps.microsoft.com/detail/9n60m35bjqx9) `💰`
