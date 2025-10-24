@@ -152,6 +152,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [AI Video Tool](https://apps.microsoft.com/detail/9nwk0ln9qbz2)
 - `WD` [AI Voice Generation](https://apps.microsoft.com/detail/9p3f6r35cnsx)
 - `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
+- `WDM` [AutoOS](https://github.com/tinodin/AutoOS) <sup>`FOSS`</sup>
 - `WD` [Azure Key Vault Explorer](https://github.com/sidestep-labs/AzureKeyVaultExplorer)
 - `WD` [Backgrounds Wallpapers Pack](https://apps.microsoft.com/detail/9nblggh2sfgp)
 - `WDM` [Battery Alarm & Analytics](https://apps.microsoft.com/detail/9n1v03mzcz86)
@@ -797,6 +798,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Apple Devices](https://www.microsoft.com/store/productId/9NP83LWLPZ9K?ocid=pdpshare)
 - `WDM` [Auto Clicker](https://apps.microsoft.com/detail/9p9lh49wfjlp)
 - `WD` [Auto.Click](https://apps.microsoft.com/detail/9p2f99b41p06)
+- `WDM` [AutoOS](https://github.com/tinodin/AutoOS) <sup>`FOSS`</sup>
 - `WDM` [Auto.Shutdown](https://apps.microsoft.com/detail/9mtlmzx17hlt) `💰`
 - `WDM` [Backup My Files](https://www.microsoft.com/store/apps/9P977JGV4VFB) `💰`
 - `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) <sup>`FOSS`</sup>
