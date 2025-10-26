@@ -484,12 +484,13 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Apple TV](https://apps.microsoft.com/detail/9nm4t8b9jqz1)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
+- `WDM` [FluentFin](https://github.com/insomniachi/FluentFin) `📆`
+- `WDM` [AllLive](https://github.com/xiaoyaocz/AllLive) <sup>`FOSS`</sup>
 - `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
 
 #### 📺 Tracking Services
 
 - `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup>
-- `WDM` [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) <sup>`FOSS`</sup>
 - `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q)
 - `WDM` [Totoro](https://github.com/insomniachi/Totoro) <sup>`FOSS`</sup>
 
@@ -500,6 +501,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
 - `WDM` [Rodel Player](https://apps.microsoft.com/detail/9nb0h051m4v4) `📆`
+- `WDM` `WDA` [zPlayer UWP](https://apps.microsoft.com/detail/9p6f8445w4kr)
+- **🔧 Tools**
 - **Video Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
 
@@ -692,6 +695,29 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
 - `WDM` [Windows Calculator](https://github.com/Microsoft/calculator) <sup>`FOSS`</sup>
 
+- bilibili
+	- `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) <sup>`FOSS`</sup>
+    - `WDM` `WDA` [BiliLite](https://github.com/ywmoyue/biliuwp-lite)
+   
+- <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png"   width="21" height="21" /> Instagram
+  
+	- `WDM` [IGD - Instagram Downloader](https://apps.microsoft.com/store/detail/igd-instagram-downloader/9PP3HHJVX67F)
+   
+- <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Torrenting
+  
+	- `WDM` [ByteStream Torrent](https://apps.microsoft.com/detail/9pjt9pbvg7k8)
+	- `WD` [FlyTorrent](https://apps.microsoft.com/detail/9n1zz68cq350)
+	- `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) <sup>`FOSS`</sup>
+	- `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6)
+	- `WDM` [youTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
+	- `WDM` [YTB.Downloader](https://apps.microsoft.com/detail/9nlcb909p1cf)
+
+- <img src="https://img.icons8.com/?size=512&id=VaxSTuUVwLif&format=png"   width="21" height="21" /> Other
+  
+  	- `WDM` [TvTime](https://github.com/WinUICommunity/TvTime) <sup>`FOSS`</sup>
+	- `WDM` [Kemono Downloader GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI) <sup>`FOSS`</sup>
+	- `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic) <sup>`FOSS`</sup>
+ 
 #### 📊 Device Info / Monitors
 
 - `WDM` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
