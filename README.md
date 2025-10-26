@@ -199,6 +199,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [PassMaker - Advanced Password Generator](https://apps.microsoft.com/detail/9mtnmklt725l)
 - `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2)
+- `WDA` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup>
 - `WD` [Recipe Collection](https://apps.microsoft.com/detail/9ntdrjcq2p53)
 - `WDM` [Rename WinUI](https://apps.microsoft.com/detail/9n43msj4r03p)
@@ -294,7 +295,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ### 💼 Application Store
 
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup>
-- `WDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
+- `WDM` [GetStoreApp](https://apps.microsoft.com/detail/9N6D71Z5X6MM) <sup>`FOSS`</sup>
 - `WDM` [Microsoft Store](https://apps.microsoft.com/home)
 - `WDM` [UniGetUI](https://github.com/marticliment/UniGetUI) <sup>`FOSS`</sup>
 
@@ -877,6 +878,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Pillbox Pro](https://apps.microsoft.com/store/detail/pillbox-pro/9MZGZMJWFZSJ)
 - `WD` [PocketCFD](https://apps.microsoft.com/store/detail/pocketcfd/9P9QZD92NR3F)
 - `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W)
+- `WDA` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2) `💰`
 - `WDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9ngpp9jx361t) `💰`
 - `WDM` [Quick JSON to NDJSON Converter](https://apps.microsoft.com/detail/9nclnt6pzhx3) `💰`
