@@ -37,6 +37,7 @@
   - [Developer Tools](#%E2%80%8D-developer-tools)
     - [GitHub Client](#-github-client)
     - [Other](#-other)
+  - [Education](#-education)
   - [File Manager](#-file-manager)
   - [Games](#-games)
   - [Lifestyle](#%E2%80%8D%EF%B8%8F-lifestyle)
@@ -120,12 +121,11 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI
 
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS)
-- `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
 - `WDM` [Files App](https://github.com/files-community/files)
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery)
 - `WDM` [FluentWeather](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457)
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser)
-- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG) `❎`
+- `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
@@ -139,104 +139,15 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
-- `WDM` [AI Client](https://apps.microsoft.com/detail/9pcs50q9gg7h)
-- `WD` [AI Image Generation](https://apps.microsoft.com/detail/9nx86c9rp9bj)
-- `WD` [AI Image Tool](https://apps.microsoft.com/detail/9nz73k124x6f)
-- `WDM` [AI Notepad](https://apps.microsoft.com/detail/9nxsnfvbkpt2)
-- `WD` [AI PDF Reader](https://apps.microsoft.com/detail/9np5sncvs46v)
-- `WDM` [AI Reasoning](https://apps.microsoft.com/detail/9nxj6gs0n493)
-- `WD` [AI Rewrite](https://apps.microsoft.com/detail/9pc3xt4xp9wl)
-- `WDM` [AI Server](https://apps.microsoft.com/detail/9p42956wbwcl)
-- `WDM` [AI Suite](https://apps.microsoft.com/detail/9pln2bb2hrjg)
-- `WD` [AI Translate](https://apps.microsoft.com/detail/9nv258h2b565)
-- `WD` [AI Video Tool](https://apps.microsoft.com/detail/9nwk0ln9qbz2)
-- `WD` [AI Voice Generation](https://apps.microsoft.com/detail/9p3f6r35cnsx)
-- `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
 - `WDM` [AutoOS](https://github.com/tinodin/AutoOS) <sup>`FOSS`</sup>
-- `WD` [Azure Key Vault Explorer](https://github.com/sidestep-labs/AzureKeyVaultExplorer)
-- `WD` [Backgrounds Wallpapers Pack](https://apps.microsoft.com/detail/9nblggh2sfgp)
-- `WDM` [Battery Alarm & Analytics](https://apps.microsoft.com/detail/9n1v03mzcz86)
-- `WDA` [Battery Flyout](https://apps.microsoft.com/detail/9nntd8s7rmjv)
-- `WDM` [ClipConvert: Video to MP3 - Multitask](https://apps.microsoft.com/detail/9mwc3lnc60pz)
-- `WD` [Codly Snippet Manager](https://apps.microsoft.com/detail/9pgpg8pcf2f9)
-- `WD` [Codes Analyzer](https://apps.microsoft.com/detail/9nwgpgd8194m)
-- `WDM` [Control A](https://apps.microsoft.com/detail/9pb9sl4vbwd2)
-- `WDM` [Daily ToDo Lists](https://apps.microsoft.com/detail/9pmw2fdm4dld)
-- `WDM` [Droid Transfer](https://apps.microsoft.com/detail/9p77nqgzmg1c)
-- `WDM` [DucklingMemo - Sticky notes app](https://apps.microsoft.com/detail/9n5sf581v968)
-- `WDM` [DVD Ripper - Rip DVD](https://apps.microsoft.com/detail/9np0ktx797v)
-- `WDM` [Email Inboxes](https://apps.microsoft.com/detail/9mx57pfkf3gc)
-- `WDM` [English Dictionary - Offline](https://apps.microsoft.com/detail/9nsmlkmc3wb6)
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup>
-- `WD` [FaceFusion](https://apps.microsoft.com/detail/9n51zv1t45wr)
-- `WDM` [Fairmark](https://apps.microsoft.com/detail/9pdm2qk92715)
-- `WDA` [FastTranscribe](https://apps.microsoft.com/detail/9n6smgczrpcj)
-- `WDA` [Fluent Flyouts](https://apps.microsoft.com/detail/9ppcm05rw87x)
-- `WDM` [Fluent Stopwatch](https://apps.microsoft.com/detail/9plk7b7qqfz7)
-- `WDM` [FluentFlyout](https://apps.microsoft.com/detail/9n45nsm4tnbp)
-- `WDM` [Fluver](https://apps.microsoft.com/detail/9n3lmss7xl2k)
-- `WDM` [GUID Pro](https://apps.microsoft.com/detail/9nwdpt7w3c08)
-- `WDM` [HEIC Converter - ModernHEIC Converter](https://apps.microsoft.com/detail/9n3r0h3x6gm9)
-- `WD` [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx)
-- `WD` [iBackup Extractor](https://apps.microsoft.com/detail/9n8974wcqmsw)
-- `WDM` [iCloud](https://apps.microsoft.com/detail/9pktq5699m62)
-- `WDM` [IMBA Auto Clicker](https://apps.microsoft.com/detail/9p9lh49wfjlp)
-- `WD` [ImagineIt](https://apps.microsoft.com/detail/9nthbmqz5bwf)
-- `WDM` [ImgConverter - Convert Your Images](https://apps.microsoft.com/detail/9nn18b4dvfdf)
-- `WDA` [Input Switcher](https://apps.microsoft.com/detail/9nnq198fv2x3)
-- `WDM` [Interviewer Copilot](https://apps.microsoft.com/detail/9pjvpmsb6gvh)
-- `WD` [Local AI Assistant](https://apps.microsoft.com/detail/9n9l7mz02t2n)
-- `WD` [Local AI Chatbot](https://apps.microsoft.com/detail/9nxj97jmfxp4)
-- `WD` [LYLG For UWP](https://apps.microsoft.com/detail/9nj5v22l6c66)
-- `WDA` [Media Flyout](https://apps.microsoft.com/detail/9nbxbp78896q)
-- `WDM` [Metaverse UI Content App](https://apps.microsoft.com/detail/9pdm9g95dv7l)
-- `WD` [miniLook](https://apps.microsoft.com/detail/9nwqnmp3xsdk)
-- `WDM` [ModernICO Converter](https://apps.microsoft.com/detail/9nzl0c0z1mmk)
-- `WD` [MPDCtrl](https://github.com/torum/MPDCtrl)
-- `WDM` [MP3Cube - MP3 Music & Video Downloader 4K](https://apps.microsoft.com/detail/9n615w157bhm)
-- `WDM` [MyTools1](https://apps.microsoft.com/detail/9p8kkslj76g3)
-- `WD` [PassGenie - Secure Password Manager](https://apps.microsoft.com/detail/9n60m35bjqx9)
-- `WDM` [PassMaker - Advanced Password Generator](https://apps.microsoft.com/detail/9mtnmklt725l)
-- `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
-- `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2)
-- `WDA` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup>
-- `WD` [Recipe Collection](https://apps.microsoft.com/detail/9ntdrjcq2p53)
-- `WDM` [Rename WinUI](https://apps.microsoft.com/detail/9n43msj4r03p)
-- `WD` [Rodel Reader](https://apps.microsoft.com/detail/9pfzckrhw0bc)
-- `WDM` [S Renamer - Rename Multiple Files and Folders](https://apps.microsoft.com/detail/9npl1hpr5kmb)
-- `WDA` [Salt Player for Windows](https://apps.microsoft.com/detail/9p42fq0wpqxk)
-- `WDM` [Selectivitapp](https://apps.microsoft.com/detail/9mx6hrgbg9tg)
-- `WDM` [Skolar](https://apps.microsoft.com/detail/9wzdncrdmq0)
-- `WDM` [Smart Keyboard Layout](https://apps.microsoft.com/detail/9pj5vj6z4s65)
-- `WDM` [Smart Speech](https://apps.microsoft.com/detail/9pftrhx8vf5m)
-- `WDM` [Smartphone Museum](https://apps.microsoft.com/detail/9nbfn3kxm0xb)
-- `WDM` [SoundShift](https://apps.microsoft.com/detail/9mx3m6xs4s81)
-- `WDM` [Startify](https://github.com/Lixkote/Startify)
-- `WDM` [Sticky Notes Studio](https://apps.microsoft.com/detail/9n22flw0gqqw)
-- `WDM` [Syncfusion WPF Controls Examples](https://apps.microsoft.com/detail/9n99kdhrff6g)
-- `WDM` [Taskie](https://apps.microsoft.com/detail/9n201wbcfj91)
-- `WDM` [Time Squeeze](https://apps.microsoft.com/detail/9nfjxwblwgmp) `💰`
-- `WD` [TouchCopy](https://apps.microsoft.com/detail/9nblggh67g56)
-- `WDM` [TranslatePro](https://apps.microsoft.com/detail/9n1p9zwzhht7)
-- `WDM` [USB Drive Manager](https://apps.microsoft.com/detail/9n1bqgx8h8h6)
-- `WDM` [Video Media Player - All Formats](https://apps.microsoft.com/detail/9n5j0j3fcg8t)
-- `WD` [VideoScreensaver](https://apps.microsoft.com/detail/9nkx7w0j4cst)
-- `WDM` [Vidder Video Downloader](https://apps.microsoft.com/detail/9njjx5ns63x2)
-- `WDM` [Vido Video and MP3 Music Downloader](https://apps.microsoft.com/detail/9n9tzxcpz5kj)
-- `WDM` [Webp Converter | Convert to PNG JPEG](https://apps.microsoft.com/detail/9nnzjtc21gdj)
-- `WDA` [Widget Pro](https://apps.microsoft.com/detail/9nv0n2fwq00d)
-- `WDM` [Widgets for UniGetUI](https://apps.microsoft.com/detail/9nb9m5kz8slx)
-- `WD` [Windows App Manager](https://apps.microsoft.com/detail/9mvjj5q28cj2)
-- `WDM` [WindowSill](https://getwindowsill.app/)
-- `WDM` [WinUIEssentials.WinUI3Example](https://apps.microsoft.com/detail/9pcc690bcmt9)
-- `WD` [Working Timer](https://apps.microsoft.com/detail/9n71w9g714rk)
-- `WD` [Words come true](https://apps.microsoft.com/detail/9pdz7s5z1zh2)
-- `WDM` [xaowo win](https://apps.microsoft.com/detail/9n16m161glxr)
-- `WD` [XAML Path Icons](https://apps.microsoft.com/detail/9mtbnqsz9nz9)
-- `WDM` [xTransfer Send Large Files & Share Photos Online](https://apps.microsoft.com/detail/9nll4lzngmz3)
-- `WDM` [YTMP3 Video Downloader and YT MP3 Converter](https://apps.microsoft.com/detail/9p59cckx7c5x)
-- `WD` [Zhouyi.WinUI3](https://apps.microsoft.com/detail/9nnxf2qhf21j)
+- `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz)
+- `WD` [Reborn Live](https://apps.microsoft.com/detail/9nng4s1wn5fp)
+- `WD` [Aggregate Live Broadcast](https://apps.microsoft.com/detail/9n1twg2g84vd)
+- `WD` [Player for Media](https://apps.microsoft.com/detail/9pjrlgb4n2ss)
+- `WD` [TOP Player](https://apps.microsoft.com/detail/9n85qs69pxg3)
+- `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -345,14 +256,16 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
 - `WD` [TextDiff UWP](https://apps.microsoft.com/detail/9p8fpd4xs74k) <sup>`FOSS`</sup>
 - `WDA` [WinUI 3 Serial Port Communication](https://apps.microsoft.com/detail/9n97v1rzgt1p)
-- `WDM` [WUC Gallery](https://apps.microsoft.com/detail/9mswnv3wmqc1)
+- `WDM` [WUC Gallery App](https://apps.microsoft.com/detail/9mswnv3wmqc1)
 - `WD` [XAML Path Icons](https://apps.microsoft.com/detail/9mtbnqsz9nz9)
 - `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI)
+
+- 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
 
-### 📁 Education
+### 🎓 Education
 
 - `WDM` [English Dictionary - Offline](https://apps.microsoft.com/detail/9nsmlkmc3wb6)
 - `WDM` [Selectivitapp](https://apps.microsoft.com/detail/9mx6hrgbg9tg)
@@ -499,16 +412,21 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) <sup>`FOSS`</sup>
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup>
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
+- `WDA` [Player for Media](https://apps.microsoft.com/detail/9pjrlgb4n2ss)
 - `WDM` [Rodel Player](https://apps.microsoft.com/detail/9nb0h051m4v4) `📆`
+- `WD` [TOP Player](https://apps.microsoft.com/detail/9n85qs69pxg3)
 - **Video Tools**
 	- `WDM` [Any-Video Converter](https://apps.microsoft.com/detail/9p3wgnxq800d)
 
 #### ▶️ Other Players
 
+- `WD` [Aggregate Live Broadcast](https://apps.microsoft.com/detail/9n1twg2g84vd)
 - `WDM` [Blu-ray Player](https://apps.microsoft.com/detail/9ntn82vjlpfq)
 - `WDM` [DVD Player - Play DVD](https://apps.microsoft.com/detail/9pc9t9bsqklt)
 - `WD` [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx)
+- `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz)
 - `WDM` [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj)
+- `WD` [Reborn Live](https://apps.microsoft.com/detail/9nng4s1wn5fp)
 - **🔧 Tools**
 	- `WDM` [CD Ripper - Rip CD to Mp3](https://apps.microsoft.com/detail/9pgs5rbvwjzb)
 	- `WDM` [DVD Ripper](https://apps.microsoft.com/detail/9np0ktx797vl)
@@ -880,6 +798,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [PotatoVN](https://apps.microsoft.com/detail/9P9CBKD5HR3W)
 - `WDA` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 - `WD` [PPTXLocker - Presentation File Locker](https://apps.microsoft.com/detail/9n9mpqg9gcn2) `💰`
+- `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk)
 - `WDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9ngpp9jx361t) `💰`
 - `WDM` [Quick JSON to NDJSON Converter](https://apps.microsoft.com/detail/9nclnt6pzhx3) `💰`
 - `WDM` [Ranna](https://apps.microsoft.com/detail/ranna/9MTCSJS9G777)
