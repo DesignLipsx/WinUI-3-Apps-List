@@ -260,7 +260,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [XAML Path Icons](https://apps.microsoft.com/detail/9mtbnqsz9nz9)
 - `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI)
 
-- 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ------------
