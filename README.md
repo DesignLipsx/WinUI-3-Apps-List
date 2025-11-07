@@ -140,6 +140,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ### 🆕 Newly Added Apps!
 
 - `WDM` [AutoOS](https://github.com/tinodin/AutoOS) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/tinodin/AutoOS/refs/heads/master/Assets/Store/StoreLogo.scale-150.png -->
+- `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r) <!-- logo: https://github.com/jayfunc/BetterLyrics/raw/dev/BetterLyrics.WinUI3/BetterLyrics.WinUI3/Assets/Logo.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup> <!-- logo: https://vpncdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg -->
 - `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz) <!-- logo: https://apps.microsoft.com/detail/9nbz2bxd4wfz?hl=en-US&gl=IN -->
@@ -339,6 +340,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Video Media Player - All Formats](https://apps.microsoft.com/detail/9n5j0j3fcg8t) <!-- logo: https://store-images.s-microsoft.com/image/apps.57939.14037510321365950.6e918084-6233-4588-bae8-4f0184ef0b6a.73a54e3d-9e06-452a-9482-f00497bd2492?h=210 -->
 - **Music Tools**
 	- `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5) <!-- logo: https://store-images.s-microsoft.com/image/apps.6767.13750785885147376.b8e4a1ae-c893-4d16-8e44-d8c450c558ab.4f8a1337-bd5a-4922-88ce-61b397231f8c?h=115 -->
+	- `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r) <!-- logo: https://github.com/jayfunc/BetterLyrics/raw/dev/BetterLyrics.WinUI3/BetterLyrics.WinUI3/Assets/Logo.png -->
 	- `WDM` [HotLyric](https://www.microsoft.com/store/productId/9MXFFHVQVBV9) <!-- logo: https://store-images.s-microsoft.com/image/apps.16708.13891033903290794.23fb3354-c2f6-4cfe-a03e-8fc036b6cbb4.ddea90a1-9058-4e63-9250-c0940b0acf13?h=210 -->
 	- `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public) <!-- logo: https://raw.githubusercontent.com/snivets/PodcastChapterEditor/refs/heads/main/Resources/BarCafeChair.ico -->
 	- `WD` [PodcastChapterEditor](https://github.com/snivets/PodcastChapterEditor) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.2807.14523657379323621.ffcc7932-6c34-455f-b661-6ffd194cc7d9.c713b5a4-f2fe-4895-b579-a3f404838ce6?h=115 -->
