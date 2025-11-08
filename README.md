@@ -143,7 +143,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r) <!-- logo: https://github.com/jayfunc/BetterLyrics/raw/dev/BetterLyrics.WinUI3/BetterLyrics.WinUI3/Assets/Logo.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup> <!-- logo: https://vpncdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg -->
-- `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz) <!-- logo: https://apps.microsoft.com/detail/9nbz2bxd4wfz?hl=en-US&gl=IN -->
+- `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz) <!-- logo: https://store-images.s-microsoft.com/image/apps.7521.13574524849990472.67cb21d4-9539-41cf-b1cd-3124c31907c0.1072a797-10e2-4c41-b47f-aff110c27d71?h=115 -->
 - `WD` [Reborn Live](https://apps.microsoft.com/detail/9nng4s1wn5fp) <!-- logo: https://store-images.s-microsoft.com/image/apps.22793.13743415585896312.01fbe17f-1955-4fe9-b88e-b4c21302b294.69f5170a-dafd-46b6-8d6a-28ca1c6818b5?h=307 -->
 - `WD` [Aggregate Live Broadcast](https://apps.microsoft.com/detail/9n1twg2g84vd) <!-- logo: https://store-images.s-microsoft.com/image/apps.54954.13964853534446575.c062f8ba-cc7f-4c93-b025-56516885489b.9e6c1bad-a74c-4f8b-82c5-fde9149633f6?h=307 -->
 - `WD` [Player for Media](https://apps.microsoft.com/detail/9pjrlgb4n2ss) <!-- logo: https://store-images.s-microsoft.com/image/apps.61310.14276656584336055.d1b10e2f-b52b-4225-961c-a0394b010762.882cc1fd-a359-4a2e-9768-35eacba9d196?h=307 -->
@@ -175,7 +175,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS) <!-- logo: https://store-images.s-microsoft.com/image/apps.45108.14428494411162187.283ffdb8-20f0-4f84-ac8b-537538201eed.8b57997c-8352-4fba-b768-3f31ddfba1fa?h=210 -->
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK) <!-- logo: https://store-images.s-microsoft.com/image/apps.19513.14277081669076488.fc1449f1-8cbe-42b1-abff-733f328265fd.f11ab472-6350-422d-b1c9-5f267a889063?h=115 -->
 - `WDM` [EasyChat AI](https://apps.microsoft.com/detail/9nxk0pk5zs1b) <!-- logo: https://store-images.s-microsoft.com/image/apps.11704.14428875438800119.91f44eeb-80b1-411b-a31e-8d35734573b6.86a50fc7-ef9c-4e42-8962-9e4cdabee6de?h=115 -->
-- `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned` <sup>`FOSS`</sup> <!-- logo: https://github.com/iamhazel/Engage/blob/master/Engage/Assets/Logo.png -->
+- `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned` <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/iamhazel/Engage/refs/heads/master/Engage/Assets/Logo.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
 - `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs) <!-- logo: https://github.com/mnikonov/gpt-labs/blob/main/src/Gpt.Labs/Assets/StoreLogo.scale-200.png?raw=true -->
 - `WDM` [Interviewer Copilot](https://apps.microsoft.com/detail/9pjvpmsb6gvh) <!-- logo: https://store-images.s-microsoft.com/image/apps.61140.14279222764099172.9af3e6be-888d-4ace-ae9e-919d5e83fc69.faefbd9f-f5ab-43ae-b2fb-bf80f2d8ec9d?h=210 -->
@@ -226,12 +226,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🧑‍💻 Developer Tools
 
-#### <img src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
+#### <img src="https://img.icons8.com/?size=32&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
 
 - `WD` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.45038.13664283492326614.629f79aa-33be-41c1-991b-c727dea3bb1d.abe7a915-6040-4ea9-b38c-86d1cde6d0ab?h=115 -->
 - `WD` [JitHub](https://github.com/JitHubApp/JitHubV2) <sup>`FOSS`</sup> <!-- logo: https://github.com/JitHubApp/JitHubV2/raw/main/JitHub/Assets/JitHubLogo.png -->
 
-#### <img src="https://img.icons8.com/?size=512&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
+#### <img src="https://img.icons8.com/?size=32&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
 
 - `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit) <sup>`FOSS`</sup>
 - `WD` [Azure Key Vault Explorer](https://github.com/sidestep-labs/AzureKeyVaultExplorer) <!-- logo: https://github.com/sidestep-labs/AzureKeyVaultExplorer/raw/master/KeyVaultExplorer/Assets/AppIcon.png -->
@@ -348,7 +348,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [VideoGenius - Any Video Converter](https://apps.microsoft.com/detail/9mxrwwzxn8dk) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.23137.13888556879532606.6aeb5059-a7f5-49d6-825a-21a17750251c.aee9397b-222b-4314-a343-9b319f8b8b82?h=115 -->
 	- `WDM` [Yugen.DJ](https://github.com/Yugen-Apps/Yugen.DJ) <sup>`FOSS`</sup> <!-- logo: https://github.com/yugen-apps/yugen-dj/blob/main/Yugen.DJ.Uwp/Assets/StoreLogo.scale-400.png?raw=true -->
 
-#### <img src="https://img.icons8.com/?size=80&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
+#### <img src="https://img.icons8.com/?size=32&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆` <sup>`FOSS`</sup>
 
@@ -425,7 +425,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Blu-ray Player](https://apps.microsoft.com/detail/9ntn82vjlpfq) <!-- logo: https://store-images.s-microsoft.com/image/apps.5824.14415392890264391.118c2121-65ce-4f8a-bfee-6dd85c28ac6e.03fa07a8-c611-4028-b8b8-ea41453e893e?h=210 -->
 - `WDM` [DVD Player - Play DVD](https://apps.microsoft.com/detail/9pc9t9bsqklt) <!-- logo: https://store-images.s-microsoft.com/image/apps.57634.14177432656646702.c07cb408-c5ab-40c7-acac-0bee07c4b97f.743ca6b7-fc20-48b8-b230-8ce500c70d0d?h=115 -->
 - `WD` [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx) <!-- logo: https://store-images.s-microsoft.com/image/apps.9267.14491975499232441.5e3fd7a0-5ec3-4d45-acdf-1ce0a5ef030f.46938f38-5a6e-496c-baf3-173f11cdbf2e?h=115 -->
-- `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz) <!-- logo: https://apps.microsoft.com/detail/9nbz2bxd4wfz?hl=en-US&gl=IN -->
+- `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz) <!-- logo: https://store-images.s-microsoft.com/image/apps.7521.13574524849990472.67cb21d4-9539-41cf-b1cd-3124c31907c0.1072a797-10e2-4c41-b47f-aff110c27d71?h=115 -->
 - `WDM` [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj) <!-- logo: https://store-images.s-microsoft.com/image/apps.31395.14260035015770905.586eee23-4779-4a8c-99ca-9065561f08e4.5ff46c72-f06a-46f7-8e93-497bca94b574?h=210 -->
 - `WD` [Reborn Live](https://apps.microsoft.com/detail/9nng4s1wn5fp) <!-- logo: https://store-images.s-microsoft.com/image/apps.22793.13743415585896312.01fbe17f-1955-4fe9-b88e-b4c21302b294.69f5170a-dafd-46b6-8d6a-28ca1c6818b5?h=307 -->
 - **🔧 Tools**
@@ -574,30 +574,30 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 👨‍💻 Social Media
 
-#### <img src="https://img.icons8.com/?size=256&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
+#### <img src="https://img.icons8.com/?size=32&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
 
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
 
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1200px-Mastodon_Logotype_%28Simple%29.svg.png" width="18" height="18" /> Mastodon
+#### <img src="https://img.icons8.com/?size=32&id=ITKS1olYDyMw&format=png" width="18" height="18" /> Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆` <!-- logo: https://github.com/AnalogFeelings/Bluechirp/raw/master/Branding/bluechirp.png -->
 - `WD` [Dowstodon](https://apps.microsoft.com/detail/9phnv45jvr2s) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.21884.14227805849045671.94863ddb-70be-455e-bd02-232af328240b.5e40e17a-c62a-4d77-beed-fa042b1d9525?h=115 -->
 
-#### <img src="https://img.icons8.com/?size=512&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
+#### <img src="https://img.icons8.com/?size=32&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎` <!-- logo: https://github.com/itsWindows11/Carpeddit/blob/main/src/Carpeddit.App/Assets/LargeTile.scale-100.png?raw=true -->
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨` <sup>`FOSS`</sup>
 
-#### <img src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
+#### <img src="https://img.icons8.com/?size=32&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9?h=210 -->
 
-#### <img src="https://img.icons8.com/?size=256&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
+#### <img src="https://img.icons8.com/?size=32&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
 - `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts) <!-- logo: https://store-images.s-microsoft.com/image/apps.60620.13727569916254149.e6e4931e-b7dc-4c7b-9ca2-3b8bcbe37885.c25b6177-a8da-4f23-a5e1-bda8503891e3?h=210 -->
 
-#### <img src="https://img.icons8.com/?size=256&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
+#### <img src="https://img.icons8.com/?size=32&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5) <!-- logo: https://store-images.s-microsoft.com/image/apps.41862.13823708528388452.7d598df5-c725-4cd6-b0a9-cb52751b96fe.895cd14b-ded5-461b-9425-ff76d235cc02?h=115 -->
 
-#### <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
+#### <img src="https://img.icons8.com/?size=32&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
 - `WD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH) <!-- logo: https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e?h=210 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -882,7 +882,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 📖 Miscellaneous
 
 - `WDM` [Al-Anvar](https://github.com/ghost1372/Al-Anvar) <sup>`FOSS`</sup> <!-- logo: https://github.com/ghost1372/Al-Anvar/blob/main/dev/Assets/icon.png?raw=true -->
-- `WDM` [PSX Master](https://github.com/ghost1372/PSXMaster) <!-- logo: https://github.com/ghost1372/PSXMaster/blob/main/src/Assets/Store/StoreLogo.scale-150.png -->
+- `WDM` [PSX Master](https://github.com/ghost1372/PSXMaster) <!-- logo: https://raw.githubusercontent.com/ghost1372/PSXMaster/refs/heads/main/src/Assets/Store/StoreLogo.scale-150.png -->
 - `WDM` [Automated Menu Management System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) <sup>`FOSS`</sup> <!-- logo: https://github.com/abdxdev/AMOS/blob/main/src/Automated_Menu_Ordering_System/Assets/Square44x44Logo.scale-200.png?raw=true -->
 - `WD` [BattleAssistant](https://github.com/ArchieHill/BattleAssistant) <sup>`FOSS`</sup> <!-- logo: https://github.com/ArchieHill/BattleAssistant/blob/main/BattleAssistant/Assets/Square44x44Logo.scale-150.png?raw=true -->
 - `WD` [DiscordFileMasterV2](https://github.com/Shailosingh/DiscordFileMasterV2) <sup>`FOSS`</sup> <!-- logo: https://user-images.githubusercontent.com/52577016/202877254-afbdef52-9c1b-481e-acfb-b7e56dcf46bc.png -->
