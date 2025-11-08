@@ -208,7 +208,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/yoshiask/FluentStore/refs/heads/main/Installer/Resources/Square71x71Logo.png -->
 - `WDM` [GetStoreApp](https://apps.microsoft.com/detail/9N6D71Z5X6MM) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Gaoyifei1011/GetStoreApp/refs/heads/main/GetStoreApp/Assets/StoreLogo.scale-100.png -->
-- `WDM` [Microsoft Store](https://apps.microsoft.com/home) <!-- logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Microsoft_Store_logo_dark.svg/140px-Microsoft_Store_logo_dark.svg.png -->
+- `WDM` [Microsoft Store](https://apps.microsoft.com/home) <!-- logo: https://apps.microsoft.com/assets/icons/logo-32x32.png -->
 - `WDM` [UniGetUI](https://github.com/marticliment/UniGetUI) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/marticliment/UniGetUI/main/media/icon.png -->
 
 ------------
