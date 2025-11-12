@@ -65,7 +65,6 @@
     - [Reddit](#-reddit)
     - [Telegram](#-telegram)
     - [Twitter](#-twitter)
-    - [Whatsapp](#-whatsapp)
   - [Tools](#%EF%B8%8F-tools)
     - [Calculators](#-calculators)
     - [Device Info/Monitors](#-device-info--monitors)
@@ -129,7 +128,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM) <!-- logo: https://store-images.s-microsoft.com/image/apps.18789.13790319063411412.13e38506-8e73-42ab-8c44-53f63d293727.dced70fa-08fd-48d8-8f1e-b75cce4a8beb?h=210 -->
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) <!-- logo: https://store-images.s-microsoft.com/image/apps.17832.14089795918715087.55074527-d0ff-4519-bf5b-89a136f6345f.54832e05-4d53-420a-aeef-07c845cf8e94?h=115 -->
 - `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL) <!-- logo: https://github.com/bkaankose/Wino-Mail/blob/main/Wino.Mail/Assets/StoreLogo.scale-150.png?raw=true -->
-- `WD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH) <!-- logo: https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e?h=210 -->
+
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -597,8 +596,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### <img src="https://img.icons8.com/?size=32&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5) <!-- logo: https://store-images.s-microsoft.com/image/apps.41862.13823708528388452.7d598df5-c725-4cd6-b0a9-cb52751b96fe.895cd14b-ded5-461b-9425-ff76d235cc02?h=115 -->
 
-#### <img src="https://img.icons8.com/?size=32&id=DUEq8l5qTqBE&format=png" width="21" height="21" /> WhatsApp
-- `WD` [WhatsApp](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH) <!-- logo: https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e?h=210 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
