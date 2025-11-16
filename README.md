@@ -2,7 +2,7 @@
 
 ***WinUI 3** is the latest version of Microsoft's native user interface (UX) framework for Windows desktop and UWP applications. It is based on the Fluent Design System, which emphasizes simplicity, clarity, and consistency in user interface design..*
 <p align="center">
-  <img src="https://github.com/DesignLipsx/WinUI-3-Apps-List/assets/145359279/27b50a7d-5025-4f02-8c29-e3889e331021">
+  <img src="https://i.postimg.cc/Y0dvCh7P/winui3.webp">
 </p>
 <p align="center">
   <p align="center">
@@ -225,12 +225,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🧑‍💻 Developer Tools
 
-#### <img src="https://img.icons8.com/?size=32&id=AZOZNnY73haj&format=png"   width="21" height="21" /> GitHub Client
+#### <img src="https://i.postimg.cc/5N9924Xd/size-32-id-AZOZNn-Y73haj-format-png.png" width="21" height="21" /> GitHub Client
 
 - `WD` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.45038.13664283492326614.629f79aa-33be-41c1-991b-c727dea3bb1d.abe7a915-6040-4ea9-b38c-86d1cde6d0ab?h=115 -->
 - `WD` [JitHub](https://github.com/JitHubApp/JitHubV2) <sup>`FOSS`</sup> <!-- logo: https://github.com/JitHubApp/JitHubV2/raw/main/JitHub/Assets/JitHubLogo.png -->
 
-#### <img src="https://img.icons8.com/?size=32&id=PkQpLJisPiTI&format=png" width="21" height="21" /> Other
+#### <img src="https://i.postimg.cc/dtgfSnPS/size-32-id-Pk-Qp-LJis-Pi-TI-format-png.png" width="21" height="21" /> Other
 
 - `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit) <sup>`FOSS`</sup>
 - `WD` [Azure Key Vault Explorer](https://github.com/sidestep-labs/AzureKeyVaultExplorer) <!-- logo: https://github.com/sidestep-labs/AzureKeyVaultExplorer/raw/master/KeyVaultExplorer/Assets/AppIcon.png -->
@@ -347,7 +347,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 	- `WDM` [VideoGenius - Any Video Converter](https://apps.microsoft.com/detail/9mxrwwzxn8dk) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.23137.13888556879532606.6aeb5059-a7f5-49d6-825a-21a17750251c.aee9397b-222b-4314-a343-9b319f8b8b82?h=115 -->
 	- `WDM` [Yugen.DJ](https://github.com/Yugen-Apps/Yugen.DJ) <sup>`FOSS`</sup> <!-- logo: https://github.com/yugen-apps/yugen-dj/blob/main/Yugen.DJ.Uwp/Assets/StoreLogo.scale-400.png?raw=true -->
 
-#### <img src="https://img.icons8.com/?size=32&id=iefkXAGbJmaP&format=png"   width="21" height="21" /> Spotify Client
+#### <img src="https://i.postimg.cc/tgk2yNwy/size-32-id-iefk-XAGb-Jma-P.png" width="21" height="21" /> Spotify Client
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆` <sup>`FOSS`</sup>
 
@@ -573,27 +573,27 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 👨‍💻 Social Media
 
-#### <img src="https://img.icons8.com/?size=32&id=D2NqKl85S8Ye&format=png" width="21" height="21" /> Discord
+#### <img src="https://i.postimg.cc/HWrDZr8j/size-32-id-D2Nq-Kl85S8Ye.png" width="21" height="21" /> Discord
 
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
 
-#### <img src="https://img.icons8.com/?size=32&id=ITKS1olYDyMw&format=png" width="18" height="18" /> Mastodon
+#### <img src="https://i.postimg.cc/vZdJZXqx/size-32-id-ITKS1ol-YDy-Mw.png" width="18" height="18" /> Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆` <!-- logo: https://github.com/AnalogFeelings/Bluechirp/raw/master/Branding/bluechirp.png -->
 - `WD` [Dowstodon](https://apps.microsoft.com/detail/9phnv45jvr2s) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.21884.14227805849045671.94863ddb-70be-455e-bd02-232af328240b.5e40e17a-c62a-4d77-beed-fa042b1d9525?h=115 -->
 
-#### <img src="https://img.icons8.com/?size=32&id=h3FOPWMfgNnV&format=png" width="21" height="21" /> Reddit
+#### <img src="https://i.postimg.cc/50jGRr0n/size-32-id-h3FOPWMfg-Nn-V.png" width="21" height="21" /> Reddit
 - `WDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) `❎` <!-- logo: https://github.com/itsWindows11/Carpeddit/blob/main/src/Carpeddit.App/Assets/LargeTile.scale-100.png?raw=true -->
 - `WD` [Fluentreddit](https://github.com/tobyisawesome/fluentreddit/tree/main) `🎨` <sup>`FOSS`</sup>
 
-#### <img src="https://img.icons8.com/?size=32&id=oWiuH0jFiU0R&format=png" width="21" height="21" /> Telegram
+#### <img src="https://i.postimg.cc/j271sJyz/size-32-id-o-Wiu-H0j-Fi-U0R-format-png.png" width="21" height="21" /> Telegram
 - `WDM` [Unigram](https://apps.microsoft.com/store/detail/unigram%E2%80%94telegram-for-windows/9N97ZCKPD60Q) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9?h=210 -->
 
-#### <img src="https://img.icons8.com/?size=32&id=KxHlias9AgZt&format=png" width="21" height="21" /> Twitter
+#### <img src="https://i.postimg.cc/521rVyyw/size-32-id-Kx-Hlias9Ag-Zt-format-png.png" width="21" height="21" /> Twitter
 - `WDM` [DarkSky for BlueSky](https://apps.microsoft.com/detail/9np22dtfscts) <!-- logo: https://store-images.s-microsoft.com/image/apps.60620.13727569916254149.e6e4931e-b7dc-4c7b-9ca2-3b8bcbe37885.c25b6177-a8da-4f23-a5e1-bda8503891e3?h=210 -->
 
-#### <img src="https://img.icons8.com/?size=32&id=KKJpGUqO7Pvk&format=png" width="21" height="21" /> VK
+#### <img src="https://i.postimg.cc/rmvhYF78/size-32-id-KKJp-GUq-O7Pvk.png" width="21" height="21" /> VK
 - `WDM` [Laney](https://apps.microsoft.com/detail/9MSPLCXVN1M5) <!-- logo: https://store-images.s-microsoft.com/image/apps.41862.13823708528388452.7d598df5-c725-4cd6-b0a9-cb52751b96fe.895cd14b-ded5-461b-9425-ff76d235cc02?h=115 -->
 
 
