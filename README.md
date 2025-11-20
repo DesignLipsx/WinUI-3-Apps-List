@@ -527,6 +527,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [Widget Pro](https://apps.microsoft.com/detail/9nv0n2fwq00d) <!-- logo: https://store-images.s-microsoft.com/image/apps.52507.14403930000741771.5f7e11ff-8f72-4c64-8ccd-632e86c7a8e4.048e0cf5-5706-4e54-b075-a250a1ef50da?h=210 -->
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) <sup>`FOSS`</sup> <!-- logo: https://github.com/Abdelrhman-AK/WinPaletter/blob/master/icon.png?raw=true -->
 - `WDM` [WindowSill](https://getwindowsill.app/) <!-- logo: https://getwindowsill.app/img/logo.svg -->
+- `WDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.53031.14085281341613502.a79488dd-3e3d-4ef1-a36c-d102193fbcf5.bfd24c02-3525-494e-a8c3-6789966c13de?h=170 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
