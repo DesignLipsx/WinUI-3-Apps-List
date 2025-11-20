@@ -148,6 +148,8 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Player for Media](https://apps.microsoft.com/detail/9pjrlgb4n2ss) <!-- logo: https://store-images.s-microsoft.com/image/apps.61310.14276656584336055.d1b10e2f-b52b-4225-961c-a0394b010762.882cc1fd-a359-4a2e-9768-35eacba9d196?h=307 -->
 - `WD` [TOP Player](https://apps.microsoft.com/detail/9n85qs69pxg3) <!-- logo: https://store-images.s-microsoft.com/image/apps.17780.14055870564507608.675d20e9-4125-42b8-914a-421f01883ce5.3a3820df-7cd0-4bb3-adef-cf9853390f17?h=307 -->
 - `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk) <!-- logo: https://store-images.s-microsoft.com/image/apps.62445.14007587871932254.4dba873a-38cf-46ec-b8eb-1bfaf8a9256e.d506a626-6ee2-4f5b-8945-316f92fa3d33?h=307 -->
+- `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
+- `WDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.53031.14085281341613502.a79488dd-3e3d-4ef1-a36c-d102193fbcf5.bfd24c02-3525-494e-a8c3-6789966c13de?h=170 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -527,6 +529,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [Widget Pro](https://apps.microsoft.com/detail/9nv0n2fwq00d) <!-- logo: https://store-images.s-microsoft.com/image/apps.52507.14403930000741771.5f7e11ff-8f72-4c64-8ccd-632e86c7a8e4.048e0cf5-5706-4e54-b075-a250a1ef50da?h=210 -->
 - `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) <sup>`FOSS`</sup> <!-- logo: https://github.com/Abdelrhman-AK/WinPaletter/blob/master/icon.png?raw=true -->
 - `WDM` [WindowSill](https://getwindowsill.app/) <!-- logo: https://getwindowsill.app/img/logo.svg -->
+- `WDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.53031.14085281341613502.a79488dd-3e3d-4ef1-a36c-d102193fbcf5.bfd24c02-3525-494e-a8c3-6789966c13de?h=170 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -836,6 +839,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [WSAppBak](https://github.com/MadCkull/WSAppBak) <sup>`FOSS`</sup>
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8) <!-- logo: https://store-images.s-microsoft.com/image/apps.55549.9007199266244133.62f2de4a-47e3-4d77-8b51-e20d434b8fc7.7ddb6eb1-5141-4b29-88a1-9036d316ae08?h=210 -->
 - `WDM` [xTransfer Send Large Files & Share Photos Online](https://apps.microsoft.com/detail/9nll4lzngmz3) <!-- logo: https://store-images.s-microsoft.com/image/apps.32843.13705463870297986.d4bb39e6-7b3a-4944-b248-5e0d60ec4ef6.2099f84e-497f-4906-aed3-f83fe4968317?h=210 -->
+- `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
 
 ------------
 
