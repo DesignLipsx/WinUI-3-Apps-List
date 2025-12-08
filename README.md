@@ -138,6 +138,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
+- `WDM` [Never Sleep](https://apps.microsoft.com/detail/9npwdqzrg923). <!-- logo: https://store-images.s-microsoft.com/image/apps.14623.13781034298287524.c79bf65e-1486-4b40-9361-025b06314983.b3490c8d-9bfb-4d21-9ce9-7275fed5386d?h=115 -->
 - `WDM` [AutoOS](https://github.com/tinodin/AutoOS) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/tinodin/AutoOS/refs/heads/master/Assets/Store/StoreLogo.scale-150.png -->
 - `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r) <!-- logo: https://github.com/jayfunc/BetterLyrics/raw/dev/BetterLyrics.WinUI3/BetterLyrics.WinUI3/Assets/Logo.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
@@ -790,6 +791,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Mouse Jump - Move Mouse to Screen](https://apps.microsoft.com/detail/9pb4nvrt0vtp) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.11625.14130330094023420.f939f915-1294-4d81-bdf4-bc8a7486996c.dbf07d46-b69a-4ebf-8ce0-80834e513e2f?h=115 -->
 - `WDM` [MyTools1](https://apps.microsoft.com/detail/9p8kkslj76g3) <!-- logo: https://store-images.s-microsoft.com/image/apps.23189.14090625877572384.324c9db5-4fda-4098-8ae7-31e121fb1160.efe2bde7-3382-4490-a4fd-1f4395980b12?h=115 -->
 - `WDM` [NanaGet](https://apps.microsoft.com/store/detail/nanaget/9PD5F2D90LS5) <!-- logo: https://store-images.s-microsoft.com/image/apps.7384.14160847558640970.5843d203-2295-43cf-9b15-64365adbc7d5.4dbba5ba-0038-4c3d-9fea-136ef225f2d4?h=115 -->
+- `WDM` [Never Sleep](https://apps.microsoft.com/detail/9npwdqzrg923). <!-- logo: https://store-images.s-microsoft.com/image/apps.14623.13781034298287524.c79bf65e-1486-4b40-9361-025b06314983.b3490c8d-9bfb-4d21-9ce9-7275fed5386d?h=115 -->
 - `WD` [PaimonTray](https://apps.microsoft.com/detail/9PP6PJDDRNRZ) <!-- logo: https://store-images.s-microsoft.com/image/apps.36073.14330031210673856.1c1ed8e2-eeb8-4173-8923-f2bbe5c9385d.d792f2d3-b575-47b0-9a37-b8a68e10e4e6?h=115 -->
 - `WDA` [Perfect Memory](https://www.perfectmemory.ai/) <!-- logo: https://www.perfectmemory.ai/_next/static/media/icon%20vector.38af4421.svg -->
 - `WD` [Phobos](https://apps.microsoft.com/detail/9n9mxc18zx4l) <!-- logo: https://store-images.s-microsoft.com/image/apps.61554.13529625265660117.38cbe333-e84a-4f03-aa98-34d08e97abb7.7881b4a2-850a-4b5f-8dea-5c5097af251a?h=115 -->
