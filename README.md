@@ -859,7 +859,6 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8) <!-- logo: https://store-images.s-microsoft.com/image/apps.55549.9007199266244133.62f2de4a-47e3-4d77-8b51-e20d434b8fc7.7ddb6eb1-5141-4b29-88a1-9036d316ae08?h=210 -->
 - `WDM` [xTransfer Send Large Files & Share Photos Online](https://apps.microsoft.com/detail/9nll4lzngmz3) <!-- logo: https://store-images.s-microsoft.com/image/apps.32843.13705463870297986.d4bb39e6-7b3a-4944-b248-5e0d60ec4ef6.2099f84e-497f-4906-aed3-f83fe4968317?h=210 -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
-- `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://store-images.s- -->
 
 ------------
@@ -880,6 +879,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR) <!-- logo: https://store-images.s-microsoft.com/image/apps.8446.9007199266246190.7d5781be-8887-4229-a335-e66e73b442a7.1e317f8d-19fc-4900-a37a-15d8a32daca5?h=115 -->
 - `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT) <!-- logo: https://store-images.s-microsoft.com/image/apps.51427.9007199266246188.49767e14-de23-47cf-a245-27d480b37671.2bbaa662-7860-4501-a5c0-ae911b9bb8db?h=115 -->
 - `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) <!-- logo: https://store-images.s-microsoft.com/image/apps.10047.13825011251621706.e8a531ea-e643-41b9-8969-8a0182f70030.a3e757b8-b4d7-449c-9001-20798f9f0481?h=115 -->
+- `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
