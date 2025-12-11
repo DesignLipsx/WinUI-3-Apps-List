@@ -143,8 +143,10 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 ### 🆕 Newly Added Apps!
 
 - `WD` [Aggregate Live Broadcast](https://apps.microsoft.com/detail/9n1twg2g84vd) <!-- logo: https://store-images.s-microsoft.com/image/apps.54954.13964853534446575.c062f8ba-cc7f-4c93-b025-56516885489b.9e6c1bad-a74c-4f8b-82c5-fde9149633f6?h=307 -->
+- `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5?hl) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.28684.13528392826310250.619ee742-7baf-444c-9179-254f55c3e3cf.1e3baf4a-7452-47e7-85f9-a4099c386459?h=170 -->
 - `WDM` [AutoOS](https://github.com/tinodin/AutoOS) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/tinodin/AutoOS/refs/heads/master/Assets/Store/StoreLogo.scale-150.png -->
 - `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r) <!-- logo: https://github.com/jayfunc/BetterLyrics/raw/dev/BetterLyrics.WinUI3/BetterLyrics.WinUI3/Assets/Logo.png -->
+- `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://store-images.s-->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
 - `WD` [iPlay X](https://apps.microsoft.com/detail/9nbz2bxd4wfz) <!-- logo: https://store-images.s-microsoft.com/image/apps.7521.13574524849990472.67cb21d4-9539-41cf-b1cd-3124c31907c0.1072a797-10e2-4c41-b47f-aff110c27d71?h=115 -->
@@ -154,6 +156,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) <sup>`FOSS`</sup> <!-- logo: https://vpncdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg -->
 - `WD` [PSXMaster](https://apps.microsoft.com/detail/9n71hm7q8sxk) <!-- logo: https://store-images.s-microsoft.com/image/apps.62445.14007587871932254.4dba873a-38cf-46ec-b8eb-1bfaf8a9256e.d506a626-6ee2-4f5b-8945-316f92fa3d33?h=307 -->
 - `WD` [Reborn Live](https://apps.microsoft.com/detail/9nng4s1wn5fp) <!-- logo: https://store-images.s-microsoft.com/image/apps.22793.13743415585896312.01fbe17f-1955-4fe9-b88e-b4c21302b294.69f5170a-dafd-46b6-8d6a-28ca1c6818b5?h=307 -->
+- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://store-images.s- -->
+- `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
+- `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
 - `WD` [XAML Lab](https://github.com/WindowsNT/XAML-Lab) <!-- logo: https://raw.githubusercontent.com/WindowsNT/XAML-Lab/refs/heads/master/Assets/StoreLogo.png -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -195,6 +200,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) <sup>`FOSS`</sup> <!-- logo: https://github.com/Richasy/Rodel.Downloader/raw/master/assets/logo.png -->
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf) <!-- logo: https://store-images.s-microsoft.com/image/apps.29620.14366106746983150.30dc14de-0618-43c5-80bc-62ca0431742b.175002ce-7b86-44aa-b843-0136ee1ba02e?h=115 -->
 - `WDM` [WindowSill](https://getwindowsill.app/) <!-- logo: https://getwindowsill.app/img/logo.svg -->
+- `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://store-images.s-->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -856,6 +862,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8) <!-- logo: https://store-images.s-microsoft.com/image/apps.55549.9007199266244133.62f2de4a-47e3-4d77-8b51-e20d434b8fc7.7ddb6eb1-5141-4b29-88a1-9036d316ae08?h=210 -->
 - `WDM` [xTransfer Send Large Files & Share Photos Online](https://apps.microsoft.com/detail/9nll4lzngmz3) <!-- logo: https://store-images.s-microsoft.com/image/apps.32843.13705463870297986.d4bb39e6-7b3a-4944-b248-5e0d60ec4ef6.2099f84e-497f-4906-aed3-f83fe4968317?h=210 -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
+- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://store-images.s- -->
 
 ------------
 
@@ -871,10 +878,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV) <!-- logo: https://store-images.s-microsoft.com/image/apps.15881.13753891519397067.8011a592-e549-44a6-8073-41dcd83eddbe.bcf361e4-21f7-429d-877a-6c55c1b655ff?h=210 -->
 - `WDM` [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L) <!-- logo: https://store-images.s-microsoft.com/image/apps.39793.13878650002538161.3f27413b-237a-452f-a9d4-28acfb7ff8a3.bbcbcce7-586d-4cfa-ab27-e9edccb8df41?h=115 -->
 - `WDM` [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.25936.9007199266248474.fed2dcad-f741-47ef-9f1e-307a2d51b9c0.e8f74e94-4e54-4047-88cd-e358d68e7832?h=115 -->
-- `WDA` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) <!-- logo: https://store-images.s-microsoft.com/image/apps.8232.13926773940052066.8978812d-6c65-429b-835d-2cecd178e2d7.7cb2976d-0593-49c3-8ab7-8bce4a09d750?h=115 -->
+- `WDA` [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.8232.13926773940052066.8978812d-6c65-429b-835d-2cecd178e2d7.7cb2976d-0593-49c3-8ab7-8bce4a09d750?h=115 -->
 - `WDM` [Windows Clock](https://apps.microsoft.com/store/detail/windows-clock/9WZDNCRFJ3PR) <!-- logo: https://store-images.s-microsoft.com/image/apps.8446.9007199266246190.7d5781be-8887-4229-a335-e66e73b442a7.1e317f8d-19fc-4900-a37a-15d8a32daca5?h=115 -->
 - `WDM` [Windows Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT) <!-- logo: https://store-images.s-microsoft.com/image/apps.51427.9007199266246188.49767e14-de23-47cf-a245-27d480b37671.2bbaa662-7860-4501-a5c0-ae911b9bb8db?h=115 -->
 - `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) <!-- logo: https://store-images.s-microsoft.com/image/apps.10047.13825011251621706.e8a531ea-e643-41b9-8969-8a0182f70030.a3e757b8-b4d7-449c-9001-20798f9f0481?h=115 -->
+- `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
+- `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -889,11 +898,12 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Syncfusion WPF Controls Examples](https://apps.microsoft.com/detail/9n99kdhrff6g) <!-- logo: https://store-images.s-microsoft.com/image/apps.4424.13540824987517433.83a0a724-3e6d-46b5-a67b-ed2e349ac505.a79a19de-c364-4702-8e1d-3232e9500b1f?h=210 -->
 - `WDM` [WPF UI](https://apps.microsoft.com/store/detail/wpf-ui/9N9LKV8R9VGM) <!-- logo: https://store-images.s-microsoft.com/image/apps.531.13535183709831584.063bad61-5f07-4642-8b73-57ada0e79939.9e451d41-0564-4edc-8d07-e8bef35722c9?h=210 -->
 - `WDM` [WinUIEssentials.WinUI3Example](https://apps.microsoft.com/detail/9pcc690bcmt9) <!-- logo: https://store-images.s-microsoft.com/image/apps.35670.14172413089967020.c0d8ecbb-69d7-48a6-bf63-e6d70bedda7a.2ad1fb73-dd55-4565-81eb-2f6835a12fc2?h=115 -->
-- `WD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC) <!-- logo: https://store-images.s-microsoft.com/image/apps.5263.14537231059450374.9ff6ccd3-e2d4-4a5e-acda-1acf8f8d79aa.f7810c29-c27e-4973-ac56-a1b327adac28?h=210 -->
+- `WD` [WinUI 3 Gallery](https://apps.microsoft.com/store/detail/winui-3-gallery/9P3JFPWWDZRC) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.5263.14537231059450374.9ff6ccd3-e2d4-4a5e-acda-1acf8f8d79aa.f7810c29-c27e-4973-ac56-a1b327adac28?h=210 -->
 - `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.47722.13510798887600423.134c9bc0-5f34-4806-9e0e-ec2acea3f758.c327c1a7-6c7d-482c-b17c-d62eb5fa415b?h=210 -->
 - `WD` [XAML Brewer WinUI3 LiveChart2 Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample) <sup>`FOSS`</sup> <!-- logo: https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample/blob/master/XamlBrewer.WinUI3.LiveChart2.Sample/Assets/StoreLogo.png?raw=true -->
 - `WD` [XAML Brewer WinUI3 SkiaSharp Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample) <sup>`FOSS`</sup> <!-- logo: https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample/blob/master/XamlBrewer.WinUI3.SkiaSharp.Sample/Assets/Square44x44Logo.scale-200.png?raw=true -->
 - `WD` [DevWinUI Gallery](https://apps.microsoft.com/detail/DevWinUI%20Gallery%20App/9nmx5x5dlsrq?launch=true&mode=mini)
+- `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5?hl) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.28684.13528392826310250.619ee742-7baf-444c-9179-254f55c3e3cf.1e3baf4a-7452-47e7-85f9-a4099c386459?h=170 -->
 ------------
 
 ### 📖 Miscellaneous
