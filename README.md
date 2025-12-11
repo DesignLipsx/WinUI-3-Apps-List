@@ -856,6 +856,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8) <!-- logo: https://store-images.s-microsoft.com/image/apps.55549.9007199266244133.62f2de4a-47e3-4d77-8b51-e20d434b8fc7.7ddb6eb1-5141-4b29-88a1-9036d316ae08?h=210 -->
 - `WDM` [xTransfer Send Large Files & Share Photos Online](https://apps.microsoft.com/detail/9nll4lzngmz3) <!-- logo: https://store-images.s-microsoft.com/image/apps.32843.13705463870297986.d4bb39e6-7b3a-4944-b248-5e0d60ec4ef6.2099f84e-497f-4906-aed3-f83fe4968317?h=210 -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
+- `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 
 ------------
 
