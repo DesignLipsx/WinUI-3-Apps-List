@@ -895,6 +895,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [XAML Brewer WinUI3 LiveChart2 Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample) <sup>`FOSS`</sup> <!-- logo: https://github.com/XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample/blob/master/XamlBrewer.WinUI3.LiveChart2.Sample/Assets/StoreLogo.png?raw=true -->
 - `WD` [XAML Brewer WinUI3 SkiaSharp Sample](https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample) <sup>`FOSS`</sup> <!-- logo: https://github.com/XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample/blob/master/XamlBrewer.WinUI3.SkiaSharp.Sample/Assets/Square44x44Logo.scale-200.png?raw=true -->
 - `WD` [DevWinUI Gallery](https://apps.microsoft.com/detail/DevWinUI%20Gallery%20App/9nmx5x5dlsrq?launch=true&mode=mini)
+- `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5?hl) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.28684.13528392826310250.619ee742-7baf-444c-9179-254f55c3e3cf.1e3baf4a-7452-47e7-85f9-a4099c386459?h=170 -->
 ------------
 
 ### 📖 Miscellaneous
