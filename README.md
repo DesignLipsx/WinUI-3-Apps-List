@@ -199,6 +199,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) <sup>`FOSS`</sup> <!-- logo: https://github.com/Richasy/Rodel.Downloader/raw/master/assets/logo.png -->
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf) <!-- logo: https://store-images.s-microsoft.com/image/apps.29620.14366106746983150.30dc14de-0618-43c5-80bc-62ca0431742b.175002ce-7b86-44aa-b843-0136ee1ba02e?h=115 -->
 - `WDM` [WindowSill](https://getwindowsill.app/) <!-- logo: https://getwindowsill.app/img/logo.svg -->
+- `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://store-images.s-->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
