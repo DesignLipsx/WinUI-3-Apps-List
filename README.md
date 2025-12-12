@@ -153,7 +153,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [MouseLink](https://apps.microsoft.com/detail/xpffzbsvfp53j6) <!-- logo: https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvwGwZ.ul_kRzKtaGULwJ6GFTkuKa6ZJxqS_PKPERcAnFHeFjjI2IXoOh4rwGjoCdAZTdSccQRcWRXQC2R_KYgk-&format=source&h=210 -->
 - `WDM` [Never Sleep](https://apps.microsoft.com/detail/9npwdqzrg923). <!-- logo: https://store-images.s-microsoft.com/image/apps.14623.13781034298287524.c79bf65e-1486-4b40-9361-025b06314983.b3490c8d-9bfb-4d21-9ce9-7275fed5386d?h=115 -->
 - `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <!-- logo: https://raw.githubusercontent.com/IviriusCommunity/Rebound/refs/heads/main/src/system/Rebound.Hub/Assets/AppIcons/ReboundHub.ico -->
-- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://mp-cdn.elgato.com/media/aa41150f-9645-4275-b064-7642ba6a17ae/WaveLink3(Beta)-app-icon-optimized-b640532a-84ea-408b-a211-b7266e1563b7.png -->
+- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://i.postimg.cc/x8J3Nscy/Wave-Link3.png -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
 - `WD` [YT Music Lite](https://apps.microsoft.com/detail/9nhpxcxs27f9) <!-- logo: https://store-images.s-microsoft.com/image/apps.57744.13621526871464892.cf216136-c762-45a0-8e19-11962ffc160e.895e7c46-9ed6-4e96-a181-04bcf05dfecf?h=115 -->
@@ -178,7 +178,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.293.14145215386784158.96a861ed-2e1d-49d6-a2be-61d19477569e.f5745bf7-e0d7-45f2-a00e-8365897e3d29?h=210 -->
 - `WD` [AI Voice Generation](https://apps.microsoft.com/detail/9p3f6r35cnsx) <!-- logo: https://store-images.s-microsoft.com/image/apps.21814.14544058889423987.80807a87-9f67-4e1f-a562-74124b5edc1f.2601962c-58fb-477a-a5f4-50c11127e032?h=115 -->
 - `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.51521.14413860791952710.e9cbcf88-6ac6-41ea-8e85-5025b9008f2f.10c636d4-f176-4870-b5c7-df5ccbbb1170?h=115 -->
-- `WDM` [Axela](https://github.com/jpbandroid/Axela) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/errortek/Axela/refs/heads/main/App2/Assets/WindowIcon.ico -->
+- `WDM` [Axela](https://github.com/jpbandroid/Axela) <sup>`FOSS`</sup> <!-- logo: https://i.postimg.cc/D0ZYjdm3/Window-Icon.webp -->
 - `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf) <!-- logo: https://store-images.s-microsoft.com/image/apps.54582.13820046568183146.e0110c6b-19a4-4027-a559-a2ac4dbea443.3b258681-a009-4288-928c-effc7eb2aadf?h=210 -->
 - `WDM` [Bree AI](https://apps.microsoft.com/detail/bree-ai-chat-bot-%26translate/9NXKFGFQNCXS) <!-- logo: https://store-images.s-microsoft.com/image/apps.45108.14428494411162187.283ffdb8-20f0-4f84-ac8b-537538201eed.8b57997c-8352-4fba-b768-3f31ddfba1fa?h=210 -->
 - `WDM` [ChatTailor AI](https://apps.microsoft.com/store/detail/chattailor-ai/9PJRF3ZZ3KHK) <!-- logo: https://store-images.s-microsoft.com/image/apps.19513.14277081669076488.fc1449f1-8cbe-42b1-abff-733f328265fd.f11ab472-6350-422d-b1c9-5f267a889063?h=115 -->
@@ -197,7 +197,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) <sup>`FOSS`</sup> <!-- logo: https://github.com/Richasy/Rodel.Downloader/raw/master/assets/logo.png -->
 - `WD` [Vurbo.ai](https://apps.microsoft.com/detail/9nsccdpxb8vf) <!-- logo: https://store-images.s-microsoft.com/image/apps.29620.14366106746983150.30dc14de-0618-43c5-80bc-62ca0431742b.175002ce-7b86-44aa-b843-0136ee1ba02e?h=115 -->
 - `WDM` [WindowSill](https://getwindowsill.app/) <!-- logo: https://store-images.s-microsoft.com/image/apps.45836.14190919347028725.4c22b5e6-7e0b-475d-9024-df25c877b572.e239ac92-5536-4ef2-a0fa-220492bbe70b?h=115 -->
-- `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/johngagefaulkner/ChatGPTDesktopApp/refs/heads/main/ChatGPTDesktopApp/Assets/StoreLogo.scale-150.png -->
+- `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://i.postimg.cc/KjSDLPLH/Chatgpt.png -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -417,7 +417,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆` <sup>`FOSS`</sup>
 
-#### <img src="https://i.postimg.cc/tgk2yNwy/size-32-id-iefk-XAGb-Jma-P.png" width="21" height="21" /> YT Music Client
+#### <img src="https://i.postimg.cc/J48sk6yQ/size-100-id-V1cb-DTh-Dpb-Rc-format-png-color-000000.png" width="21" height="21" /> YT Music Client
 
 - `WD` [YT Music Lite](https://apps.microsoft.com/detail/9nhpxcxs27f9) <!-- logo: https://store-images.s-microsoft.com/image/apps.57744.13621526871464892.cf216136-c762-45a0-8e19-11962ffc160e.895e7c46-9ed6-4e96-a181-04bcf05dfecf?h=115 -->
 
@@ -875,7 +875,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Xerox Print and Scan](https://apps.microsoft.com/detail/9wzdncrfj1f8) <!-- logo: https://store-images.s-microsoft.com/image/apps.55549.9007199266244133.62f2de4a-47e3-4d77-8b51-e20d434b8fc7.7ddb6eb1-5141-4b29-88a1-9036d316ae08?h=210 -->
 - `WDM` [xTransfer Send Large Files & Share Photos Online](https://apps.microsoft.com/detail/9nll4lzngmz3) <!-- logo: https://store-images.s-microsoft.com/image/apps.32843.13705463870297986.d4bb39e6-7b3a-4944-b248-5e0d60ec4ef6.2099f84e-497f-4906-aed3-f83fe4968317?h=210 -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
-- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://store-images.s- -->
+- `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://i.postimg.cc/x8J3Nscy/Wave-Link3.png -->
 
 ------------
 
