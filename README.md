@@ -401,7 +401,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [Salt Player for Windows](https://apps.microsoft.com/detail/9p42fq0wpqxk) <!-- logo: https://store-images.s-microsoft.com/image/apps.11224.14597343722925918.5940033e-8341-4ede-bd40-efcfbdfdd87d.80d8c8d3-231f-44e4-b1b2-2c946b63b93e?h=115 -->
 - `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) <sup>`FOSS`</sup> <!-- logo: https://github.com/huynhsontung/Screenbox/raw/main/Screenbox/Assets/StoreLogo.scale-400.png -->
 - `WDM` [Stylophone](https://github.com/Difegue/Stylophone) <sup>`FOSS`</sup> <!-- logo: https://github.com/Difegue/Stylophone/raw/dev/Sources/Stylophone/Assets/Square44x44Logo.targetsize-256.png -->
-- `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup> <!-- logo: https://github.com/Arlodotexe/strix-music/raw/main/www/favicon.ico -->
+- `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/Arlodotexe/strix-music/refs/heads/main/src/Cores/Storage/src/logo.png -->
 - `WDM` [Video Media Player - All Formats](https://apps.microsoft.com/detail/9n5j0j3fcg8t) <!-- logo: https://store-images.s-microsoft.com/image/apps.57939.14037510321365950.6e918084-6233-4588-bae8-4f0184ef0b6a.73a54e3d-9e06-452a-9482-f00497bd2492?h=210 -->
 - **Music Tools**
 	- `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5) <!-- logo: https://store-images.s-microsoft.com/image/apps.6767.13750785885147376.b8e4a1ae-c893-4d16-8e44-d8c450c558ab.4f8a1337-bd5a-4922-88ce-61b397231f8c?h=115 -->
