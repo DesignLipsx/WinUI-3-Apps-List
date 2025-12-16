@@ -153,6 +153,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [MouseLink](https://apps.microsoft.com/detail/xpffzbsvfp53j6) <!-- logo: https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvwGwZ.ul_kRzKtaGULwJ6GFTkuKa6ZJxqS_PKPERcAnFHeFjjI2IXoOh4rwGjoCdAZTdSccQRcWRXQC2R_KYgk-&format=source&h=210 -->
 - `WDM` [Never Sleep](https://apps.microsoft.com/detail/9npwdqzrg923). <!-- logo: https://store-images.s-microsoft.com/image/apps.14623.13781034298287524.c79bf65e-1486-4b40-9361-025b06314983.b3490c8d-9bfb-4d21-9ce9-7275fed5386d?h=115 -->
 - `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <!-- logo: https://raw.githubusercontent.com/IviriusCommunity/Rebound/refs/heads/main/src/system/Rebound.Hub/Assets/AppIcons/ReboundHub.ico -->
+- `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 - `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://i.postimg.cc/x8J3Nscy/Wave-Link3.png -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
@@ -663,6 +664,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
+- `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 
 #### <img src="https://i.postimg.cc/vZdJZXqx/size-32-id-ITKS1ol-YDy-Mw.png" width="18" height="18" /> Mastodon
 - `WDM` [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) `📆` <!-- logo: https://github.com/AnalogFeelings/Bluechirp/raw/master/Branding/bluechirp.png -->
