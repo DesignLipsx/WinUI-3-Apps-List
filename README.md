@@ -375,7 +375,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/d3ara1n/Polymerium/refs/heads/main/src/Polymerium.App/Assets/Icon.ico -->
 - `WD` [YT2MP3](https://github.com/0zean/YT2MP3) <sup>`FOSS`</sup> <!-- logo: https://github.com/0zean/YT2MP3/blob/main/YT2MP3/Assets/StoreLogo.png?raw=true -->
 - `WDM` [Fluent Launcher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.34987.14585027019572894.79b19be8-1165-4c26-8219-ce46687be87c.0c7726b3-1ceb-416c-82f3-5956e35d581a?h=210 -->
-- `WDM` [XianYuLauncher](https://github.com/XianYuLauncher/XianYuLauncher) <sup>`FOSS`</sup>
+- `WDM` [XianYuLauncher](https://apps.microsoft.com/detail/9pcnpgl7j6ks) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
