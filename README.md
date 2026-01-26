@@ -418,7 +418,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### <img src="https://i.postimg.cc/tgk2yNwy/size-32-id-iefk-XAGb-Jma-P.png" width="21" height="21" /> Spotify Client
 
-- `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆` <sup>`FOSS`</sup>
+- `WDM` [WaveeMusic](https://github.com/christosk92/WaveeMusic) `📆` <sup>`FOSS`</sup>
 
 #### <img src="https://i.postimg.cc/J48sk6yQ/size-100-id-V1cb-DTh-Dpb-Rc-format-png-color-000000.png" width="21" height="21" /> YT Music Client
 
