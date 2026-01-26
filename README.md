@@ -157,6 +157,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://i.postimg.cc/x8J3Nscy/Wave-Link3.png -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
+- `WDM` [Windows HDR Calibration](https://apps.microsoft.com/detail/9n7f2sm5d1lr) <!-- logo: https://store-images.s-microsoft.com/image/apps.35619.14066308247113248.71f37cc8-86b5-4f83-855b-441821570bfe.3602898d-b565-4f20-a6a7-fca7a34f61aa?h=210 -->
 - `WD` [YT Music Lite](https://apps.microsoft.com/detail/9nhpxcxs27f9) <!-- logo: https://store-images.s-microsoft.com/image/apps.57744.13621526871464892.cf216136-c762-45a0-8e19-11962ffc160e.895e7c46-9ed6-4e96-a181-04bcf05dfecf?h=115 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -900,6 +901,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) <!-- logo: https://store-images.s-microsoft.com/image/apps.10047.13825011251621706.e8a531ea-e643-41b9-8969-8a0182f70030.a3e757b8-b4d7-449c-9001-20798f9f0481?h=115 -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
+- `WDM` [Windows HDR Calibration](https://apps.microsoft.com/detail/9n7f2sm5d1lr) <!-- logo: https://store-images.s-microsoft.com/image/apps.35619.14066308247113248.71f37cc8-86b5-4f83-855b-441821570bfe.3602898d-b565-4f20-a6a7-fca7a34f61aa?h=210 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
