@@ -668,6 +668,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
+- `WD` [Fluent Discord](https://github.com/TakosThings/Fluent-Discord) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
 - `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 
