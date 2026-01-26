@@ -147,6 +147,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [AirPlayReceiver: Screen Mirroring & Streaming](https://apps.microsoft.com/detail/9n4xf19xfjd8) <!-- logo: https://store-images.s-microsoft.com/image/apps.14239.14435729584765862.ad8c44a2-3307-462a-bc25-ca685f1478a4.0fb00256-67a4-4e33-bee0-c7d8e5a89eeb?h=210 -->
 - `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5?hl) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.28684.13528392826310250.619ee742-7baf-444c-9179-254f55c3e3cf.1e3baf4a-7452-47e7-85f9-a4099c386459?h=170 -->
 - `WD` [Authority Editor](https://apps.microsoft.com/detail/9n3bxxqtlvln) <!-- logo: https://store-images.s-microsoft.com/image/apps.40729.13935021610997439.6641eaf8-90a6-4e52-a019-ef5cdd90e070.bed0af0c-2982-4154-8cab-8226334cb55b?h=115 -->
+- `WDM` [Lamina](https://github.com/Chill-Astro/Lamina) <sup>`FOSS`</sup>
 - `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://i.postimg.cc/KjSDLPLH/Chatgpt.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
@@ -697,6 +698,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### ➗ Calculators
 
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS) <!-- logo: https://store-images.s-microsoft.com/image/apps.38055.13894234759620891.9e5fbe2a-83a9-438e-b2f8-5d9e9401a34a.960c32d1-00f8-4456-aa81-0af5882e38cb?h=210 -->
+- `WDM` [Lamina](https://github.com/Chill-Astro/Lamina) <sup>`FOSS`</sup>
 - `WDM` [Windows Calculator](https://github.com/Microsoft/calculator) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.25936.9007199266248474.fed2dcad-f741-47ef-9f1e-307a2d51b9c0.e8f74e94-4e54-4047-88cd-e358d68e7832?h=115 -->
 
 #### 📊 Device Info / Monitors
