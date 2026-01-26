@@ -147,16 +147,19 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [AirPlayReceiver: Screen Mirroring & Streaming](https://apps.microsoft.com/detail/9n4xf19xfjd8) <!-- logo: https://store-images.s-microsoft.com/image/apps.14239.14435729584765862.ad8c44a2-3307-462a-bc25-ca685f1478a4.0fb00256-67a4-4e33-bee0-c7d8e5a89eeb?h=210 -->
 - `WDM` [AI Dev Gallery](https://apps.microsoft.com/detail/9n9pn1mm3bd5?hl) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.28684.13528392826310250.619ee742-7baf-444c-9179-254f55c3e3cf.1e3baf4a-7452-47e7-85f9-a4099c386459?h=170 -->
 - `WD` [Authority Editor](https://apps.microsoft.com/detail/9n3bxxqtlvln) <!-- logo: https://store-images.s-microsoft.com/image/apps.40729.13935021610997439.6641eaf8-90a6-4e52-a019-ef5cdd90e070.bed0af0c-2982-4154-8cab-8226334cb55b?h=115 -->
+- `WDM` [Lamina](https://github.com/Chill-Astro/Lamina) <sup>`FOSS`</sup>
 - `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) `📆` <sup>`FOSS`</sup> <!-- logo: https://i.postimg.cc/KjSDLPLH/Chatgpt.png -->
 - `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) <sup>`FOSS`</sup> <!-- logo: https://github.com/Eppie-io/Eppie-App/blob/main/src/Eppie.App/Eppie.App.UWP/Assets/StoreLogo.scale-100.png?raw=true -->
 - `WD` [Intel® Graphics Software](https://apps.microsoft.com/detail/9P8K5G2MWW6Z) <!-- logo: https://store-images.s-microsoft.com/image/apps.22186.14090896052071218.a5d380bb-54d3-42c3-aa39-c7845740564a.8dd11290-c5c9-472a-ad62-3125350cd48f?h=307 -->
 - `WD` [MouseLink](https://apps.microsoft.com/detail/xpffzbsvfp53j6) <!-- logo: https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvwGwZ.ul_kRzKtaGULwJ6GFTkuKa6ZJxqS_PKPERcAnFHeFjjI2IXoOh4rwGjoCdAZTdSccQRcWRXQC2R_KYgk-&format=source&h=210 -->
+- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt). <!-- logo: https://store-images.s-microsoft.com/image/apps.65358.14504294530003358.405947ae-662e-4c7d-ba9a-eb6d9f23b51c.00d4e310-6b4e-4c4c-ab9b-78a0addbaf9c -->
 - `WDM` [Never Sleep](https://apps.microsoft.com/detail/9npwdqzrg923). <!-- logo: https://store-images.s-microsoft.com/image/apps.14623.13781034298287524.c79bf65e-1486-4b40-9361-025b06314983.b3490c8d-9bfb-4d21-9ce9-7275fed5386d?h=115 -->
 - `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) <!-- logo: https://raw.githubusercontent.com/IviriusCommunity/Rebound/refs/heads/main/src/system/Rebound.Hub/Assets/AppIcons/ReboundHub.ico -->
 - `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 - `WDM` [Wave Link 3.0](https://www.elgato.com/us/en/s/beta) `📆` <!-- logo: https://i.postimg.cc/x8J3Nscy/Wave-Link3.png -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn?hl=en-US&gl) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
+- `WDM` [Windows HDR Calibration](https://apps.microsoft.com/detail/9n7f2sm5d1lr) <!-- logo: https://store-images.s-microsoft.com/image/apps.35619.14066308247113248.71f37cc8-86b5-4f83-855b-441821570bfe.3602898d-b565-4f20-a6a7-fca7a34f61aa?h=210 -->
 - `WD` [YT Music Lite](https://apps.microsoft.com/detail/9nhpxcxs27f9) <!-- logo: https://store-images.s-microsoft.com/image/apps.57744.13621526871464892.cf216136-c762-45a0-8e19-11962ffc160e.895e7c46-9ed6-4e96-a181-04bcf05dfecf?h=115 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -397,6 +400,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WD` [MPDCtrl](https://github.com/torum/MPDCtrl) <!-- logo: https://raw.githubusercontent.com/torum/MPDCtrl/refs/heads/master/MPDCtrl-WPF/MPDCtrl/MPDCtrl2.ico -->
 - `WDM` [Melosik](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M) <!-- logo: https://store-images.s-microsoft.com/image/apps.65335.13630942991679040.3b3c9bb1-4d2a-4eee-8534-6079bdf71caf.347a60a6-1ce3-4e9c-b42d-04d971ecb5e6?h=115 -->
 - `WDM` [Musicloud - Music Downloader](https://apps.microsoft.com/store/detail/musicloud-music-downloader/9P6V0D62D4BQ) <!-- logo: https://store-images.s-microsoft.com/image/apps.31982.14616980212163637.b9f7e344-284c-41ea-926e-7464f1e9d57e.80dd6530-674d-4b80-a328-cbfa87802dda?h=210 -->
+- `WDM` [Nagi](https://apps.microsoft.com/detail/9p1v1ppml3qt). <!-- logo: https://store-images.s-microsoft.com/image/apps.65358.14504294530003358.405947ae-662e-4c7d-ba9a-eb6d9f23b51c.00d4e310-6b4e-4c4c-ab9b-78a0addbaf9c -->
 - `WDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3) <!-- logo: https://store-images.s-microsoft.com/image/apps.19966.14577208341804766.da0b345f-2314-4e6e-9286-743d0b71e536.940ec450-c6d1-43d4-91e1-eb5ab4c78df7?h=210 -->
 - `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT) <sup>`FOSS`</sup> <!-- logo: https://github.com/YexuanXiao/PlayerWinRT/blob/master/src/Assets/StoreLogo.scale-200.png?raw=true -->
 - `WDM` [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) <sup>`FOSS`</sup> <!-- logo: https://github.com/theimpactfulcompany/Rise-Media-Player/blob/main/Rise%20Media%20Player%20Dev/Assets/App/StoreLogo.scale-150.png?raw=true -->
@@ -417,7 +421,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 #### <img src="https://i.postimg.cc/tgk2yNwy/size-32-id-iefk-XAGb-Jma-P.png" width="21" height="21" /> Spotify Client
 
-- `WDM` [Wavee](https://github.com/christosk92/Wavee) `📆` <sup>`FOSS`</sup>
+- `WDM` [WaveeMusic](https://github.com/christosk92/WaveeMusic) `📆` <sup>`FOSS`</sup>
 
 #### <img src="https://i.postimg.cc/J48sk6yQ/size-100-id-V1cb-DTh-Dpb-Rc-format-png-color-000000.png" width="21" height="21" /> YT Music Client
 
@@ -664,6 +668,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WD` [Discord-11](https://github.com/zuzumi-f/Discord-11) `🎨` <sup>`FOSS`</sup>
 - `WD` [Discord-mica](https://github.com/mazOnGitHub/discord-mica) `🎨` <sup>`FOSS`</sup>
+- `WD` [Fluent Discord](https://github.com/TakosThings/Fluent-Discord) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) `📆` <sup>`FOSS`</sup>
 - `WDM` [Unicord](https://github.com/UnicordDev/Unicord) `📆` <sup>`FOSS`</sup>
 
@@ -694,6 +699,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### ➗ Calculators
 
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS) <!-- logo: https://store-images.s-microsoft.com/image/apps.38055.13894234759620891.9e5fbe2a-83a9-438e-b2f8-5d9e9401a34a.960c32d1-00f8-4456-aa81-0af5882e38cb?h=210 -->
+- `WDM` [Lamina](https://github.com/Chill-Astro/Lamina) <sup>`FOSS`</sup>
 - `WDM` [Windows Calculator](https://github.com/Microsoft/calculator) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.25936.9007199266248474.fed2dcad-f741-47ef-9f1e-307a2d51b9c0.e8f74e94-4e54-4047-88cd-e358d68e7832?h=115 -->
 
 #### 📊 Device Info / Monitors
@@ -900,6 +906,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Windows Notepad](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) <!-- logo: https://store-images.s-microsoft.com/image/apps.10047.13825011251621706.e8a531ea-e643-41b9-8969-8a0182f70030.a3e757b8-b4d7-449c-9001-20798f9f0481?h=115 -->
 - `WDM` [Windows Sound Recorder](https://apps.microsoft.com/detail/9wzdncrfhwkn) <!-- logo: https://store-images.s-microsoft.com/image/apps.65228.9007199266246865.fdd30c53-ef1b-499d-a6c0-27ee100a32c2.b96891cc-b96e-4e53-a716-e370d1653e61?h=170 -->
 - `WDM` [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg) <!-- logo: https://store-images.s-microsoft.com/image/apps.9585.9007199266252789.05ba84d6-f74d-4beb-ba05-12d7e5f76cd0.84ff9a8f-54fe-4188-8f15-377afec76fa9?h=170 -->
+- `WDM` [Windows HDR Calibration](https://apps.microsoft.com/detail/9n7f2sm5d1lr) <!-- logo: https://store-images.s-microsoft.com/image/apps.35619.14066308247113248.71f37cc8-86b5-4f83-855b-441821570bfe.3602898d-b565-4f20-a6a7-fca7a34f61aa?h=210 -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
