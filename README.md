@@ -143,7 +143,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
-
+- `WDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup> <!-- logo: LOGO_URL -->
 - `WDM` [Blip](https://blip.net/) <!-- logo: https://media.licdn.com/dms/image/v2/D4E0BAQH6U3m1TA5FGw/company-logo_200_200/company-logo_200_200/0/1691000007310/blipnet_logo?e=2147483647&v=beta&t=Ybf_kTct1oJ65wIxQmdgAUK6uvdgBkicI_bK3oNXAuo -->
 - `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
 - `WDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <!-- logo: https://medias.velersoftware.com/images/ctrlhelp-large.png -->
@@ -798,6 +798,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [FluentFlyout](https://apps.microsoft.com/detail/9n45nsm4tnbp) <!-- logo: https://store-images.s-microsoft.com/image/apps.14746.13993599153321038.b8e49596-e0da-461a-8c5e-10ee67f576eb.24fcd2f5-06cd-43ba-bd8e-d6e17fcce2ba?h=210 -->
 - `WD` [Flipuent](https://apps.microsoft.com/detail/9p8h6jlnqhjk) <!-- logo: https://store-images.s-microsoft.com/image/apps.10218.14087819590307994.aa3e1ae2-8c26-46b3-a831-78fa46c32e5c.6abeefa3-2dfe-4564-b30e-e512948796fd?h=115 -->
 - `WDM` [Fluver](https://apps.microsoft.com/detail/9n3lmss7xl2k) <!-- logo: https://store-images.s-microsoft.com/image/apps.44312.14000411030226882.407c609a-103a-4748-ae11-a80d9503aecf.136bc8b1-db54-4cce-a3a4-490bb2634f65?h=115 -->
+- `WDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup> <!-- logo: LOGO_URL -->
 - `WDM` [Frequency Sound Generator](https://apps.microsoft.com/detail/9ngjl1pb8j9b) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.63121.13644510246104383.1eb7dac3-c660-4708-a250-cb37114a78b6.544e8618-23da-4783-a2e2-cd5fa1d41b0a?h=115 -->
 - `WDM` [Gateway Switcher](https://apps.microsoft.com/detail/9PDQC93R0WLF) <!-- logo: https://store-images.s-microsoft.com/image/apps.44656.14145026525843330.3d94d1f1-4a07-4d8d-a41b-cc5227843529.c8ce4cb2-274b-446b-a5fe-495405dfee7e?h=115 -->
 - `WDM` [GUID Pro](https://apps.microsoft.com/detail/9nwdpt7w3c08) <!-- logo: https://store-images.s-microsoft.com/image/apps.48358.14451343819064011.f1229487-880f-4411-aea0-8d6ed138a82c.39bb1e5a-5829-4aab-b5cf-e38893d78fbc?h=210 -->
