@@ -148,7 +148,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
 - `WDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <!-- logo: https://medias.velersoftware.com/images/ctrlhelp-large.png -->
 - `WDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386) <!-- logo: https://store-images.s-microsoft.com/image/apps.16586.13799120564539197.64e975f3-b3fc-4148-a02e-2d8fc3893c09.c8fd777d-b961-4de5-a005-4c800849eaf7?h=115 -->
-- `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://github.com/rayenghanmi/RyTuneX/blob/main/Assets/StoreLogo.scale-125.png?raw=true -->
+- `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/rayenghanmi/RyTuneX/refs/heads/main/Assets/StoreLogo.scale-150.png -->
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
