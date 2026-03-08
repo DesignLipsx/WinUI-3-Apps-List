@@ -567,6 +567,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [DayDayUp](https://github.com/Fangjin98/daydayup) `📆` <sup>`FOSS`</sup> <!-- logo: https://github.com/Fangjin98/daydayup/raw/master/images/logo.png -->
 - `WDM` [Daily ToDo Lists](https://apps.microsoft.com/detail/9pmw2fdm4dld) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.59542.14285735681911887.fd9f56e2-1331-4987-bf51-c4cea91b5eed.fdab3d91-4bdd-4523-804b-41ad2770a326?h=115 -->
 - `WDM` [Taskie](https://apps.microsoft.com/detail/9n201wbcfj91) <!-- logo: https://store-images.s-microsoft.com/image/apps.28108.13966324980691824.ecf54eee-8b99-4704-aa7b-fd7551e30ecf.9771df94-def0-47b8-bac1-5bde6c6b480a?h=210 -->
+- `WD`  [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558) <!-- logo: https://store-images.s-microsoft.com/image/apps.19449.13510798887304077.23063538-cc5b-48a6-877b-3b83e2722bce.a2a2a9ec-fa0d-4f57-912d-c4f1d8fac407 -->
 - `WDM` [TaskList](https://github.com/GuildOfCalamity/TaskList) `📆` <sup>`FOSS`</sup> <!-- logo: https://github.com/GuildOfCalamity/TaskList/blob/main/Task%20List%20App/Assets/Add_Icon.png?raw=true -->
 - `WDA` [ToDoManager](https://github.com/navi705/ToDoManager-WinUI3) `📆` <sup>`FOSS`</sup> <!-- logo: https://github.com/navi705/ToDoManager-WinUI3/blob/master/Source/ToDoManager/ToDoManager/Resources/Assets/Square44x44Logo.scale-200.png?raw=true -->
     
