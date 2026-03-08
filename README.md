@@ -143,6 +143,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup> <!-- logo: LOGO_URL -->
 - `WDM` [Blip](https://blip.net/) <!-- logo: https://media.licdn.com/dms/image/v2/D4E0BAQH6U3m1TA5FGw/company-logo_200_200/company-logo_200_200/0/1691000007310/blipnet_logo?e=2147483647&v=beta&t=Ybf_kTct1oJ65wIxQmdgAUK6uvdgBkicI_bK3oNXAuo -->
 - `WDA` [clipshelf](https://www.clipshelf.app/) <!-- logo: https://www.clipshelf.app/wp-content/uploads/2024/02/Logo-150x150.png -->
@@ -374,6 +375,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🙎‍♂️ Lifestyle
 
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WD` [iCollect Everything](https://apps.microsoft.com/detail/9pfz333ctd90) <!-- logo: https://store-images.s-microsoft.com/image/apps.39730.14196039441780193.f4821d7f-fe21-40de-a3ba-84242eecb01c.7e48a7d8-19f6-4a95-ade0-547cd637f941?h=115 -->
 
 ------------
@@ -484,6 +486,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### ▶️ Other Players
 
 - `WD` [Aggregate Live Broadcast](https://apps.microsoft.com/detail/9n1twg2g84vd) <!-- logo: https://store-images.s-microsoft.com/image/apps.54954.13964853534446575.c062f8ba-cc7f-4c93-b025-56516885489b.9e6c1bad-a74c-4f8b-82c5-fde9149633f6?h=307 -->
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WDM` [Blu-ray Player](https://apps.microsoft.com/detail/9ntn82vjlpfq) <!-- logo: https://store-images.s-microsoft.com/image/apps.5824.14415392890264391.118c2121-65ce-4f8a-bfee-6dd85c28ac6e.03fa07a8-c611-4028-b8b8-ea41453e893e?h=210 -->
 - `WDM` [DVD Player - Play DVD](https://apps.microsoft.com/detail/9pc9t9bsqklt) <!-- logo: https://store-images.s-microsoft.com/image/apps.57634.14177432656646702.c07cb408-c5ab-40c7-acac-0bee07c4b97f.743ca6b7-fc20-48b8-b230-8ce500c70d0d?h=115 -->
 - `WD` [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx) <!-- logo: https://store-images.s-microsoft.com/image/apps.9267.14491975499232441.5e3fd7a0-5ec3-4d45-acdf-1ce0a5ef030f.46938f38-5a6e-496c-baf3-173f11cdbf2e?h=115 -->
@@ -611,6 +614,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 📈 Productivity
 
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WD` [Authority Editor](https://apps.microsoft.com/detail/9n3bxxqtlvln) <!-- logo: https://store-images.s-microsoft.com/image/apps.40729.13935021610997439.6641eaf8-90a6-4e52-a019-ef5cdd90e070.bed0af0c-2982-4154-8cab-8226334cb55b?h=115 -->
 - `WDM` [Barcode Fonts Trial](https://apps.microsoft.com/detail/9n2n5j6q9t51) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.24879.13953295377413812.efde70a8-404c-4de7-8d53-b061fbe75e76.c637f7bf-6f07-4ada-a0d0-accdf5b9ce16?h=115 -->
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰` <!-- logo: https://store-images.s-microsoft.com/image/apps.39692.14565777777550263.7df61f39-036f-43aa-b940-c9bfee302b20.8a6daf5c-dc21-451b-a97e-3a16f5572a23?h=115 -->
