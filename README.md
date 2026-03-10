@@ -143,6 +143,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
+- `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.18140.14199299454065324.d78dd688-2d84-49bc-80ac-a8c7385fc5b5.5263caf3-e2ff-4c60-be7c-3313b7951896? -->
 - `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup> <!-- logo: LOGO_URL -->
 - `WDM` [Blip](https://blip.net/) <!-- logo: https://media.licdn.com/dms/image/v2/D4E0BAQH6U3m1TA5FGw/company-logo_200_200/company-logo_200_200/0/1691000007310/blipnet_logo?e=2147483647&v=beta&t=Ybf_kTct1oJ65wIxQmdgAUK6uvdgBkicI_bK3oNXAuo -->
@@ -219,6 +220,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 - `WDM` `WDA` [Arc Browser](https://arc.net/) <!-- logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/960px-Arc_%28browser%29_logo.svg.png -->
 - `WDM` [Aurora](https://apps.microsoft.com/detail/9mxzldlctfwl) <!-- logo: https://store-images.s-microsoft.com/image/apps.46047.13880738412970623.f164d829-599f-44eb-b23c-f3eb9d5e1cb7.7c80cf8a-56a2-43b5-99ed-e20f93d409e5?h=115 -->
+- `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.18140.14199299454065324.d78dd688-2d84-49bc-80ac-a8c7385fc5b5.5263caf3-e2ff-4c60-be7c-3313b7951896? -->
 - `WDM` [Riverside Graphite](https://apps.microsoft.com/detail/9PCN40XXVCVB) <!-- logo: https://store-images.s-microsoft.com/image/apps.33982.14166180735769429.04ce1e61-4c8c-4b0a-8f5d-7373031f0637.4b36fe3e-2e5d-4f1a-b7fc-d18d22bbf502?h=210 -->
 - `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨` <sup>`FOSS`</sup>
 - `WDM` [Odyssey](https://github.com/deadw00d/OdysseyWebBrowser) `📆` <sup>`FOSS`</sup> <!-- logo: https://power2people.org/images/splash_project_odyssey.jpg -->
