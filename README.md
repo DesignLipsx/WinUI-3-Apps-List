@@ -124,6 +124,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI
 
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WDM` [Eagle-Calculator](https://apps.microsoft.com/detail/Eagle-Calculator/9MX92VG2G7NS) <!-- logo: https://store-images.s-microsoft.com/image/apps.38055.13894234759620891.9e5fbe2a-83a9-438e-b2f8-5d9e9401a34a.960c32d1-00f8-4456-aa81-0af5882e38cb?h=210 -->
 - `WDM` [Files App](https://github.com/files-community/files) <!-- logo: https://store-images.s-microsoft.com/image/apps.5536.13649428968955623.bcfc493a-7fd6-4231-9ddd-1c511b1330ad.11150fa3-6915-4039-b262-6be82a9c440a?h=210 -->
 - `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery) <!-- logo: https://store-images.s-microsoft.com/image/apps.37284.13538580081972403.658221c2-4cce-423f-983a-ce7fbcffd4ba.d60a06e8-1667-4803-99e5-4fd5216faa45?h=210 -->
