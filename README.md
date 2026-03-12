@@ -144,6 +144,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 🆕 Newly Added Apps!
 
+- `WDM` `WDA` [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/lechixy/LechYTDLP/refs/heads/main/LechYTDLP/Assets/StoreLogo.scale-400.png -->
 - `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup> <!-- logo: https://store-images.s-microsoft.com/image/apps.18140.14199299454065324.d78dd688-2d84-49bc-80ac-a8c7385fc5b5.5263caf3-e2ff-4c60-be7c-3313b7951896? -->
 - `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/jenius-apps/ambie/refs/heads/main/images/logo_transparent.png -->
 - `WDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup> <!-- logo: LOGO_URL -->
@@ -290,6 +291,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
     - `WDM` [WinTorrent](https://apps.microsoft.com/detail/9nq9vf309dn6) <!-- logo: https://store-images.s-microsoft.com/image/apps.27110.13777225652438977.0760cf43-97e5-4dc8-aa0e-97af37ffc574.1ce3b661-4a07-4a04-95e0-71b30a653f83?h=210 -->
     - `WDM` [youTorrent](https://apps.microsoft.com/detail/9p2qmbvqrcfn) <!-- logo: https://store-images.s-microsoft.com/image/apps.43040.14557493895794249.be21d298-8763-4095-9483-bc7e99b9de3e.75ff1a80-4c58-45fd-ba12-18d4644b88d4?h=115 -->
 - **YouTube**
+ - `WDM` `WDA` [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/lechixy/LechYTDLP/refs/heads/main/LechYTDLP/Assets/StoreLogo.scale-400.png -->
 	- `WDM` [MP3Cube - MP3 Music & Video Downloader 4K](https://apps.microsoft.com/detail/9n615w157bhm) <!-- logo: https://store-images.s-microsoft.com/image/apps.20615.14027826435832786.844e8b39-007d-474f-8f80-bd3b8234bd71.4326a264-40dc-4d31-aad4-8732bf7ad751?h=210 -->
     - `WD` [TubeSync](https://github.com/manusoft/youtube-downloader-desktop) <sup>`FOSS`</sup> <!-- logo: https://github.com/manusoft/youtube-downloader-desktop/blob/master/TubeSync/Assets/StoreLogo.png?raw=true -->
     - `WD` [Ultra Music & Video Downloader PRO](https://apps.microsoft.com/detail/9p9pwlkpr1k8) <!-- logo: https://store-images.s-microsoft.com/image/apps.18304.14138438430509029.c4c18cd8-b9bc-483c-9694-60dfaa9859b4.fc42373e-4e89-437e-87e9-cbd3b8944e96?h=210 -->
