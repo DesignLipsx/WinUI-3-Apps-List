@@ -897,7 +897,7 @@ Last 14 apps that were recently added to list!
 ### Password Manager
 
 - `WDM` [ClientWarden](https://github.com/Cherrytree56567/ClientWarden) <sup>`FOSS`</sup>
-- `WDM` [Cyber Vault](hhttps://github.com/affan-ch/Cyber-Vault-Desktop-Offline <sup>`FOSS`</sup>
+- `WDM` [Cyber Vault](https://github.com/affan-ch/Cyber-Vault-Desktop-Offline) <sup>`FOSS`</sup>
 - `WDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
 - `WDM` [Honeypot](https://github.com/sh0ckj0ckey/Honeypot) <sup>`FOSS`</sup>
 - `WDM` [Orayo](https://github.com/barkure/Orayo) <sup>`FOSS`</sup>
