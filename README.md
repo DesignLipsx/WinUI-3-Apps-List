@@ -239,19 +239,19 @@ Last 17 apps that were recently added to list!
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
 - `WDM` [Inky - PDF Reader](https://apps.microsoft.com/detail/9nblggh40fwd)
-- `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/JohnDizzle/Linkscape/master/src/LinkScape/Assets/StoreLogo.scale-150.png -->
+- `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup>
 - `WDM` [MdPad](https://github.com/radueduard97/MdPad) <sup>`FOSS`</sup>
 - `WDA` [Media - WidBar Widget](https://apps.microsoft.com/detail/9nbvchs7jr0c)
 - `WDA` [Pomodoro Focus - WidBar Widget](https://apps.microsoft.com/detail/9nwrj4d65dhs)
 - `WDM` [Raven](https://github.com/mjishnu/Raven) <sup>`FOSS`</sup>
 - `WDA` [Shelf File Manager & Clipboard - Widbar Widget](https://apps.microsoft.com/detail/9p18qnl4tc4g)
-- `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606) <!-- logo: https://store-images.s-microsoft.com/image/apps.29230.14573795913827913.6c438cd0-238c-43ee-94a9-426f9002c818.ceca136d-5651-49c4-bc49-e422d170f589?h=115 -->
+- `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 - `WDA` [Stock Watcher - WidBar Widget](https://apps.microsoft.com/detail/9mwk4x22ql4m)
 - `WDM` [Swift PDF - Reader & Editor & Converter](https://apps.microsoft.com/detail/9n94phwffvnh)
 - `WDA` [System Metrics - WidBar Widget](https://apps.microsoft.com/detail/9nm2bn1x33cq)
 - `WD` [Task Scheduler Studio](https://github.com/MarkHopper24/Task-Scheduler-Studio) <sup>`FOSS`</sup>
 - `WDA` [Weather - WidBar Widget](https://apps.microsoft.com/detail/9n4cs86q7nv2)
-- `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt) <!-- logo: https://store-images.s-microsoft.com/image/apps.38155.13915006422155362.ed76a0b6-6c9c-459e-915b-e5a55c119d81.ae676879-1873-4589-a151-9e06a8d1a7f2?h=115 -->
+- `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt)
 - `WDM` [WidBar - Widget Taskbar system](https://apps.microsoft.com/detail/9pkldnm83tp9)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -338,11 +338,11 @@ Last 17 apps that were recently added to list!
 - `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨` <sup>`FOSS`</sup>
 - `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 - `WDA` [Hurl](https://github.com/U-C-S/Hurl) <sup>`FOSS`</sup>
-- `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/JohnDizzle/Linkscape/master/src/LinkScape/Assets/StoreLogo.scale-150.png -->
+- `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup>
 - `WDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser) `📆` <sup>`FOSS`</sup>
 - `WDM` [Radon Browser](https://github.com/imscythra/radon-browser) <sup>`FOSS`</sup>
 - `WDM` [Riverside Graphite](https://apps.microsoft.com/detail/9PCN40XXVCVB)
-- `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt) <!-- logo: https://store-images.s-microsoft.com/image/apps.38155.13915006422155362.ed76a0b6-6c9c-459e-915b-e5a55c119d81.ae676879-1873-4589-a151-9e06a8d1a7f2?h=115 -->
+- `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt)
 - `WDA` [WinUIEdge](https://github.com/wtcpython/WinUIEdge) <sup>`FOSS`</sup> `❎`
 
 ## 📦 Catalogs
@@ -682,7 +682,7 @@ Last 17 apps that were recently added to list!
 - `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
-- `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606) <!-- logo: https://store-images.s-microsoft.com/image/apps.29230.14573795913827913.6c438cd0-238c-43ee-94a9-426f9002c818.ceca136d-5651-49c4-bc49-e422d170f589?h=115 -->
+- `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 
 #### Tracking
 
