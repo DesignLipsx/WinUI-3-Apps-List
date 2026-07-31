@@ -155,7 +155,6 @@ The following is a curated list of applications designed in alignment with the W
           <details>
             <summary>👨‍💻 <a href="#%E2%80%8D-social-media">Social Media</a></summary>
             <ul>
-              <li><a href="#beeper">Beeper</a></li>
               <li><a href="#discord">Discord</a></li>
               <li><a href="#mastodon">Mastodon</a></li>
               <li><a href="#reddit">Reddit</a></li>
@@ -193,6 +192,7 @@ This list is solely a compilation of apps that adopt the WinUI 3 Design guidelin
 
 - ❗ Some indicators might be wrong as I interpreted whether they're WD/WM/WDM or not by the screenshots. Please report wrong indicators.
 - 🔗 The provided links might be from GitHub, GitLab, Telegram, XDA, the Official website of the app and other various sources (I always try to provide GitHub links but some apps are not available on GitHub). Please report any broken links.\*
+
 ### Abbreviations
 
 | Indicator / Symbol | Description |
@@ -234,21 +234,24 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 14 apps that were recently added to list!
+Last 17 apps that were recently added to list!
 
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
 - `WDM` [Inky - PDF Reader](https://apps.microsoft.com/detail/9nblggh40fwd)
+- `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/JohnDizzle/Linkscape/master/src/LinkScape/Assets/StoreLogo.scale-150.png -->
 - `WDM` [MdPad](https://github.com/radueduard97/MdPad) <sup>`FOSS`</sup>
 - `WDA` [Media - WidBar Widget](https://apps.microsoft.com/detail/9nbvchs7jr0c)
 - `WDA` [Pomodoro Focus - WidBar Widget](https://apps.microsoft.com/detail/9nwrj4d65dhs)
 - `WDM` [Raven](https://github.com/mjishnu/Raven) <sup>`FOSS`</sup>
 - `WDA` [Shelf File Manager & Clipboard - Widbar Widget](https://apps.microsoft.com/detail/9p18qnl4tc4g)
+- `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606) <!-- logo: https://store-images.s-microsoft.com/image/apps.29230.14573795913827913.6c438cd0-238c-43ee-94a9-426f9002c818.ceca136d-5651-49c4-bc49-e422d170f589?h=115 -->
 - `WDA` [Stock Watcher - WidBar Widget](https://apps.microsoft.com/detail/9mwk4x22ql4m)
 - `WDM` [Swift PDF - Reader & Editor & Converter](https://apps.microsoft.com/detail/9n94phwffvnh)
 - `WDA` [System Metrics - WidBar Widget](https://apps.microsoft.com/detail/9nm2bn1x33cq)
 - `WD` [Task Scheduler Studio](https://github.com/MarkHopper24/Task-Scheduler-Studio) <sup>`FOSS`</sup>
 - `WDA` [Weather - WidBar Widget](https://apps.microsoft.com/detail/9n4cs86q7nv2)
+- `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt) <!-- logo: https://store-images.s-microsoft.com/image/apps.38155.13915006422155362.ed76a0b6-6c9c-459e-915b-e5a55c119d81.ae676879-1873-4589-a151-9e06a8d1a7f2?h=115 -->
 - `WDM` [WidBar - Widget Taskbar system](https://apps.microsoft.com/detail/9pkldnm83tp9)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
@@ -335,9 +338,11 @@ Last 14 apps that were recently added to list!
 - `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨` <sup>`FOSS`</sup>
 - `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 - `WDA` [Hurl](https://github.com/U-C-S/Hurl) <sup>`FOSS`</sup>
+- `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup> <!-- logo: https://raw.githubusercontent.com/JohnDizzle/Linkscape/master/src/LinkScape/Assets/StoreLogo.scale-150.png -->
 - `WDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser) `📆` <sup>`FOSS`</sup>
 - `WDM` [Radon Browser](https://github.com/imscythra/radon-browser) <sup>`FOSS`</sup>
 - `WDM` [Riverside Graphite](https://apps.microsoft.com/detail/9PCN40XXVCVB)
+- `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt) <!-- logo: https://store-images.s-microsoft.com/image/apps.38155.13915006422155362.ed76a0b6-6c9c-459e-915b-e5a55c119d81.ae676879-1873-4589-a151-9e06a8d1a7f2?h=115 -->
 - `WDA` [WinUIEdge](https://github.com/wtcpython/WinUIEdge) <sup>`FOSS`</sup> `❎`
 
 ## 📦 Catalogs
@@ -619,15 +624,15 @@ Last 14 apps that were recently added to list!
 - `WD` [YourMusic - ad-free player for YT music](https://apps.microsoft.com/detail/9NH145MPG9KP)
 
 #### Tools
-  - `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
-  - `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r)
-  - `WDM` [HotLyric](https://apps.microsoft.com/detail/9mxffhvqvbv9)
-  - `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
-  - `WD` [PodcastChapterEditor](https://github.com/snivets/PodcastChapterEditor) <sup>`FOSS`</sup>
-  - `WDA` [TagEditor](https://github.com/danvlsv/TagEditor) <sup>`FOSS`</sup>
-  - `WDM` [Tagger](https://github.com/NickvisionApps/Tagger) <sup>`FOSS`</sup>
-  - `WDM` [VideoGenius - Any Video Converter](https://apps.microsoft.com/detail/9mxrwwzxn8dk) `💰`
-  - `WDM` [Yugen.DJ](https://github.com/yugen-apps/yugen-dj) <sup>`FOSS`</sup>
+- `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
+- `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r)
+- `WDM` [HotLyric](https://apps.microsoft.com/detail/9mxffhvqvbv9)
+- `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
+- `WD` [PodcastChapterEditor](https://github.com/snivets/PodcastChapterEditor) <sup>`FOSS`</sup>
+- `WDA` [TagEditor](https://github.com/danvlsv/TagEditor) <sup>`FOSS`</sup>
+- `WDM` [Tagger](https://github.com/NickvisionApps/Tagger) <sup>`FOSS`</sup>
+- `WDM` [VideoGenius - Any Video Converter](https://apps.microsoft.com/detail/9mxrwwzxn8dk) `💰`
+- `WDM` [Yugen.DJ](https://github.com/yugen-apps/yugen-dj) <sup>`FOSS`</sup>
 
 ### 📄 Documents
 
@@ -640,14 +645,14 @@ Last 14 apps that were recently added to list!
 - `WDM` [Swift PDF - Reader & Editor & Converter](https://apps.microsoft.com/detail/9n94phwffvnh)
 
 #### PDF Tools
-  - `WDM` [Easy PDF](https://apps.microsoft.com/detail/9p02klsbznmn)
+- `WDM` [Easy PDF](https://apps.microsoft.com/detail/9p02klsbznmn)
 - `WD` [MegaPDF](https://github.com/SlyWombat/MegaPDF) <sup>`FOSS`</sup>
-  - `WDM` [PageToPDF - Webpage to PDF](https://apps.microsoft.com/detail/9nc15tmpz901) `💰`
-  - `WDM` [PDF Creator from Images](https://apps.microsoft.com/detail/9nxrg1l5rmp6)
-  - `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
-  - `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
-  - `WDM` [PDF Splitter / Merger](https://apps.microsoft.com/detail/9n2kgnh5bz8f)
-  - `WDM` [PDF.Office Converter](https://apps.microsoft.com/detail/9nw5c7830tnw)
+- `WDM` [PageToPDF - Webpage to PDF](https://apps.microsoft.com/detail/9nc15tmpz901) `💰`
+- `WDM` [PDF Creator from Images](https://apps.microsoft.com/detail/9nxrg1l5rmp6)
+- `WD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
+- `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
+- `WDM` [PDF Splitter / Merger](https://apps.microsoft.com/detail/9n2kgnh5bz8f)
+- `WDM` [PDF.Office Converter](https://apps.microsoft.com/detail/9nw5c7830tnw)
 
 ### 🎙️ Podcasts
 
@@ -677,6 +682,7 @@ Last 14 apps that were recently added to list!
 - `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
+- `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606) <!-- logo: https://store-images.s-microsoft.com/image/apps.29230.14573795913827913.6c438cd0-238c-43ee-94a9-426f9002c818.ceca136d-5651-49c4-bc49-e422d170f589?h=115 -->
 
 #### Tracking
 
@@ -724,8 +730,6 @@ Last 14 apps that were recently added to list!
 - `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds) <sup>`FOSS`</sup>
 - `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/detail/9n8pdzhcpqhx) `💰`
 - `WD` [PocketReader](https://github.com/aungkokomm/PocketReader) <sup>`FOSS`</sup>
-
----
 
 ## 📒 Notes / To-do / Wish-lists
 
@@ -921,9 +925,6 @@ Last 14 apps that were recently added to list!
 - `WD` [XrayUI](https://github.com/PhoenixNil/XrayUI-dev) <sup>`FOSS`</sup>
 
 ## 👨‍💻 Social Media
-
-### Beeper
-
 
 ### Discord
 

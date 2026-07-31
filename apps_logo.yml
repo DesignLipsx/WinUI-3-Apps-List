@@ -2314,3 +2314,13 @@
 - name: "Āēr Weather"
   link: "https://github.com/mavlac/aer-weather"
   logo: "https://raw.githubusercontent.com/mavlac/aer-weather/refs/heads/main/Assets/StoreLogo.scale-100.png"
+
+- name: "Linkscape"
+  link: "https://github.com/JohnDizzle/Linkscape"
+  logo: "https://raw.githubusercontent.com/JohnDizzle/Linkscape/master/src/LinkScape/Assets/StoreLogo.scale-150.png"
+- name: "Web Dive"
+  link: "https://apps.microsoft.com/detail/9n110tcfkblt"
+  logo: "https://store-images.s-microsoft.com/image/apps.38155.13915006422155362.ed76a0b6-6c9c-459e-915b-e5a55c119d81.ae676879-1873-4589-a151-9e06a8d1a7f2?h=115"
+- name: "SmoothTube"
+  link: "https://apps.microsoft.com/detail/9p5gngw9n606"
+  logo: "https://store-images.s-microsoft.com/image/apps.29230.14573795913827913.6c438cd0-238c-43ee-94a9-426f9002c818.ceca136d-5651-49c4-bc49-e422d170f589?h=115"
