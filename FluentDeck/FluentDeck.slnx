@@ -1,8 +1,13 @@
 <Solution>
   <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+    <BuildType Name="Dev" />
+    <BuildType Name="Store" />
     <Platform Name="x64" />
   </Configurations>
   <Project Path="FluentDeck/FluentDeck.csproj">
     <Platform Solution="*|x64" Project="x64" />
     <Deploy />
+  </Project>
 </Solution>
