@@ -19,11 +19,29 @@ namespace FluentDeck.Models
                 if (string.IsNullOrWhiteSpace(LogoUrl) || LogoUrl == "nan")
                     return "ms-appx:///Assets/StoreLogo.scale-200.png";
 
-                if (LogoUrl.StartsWith("/assets/", StringComparison.OrdinalIgnoreCase))
-                    return "ms-appx:///Assets/" + LogoUrl.Substring(8);
+                if (LogoUrl.StartsWith("/assets/", StringComparison.OrdinalIgnoreCase) || LogoUrl.StartsWith("assets/", StringComparison.OrdinalIgnoreCase))
+                {
+                    string filename = System.IO.Path.GetFileName(LogoUrl);
+                    if (!string.IsNullOrEmpty(filename))
+                    {
+                        try
+                        {
+                            string localFolder = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+                            string appDataLogo = System.IO.Path.Combine(localFolder, "Assets", "apps", filename);
+                            if (System.IO.File.Exists(appDataLogo)) return appDataLogo;
+                        }
+                        catch
+                        {
+                            string fallbackFolder = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "FluentDeck", "Assets", "apps", filename);
+                            if (System.IO.File.Exists(fallbackFolder)) return fallbackFolder;
+                        }
+                    }
 
-                if (LogoUrl.StartsWith("assets/", StringComparison.OrdinalIgnoreCase))
+                    if (LogoUrl.StartsWith("/assets/", StringComparison.OrdinalIgnoreCase))
+                        return "ms-appx:///Assets/" + LogoUrl.Substring(8);
+
                     return "ms-appx:///" + LogoUrl;
+                }
 
                 return LogoUrl;
             }

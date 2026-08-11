@@ -647,8 +647,61 @@ public class AppsPageViewModel : INotifyPropertyChanged
         }
     }
 
+    private static string GetAppDataJsonPath()
+    {
+        try
+        {
+            string localFolder = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            string appDataPath = Path.Combine(localFolder, "apps_data.json");
+            if (File.Exists(appDataPath)) return appDataPath;
+        }
+        catch
+        {
+            string fallbackFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "FluentDeck");
+            string appDataPath = Path.Combine(fallbackFolder, "apps_data.json");
+            if (File.Exists(appDataPath)) return appDataPath;
+        }
+        return "";
+    }
+
+    private static string GetAppDataWritableJsonPath()
+    {
+        try
+        {
+            string localFolder = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            return Path.Combine(localFolder, "apps_data.json");
+        }
+        catch
+        {
+            string fallbackFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "FluentDeck");
+            Directory.CreateDirectory(fallbackFolder);
+            return Path.Combine(fallbackFolder, "apps_data.json");
+        }
+    }
+
+    private static string GetAppDataWritableLogosDir()
+    {
+        try
+        {
+            string localFolder = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            string dir = Path.Combine(localFolder, "Assets", "apps");
+            Directory.CreateDirectory(dir);
+            return dir;
+        }
+        catch
+        {
+            string fallbackFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "FluentDeck", "Assets", "apps");
+            Directory.CreateDirectory(fallbackFolder);
+            return fallbackFolder;
+        }
+    }
+
     private string GetJsonPath()
     {
+        string appDataPath = GetAppDataJsonPath();
+        if (!string.IsNullOrEmpty(appDataPath) && File.Exists(appDataPath))
+            return appDataPath;
+
         var mainWin = App.MainWindowInstance;
         string? foundPath = mainWin?.FindDataJsonPath();
         if (!string.IsNullOrEmpty(foundPath) && foundPath.EndsWith(".json", StringComparison.OrdinalIgnoreCase) && File.Exists(foundPath))
@@ -801,6 +854,7 @@ public class AppsPageViewModel : INotifyPropertyChanged
         try
         {
             using var httpClient = new System.Net.Http.HttpClient();
+            httpClient.Timeout = TimeSpan.FromSeconds(15);
             httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("FluentDeck-App");
 
             string remoteJsonUrl = "https://raw.githubusercontent.com/jishnu-kv/WinUI-3-Apps-List/refs/heads/feature/fluentdeck-app-integration/FluentDeck/FluentDeck/Assets/data/apps_data.json";
@@ -813,34 +867,35 @@ public class AppsPageViewModel : INotifyPropertyChanged
             string localVerStr = "0.0";
             if (File.Exists(localJsonPath))
             {
-                using var localDoc = System.Text.Json.JsonDocument.Parse(await File.ReadAllTextAsync(localJsonPath));
-                if (localDoc.RootElement.TryGetProperty("version", out var lvProp))
+                try
                 {
-                    localVerStr = lvProp.GetString() ?? "0.0";
+                    using var localDoc = System.Text.Json.JsonDocument.Parse(await File.ReadAllTextAsync(localJsonPath));
+                    if (localDoc.RootElement.TryGetProperty("version", out var lvProp))
+                    {
+                        localVerStr = lvProp.GetString() ?? "0.0";
+                    }
                 }
+                catch { }
             }
 
             double.TryParse(remoteVerStr, System.Globalization.CultureInfo.InvariantCulture, out double remoteVer);
             double.TryParse(localVerStr, System.Globalization.CultureInfo.InvariantCulture, out double localVer);
 
-            if (remoteVer > localVer)
+            if (remoteVer > localVer || !File.Exists(GetAppDataJsonPath()))
             {
-                await File.WriteAllTextAsync(localJsonPath, remoteJsonContent);
+                string targetJsonPath = GetAppDataWritableJsonPath();
+                await File.WriteAllTextAsync(targetJsonPath, remoteJsonContent);
 
-                string assetsDir = Path.Combine(Path.GetDirectoryName(localJsonPath) ?? "", "..", "apps");
-                if (!Directory.Exists(assetsDir))
-                {
-                    Directory.CreateDirectory(assetsDir);
-                }
+                string logosDir = GetAppDataWritableLogosDir();
 
                 if (remoteDoc.RootElement.TryGetProperty("bestImplementation", out var bestArray) && bestArray.ValueKind == System.Text.Json.JsonValueKind.Array)
                 {
-                    await DownloadMissingLogosAsync(httpClient, assetsDir, bestArray);
+                    await DownloadMissingLogosAsync(httpClient, logosDir, bestArray);
                 }
 
-                if (remoteDoc.RootElement.TryGetProperty("appsList", out var appsArray) && appsArray.ValueKind == System.Text.Json.JsonValueKind.Array)
+                if (remoteDoc.RootElement.TryGetProperty("categories", out var catArray) && catArray.ValueKind == System.Text.Json.JsonValueKind.Array)
                 {
-                    await DownloadMissingLogosAsync(httpClient, assetsDir, appsArray);
+                    await DownloadMissingLogosFromCategoriesAsync(httpClient, logosDir, catArray);
                 }
 
                 await LoadAndDisplayDataAsync();
@@ -851,6 +906,22 @@ public class AppsPageViewModel : INotifyPropertyChanged
                 StoreSyncText = "Up to date";
             }
         }
+        catch (System.Net.Http.HttpRequestException)
+        {
+            StoreSyncText = "No Internet";
+        }
+        catch (TaskCanceledException)
+        {
+            StoreSyncText = "Timeout";
+        }
+        catch (IOException)
+        {
+            StoreSyncText = "Write Error";
+        }
+        catch (System.Text.Json.JsonException)
+        {
+            StoreSyncText = "Corrupt Data";
+        }
         catch
         {
             StoreSyncText = "Sync failed";
@@ -858,6 +929,22 @@ public class AppsPageViewModel : INotifyPropertyChanged
         finally
         {
             IsStoreSyncing = false;
+        }
+    }
+
+    private async Task DownloadMissingLogosFromCategoriesAsync(System.Net.Http.HttpClient client, string targetDir, System.Text.Json.JsonElement categoryArray)
+    {
+        foreach (var cat in categoryArray.EnumerateArray())
+        {
+            if (cat.TryGetProperty("apps", out var appsProp) && appsProp.ValueKind == System.Text.Json.JsonValueKind.Array)
+            {
+                await DownloadMissingLogosAsync(client, targetDir, appsProp);
+            }
+
+            if (cat.TryGetProperty("subcategories", out var subProp) && subProp.ValueKind == System.Text.Json.JsonValueKind.Array)
+            {
+                await DownloadMissingLogosFromCategoriesAsync(client, targetDir, subProp);
+            }
         }
     }
 

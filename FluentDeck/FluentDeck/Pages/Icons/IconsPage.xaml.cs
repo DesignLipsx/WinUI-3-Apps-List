@@ -270,14 +270,6 @@ public sealed partial class IconsPage : Page
 
     public static Visibility NotNullToVisibility(object? value) =>
         value != null ? Visibility.Visible : Visibility.Collapsed;
-
-    private async void SyncButton_Click(object sender, RoutedEventArgs e)
-    {
-        if (ViewModel != null)
-        {
-            await ViewModel.SyncIconsFromGitHubAsync();
-        }
-    }
 }
 
 public class MonoStyleConverter : Microsoft.UI.Xaml.Data.IValueConverter
