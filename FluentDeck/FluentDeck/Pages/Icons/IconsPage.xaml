@@ -41,15 +41,15 @@
                                     AutomationProperties.Name="Search icons"
                                     VerticalAlignment="Center"/>
 
-                    <Button x:Name="StoreSyncButton" Click="StoreSyncButton_Click" Height="32"
-                            Visibility="{x:Bind local:IconsPage.BoolToVisibility(ViewModel.IsStoreBuild), Mode=OneWay}"
+                    <Button x:Name="SyncButton" Click="SyncButton_Click" Height="32"
+                            IsEnabled="{x:Bind ViewModel.IsNotSyncing, Mode=OneWay}"
                             Style="{StaticResource AccentButtonStyle}" VerticalAlignment="Center" Padding="12,0"
-                            ToolTipService.ToolTip="Sync Icons from GitHub"
-                            AutomationProperties.AutomationId="IconStoreSyncButton"
-                            AutomationProperties.Name="Sync Icons from GitHub">
+                            ToolTipService.ToolTip="{x:Bind ViewModel.LastSyncedToolTip, Mode=OneWay}"
+                            AutomationProperties.AutomationId="IconSyncButton"
+                            AutomationProperties.Name="Sync Icons Metadata">
                         <StackPanel Orientation="Horizontal" Spacing="6" VerticalAlignment="Center">
                             <FontIcon Glyph="&#xE895;" FontSize="12"/>
-                            <TextBlock Text="Sync" Style="{StaticResource CaptionTextBlockStyle}"/>
+                            <TextBlock Text="{x:Bind ViewModel.SyncText, Mode=OneWay}" Style="{StaticResource CaptionTextBlockStyle}"/>
                         </StackPanel>
                     </Button>
                 </StackPanel>

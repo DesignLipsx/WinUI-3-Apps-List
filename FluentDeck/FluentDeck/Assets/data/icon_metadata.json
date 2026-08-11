@@ -1,5 +1,8 @@
 {
   "version": "1.0",
+  "totalRegular": 2908,
+  "totalFilled": 2947,
+  "totalColor": 199,
   "icons": [
     {
       "name": "Access Time",
@@ -4857,15 +4860,6 @@
       ]
     },
     {
-      "name": "Auto Fit",
-      "regular": {
-        "32": "ic_fluent_auto_fit_32_light"
-      },
-      "filled": {},
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Auto Fit Height",
       "regular": {
         "20": "ic_fluent_auto_fit_height_20_regular",
@@ -4914,6 +4908,23 @@
       ]
     },
     {
+      "name": "Autocorrect",
+      "regular": {
+        "20": "ic_fluent_autocorrect_20_regular",
+        "24": "ic_fluent_autocorrect_24_regular",
+        "28": "ic_fluent_autocorrect_28_regular",
+        "32": "ic_fluent_autocorrect_32_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_autocorrect_20_filled",
+        "24": "ic_fluent_autocorrect_24_filled",
+        "28": "ic_fluent_autocorrect_28_filled",
+        "32": "ic_fluent_autocorrect_32_filled"
+      },
+      "color": {},
+      "metaphor": []
+    },
+    {
       "name": "AutoSum",
       "regular": {
         "16": "ic_fluent_autosum_16_regular",
@@ -4932,23 +4943,6 @@
         "sigma",
         "autosum"
       ]
-    },
-    {
-      "name": "Autocorrect",
-      "regular": {
-        "20": "ic_fluent_autocorrect_20_regular",
-        "24": "ic_fluent_autocorrect_24_regular",
-        "28": "ic_fluent_autocorrect_28_regular",
-        "32": "ic_fluent_autocorrect_32_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_autocorrect_20_filled",
-        "24": "ic_fluent_autocorrect_24_filled",
-        "28": "ic_fluent_autocorrect_28_filled",
-        "32": "ic_fluent_autocorrect_32_filled"
-      },
-      "color": {},
-      "metaphor": []
     },
     {
       "name": "Backpack",
@@ -8450,23 +8444,6 @@
       ]
     },
     {
-      "name": "CD",
-      "regular": {
-        "16": "ic_fluent_cd_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_cd_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "cd",
-        "disc",
-        "memory",
-        "compact disc",
-        "software"
-      ]
-    },
-    {
       "name": "Calculator",
       "regular": {
         "16": "ic_fluent_calculator_16_regular",
@@ -9078,29 +9055,6 @@
       ]
     },
     {
-      "name": "Calendar LTR",
-      "regular": {
-        "12": "ic_fluent_calendar_ltr_12_regular",
-        "16": "ic_fluent_calendar_ltr_16_regular",
-        "20": "ic_fluent_calendar_ltr_20_regular",
-        "24": "ic_fluent_calendar_ltr_24_regular",
-        "28": "ic_fluent_calendar_ltr_28_regular",
-        "32": "ic_fluent_calendar_ltr_32_regular",
-        "48": "ic_fluent_calendar_ltr_48_regular"
-      },
-      "filled": {
-        "12": "ic_fluent_calendar_ltr_12_filled",
-        "16": "ic_fluent_calendar_ltr_16_filled",
-        "20": "ic_fluent_calendar_ltr_20_filled",
-        "24": "ic_fluent_calendar_ltr_24_filled",
-        "28": "ic_fluent_calendar_ltr_28_filled",
-        "32": "ic_fluent_calendar_ltr_32_filled",
-        "48": "ic_fluent_calendar_ltr_48_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Calendar Link",
       "regular": {
         "24": "ic_fluent_calendar_link_24_regular",
@@ -9142,6 +9096,29 @@
         "planning",
         "lock"
       ]
+    },
+    {
+      "name": "Calendar LTR",
+      "regular": {
+        "12": "ic_fluent_calendar_ltr_12_regular",
+        "16": "ic_fluent_calendar_ltr_16_regular",
+        "20": "ic_fluent_calendar_ltr_20_regular",
+        "24": "ic_fluent_calendar_ltr_24_regular",
+        "28": "ic_fluent_calendar_ltr_28_regular",
+        "32": "ic_fluent_calendar_ltr_32_regular",
+        "48": "ic_fluent_calendar_ltr_48_regular"
+      },
+      "filled": {
+        "12": "ic_fluent_calendar_ltr_12_filled",
+        "16": "ic_fluent_calendar_ltr_16_filled",
+        "20": "ic_fluent_calendar_ltr_20_filled",
+        "24": "ic_fluent_calendar_ltr_24_filled",
+        "28": "ic_fluent_calendar_ltr_28_filled",
+        "32": "ic_fluent_calendar_ltr_32_filled",
+        "48": "ic_fluent_calendar_ltr_48_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Calendar Mail",
@@ -9249,8 +9226,7 @@
       "name": "Calendar Pattern",
       "regular": {
         "16": "ic_fluent_calendar_pattern_16_regular",
-        "20": "ic_fluent_calendar_pattern_20_regular",
-        "32": "ic_fluent_calendar_pattern_32_light"
+        "20": "ic_fluent_calendar_pattern_20_regular"
       },
       "filled": {
         "16": "ic_fluent_calendar_pattern_16_filled",
@@ -9352,29 +9328,6 @@
       ]
     },
     {
-      "name": "Calendar RTL",
-      "regular": {
-        "12": "ic_fluent_calendar_rtl_12_regular",
-        "16": "ic_fluent_calendar_rtl_16_regular",
-        "20": "ic_fluent_calendar_rtl_20_regular",
-        "24": "ic_fluent_calendar_rtl_24_regular",
-        "28": "ic_fluent_calendar_rtl_28_regular",
-        "32": "ic_fluent_calendar_rtl_32_regular",
-        "48": "ic_fluent_calendar_rtl_48_regular"
-      },
-      "filled": {
-        "12": "ic_fluent_calendar_rtl_12_filled",
-        "16": "ic_fluent_calendar_rtl_16_filled",
-        "20": "ic_fluent_calendar_rtl_20_filled",
-        "24": "ic_fluent_calendar_rtl_24_filled",
-        "28": "ic_fluent_calendar_rtl_28_filled",
-        "32": "ic_fluent_calendar_rtl_32_filled",
-        "48": "ic_fluent_calendar_rtl_48_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Calendar Record",
       "regular": {
         "16": "ic_fluent_calendar_record_16_regular",
@@ -9405,8 +9358,7 @@
         "16": "ic_fluent_calendar_reply_16_regular",
         "20": "ic_fluent_calendar_reply_20_regular",
         "24": "ic_fluent_calendar_reply_24_regular",
-        "28": "ic_fluent_calendar_reply_28_regular",
-        "32": "ic_fluent_calendar_reply_32_light"
+        "28": "ic_fluent_calendar_reply_28_regular"
       },
       "filled": {
         "16": "ic_fluent_calendar_reply_16_filled",
@@ -9420,6 +9372,29 @@
         "date",
         "planning"
       ]
+    },
+    {
+      "name": "Calendar RTL",
+      "regular": {
+        "12": "ic_fluent_calendar_rtl_12_regular",
+        "16": "ic_fluent_calendar_rtl_16_regular",
+        "20": "ic_fluent_calendar_rtl_20_regular",
+        "24": "ic_fluent_calendar_rtl_24_regular",
+        "28": "ic_fluent_calendar_rtl_28_regular",
+        "32": "ic_fluent_calendar_rtl_32_regular",
+        "48": "ic_fluent_calendar_rtl_48_regular"
+      },
+      "filled": {
+        "12": "ic_fluent_calendar_rtl_12_filled",
+        "16": "ic_fluent_calendar_rtl_16_filled",
+        "20": "ic_fluent_calendar_rtl_20_filled",
+        "24": "ic_fluent_calendar_rtl_24_filled",
+        "28": "ic_fluent_calendar_rtl_28_filled",
+        "32": "ic_fluent_calendar_rtl_32_filled",
+        "48": "ic_fluent_calendar_rtl_48_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Calendar Search",
@@ -9579,15 +9554,6 @@
         "date",
         "time"
       ]
-    },
-    {
-      "name": "Calendar ToDo",
-      "regular": {
-        "32": "ic_fluent_calendar_todo_32_light"
-      },
-      "filled": {},
-      "color": {},
-      "metaphor": []
     },
     {
       "name": "Calendar Today",
@@ -10553,6 +10519,23 @@
         "document",
         "mention",
         "collaboration"
+      ]
+    },
+    {
+      "name": "CD",
+      "regular": {
+        "16": "ic_fluent_cd_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_cd_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "cd",
+        "disc",
+        "memory",
+        "compact disc",
+        "software"
       ]
     },
     {
@@ -13419,14 +13402,10 @@
     {
       "name": "Clipboard Task List",
       "regular": {
-        "16": "ic_fluent_clipboard_task_list_16_regular",
-        "20": "ic_fluent_clipboard_task_list_20_regular_rtl",
-        "24": "ic_fluent_clipboard_task_list_24_regular_rtl"
+        "16": "ic_fluent_clipboard_task_list_16_regular"
       },
       "filled": {
-        "16": "ic_fluent_clipboard_task_list_16_filled",
-        "20": "ic_fluent_clipboard_task_list_20_filled_rtl",
-        "24": "ic_fluent_clipboard_task_list_24_filled_rtl"
+        "16": "ic_fluent_clipboard_task_list_16_filled"
       },
       "color": {},
       "metaphor": [
@@ -14433,6 +14412,24 @@
       "metaphor": []
     },
     {
+      "name": "Code Circle",
+      "regular": {
+        "20": "ic_fluent_code_circle_20_regular",
+        "24": "ic_fluent_code_circle_24_regular",
+        "32": "ic_fluent_code_circle_32_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_code_circle_20_filled",
+        "24": "ic_fluent_code_circle_24_filled",
+        "32": "ic_fluent_code_circle_32_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "bracket",
+        "slash"
+      ]
+    },
+    {
       "name": "Code CS",
       "regular": {
         "16": "ic_fluent_code_cs_16_regular"
@@ -14468,24 +14465,6 @@
         "c sharp",
         "sharp",
         "coding"
-      ]
-    },
-    {
-      "name": "Code Circle",
-      "regular": {
-        "20": "ic_fluent_code_circle_20_regular",
-        "24": "ic_fluent_code_circle_24_regular",
-        "32": "ic_fluent_code_circle_32_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_code_circle_20_filled",
-        "24": "ic_fluent_code_circle_24_filled",
-        "32": "ic_fluent_code_circle_32_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "bracket",
-        "slash"
       ]
     },
     {
@@ -14646,42 +14625,6 @@
       ]
     },
     {
-      "name": "Code TS",
-      "regular": {
-        "16": "ic_fluent_code_ts_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_code_ts_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "project node",
-        "language",
-        "VB",
-        "typescript",
-        "type",
-        "script"
-      ]
-    },
-    {
-      "name": "Code TS Rectangle",
-      "regular": {
-        "16": "ic_fluent_code_ts_rectangle_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_code_ts_rectangle_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "project node",
-        "language",
-        "VB",
-        "typescript",
-        "type",
-        "script"
-      ]
-    },
-    {
       "name": "Code Text",
       "regular": {
         "16": "ic_fluent_code_text_16_regular",
@@ -14730,6 +14673,42 @@
         "code",
         "disable",
         "slash"
+      ]
+    },
+    {
+      "name": "Code TS",
+      "regular": {
+        "16": "ic_fluent_code_ts_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_code_ts_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "project node",
+        "language",
+        "VB",
+        "typescript",
+        "type",
+        "script"
+      ]
+    },
+    {
+      "name": "Code TS Rectangle",
+      "regular": {
+        "16": "ic_fluent_code_ts_rectangle_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_code_ts_rectangle_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "project node",
+        "language",
+        "VB",
+        "typescript",
+        "type",
+        "script"
       ]
     },
     {
@@ -18592,7 +18571,7 @@
       ]
     },
     {
-      "name": "Device Meeting Room Above",
+      "name": "Device Meeting Room Microphone Above",
       "regular": {
         "16": "ic_fluent_device_meeting_room_microphone_above_16_regular",
         "20": "ic_fluent_device_meeting_room_microphone_above_20_regular"
@@ -18602,15 +18581,10 @@
         "20": "ic_fluent_device_meeting_room_microphone_above_20_filled"
       },
       "color": {},
-      "metaphor": [
-        "office",
-        "remote",
-        "touch screen",
-        "conference room"
-      ]
+      "metaphor": []
     },
     {
-      "name": "Device Meeting Room Below",
+      "name": "Device Meeting Room Microphone Below",
       "regular": {
         "16": "ic_fluent_device_meeting_room_microphone_below_16_regular",
         "20": "ic_fluent_device_meeting_room_microphone_below_20_regular"
@@ -18620,12 +18594,7 @@
         "20": "ic_fluent_device_meeting_room_microphone_below_20_filled"
       },
       "color": {},
-      "metaphor": [
-        "office",
-        "remote",
-        "touch screen",
-        "conference room"
-      ]
+      "metaphor": []
     },
     {
       "name": "Device Meeting Room Remote",
@@ -19506,64 +19475,6 @@
       ]
     },
     {
-      "name": "Document CS",
-      "regular": {
-        "16": "ic_fluent_document_cs_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_cs_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "project node",
-        "language",
-        "cs",
-        "c#",
-        "c sharp",
-        "sharp",
-        "coding",
-        "paper"
-      ]
-    },
-    {
-      "name": "Document CSS",
-      "regular": {
-        "16": "ic_fluent_document_css_16_regular",
-        "20": "ic_fluent_document_css_20_regular",
-        "24": "ic_fluent_document_css_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_css_16_filled",
-        "20": "ic_fluent_document_css_20_filled",
-        "24": "ic_fluent_document_css_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "paper",
-        "work",
-        "file",
-        "analog",
-        "cascading style sheets",
-        "code",
-        "vertical"
-      ]
-    },
-    {
-      "name": "Document CSV",
-      "regular": {
-        "16": "ic_fluent_document_csv_16_regular",
-        "20": "ic_fluent_document_csv_20_regular",
-        "24": "ic_fluent_document_csv_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_csv_16_filled",
-        "20": "ic_fluent_document_csv_20_filled",
-        "24": "ic_fluent_document_csv_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Document Catch Up",
       "regular": {
         "16": "ic_fluent_document_catch_up_16_regular",
@@ -19679,6 +19590,64 @@
         "forward",
         "vertical"
       ]
+    },
+    {
+      "name": "Document CS",
+      "regular": {
+        "16": "ic_fluent_document_cs_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_cs_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "project node",
+        "language",
+        "cs",
+        "c#",
+        "c sharp",
+        "sharp",
+        "coding",
+        "paper"
+      ]
+    },
+    {
+      "name": "Document CSS",
+      "regular": {
+        "16": "ic_fluent_document_css_16_regular",
+        "20": "ic_fluent_document_css_20_regular",
+        "24": "ic_fluent_document_css_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_css_16_filled",
+        "20": "ic_fluent_document_css_20_filled",
+        "24": "ic_fluent_document_css_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "paper",
+        "work",
+        "file",
+        "analog",
+        "cascading style sheets",
+        "code",
+        "vertical"
+      ]
+    },
+    {
+      "name": "Document CSV",
+      "regular": {
+        "16": "ic_fluent_document_csv_16_regular",
+        "20": "ic_fluent_document_csv_20_regular",
+        "24": "ic_fluent_document_csv_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_csv_16_filled",
+        "20": "ic_fluent_document_csv_20_filled",
+        "24": "ic_fluent_document_csv_24_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Document Cube",
@@ -19882,25 +19851,6 @@
       ]
     },
     {
-      "name": "Document FS",
-      "regular": {
-        "16": "ic_fluent_document_fs_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_fs_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "project node",
-        "language",
-        "fs",
-        "f#",
-        "sharp",
-        "f sharp",
-        "coding"
-      ]
-    },
-    {
       "name": "Document Fit",
       "regular": {
         "16": "ic_fluent_document_fit_16_regular",
@@ -20018,6 +19968,25 @@
         "close",
         "remove",
         "vertical"
+      ]
+    },
+    {
+      "name": "Document FS",
+      "regular": {
+        "16": "ic_fluent_document_fs_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_fs_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "project node",
+        "language",
+        "fs",
+        "f#",
+        "sharp",
+        "f sharp",
+        "coding"
       ]
     },
     {
@@ -20233,17 +20202,6 @@
       ]
     },
     {
-      "name": "Document JS",
-      "regular": {
-        "16": "ic_fluent_document_js_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_js_16_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Document Javascript",
       "regular": {
         "16": "ic_fluent_document_javascript_16_regular",
@@ -20263,6 +20221,17 @@
         "analog",
         "vertical"
       ]
+    },
+    {
+      "name": "Document JS",
+      "regular": {
+        "16": "ic_fluent_document_js_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_js_16_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Document Key",
@@ -20789,49 +20758,6 @@
       ]
     },
     {
-      "name": "Document PDF",
-      "regular": {
-        "16": "ic_fluent_document_pdf_16_regular",
-        "20": "ic_fluent_document_pdf_20_regular",
-        "24": "ic_fluent_document_pdf_24_regular",
-        "28": "ic_fluent_document_pdf_28_regular",
-        "32": "ic_fluent_document_pdf_32_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_pdf_16_filled",
-        "20": "ic_fluent_document_pdf_20_filled",
-        "24": "ic_fluent_document_pdf_24_filled",
-        "28": "ic_fluent_document_pdf_28_filled",
-        "32": "ic_fluent_document_pdf_32_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "paper",
-        "work",
-        "file",
-        "analog",
-        "horizontal",
-        "portable document format"
-      ]
-    },
-    {
-      "name": "Document PY",
-      "regular": {
-        "16": "ic_fluent_document_py_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_py_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "project node",
-        "language",
-        "py",
-        "python",
-        "coding"
-      ]
-    },
-    {
       "name": "Document Page Bottom Center",
       "regular": {
         "20": "ic_fluent_document_page_bottom_center_20_regular",
@@ -20984,6 +20910,32 @@
       ]
     },
     {
+      "name": "Document PDF",
+      "regular": {
+        "16": "ic_fluent_document_pdf_16_regular",
+        "20": "ic_fluent_document_pdf_20_regular",
+        "24": "ic_fluent_document_pdf_24_regular",
+        "28": "ic_fluent_document_pdf_28_regular",
+        "32": "ic_fluent_document_pdf_32_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_pdf_16_filled",
+        "20": "ic_fluent_document_pdf_20_filled",
+        "24": "ic_fluent_document_pdf_24_filled",
+        "28": "ic_fluent_document_pdf_28_filled",
+        "32": "ic_fluent_document_pdf_32_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "paper",
+        "work",
+        "file",
+        "analog",
+        "horizontal",
+        "portable document format"
+      ]
+    },
+    {
       "name": "Document Percent",
       "regular": {
         "20": "ic_fluent_document_percent_20_regular",
@@ -21087,6 +21039,23 @@
         "file",
         "analog",
         "horizontal"
+      ]
+    },
+    {
+      "name": "Document PY",
+      "regular": {
+        "16": "ic_fluent_document_py_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_py_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "project node",
+        "language",
+        "py",
+        "python",
+        "coding"
       ]
     },
     {
@@ -21430,25 +21399,6 @@
       ]
     },
     {
-      "name": "Document TS",
-      "regular": {
-        "16": "ic_fluent_document_ts_16_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_document_ts_16_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "project node",
-        "language",
-        "ts",
-        "typescript",
-        "type",
-        "script",
-        "coding"
-      ]
-    },
-    {
       "name": "Document Table",
       "regular": {
         "16": "ic_fluent_document_table_16_regular",
@@ -21735,6 +21685,25 @@
         "file",
         "analog",
         "horizontal"
+      ]
+    },
+    {
+      "name": "Document TS",
+      "regular": {
+        "16": "ic_fluent_document_ts_16_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_document_ts_16_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "project node",
+        "language",
+        "ts",
+        "typescript",
+        "type",
+        "script",
+        "coding"
       ]
     },
     {
@@ -23809,98 +23778,6 @@
       ]
     },
     {
-      "name": "FPS 120",
-      "regular": {
-        "20": "ic_fluent_fps_120_20_regular",
-        "24": "ic_fluent_fps_120_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_fps_120_20_filled",
-        "24": "ic_fluent_fps_120_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "camera",
-        "frames per second"
-      ]
-    },
-    {
-      "name": "FPS 240",
-      "regular": {
-        "20": "ic_fluent_fps_240_20_regular",
-        "24": "ic_fluent_fps_240_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_fps_240_20_filled",
-        "24": "ic_fluent_fps_240_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "camera",
-        "frames per second"
-      ]
-    },
-    {
-      "name": "FPS 30",
-      "regular": {
-        "16": "ic_fluent_fps_30_16_regular",
-        "20": "ic_fluent_fps_30_20_regular",
-        "24": "ic_fluent_fps_30_24_regular",
-        "28": "ic_fluent_fps_30_28_regular",
-        "48": "ic_fluent_fps_30_48_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_fps_30_16_filled",
-        "20": "ic_fluent_fps_30_20_filled",
-        "24": "ic_fluent_fps_30_24_filled",
-        "28": "ic_fluent_fps_30_28_filled",
-        "48": "ic_fluent_fps_30_48_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "camera",
-        "frames per second"
-      ]
-    },
-    {
-      "name": "FPS 60",
-      "regular": {
-        "16": "ic_fluent_fps_60_16_regular",
-        "20": "ic_fluent_fps_60_20_regular",
-        "24": "ic_fluent_fps_60_24_regular",
-        "28": "ic_fluent_fps_60_28_regular",
-        "48": "ic_fluent_fps_60_48_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_fps_60_16_filled",
-        "20": "ic_fluent_fps_60_20_filled",
-        "24": "ic_fluent_fps_60_24_filled",
-        "28": "ic_fluent_fps_60_28_filled",
-        "48": "ic_fluent_fps_60_48_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "camera",
-        "frames per second"
-      ]
-    },
-    {
-      "name": "FPS 960",
-      "regular": {
-        "20": "ic_fluent_fps_960_20_regular",
-        "24": "ic_fluent_fps_960_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_fps_960_20_filled",
-        "24": "ic_fluent_fps_960_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "camera",
-        "frames per second"
-      ]
-    },
-    {
       "name": "Fast Acceleration",
       "regular": {
         "20": "ic_fluent_fast_acceleration_20_regular",
@@ -24362,7 +24239,6 @@
         "20": "ic_fluent_flag_off_20_regular",
         "24": "ic_fluent_flag_off_24_regular",
         "28": "ic_fluent_flag_off_28_regular",
-        "32": "ic_fluent_flag_off_32_light",
         "48": "ic_fluent_flag_off_48_regular"
       },
       "filled": {
@@ -25801,6 +25677,98 @@
       ]
     },
     {
+      "name": "FPS 120",
+      "regular": {
+        "20": "ic_fluent_fps_120_20_regular",
+        "24": "ic_fluent_fps_120_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_fps_120_20_filled",
+        "24": "ic_fluent_fps_120_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "camera",
+        "frames per second"
+      ]
+    },
+    {
+      "name": "FPS 240",
+      "regular": {
+        "20": "ic_fluent_fps_240_20_regular",
+        "24": "ic_fluent_fps_240_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_fps_240_20_filled",
+        "24": "ic_fluent_fps_240_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "camera",
+        "frames per second"
+      ]
+    },
+    {
+      "name": "FPS 30",
+      "regular": {
+        "16": "ic_fluent_fps_30_16_regular",
+        "20": "ic_fluent_fps_30_20_regular",
+        "24": "ic_fluent_fps_30_24_regular",
+        "28": "ic_fluent_fps_30_28_regular",
+        "48": "ic_fluent_fps_30_48_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_fps_30_16_filled",
+        "20": "ic_fluent_fps_30_20_filled",
+        "24": "ic_fluent_fps_30_24_filled",
+        "28": "ic_fluent_fps_30_28_filled",
+        "48": "ic_fluent_fps_30_48_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "camera",
+        "frames per second"
+      ]
+    },
+    {
+      "name": "FPS 60",
+      "regular": {
+        "16": "ic_fluent_fps_60_16_regular",
+        "20": "ic_fluent_fps_60_20_regular",
+        "24": "ic_fluent_fps_60_24_regular",
+        "28": "ic_fluent_fps_60_28_regular",
+        "48": "ic_fluent_fps_60_48_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_fps_60_16_filled",
+        "20": "ic_fluent_fps_60_20_filled",
+        "24": "ic_fluent_fps_60_24_filled",
+        "28": "ic_fluent_fps_60_28_filled",
+        "48": "ic_fluent_fps_60_48_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "camera",
+        "frames per second"
+      ]
+    },
+    {
+      "name": "FPS 960",
+      "regular": {
+        "20": "ic_fluent_fps_960_20_regular",
+        "24": "ic_fluent_fps_960_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_fps_960_20_filled",
+        "24": "ic_fluent_fps_960_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "camera",
+        "frames per second"
+      ]
+    },
+    {
       "name": "Frame",
       "regular": {
         "16": "ic_fluent_frame_16_regular",
@@ -25872,26 +25840,6 @@
         "fit",
         "maximize",
         "minimize"
-      ]
-    },
-    {
-      "name": "GIF",
-      "regular": {
-        "16": "ic_fluent_gif_16_regular",
-        "20": "ic_fluent_gif_20_regular",
-        "24": "ic_fluent_gif_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_gif_16_filled",
-        "20": "ic_fluent_gif_20_filled",
-        "24": "ic_fluent_gif_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "meme",
-        "animation",
-        "picker",
-        "funny"
       ]
     },
     {
@@ -26273,6 +26221,26 @@
         "tap",
         "flick",
         "touch"
+      ]
+    },
+    {
+      "name": "GIF",
+      "regular": {
+        "16": "ic_fluent_gif_16_regular",
+        "20": "ic_fluent_gif_20_regular",
+        "24": "ic_fluent_gif_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_gif_16_filled",
+        "20": "ic_fluent_gif_20_filled",
+        "24": "ic_fluent_gif_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "meme",
+        "animation",
+        "picker",
+        "funny"
       ]
     },
     {
@@ -27199,79 +27167,6 @@
       ]
     },
     {
-      "name": "HD",
-      "regular": {
-        "16": "ic_fluent_hd_16_regular",
-        "20": "ic_fluent_hd_20_regular",
-        "24": "ic_fluent_hd_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_hd_16_filled",
-        "20": "ic_fluent_hd_20_filled",
-        "24": "ic_fluent_hd_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "video",
-        "setting",
-        "high definition",
-        "1080P"
-      ]
-    },
-    {
-      "name": "HD Off",
-      "regular": {
-        "16": "ic_fluent_hd_off_16_regular",
-        "20": "ic_fluent_hd_off_20_regular",
-        "24": "ic_fluent_hd_off_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_hd_off_16_filled",
-        "20": "ic_fluent_hd_off_20_filled",
-        "24": "ic_fluent_hd_off_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
-      "name": "HDR",
-      "regular": {
-        "20": "ic_fluent_hdr_20_regular",
-        "24": "ic_fluent_hdr_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_hdr_20_filled",
-        "24": "ic_fluent_hdr_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "video",
-        "video games",
-        "tv",
-        "setting",
-        "high dynamic range"
-      ]
-    },
-    {
-      "name": "HDR Off",
-      "regular": {
-        "20": "ic_fluent_hdr_off_20_regular",
-        "24": "ic_fluent_hdr_off_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_hdr_off_20_filled",
-        "24": "ic_fluent_hdr_off_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "video",
-        "video games",
-        "tv",
-        "setting",
-        "high dynamic range"
-      ]
-    },
-    {
       "name": "Hand Draw",
       "regular": {
         "16": "ic_fluent_hand_draw_16_regular",
@@ -27649,6 +27544,79 @@
       },
       "color": {},
       "metaphor": []
+    },
+    {
+      "name": "HD",
+      "regular": {
+        "16": "ic_fluent_hd_16_regular",
+        "20": "ic_fluent_hd_20_regular",
+        "24": "ic_fluent_hd_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_hd_16_filled",
+        "20": "ic_fluent_hd_20_filled",
+        "24": "ic_fluent_hd_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "video",
+        "setting",
+        "high definition",
+        "1080P"
+      ]
+    },
+    {
+      "name": "HD Off",
+      "regular": {
+        "16": "ic_fluent_hd_off_16_regular",
+        "20": "ic_fluent_hd_off_20_regular",
+        "24": "ic_fluent_hd_off_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_hd_off_16_filled",
+        "20": "ic_fluent_hd_off_20_filled",
+        "24": "ic_fluent_hd_off_24_filled"
+      },
+      "color": {},
+      "metaphor": []
+    },
+    {
+      "name": "HDR",
+      "regular": {
+        "20": "ic_fluent_hdr_20_regular",
+        "24": "ic_fluent_hdr_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_hdr_20_filled",
+        "24": "ic_fluent_hdr_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "video",
+        "video games",
+        "tv",
+        "setting",
+        "high dynamic range"
+      ]
+    },
+    {
+      "name": "HDR Off",
+      "regular": {
+        "20": "ic_fluent_hdr_off_20_regular",
+        "24": "ic_fluent_hdr_off_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_hdr_off_20_filled",
+        "24": "ic_fluent_hdr_off_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "video",
+        "video games",
+        "tv",
+        "setting",
+        "high dynamic range"
+      ]
     },
     {
       "name": "Headphones",
@@ -28670,8 +28638,7 @@
       "regular": {
         "16": "ic_fluent_image_alt_text_16_regular",
         "20": "ic_fluent_image_alt_text_20_regular",
-        "24": "ic_fluent_image_alt_text_24_regular",
-        "32": "ic_fluent_image_alt_text_32_light"
+        "24": "ic_fluent_image_alt_text_24_regular"
       },
       "filled": {
         "16": "ic_fluent_image_alt_text_16_filled",
@@ -28807,8 +28774,7 @@
       "regular": {
         "20": "ic_fluent_image_copy_20_regular",
         "24": "ic_fluent_image_copy_24_regular",
-        "28": "ic_fluent_image_copy_28_regular",
-        "32": "ic_fluent_image_copy_32_light"
+        "28": "ic_fluent_image_copy_28_regular"
       },
       "filled": {
         "20": "ic_fluent_image_copy_20_filled",
@@ -28968,8 +28934,7 @@
       "name": "Image Reflection",
       "regular": {
         "20": "ic_fluent_image_reflection_20_regular",
-        "24": "ic_fluent_image_reflection_24_regular",
-        "32": "ic_fluent_image_reflection_32_light"
+        "24": "ic_fluent_image_reflection_24_regular"
       },
       "filled": {
         "20": "ic_fluent_image_reflection_20_filled",
@@ -29006,8 +28971,7 @@
       "name": "Image Shadow",
       "regular": {
         "20": "ic_fluent_image_shadow_20_regular",
-        "24": "ic_fluent_image_shadow_24_regular",
-        "32": "ic_fluent_image_shadow_32_light"
+        "24": "ic_fluent_image_shadow_24_regular"
       },
       "filled": {
         "20": "ic_fluent_image_shadow_20_filled",
@@ -29173,28 +29137,6 @@
         "alert",
         "important",
         "urgent"
-      ]
-    },
-    {
-      "name": "InPrivate Account",
-      "regular": {
-        "16": "ic_fluent_inprivate_account_16_regular",
-        "20": "ic_fluent_inprivate_account_20_regular",
-        "24": "ic_fluent_inprivate_account_24_regular",
-        "28": "ic_fluent_inprivate_account_28_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_inprivate_account_16_filled",
-        "20": "ic_fluent_inprivate_account_20_filled",
-        "24": "ic_fluent_inprivate_account_24_filled",
-        "28": "ic_fluent_inprivate_account_28_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "private",
-        "mode",
-        "browser",
-        "person"
       ]
     },
     {
@@ -29390,6 +29332,28 @@
       ]
     },
     {
+      "name": "InPrivate Account",
+      "regular": {
+        "16": "ic_fluent_inprivate_account_16_regular",
+        "20": "ic_fluent_inprivate_account_20_regular",
+        "24": "ic_fluent_inprivate_account_24_regular",
+        "28": "ic_fluent_inprivate_account_28_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_inprivate_account_16_filled",
+        "20": "ic_fluent_inprivate_account_20_filled",
+        "24": "ic_fluent_inprivate_account_24_filled",
+        "28": "ic_fluent_inprivate_account_28_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "private",
+        "mode",
+        "browser",
+        "person"
+      ]
+    },
+    {
       "name": "Insert",
       "regular": {
         "20": "ic_fluent_insert_20_regular"
@@ -29402,6 +29366,58 @@
         "edit",
         "create",
         "separate"
+      ]
+    },
+    {
+      "name": "iOS Arrow",
+      "regular": {
+        "24": "ic_fluent_ios_arrow_24_regular"
+      },
+      "filled": {
+        "24": "ic_fluent_ios_arrow_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "back",
+        "chevron",
+        "iOS"
+      ]
+    },
+    {
+      "name": "iOS Arrow LTR",
+      "regular": {
+        "24": "ic_fluent_ios_arrow_ltr_24_regular"
+      },
+      "filled": {
+        "24": "ic_fluent_ios_arrow_ltr_24_filled"
+      },
+      "color": {},
+      "metaphor": []
+    },
+    {
+      "name": "iOS Arrow RTL",
+      "regular": {
+        "24": "ic_fluent_ios_arrow_rtl_24_regular"
+      },
+      "filled": {
+        "24": "ic_fluent_ios_arrow_rtl_24_filled"
+      },
+      "color": {},
+      "metaphor": []
+    },
+    {
+      "name": "iOS Chevron Right",
+      "regular": {
+        "20": "ic_fluent_ios_chevron_right_20_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_ios_chevron_right_20_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "back",
+        "chevron",
+        "iOS"
       ]
     },
     {
@@ -30567,9 +30583,7 @@
     },
     {
       "name": "Layout Column Two Focus Left",
-      "regular": {
-        "32": "ic_fluent_layout_column_two_focus_left_32_light"
-      },
+      "regular": {},
       "filled": {
         "16": "ic_fluent_layout_column_two_focus_left_16_filled",
         "20": "ic_fluent_layout_column_two_focus_left_20_filled",
@@ -30586,9 +30600,7 @@
     },
     {
       "name": "Layout Column Two Focus Right",
-      "regular": {
-        "32": "ic_fluent_layout_column_two_focus_right_32_light"
-      },
+      "regular": {},
       "filled": {
         "16": "ic_fluent_layout_column_two_focus_right_16_filled",
         "20": "ic_fluent_layout_column_two_focus_right_20_filled",
@@ -30972,9 +30984,7 @@
     },
     {
       "name": "Layout Row Two Focus Top",
-      "regular": {
-        "32": "ic_fluent_layout_row_two_focus_top_32_light"
-      },
+      "regular": {},
       "filled": {
         "16": "ic_fluent_layout_row_two_focus_top_16_filled",
         "20": "ic_fluent_layout_row_two_focus_top_20_filled",
@@ -30992,9 +31002,7 @@
     },
     {
       "name": "Layout Row Two Focus Top Settings",
-      "regular": {
-        "32": "ic_fluent_layout_row_two_focus_top_settings_32_light"
-      },
+      "regular": {},
       "filled": {
         "20": "ic_fluent_layout_row_two_focus_top_settings_20_filled",
         "28": "ic_fluent_layout_row_two_focus_top_settings_28_filled",
@@ -31136,7 +31144,7 @@
       ]
     },
     {
-      "name": "Layout Row Two Split Top Focus  Top Left",
+      "name": "Layout Row Two Split Top Focus Top Left",
       "regular": {},
       "filled": {
         "16": "ic_fluent_layout_row_two_split_top_focus_top_left_16_filled",
@@ -31144,12 +31152,7 @@
         "24": "ic_fluent_layout_row_two_split_top_focus_top_left_24_filled"
       },
       "color": {},
-      "metaphor": [
-        "ui",
-        "layout",
-        "structure",
-        "customize"
-      ]
+      "metaphor": []
     },
     {
       "name": "Layout Row Two Split Top Focus Top Right",
@@ -33622,8 +33625,7 @@
       "regular": {
         "16": "ic_fluent_mail_rewind_16_regular",
         "20": "ic_fluent_mail_rewind_20_regular",
-        "24": "ic_fluent_mail_rewind_24_regular",
-        "32": "ic_fluent_mail_rewind_32_light"
+        "24": "ic_fluent_mail_rewind_24_regular"
       },
       "filled": {
         "16": "ic_fluent_mail_rewind_16_filled",
@@ -35097,26 +35099,6 @@
       ]
     },
     {
-      "name": "Multiselect",
-      "regular": {
-        "16": "ic_fluent_multiselect_16_regular_rtl",
-        "20": "ic_fluent_multiselect_20_regular_rtl",
-        "24": "ic_fluent_multiselect_24_regular_rtl"
-      },
-      "filled": {
-        "16": "ic_fluent_multiselect_16_filled_rtl",
-        "20": "ic_fluent_multiselect_20_filled_rtl",
-        "24": "ic_fluent_multiselect_24_filled_rtl"
-      },
-      "color": {},
-      "metaphor": [
-        "checkmark",
-        "task",
-        "list",
-        "type"
-      ]
-    },
-    {
       "name": "Multiselect LTR",
       "regular": {
         "16": "ic_fluent_multiselect_ltr_16_regular",
@@ -35505,7 +35487,6 @@
         "20": "ic_fluent_note_20_regular",
         "24": "ic_fluent_note_24_regular",
         "28": "ic_fluent_note_28_regular",
-        "32": "ic_fluent_note_32_light",
         "48": "ic_fluent_note_48_regular"
       },
       "filled": {
@@ -36941,8 +36922,7 @@
     {
       "name": "Panel Left Default",
       "regular": {
-        "28": "ic_fluent_panel_left_default_28_regular",
-        "32": "ic_fluent_panel_left_default_32_light"
+        "28": "ic_fluent_panel_left_default_28_regular"
       },
       "filled": {
         "28": "ic_fluent_panel_left_default_28_filled"
@@ -36974,9 +36954,7 @@
     },
     {
       "name": "Panel Left Focus Right",
-      "regular": {
-        "32": "ic_fluent_panel_left_focus_right_32_light"
-      },
+      "regular": {},
       "filled": {
         "16": "ic_fluent_panel_left_focus_right_16_filled",
         "20": "ic_fluent_panel_left_focus_right_20_filled",
@@ -38891,8 +38869,7 @@
       "regular": {
         "16": "ic_fluent_person_available_16_regular",
         "20": "ic_fluent_person_available_20_regular",
-        "24": "ic_fluent_person_available_24_regular",
-        "32": "ic_fluent_person_available_32_light"
+        "24": "ic_fluent_person_available_24_regular"
       },
       "filled": {
         "16": "ic_fluent_person_available_16_filled",
@@ -39948,11 +39925,11 @@
     {
       "name": "Person Support",
       "regular": {
-        "32": "ic_fluent_person_support_32_regular",
         "16": "ic_fluent_person_support_16_regular",
         "20": "ic_fluent_person_support_20_regular",
         "24": "ic_fluent_person_support_24_regular",
-        "28": "ic_fluent_person_support_28_regular"
+        "28": "ic_fluent_person_support_28_regular",
+        "32": "ic_fluent_person_support_32_regular"
       },
       "filled": {
         "16": "ic_fluent_person_support_16_filled",
@@ -42048,13 +42025,13 @@
       ]
     },
     {
-      "name": "Presence OOF",
+      "name": "Presence Offline",
       "regular": {
-        "10": "ic_fluent_presence_oof_10_regular",
-        "12": "ic_fluent_presence_oof_12_regular",
-        "16": "ic_fluent_presence_oof_16_regular",
-        "20": "ic_fluent_presence_oof_20_regular",
-        "24": "ic_fluent_presence_oof_24_regular"
+        "10": "ic_fluent_presence_offline_10_regular",
+        "12": "ic_fluent_presence_offline_12_regular",
+        "16": "ic_fluent_presence_offline_16_regular",
+        "20": "ic_fluent_presence_offline_20_regular",
+        "24": "ic_fluent_presence_offline_24_regular"
       },
       "filled": {},
       "color": {},
@@ -42072,13 +42049,13 @@
       ]
     },
     {
-      "name": "Presence Offline",
+      "name": "Presence OOF",
       "regular": {
-        "10": "ic_fluent_presence_offline_10_regular",
-        "12": "ic_fluent_presence_offline_12_regular",
-        "16": "ic_fluent_presence_offline_16_regular",
-        "20": "ic_fluent_presence_offline_20_regular",
-        "24": "ic_fluent_presence_offline_24_regular"
+        "10": "ic_fluent_presence_oof_10_regular",
+        "12": "ic_fluent_presence_oof_12_regular",
+        "16": "ic_fluent_presence_oof_16_regular",
+        "20": "ic_fluent_presence_oof_20_regular",
+        "24": "ic_fluent_presence_oof_24_regular"
       },
       "filled": {},
       "color": {},
@@ -42845,45 +42822,6 @@
       ]
     },
     {
-      "name": "RAM",
-      "regular": {
-        "16": "ic_fluent_ram_16_regular",
-        "20": "ic_fluent_ram_20_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_ram_16_filled",
-        "20": "ic_fluent_ram_20_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "random access memory",
-        "storage",
-        "device",
-        "physical"
-      ]
-    },
-    {
-      "name": "RSS",
-      "regular": {
-        "16": "ic_fluent_rss_16_regular",
-        "20": "ic_fluent_rss_20_regular",
-        "24": "ic_fluent_rss_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_rss_16_filled",
-        "20": "ic_fluent_rss_20_filled",
-        "24": "ic_fluent_rss_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "really simple syndication",
-        "feed",
-        "news",
-        "aggregator",
-        "square"
-      ]
-    },
-    {
       "name": "Radar",
       "regular": {
         "20": "ic_fluent_radar_20_regular"
@@ -42966,6 +42904,24 @@
         "button",
         "disabled",
         "slash"
+      ]
+    },
+    {
+      "name": "RAM",
+      "regular": {
+        "16": "ic_fluent_ram_16_regular",
+        "20": "ic_fluent_ram_20_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_ram_16_filled",
+        "20": "ic_fluent_ram_20_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "random access memory",
+        "storage",
+        "device",
+        "physical"
       ]
     },
     {
@@ -43092,8 +43048,7 @@
         "16": "ic_fluent_read_aloud_16_regular",
         "20": "ic_fluent_read_aloud_20_regular",
         "24": "ic_fluent_read_aloud_24_regular",
-        "28": "ic_fluent_read_aloud_28_regular",
-        "32": "ic_fluent_read_aloud_32_light"
+        "28": "ic_fluent_read_aloud_28_regular"
       },
       "filled": {
         "16": "ic_fluent_read_aloud_16_filled",
@@ -44191,8 +44146,7 @@
       "name": "Rotate Left",
       "regular": {
         "20": "ic_fluent_rotate_left_20_regular",
-        "24": "ic_fluent_rotate_left_24_regular",
-        "32": "ic_fluent_rotate_left_32_light"
+        "24": "ic_fluent_rotate_left_24_regular"
       },
       "filled": {
         "20": "ic_fluent_rotate_left_20_filled",
@@ -44295,6 +44249,27 @@
       ]
     },
     {
+      "name": "RSS",
+      "regular": {
+        "16": "ic_fluent_rss_16_regular",
+        "20": "ic_fluent_rss_20_regular",
+        "24": "ic_fluent_rss_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_rss_16_filled",
+        "20": "ic_fluent_rss_20_filled",
+        "24": "ic_fluent_rss_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "really simple syndication",
+        "feed",
+        "news",
+        "aggregator",
+        "square"
+      ]
+    },
+    {
       "name": "Ruler",
       "regular": {
         "12": "ic_fluent_ruler_12_regular",
@@ -44350,27 +44325,6 @@
         "clothing",
         "speed",
         "quick"
-      ]
-    },
-    {
-      "name": "SIM",
-      "regular": {
-        "16": "ic_fluent_sim_16_regular",
-        "20": "ic_fluent_sim_20_regular",
-        "24": "ic_fluent_sim_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_sim_16_filled",
-        "20": "ic_fluent_sim_20_filled",
-        "24": "ic_fluent_sim_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "physical",
-        "device",
-        "memory",
-        "subscriber identity module",
-        "storage"
       ]
     },
     {
@@ -45999,6 +45953,37 @@
       ]
     },
     {
+      "name": "Share iOS",
+      "regular": {
+        "20": "ic_fluent_share_ios_20_regular",
+        "24": "ic_fluent_share_ios_24_regular",
+        "28": "ic_fluent_share_ios_28_regular",
+        "32": "ic_fluent_share_ios_32_regular",
+        "48": "ic_fluent_share_ios_48_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_share_ios_20_filled",
+        "24": "ic_fluent_share_ios_24_filled",
+        "28": "ic_fluent_share_ios_28_filled",
+        "32": "ic_fluent_share_ios_32_filled",
+        "48": "ic_fluent_share_ios_48_filled"
+      },
+      "color": {
+        "20": "ic_fluent_share_ios_20_color",
+        "24": "ic_fluent_share_ios_24_color",
+        "28": "ic_fluent_share_ios_28_color",
+        "32": "ic_fluent_share_ios_32_color",
+        "48": "ic_fluent_share_ios_48_color"
+      },
+      "metaphor": [
+        "arrow",
+        "square",
+        "up",
+        "send",
+        "iOS"
+      ]
+    },
+    {
       "name": "Share Multiple",
       "regular": {
         "16": "ic_fluent_share_multiple_16_regular",
@@ -46172,37 +46157,6 @@
         "close",
         "x",
         "stop"
-      ]
-    },
-    {
-      "name": "Share iOS",
-      "regular": {
-        "20": "ic_fluent_share_ios_20_regular",
-        "24": "ic_fluent_share_ios_24_regular",
-        "28": "ic_fluent_share_ios_28_regular",
-        "32": "ic_fluent_share_ios_32_regular",
-        "48": "ic_fluent_share_ios_48_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_share_ios_20_filled",
-        "24": "ic_fluent_share_ios_24_filled",
-        "28": "ic_fluent_share_ios_28_filled",
-        "32": "ic_fluent_share_ios_32_filled",
-        "48": "ic_fluent_share_ios_48_filled"
-      },
-      "color": {
-        "20": "ic_fluent_share_ios_20_color",
-        "24": "ic_fluent_share_ios_24_color",
-        "28": "ic_fluent_share_ios_28_color",
-        "32": "ic_fluent_share_ios_32_color",
-        "48": "ic_fluent_share_ios_48_color"
-      },
-      "metaphor": [
-        "arrow",
-        "square",
-        "up",
-        "send",
-        "iOS"
       ]
     },
     {
@@ -47062,22 +47016,6 @@
       ]
     },
     {
-      "name": "Sidebar Search",
-      "regular": {
-        "20": "ic_fluent_sidebar_search_20_regular_rtl"
-      },
-      "filled": {
-        "20": "ic_fluent_sidebar_search_20_filled_rtl"
-      },
-      "color": {},
-      "metaphor": [
-        "search",
-        "magnifying glass",
-        "ui",
-        "square"
-      ]
-    },
-    {
       "name": "Sidebar Search LTR",
       "regular": {
         "20": "ic_fluent_sidebar_search_ltr_20_regular"
@@ -47141,6 +47079,27 @@
         "draw",
         "sign",
         "document"
+      ]
+    },
+    {
+      "name": "SIM",
+      "regular": {
+        "16": "ic_fluent_sim_16_regular",
+        "20": "ic_fluent_sim_20_regular",
+        "24": "ic_fluent_sim_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_sim_16_filled",
+        "20": "ic_fluent_sim_20_filled",
+        "24": "ic_fluent_sim_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "physical",
+        "device",
+        "memory",
+        "subscriber identity module",
+        "storage"
       ]
     },
     {
@@ -49325,15 +49284,6 @@
       ]
     },
     {
-      "name": "Stamp",
-      "regular": {
-        "32": "ic_fluent_stamp_32_light"
-      },
-      "filled": {},
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Star",
       "regular": {
         "12": "ic_fluent_star_12_regular",
@@ -49412,15 +49362,6 @@
         "back",
         "undo"
       ]
-    },
-    {
-      "name": "Star Arrow Right",
-      "regular": {
-        "32": "ic_fluent_star_arrow_right_32_light"
-      },
-      "filled": {},
-      "color": {},
-      "metaphor": []
     },
     {
       "name": "Star Arrow Right End",
@@ -50418,82 +50359,6 @@
       ]
     },
     {
-      "name": "TV",
-      "regular": {
-        "16": "ic_fluent_tv_16_regular",
-        "20": "ic_fluent_tv_20_regular",
-        "24": "ic_fluent_tv_24_regular",
-        "28": "ic_fluent_tv_28_regular",
-        "48": "ic_fluent_tv_48_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_tv_16_filled",
-        "20": "ic_fluent_tv_20_filled",
-        "24": "ic_fluent_tv_24_filled",
-        "28": "ic_fluent_tv_28_filled",
-        "48": "ic_fluent_tv_48_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "device",
-        "screen",
-        "physical",
-        "analog",
-        "watch",
-        "view",
-        "video",
-        "television"
-      ]
-    },
-    {
-      "name": "TV Arrow Right",
-      "regular": {
-        "20": "ic_fluent_tv_arrow_right_20_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_tv_arrow_right_20_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "device",
-        "screen",
-        "physical",
-        "analog",
-        "watch",
-        "view",
-        "video",
-        "television"
-      ]
-    },
-    {
-      "name": "TV USB",
-      "regular": {
-        "16": "ic_fluent_tv_usb_16_regular",
-        "20": "ic_fluent_tv_usb_20_regular",
-        "24": "ic_fluent_tv_usb_24_regular",
-        "28": "ic_fluent_tv_usb_28_regular",
-        "48": "ic_fluent_tv_usb_48_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_tv_usb_16_filled",
-        "20": "ic_fluent_tv_usb_20_filled",
-        "24": "ic_fluent_tv_usb_24_filled",
-        "28": "ic_fluent_tv_usb_28_filled",
-        "48": "ic_fluent_tv_usb_48_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "device",
-        "screen",
-        "physical",
-        "analog",
-        "watch",
-        "view",
-        "video",
-        "television"
-      ]
-    },
-    {
       "name": "Tab",
       "regular": {
         "16": "ic_fluent_tab_16_regular",
@@ -51260,8 +51125,7 @@
         "16": "ic_fluent_table_cells_merge_16_regular",
         "20": "ic_fluent_table_cells_merge_20_regular",
         "24": "ic_fluent_table_cells_merge_24_regular",
-        "28": "ic_fluent_table_cells_merge_28_regular",
-        "32": "ic_fluent_table_cells_merge_32_light"
+        "28": "ic_fluent_table_cells_merge_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_cells_merge_16_filled",
@@ -51286,8 +51150,7 @@
         "16": "ic_fluent_table_cells_split_16_regular",
         "20": "ic_fluent_table_cells_split_20_regular",
         "24": "ic_fluent_table_cells_split_24_regular",
-        "28": "ic_fluent_table_cells_split_28_regular",
-        "32": "ic_fluent_table_cells_split_32_light"
+        "28": "ic_fluent_table_cells_split_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_cells_split_16_filled",
@@ -51512,8 +51375,7 @@
         "16": "ic_fluent_table_dismiss_16_regular",
         "20": "ic_fluent_table_dismiss_20_regular",
         "24": "ic_fluent_table_dismiss_24_regular",
-        "28": "ic_fluent_table_dismiss_28_regular",
-        "32": "ic_fluent_table_dismiss_32_light"
+        "28": "ic_fluent_table_dismiss_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_dismiss_16_filled",
@@ -51814,8 +51676,7 @@
         "16": "ic_fluent_table_move_above_16_regular",
         "20": "ic_fluent_table_move_above_20_regular",
         "24": "ic_fluent_table_move_above_24_regular",
-        "28": "ic_fluent_table_move_above_28_regular",
-        "32": "ic_fluent_table_move_above_32_light"
+        "28": "ic_fluent_table_move_above_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_move_above_16_filled",
@@ -51838,8 +51699,7 @@
         "16": "ic_fluent_table_move_below_16_regular",
         "20": "ic_fluent_table_move_below_20_regular",
         "24": "ic_fluent_table_move_below_24_regular",
-        "28": "ic_fluent_table_move_below_28_regular",
-        "32": "ic_fluent_table_move_below_32_light"
+        "28": "ic_fluent_table_move_below_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_move_below_16_filled",
@@ -51862,8 +51722,7 @@
         "16": "ic_fluent_table_move_left_16_regular",
         "20": "ic_fluent_table_move_left_20_regular",
         "24": "ic_fluent_table_move_left_24_regular",
-        "28": "ic_fluent_table_move_left_28_regular",
-        "32": "ic_fluent_table_move_left_32_light"
+        "28": "ic_fluent_table_move_left_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_move_left_16_filled",
@@ -51886,8 +51745,7 @@
         "16": "ic_fluent_table_move_right_16_regular",
         "20": "ic_fluent_table_move_right_20_regular",
         "24": "ic_fluent_table_move_right_24_regular",
-        "28": "ic_fluent_table_move_right_28_regular",
-        "32": "ic_fluent_table_move_right_32_light"
+        "28": "ic_fluent_table_move_right_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_move_right_16_filled",
@@ -52116,8 +51974,7 @@
         "16": "ic_fluent_table_settings_16_regular",
         "20": "ic_fluent_table_settings_20_regular",
         "24": "ic_fluent_table_settings_24_regular",
-        "28": "ic_fluent_table_settings_28_regular",
-        "32": "ic_fluent_table_settings_32_light"
+        "28": "ic_fluent_table_settings_28_regular"
       },
       "filled": {
         "16": "ic_fluent_table_settings_16_filled",
@@ -52986,25 +52843,6 @@
       "metaphor": []
     },
     {
-      "name": "Task List",
-      "regular": {
-        "20": "ic_fluent_task_list_20_regular_rtl",
-        "24": "ic_fluent_task_list_24_regular_rtl"
-      },
-      "filled": {
-        "20": "ic_fluent_task_list_20_filled_rtl",
-        "24": "ic_fluent_task_list_24_filled_rtl"
-      },
-      "color": {},
-      "metaphor": [
-        "checklist",
-        "checkmark",
-        "check",
-        "goals",
-        "to do"
-      ]
-    },
-    {
       "name": "Task List Add",
       "regular": {
         "20": "ic_fluent_task_list_add_20_regular",
@@ -53037,19 +52875,6 @@
       "metaphor": []
     },
     {
-      "name": "Task List RTL",
-      "regular": {
-        "20": "ic_fluent_task_list_rtl_20_regular",
-        "24": "ic_fluent_task_list_rtl_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_task_list_rtl_20_filled",
-        "24": "ic_fluent_task_list_rtl_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Task List Rectangle",
       "regular": {
         "28": "ic_fluent_task_list_rectangle_28_regular"
@@ -53061,25 +52886,17 @@
       "metaphor": []
     },
     {
-      "name": "Task List Square",
+      "name": "Task List RTL",
       "regular": {
-        "16": "ic_fluent_task_list_square_16_regular_rtl",
-        "20": "ic_fluent_task_list_square_20_regular_rtl",
-        "24": "ic_fluent_task_list_square_24_regular_rtl"
+        "20": "ic_fluent_task_list_rtl_20_regular",
+        "24": "ic_fluent_task_list_rtl_24_regular"
       },
       "filled": {
-        "16": "ic_fluent_task_list_square_16_filled_rtl",
-        "20": "ic_fluent_task_list_square_20_filled_rtl",
-        "24": "ic_fluent_task_list_square_24_filled_rtl"
+        "20": "ic_fluent_task_list_rtl_20_filled",
+        "24": "ic_fluent_task_list_rtl_24_filled"
       },
       "color": {},
-      "metaphor": [
-        "checklist",
-        "checkmark",
-        "check",
-        "goals",
-        "to do"
-      ]
+      "metaphor": []
     },
     {
       "name": "Task List Square Add",
@@ -54728,8 +54545,7 @@
       "name": "Text Collapse",
       "regular": {
         "20": "ic_fluent_text_collapse_20_regular",
-        "24": "ic_fluent_text_collapse_24_regular",
-        "32": "ic_fluent_text_collapse_32_light"
+        "24": "ic_fluent_text_collapse_24_regular"
       },
       "filled": {
         "20": "ic_fluent_text_collapse_20_filled",
@@ -55092,19 +54908,6 @@
       "metaphor": []
     },
     {
-      "name": "Text Direction Horizontal LTR",
-      "regular": {
-        "20": "ic_fluent_text_direction_horizontal_ltr_20_regular",
-        "24": "ic_fluent_text_direction_horizontal_ltr_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_direction_horizontal_ltr_20_filled",
-        "24": "ic_fluent_text_direction_horizontal_ltr_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Text Direction Horizontal Left",
       "regular": {
         "16": "ic_fluent_text_direction_horizontal_left_16_regular",
@@ -55127,14 +54930,14 @@
       ]
     },
     {
-      "name": "Text Direction Horizontal RTL",
+      "name": "Text Direction Horizontal LTR",
       "regular": {
-        "20": "ic_fluent_text_direction_horizontal_rtl_20_regular",
-        "24": "ic_fluent_text_direction_horizontal_rtl_24_regular"
+        "20": "ic_fluent_text_direction_horizontal_ltr_20_regular",
+        "24": "ic_fluent_text_direction_horizontal_ltr_24_regular"
       },
       "filled": {
-        "20": "ic_fluent_text_direction_horizontal_rtl_20_filled",
-        "24": "ic_fluent_text_direction_horizontal_rtl_24_filled"
+        "20": "ic_fluent_text_direction_horizontal_ltr_20_filled",
+        "24": "ic_fluent_text_direction_horizontal_ltr_24_filled"
       },
       "color": {},
       "metaphor": []
@@ -55160,6 +54963,19 @@
         "create",
         "letter"
       ]
+    },
+    {
+      "name": "Text Direction Horizontal RTL",
+      "regular": {
+        "20": "ic_fluent_text_direction_horizontal_rtl_20_regular",
+        "24": "ic_fluent_text_direction_horizontal_rtl_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_direction_horizontal_rtl_20_filled",
+        "24": "ic_fluent_text_direction_horizontal_rtl_24_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Text Direction Rotate 270 Right",
@@ -55228,19 +55044,6 @@
       ]
     },
     {
-      "name": "Text Direction Rotate 90 LTR",
-      "regular": {
-        "20": "ic_fluent_text_direction_rotate_90_ltr_20_regular",
-        "24": "ic_fluent_text_direction_rotate_90_ltr_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_direction_rotate_90_ltr_20_filled",
-        "24": "ic_fluent_text_direction_rotate_90_ltr_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
       "name": "Text Direction Rotate 90 Left",
       "regular": {
         "16": "ic_fluent_text_direction_rotate_90_left_16_regular",
@@ -55263,14 +55066,14 @@
       ]
     },
     {
-      "name": "Text Direction Rotate 90 RTL",
+      "name": "Text Direction Rotate 90 LTR",
       "regular": {
-        "20": "ic_fluent_text_direction_rotate_90_rtl_20_regular",
-        "24": "ic_fluent_text_direction_rotate_90_rtl_24_regular"
+        "20": "ic_fluent_text_direction_rotate_90_ltr_20_regular",
+        "24": "ic_fluent_text_direction_rotate_90_ltr_24_regular"
       },
       "filled": {
-        "20": "ic_fluent_text_direction_rotate_90_rtl_20_filled",
-        "24": "ic_fluent_text_direction_rotate_90_rtl_24_filled"
+        "20": "ic_fluent_text_direction_rotate_90_ltr_20_filled",
+        "24": "ic_fluent_text_direction_rotate_90_ltr_24_filled"
       },
       "color": {},
       "metaphor": []
@@ -55296,6 +55099,19 @@
         "create",
         "letter"
       ]
+    },
+    {
+      "name": "Text Direction Rotate 90 RTL",
+      "regular": {
+        "20": "ic_fluent_text_direction_rotate_90_rtl_20_regular",
+        "24": "ic_fluent_text_direction_rotate_90_rtl_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_direction_rotate_90_rtl_20_filled",
+        "24": "ic_fluent_text_direction_rotate_90_rtl_24_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Text Direction Vertical",
@@ -55325,8 +55141,7 @@
         "16": "ic_fluent_text_edit_style_16_regular",
         "20": "ic_fluent_text_edit_style_20_regular",
         "24": "ic_fluent_text_edit_style_24_regular",
-        "28": "ic_fluent_text_edit_style_28_regular",
-        "32": "ic_fluent_text_edit_style_32_light"
+        "28": "ic_fluent_text_edit_style_28_regular"
       },
       "filled": {
         "16": "ic_fluent_text_edit_style_16_filled",
@@ -56158,6 +55973,44 @@
       "metaphor": []
     },
     {
+      "name": "Text Indent Decrease Rotate 270",
+      "regular": {
+        "20": "ic_fluent_text_indent_decrease_rotate_270_20_regular",
+        "24": "ic_fluent_text_indent_decrease_rotate_270_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_indent_decrease_rotate_270_20_filled",
+        "24": "ic_fluent_text_indent_decrease_rotate_270_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "type",
+        "text",
+        "typography",
+        "edit",
+        "create"
+      ]
+    },
+    {
+      "name": "Text Indent Decrease Rotate 90",
+      "regular": {
+        "20": "ic_fluent_text_indent_decrease_rotate_90_20_regular",
+        "24": "ic_fluent_text_indent_decrease_rotate_90_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_indent_decrease_rotate_90_20_filled",
+        "24": "ic_fluent_text_indent_decrease_rotate_90_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "type",
+        "text",
+        "typography",
+        "edit",
+        "create"
+      ]
+    },
+    {
       "name": "Text Indent Decrease RTL",
       "regular": {
         "16": "ic_fluent_text_indent_decrease_rtl_16_regular",
@@ -56197,44 +56050,6 @@
       },
       "color": {},
       "metaphor": []
-    },
-    {
-      "name": "Text Indent Decrease Rotate 270",
-      "regular": {
-        "20": "ic_fluent_text_indent_decrease_rotate_270_20_regular",
-        "24": "ic_fluent_text_indent_decrease_rotate_270_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_indent_decrease_rotate_270_20_filled",
-        "24": "ic_fluent_text_indent_decrease_rotate_270_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "type",
-        "text",
-        "typography",
-        "edit",
-        "create"
-      ]
-    },
-    {
-      "name": "Text Indent Decrease Rotate 90",
-      "regular": {
-        "20": "ic_fluent_text_indent_decrease_rotate_90_20_regular",
-        "24": "ic_fluent_text_indent_decrease_rotate_90_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_indent_decrease_rotate_90_20_filled",
-        "24": "ic_fluent_text_indent_decrease_rotate_90_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "type",
-        "text",
-        "typography",
-        "edit",
-        "create"
-      ]
     },
     {
       "name": "Text Indent Increase",
@@ -56299,6 +56114,44 @@
       "metaphor": []
     },
     {
+      "name": "Text Indent Increase Rotate 270",
+      "regular": {
+        "20": "ic_fluent_text_indent_increase_rotate_270_20_regular",
+        "24": "ic_fluent_text_indent_increase_rotate_270_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_indent_increase_rotate_270_20_filled",
+        "24": "ic_fluent_text_indent_increase_rotate_270_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "type",
+        "text",
+        "typography",
+        "edit",
+        "create"
+      ]
+    },
+    {
+      "name": "Text Indent Increase Rotate 90",
+      "regular": {
+        "20": "ic_fluent_text_indent_increase_rotate_90_20_regular",
+        "24": "ic_fluent_text_indent_increase_rotate_90_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_indent_increase_rotate_90_20_filled",
+        "24": "ic_fluent_text_indent_increase_rotate_90_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "type",
+        "text",
+        "typography",
+        "edit",
+        "create"
+      ]
+    },
+    {
       "name": "Text Indent Increase RTL",
       "regular": {
         "16": "ic_fluent_text_indent_increase_rtl_16_regular",
@@ -56338,44 +56191,6 @@
       },
       "color": {},
       "metaphor": []
-    },
-    {
-      "name": "Text Indent Increase Rotate 270",
-      "regular": {
-        "20": "ic_fluent_text_indent_increase_rotate_270_20_regular",
-        "24": "ic_fluent_text_indent_increase_rotate_270_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_indent_increase_rotate_270_20_filled",
-        "24": "ic_fluent_text_indent_increase_rotate_270_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "type",
-        "text",
-        "typography",
-        "edit",
-        "create"
-      ]
-    },
-    {
-      "name": "Text Indent Increase Rotate 90",
-      "regular": {
-        "20": "ic_fluent_text_indent_increase_rotate_90_20_regular",
-        "24": "ic_fluent_text_indent_increase_rotate_90_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_indent_increase_rotate_90_20_filled",
-        "24": "ic_fluent_text_indent_increase_rotate_90_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "type",
-        "text",
-        "typography",
-        "edit",
-        "create"
-      ]
     },
     {
       "name": "Text Italic",
@@ -56520,28 +56335,6 @@
       ]
     },
     {
-      "name": "Text Number List",
-      "regular": {
-        "16": "ic_fluent_text_number_list_16_regular_rtl",
-        "20": "ic_fluent_text_number_list_20_regular_rtl",
-        "24": "ic_fluent_text_number_list_24_regular_rtl"
-      },
-      "filled": {
-        "16": "ic_fluent_text_number_list_16_filled_rtl",
-        "20": "ic_fluent_text_number_list_20_filled_rtl",
-        "24": "ic_fluent_text_number_list_24_filled_rtl"
-      },
-      "color": {},
-      "metaphor": [
-        "type",
-        "text",
-        "typography",
-        "edit",
-        "create",
-        "number"
-      ]
-    },
-    {
       "name": "Text Number List LTR",
       "regular": {
         "16": "ic_fluent_text_number_list_ltr_16_regular",
@@ -56578,47 +56371,6 @@
       "filled": {
         "20": "ic_fluent_text_number_list_ltr_rotate_270_20_filled",
         "24": "ic_fluent_text_number_list_ltr_rotate_270_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
-      "name": "Text Number List RTL",
-      "regular": {
-        "16": "ic_fluent_text_number_list_rtl_16_regular",
-        "20": "ic_fluent_text_number_list_rtl_20_regular",
-        "24": "ic_fluent_text_number_list_rtl_24_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_text_number_list_rtl_16_filled",
-        "20": "ic_fluent_text_number_list_rtl_20_filled",
-        "24": "ic_fluent_text_number_list_rtl_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
-      "name": "Text Number List RTL 90",
-      "regular": {
-        "20": "ic_fluent_text_number_list_rtl_90_20_regular",
-        "24": "ic_fluent_text_number_list_rtl_90_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_number_list_rtl_90_20_filled",
-        "24": "ic_fluent_text_number_list_rtl_90_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
-      "name": "Text Number List RTL Rotate 270",
-      "regular": {
-        "20": "ic_fluent_text_number_list_rtl_rotate_270_20_regular",
-        "24": "ic_fluent_text_number_list_rtl_rotate_270_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_text_number_list_rtl_rotate_270_20_filled",
-        "24": "ic_fluent_text_number_list_rtl_rotate_270_24_filled"
       },
       "color": {},
       "metaphor": []
@@ -56662,6 +56414,47 @@
         "create",
         "number"
       ]
+    },
+    {
+      "name": "Text Number List RTL",
+      "regular": {
+        "16": "ic_fluent_text_number_list_rtl_16_regular",
+        "20": "ic_fluent_text_number_list_rtl_20_regular",
+        "24": "ic_fluent_text_number_list_rtl_24_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_text_number_list_rtl_16_filled",
+        "20": "ic_fluent_text_number_list_rtl_20_filled",
+        "24": "ic_fluent_text_number_list_rtl_24_filled"
+      },
+      "color": {},
+      "metaphor": []
+    },
+    {
+      "name": "Text Number List RTL 90",
+      "regular": {
+        "20": "ic_fluent_text_number_list_rtl_90_20_regular",
+        "24": "ic_fluent_text_number_list_rtl_90_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_number_list_rtl_90_20_filled",
+        "24": "ic_fluent_text_number_list_rtl_90_24_filled"
+      },
+      "color": {},
+      "metaphor": []
+    },
+    {
+      "name": "Text Number List RTL Rotate 270",
+      "regular": {
+        "20": "ic_fluent_text_number_list_rtl_rotate_270_20_regular",
+        "24": "ic_fluent_text_number_list_rtl_rotate_270_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_text_number_list_rtl_rotate_270_20_filled",
+        "24": "ic_fluent_text_number_list_rtl_rotate_270_24_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Text Paragraph",
@@ -57734,8 +57527,7 @@
       "regular": {
         "16": "ic_fluent_textbox_align_top_left_16_regular",
         "20": "ic_fluent_textbox_align_top_left_20_regular",
-        "24": "ic_fluent_textbox_align_top_left_24_regular",
-        "32": "ic_fluent_textbox_align_top_left_32_light"
+        "24": "ic_fluent_textbox_align_top_left_24_regular"
       },
       "filled": {
         "16": "ic_fluent_textbox_align_top_left_16_filled",
@@ -58755,6 +58547,116 @@
       ]
     },
     {
+      "name": "TV",
+      "regular": {
+        "16": "ic_fluent_tv_16_regular",
+        "20": "ic_fluent_tv_20_regular",
+        "24": "ic_fluent_tv_24_regular",
+        "28": "ic_fluent_tv_28_regular",
+        "48": "ic_fluent_tv_48_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_tv_16_filled",
+        "20": "ic_fluent_tv_20_filled",
+        "24": "ic_fluent_tv_24_filled",
+        "28": "ic_fluent_tv_28_filled",
+        "48": "ic_fluent_tv_48_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "device",
+        "screen",
+        "physical",
+        "analog",
+        "watch",
+        "view",
+        "video",
+        "television"
+      ]
+    },
+    {
+      "name": "TV Arrow Right",
+      "regular": {
+        "20": "ic_fluent_tv_arrow_right_20_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_tv_arrow_right_20_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "device",
+        "screen",
+        "physical",
+        "analog",
+        "watch",
+        "view",
+        "video",
+        "television"
+      ]
+    },
+    {
+      "name": "TV USB",
+      "regular": {
+        "16": "ic_fluent_tv_usb_16_regular",
+        "20": "ic_fluent_tv_usb_20_regular",
+        "24": "ic_fluent_tv_usb_24_regular",
+        "28": "ic_fluent_tv_usb_28_regular",
+        "48": "ic_fluent_tv_usb_48_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_tv_usb_16_filled",
+        "20": "ic_fluent_tv_usb_20_filled",
+        "24": "ic_fluent_tv_usb_24_filled",
+        "28": "ic_fluent_tv_usb_28_filled",
+        "48": "ic_fluent_tv_usb_48_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "device",
+        "screen",
+        "physical",
+        "analog",
+        "watch",
+        "view",
+        "video",
+        "television"
+      ]
+    },
+    {
+      "name": "Umbrella",
+      "regular": {
+        "20": "ic_fluent_umbrella_20_regular",
+        "24": "ic_fluent_umbrella_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_umbrella_20_filled",
+        "24": "ic_fluent_umbrella_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "bumbershoot",
+        "rain",
+        "analog"
+      ]
+    },
+    {
+      "name": "Uninstall App",
+      "regular": {
+        "20": "ic_fluent_uninstall_app_20_regular",
+        "24": "ic_fluent_uninstall_app_24_regular"
+      },
+      "filled": {
+        "20": "ic_fluent_uninstall_app_20_filled",
+        "24": "ic_fluent_uninstall_app_24_filled"
+      },
+      "color": {},
+      "metaphor": [
+        "plugin",
+        "square",
+        "stack"
+      ]
+    },
+    {
       "name": "USB",
       "regular": {
         "16": "ic_fluent_usb_16_regular",
@@ -58804,41 +58706,7 @@
       ]
     },
     {
-      "name": "Umbrella",
-      "regular": {
-        "20": "ic_fluent_umbrella_20_regular",
-        "24": "ic_fluent_umbrella_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_umbrella_20_filled",
-        "24": "ic_fluent_umbrella_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "bumbershoot",
-        "rain",
-        "analog"
-      ]
-    },
-    {
-      "name": "Uninstall App",
-      "regular": {
-        "20": "ic_fluent_uninstall_app_20_regular",
-        "24": "ic_fluent_uninstall_app_24_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_uninstall_app_20_filled",
-        "24": "ic_fluent_uninstall_app_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "plugin",
-        "square",
-        "stack"
-      ]
-    },
-    {
-      "name": "USB Stick",
+      "name": "Usb Stick",
       "regular": {
         "20": "ic_fluent_usb_stick_20_regular",
         "24": "ic_fluent_usb_stick_24_regular"
@@ -58856,27 +58724,6 @@
         "drive",
         "thumb drive"
       ]
-    },
-    {
-      "name": "VIP",
-      "regular": {
-        "16": "ic_fluent_vip_16_regular",
-        "20": "ic_fluent_vip_20_regular",
-        "24": "ic_fluent_vip_24_regular",
-        "28": "ic_fluent_vip_28_regular",
-        "32": "ic_fluent_vip_32_regular",
-        "48": "ic_fluent_vip_48_regular"
-      },
-      "filled": {
-        "16": "ic_fluent_vip_16_filled",
-        "20": "ic_fluent_vip_20_filled",
-        "24": "ic_fluent_vip_24_filled",
-        "28": "ic_fluent_vip_28_filled",
-        "32": "ic_fluent_vip_32_filled",
-        "48": "ic_fluent_vip_48_filled"
-      },
-      "color": {},
-      "metaphor": []
     },
     {
       "name": "Vault",
@@ -60519,6 +60366,27 @@
         "view",
         "focus"
       ]
+    },
+    {
+      "name": "VIP",
+      "regular": {
+        "16": "ic_fluent_vip_16_regular",
+        "20": "ic_fluent_vip_20_regular",
+        "24": "ic_fluent_vip_24_regular",
+        "28": "ic_fluent_vip_28_regular",
+        "32": "ic_fluent_vip_32_regular",
+        "48": "ic_fluent_vip_48_regular"
+      },
+      "filled": {
+        "16": "ic_fluent_vip_16_filled",
+        "20": "ic_fluent_vip_20_filled",
+        "24": "ic_fluent_vip_24_filled",
+        "28": "ic_fluent_vip_28_filled",
+        "32": "ic_fluent_vip_32_filled",
+        "48": "ic_fluent_vip_48_filled"
+      },
+      "color": {},
+      "metaphor": []
     },
     {
       "name": "Virtual Network",
@@ -62832,58 +62700,6 @@
         "zoom out",
         "magnifying glass",
         "search"
-      ]
-    },
-    {
-      "name": "iOS Arrow",
-      "regular": {
-        "24": "ic_fluent_ios_arrow_24_regular"
-      },
-      "filled": {
-        "24": "ic_fluent_ios_arrow_24_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "back",
-        "chevron",
-        "iOS"
-      ]
-    },
-    {
-      "name": "iOS Arrow LTR",
-      "regular": {
-        "24": "ic_fluent_ios_arrow_ltr_24_regular"
-      },
-      "filled": {
-        "24": "ic_fluent_ios_arrow_ltr_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
-      "name": "iOS Arrow RTL",
-      "regular": {
-        "24": "ic_fluent_ios_arrow_rtl_24_regular"
-      },
-      "filled": {
-        "24": "ic_fluent_ios_arrow_rtl_24_filled"
-      },
-      "color": {},
-      "metaphor": []
-    },
-    {
-      "name": "iOS Chevron Right",
-      "regular": {
-        "20": "ic_fluent_ios_chevron_right_20_regular"
-      },
-      "filled": {
-        "20": "ic_fluent_ios_chevron_right_20_filled"
-      },
-      "color": {},
-      "metaphor": [
-        "back",
-        "chevron",
-        "iOS"
       ]
     }
   ]

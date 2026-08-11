@@ -271,9 +271,12 @@ public sealed partial class IconsPage : Page
     public static Visibility NotNullToVisibility(object? value) =>
         value != null ? Visibility.Visible : Visibility.Collapsed;
 
-    private void StoreSyncButton_Click(object sender, RoutedEventArgs e)
+    private async void SyncButton_Click(object sender, RoutedEventArgs e)
     {
-        // Store sync for icons page UI - behind code implementation will be added as specified
+        if (ViewModel != null)
+        {
+            await ViewModel.SyncIconsFromGitHubAsync();
+        }
     }
 }
 

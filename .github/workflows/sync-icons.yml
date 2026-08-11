@@ -1,0 +1,42 @@
+name: Sync Fluent Icons Metadata JSON
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Run weekly on Sunday at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-icons:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run icon sync script
+        run: python sync_icons.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add FluentDeck/FluentDeck/Assets/data/icon_metadata.json
+          if git diff --staged --quiet; then
+            echo "No icon metadata changes detected."
+          else
+            if [ -f .commit_msg.txt ]; then
+              git commit -F .commit_msg.txt
+              rm .commit_msg.txt
+            else
+              git commit -m "Auto-sync icon_metadata.json"
+            fi
+            git push
+          fi

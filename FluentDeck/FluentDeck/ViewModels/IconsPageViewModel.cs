@@ -60,6 +60,216 @@ public class IconsPageViewModel : INotifyPropertyChanged
 
     public bool IsStoreBuild => FluentDeck.Helpers.FeatureManager.IsStoreBuild;
 
+    private bool _isSyncing = false;
+    private string _syncText = "Sync";
+    private string _lastSyncedToolTip = GetSavedLastSyncedToolTip();
+
+    public bool IsSyncing
+    {
+        get => _isSyncing;
+        set
+        {
+            if (SetProperty(ref _isSyncing, value))
+            {
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(IsNotSyncing)));
+            }
+        }
+    }
+
+    public bool IsNotSyncing => !_isSyncing;
+
+    public string SyncText
+    {
+        get => _syncText;
+        set => SetProperty(ref _syncText, value);
+    }
+
+    public string LastSyncedToolTip
+    {
+        get => _lastSyncedToolTip;
+        set => SetProperty(ref _lastSyncedToolTip, value);
+    }
+
+    private static string GetLocalAppDataJsonPath()
+    {
+        try
+        {
+            string localFolder = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            string appDataPath = Path.Combine(localFolder, "icon_metadata.json");
+            if (File.Exists(appDataPath)) return appDataPath;
+        }
+        catch
+        {
+            string fallbackFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "FluentDeck");
+            string appDataPath = Path.Combine(fallbackFolder, "icon_metadata.json");
+            if (File.Exists(appDataPath)) return appDataPath;
+        }
+
+        return Path.Combine(AppContext.BaseDirectory, "Assets", "data", "icon_metadata.json");
+    }
+
+    private static string GetLocalAppDataWritableJsonPath()
+    {
+        try
+        {
+            string localFolder = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            return Path.Combine(localFolder, "icon_metadata.json");
+        }
+        catch
+        {
+            string fallbackFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "FluentDeck");
+            Directory.CreateDirectory(fallbackFolder);
+            return Path.Combine(fallbackFolder, "icon_metadata.json");
+        }
+    }
+
+    private static string GetSavedLastSyncedToolTip()
+    {
+        string timeStr = GetSavedSetting("IconsLastSyncedTime");
+        if (string.IsNullOrEmpty(timeStr))
+            return "Sync icon metadata from GitHub\nLast synced: Never";
+        return $"Sync icon metadata from GitHub\nLast synced: {timeStr}";
+    }
+
+    private static void SaveLastSyncedTime(string timestamp)
+    {
+        SaveSetting("IconsLastSyncedTime", timestamp);
+    }
+
+    private static string GetSavedSetting(string key)
+    {
+        try
+        {
+            if (Windows.Storage.ApplicationData.Current.LocalSettings.Values.TryGetValue(key, out object? val) && val is string s)
+                return s;
+        }
+        catch { }
+
+        try
+        {
+            string file = Path.Combine(Path.GetDirectoryName(GetLocalAppDataWritableJsonPath()) ?? "", "settings.json");
+            if (File.Exists(file))
+            {
+                using var doc = JsonDocument.Parse(File.ReadAllText(file));
+                if (doc.RootElement.TryGetProperty(key, out var prop))
+                    return prop.GetString() ?? "";
+            }
+        }
+        catch { }
+        return "";
+    }
+
+    private static void SaveSetting(string key, string value)
+    {
+        try
+        {
+            Windows.Storage.ApplicationData.Current.LocalSettings.Values[key] = value;
+            return;
+        }
+        catch { }
+
+        try
+        {
+            string file = Path.Combine(Path.GetDirectoryName(GetLocalAppDataWritableJsonPath()) ?? "", "settings.json");
+            var dict = new Dictionary<string, string>();
+            if (File.Exists(file))
+            {
+                try
+                {
+                    using var doc = JsonDocument.Parse(File.ReadAllText(file));
+                    foreach (var p in doc.RootElement.EnumerateObject())
+                        dict[p.Name] = p.Value.GetString() ?? "";
+                }
+                catch { }
+            }
+            dict[key] = value;
+            File.WriteAllText(file, JsonSerializer.Serialize(dict));
+        }
+        catch { }
+    }
+
+    public async Task SyncIconsFromGitHubAsync()
+    {
+        if (IsSyncing) return;
+        IsSyncing = true;
+        SyncText = "Syncing...";
+
+        try
+        {
+            using var httpClient = new System.Net.Http.HttpClient();
+            httpClient.Timeout = TimeSpan.FromSeconds(15);
+            httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("FluentDeck-App");
+
+            string remoteUrl = "https://raw.githubusercontent.com/jishnu-kv/WinUI-3-Apps-List/refs/heads/feature/fluentdeck-app-integration/FluentDeck/FluentDeck/Assets/data/icon_metadata.json";
+            string remoteJsonContent = await httpClient.GetStringAsync(remoteUrl);
+
+            using var remoteDoc = JsonDocument.Parse(remoteJsonContent);
+            string remoteVerStr = remoteDoc.RootElement.TryGetProperty("version", out var rvProp) ? rvProp.GetString() ?? "0.0" : "0.0";
+
+            string localJsonPath = GetLocalAppDataJsonPath();
+            string localVerStr = "0.0";
+            if (File.Exists(localJsonPath))
+            {
+                try
+                {
+                    using var localDoc = JsonDocument.Parse(await File.ReadAllTextAsync(localJsonPath));
+                    if (localDoc.RootElement.TryGetProperty("version", out var lvProp))
+                        localVerStr = lvProp.GetString() ?? "0.0";
+                }
+                catch { }
+            }
+
+            double.TryParse(remoteVerStr, System.Globalization.CultureInfo.InvariantCulture, out double remoteVer);
+            double.TryParse(localVerStr, System.Globalization.CultureInfo.InvariantCulture, out double localVer);
+
+            string nowStr = DateTime.Now.ToString("yyyy-MM-dd HH:mm");
+
+            if (remoteVer > localVer || !File.Exists(GetLocalAppDataWritableJsonPath()))
+            {
+                string targetPath = GetLocalAppDataWritableJsonPath();
+                await File.WriteAllTextAsync(targetPath, remoteJsonContent);
+
+                SaveLastSyncedTime(nowStr);
+                LastSyncedToolTip = $"Sync icon metadata from GitHub\nLast synced: {nowStr}";
+
+                _allIcons.Clear();
+                await InitializeAsync();
+
+                SyncText = $"Synced (v{remoteVerStr})";
+            }
+            else
+            {
+                SaveLastSyncedTime(nowStr);
+                LastSyncedToolTip = $"Sync icon metadata from GitHub\nLast synced: {nowStr}";
+                SyncText = "Up to date";
+            }
+        }
+        catch (System.Net.Http.HttpRequestException)
+        {
+            SyncText = "No Internet";
+        }
+        catch (TaskCanceledException)
+        {
+            SyncText = "Timeout";
+        }
+        catch (IOException)
+        {
+            SyncText = "Write Error";
+        }
+        catch (JsonException)
+        {
+            SyncText = "Corrupt Data";
+        }
+        catch
+        {
+            SyncText = "Sync Failed";
+        }
+        finally
+        {
+            IsSyncing = false;
+        }
+    }
+
     private static List<IconItem> _allIcons = new();
     private ObservableCollection<IconItem> _filteredIcons = new();
     private string _searchQuery = "";
@@ -208,7 +418,7 @@ public class IconsPageViewModel : INotifyPropertyChanged
             {
                 try
                 {
-                    string jsonPath = Path.Combine(AppContext.BaseDirectory, "Assets", "data", "icon_metadata.json");
+                    string jsonPath = GetLocalAppDataJsonPath();
                     if (File.Exists(jsonPath))
                     {
                         using var stream = File.OpenRead(jsonPath);
