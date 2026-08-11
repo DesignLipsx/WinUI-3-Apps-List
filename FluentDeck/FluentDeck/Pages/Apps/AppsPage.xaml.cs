@@ -104,6 +104,14 @@ public sealed partial class AppsPage : Page
         }
     }
 
+    private async void StoreSyncButton_Click(object sender, RoutedEventArgs e)
+    {
+        if (ViewModel != null)
+        {
+            await ViewModel.SyncFromGitHubAsync();
+        }
+    }
+
     private async void GitTimer_Tick(object? sender, object e)
     {
         if (ViewModel != null)

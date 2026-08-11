@@ -22,6 +22,7 @@
     <!-- Disable auto-generated Program entry point so our custom one runs -->
     <DefineConstants>DISABLE_XAML_GENERATED_MAIN</DefineConstants>
 
+    <Configurations>Debug;Release;Dev;Store</Configurations>
     <!-- Fix design-time warnings in Visual Studio -->
     <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
     <PublishSingleFileOptionWarn>false</PublishSingleFileOptionWarn>
@@ -29,6 +30,10 @@
 
   <PropertyGroup Condition="'$(Configuration)' == 'Dev' or '$(DEV_BUILD)' == 'true'">
     <DefineConstants>$(DefineConstants);DEV_BUILD</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Store' or '$(STORE_BUILD)' == 'true' or ('$(Configuration)' != 'Dev' and '$(DEV_BUILD)' != 'true')">
+    <DefineConstants>$(DefineConstants);STORE_BUILD</DefineConstants>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(RuntimeIdentifier)' != ''">

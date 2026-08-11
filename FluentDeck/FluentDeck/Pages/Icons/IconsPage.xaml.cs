@@ -270,6 +270,11 @@ public sealed partial class IconsPage : Page
 
     public static Visibility NotNullToVisibility(object? value) =>
         value != null ? Visibility.Visible : Visibility.Collapsed;
+
+    private void StoreSyncButton_Click(object sender, RoutedEventArgs e)
+    {
+        // Store sync for icons page UI - behind code implementation will be added as specified
+    }
 }
 
 public class MonoStyleConverter : Microsoft.UI.Xaml.Data.IValueConverter

@@ -28,7 +28,7 @@
                                 VerticalAlignment="Center"/>
 
                 <Button x:Name="SyncChangesButton" Click="SyncChangesButton_Click" Height="32"
-                        Visibility="{x:Bind local:AppsPage.BoolToVisibility(ViewModel.IsSyncButtonVisible), Mode=OneWay}" 
+                        Visibility="{x:Bind local:AppsPage.BoolToVisibility(ViewModel.IsDeveloperMode), Mode=OneWay}" 
                         IsEnabled="{x:Bind ViewModel.IsSyncButtonEnabled, Mode=OneWay}"
                         Style="{StaticResource AccentButtonStyle}" VerticalAlignment="Center" Padding="12,0"
                         AutomationProperties.AutomationId="SyncChangesButton"
@@ -36,6 +36,19 @@
                     <StackPanel Orientation="Horizontal" Spacing="6" VerticalAlignment="Center">
                         <FontIcon Glyph="&#xE895;" FontSize="12"/>
                         <TextBlock x:Name="SyncChangesTextBlock" Text="{x:Bind ViewModel.SyncChangesText, Mode=OneWay}" Style="{StaticResource CaptionTextBlockStyle}"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="StoreSyncButton" Click="StoreSyncButton_Click" Height="32"
+                        Visibility="{x:Bind local:AppsPage.BoolToVisibility(ViewModel.IsStoreBuild), Mode=OneWay}" 
+                        IsEnabled="{x:Bind ViewModel.IsNotStoreSyncing, Mode=OneWay}"
+                        Style="{StaticResource AccentButtonStyle}" VerticalAlignment="Center" Padding="12,0"
+                        ToolTipService.ToolTip="Sync Catalog from GitHub"
+                        AutomationProperties.AutomationId="StoreSyncButton"
+                        AutomationProperties.Name="Sync Catalog from GitHub">
+                    <StackPanel Orientation="Horizontal" Spacing="6" VerticalAlignment="Center">
+                        <FontIcon Glyph="&#xE895;" FontSize="12"/>
+                        <TextBlock x:Name="StoreSyncTextBlock" Text="{x:Bind ViewModel.StoreSyncText, Mode=OneWay}" Style="{StaticResource CaptionTextBlockStyle}"/>
                     </StackPanel>
                 </Button>
             </StackPanel>

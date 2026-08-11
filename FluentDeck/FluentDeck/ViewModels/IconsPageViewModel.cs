@@ -58,6 +58,8 @@ public class IconsPageViewModel : INotifyPropertyChanged
 {
     public event PropertyChangedEventHandler? PropertyChanged;
 
+    public bool IsStoreBuild => FluentDeck.Helpers.FeatureManager.IsStoreBuild;
+
     private static List<IconItem> _allIcons = new();
     private ObservableCollection<IconItem> _filteredIcons = new();
     private string _searchQuery = "";

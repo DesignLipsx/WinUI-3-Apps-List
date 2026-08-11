@@ -8,4 +8,11 @@ public static class FeatureManager
 #else
         false;
 #endif
+
+    public static bool IsStoreBuild =>
+#if STORE_BUILD
+        true;
+#else
+        !IsDeveloperMode;
+#endif
 }

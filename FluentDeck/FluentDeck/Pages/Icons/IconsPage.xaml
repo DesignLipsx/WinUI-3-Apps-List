@@ -33,12 +33,26 @@
 
             <!-- Top Bar: search box + Style Segmented -->
             <Grid Grid.Row="0" Margin="0,0,0,16" ColumnDefinitions="*,Auto" ColumnSpacing="12">
-                <AutoSuggestBox Grid.Column="0" x:Name="SearchBox" Width="260" Height="32" PlaceholderText="{x:Bind ViewModel.SearchPlaceholder, Mode=OneWay}"
-                                QueryIcon="Find"
-                                TextChanged="SearchBox_TextChanged"
-                                AutomationProperties.AutomationId="IconSearchBox"
-                                AutomationProperties.Name="Search icons"
-                                VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                <StackPanel Grid.Column="0" Orientation="Horizontal" Spacing="12" VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <AutoSuggestBox x:Name="SearchBox" Width="260" Height="32" PlaceholderText="{x:Bind ViewModel.SearchPlaceholder, Mode=OneWay}"
+                                    QueryIcon="Find"
+                                    TextChanged="SearchBox_TextChanged"
+                                    AutomationProperties.AutomationId="IconSearchBox"
+                                    AutomationProperties.Name="Search icons"
+                                    VerticalAlignment="Center"/>
+
+                    <Button x:Name="StoreSyncButton" Click="StoreSyncButton_Click" Height="32"
+                            Visibility="{x:Bind local:IconsPage.BoolToVisibility(ViewModel.IsStoreBuild), Mode=OneWay}"
+                            Style="{StaticResource AccentButtonStyle}" VerticalAlignment="Center" Padding="12,0"
+                            ToolTipService.ToolTip="Sync Icons from GitHub"
+                            AutomationProperties.AutomationId="IconStoreSyncButton"
+                            AutomationProperties.Name="Sync Icons from GitHub">
+                        <StackPanel Orientation="Horizontal" Spacing="6" VerticalAlignment="Center">
+                            <FontIcon Glyph="&#xE895;" FontSize="12"/>
+                            <TextBlock Text="Sync" Style="{StaticResource CaptionTextBlockStyle}"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
 
                 <!-- Top Style Segmented (Regular, Filled, Color) -->
                 <labs:Segmented Grid.Column="1" x:Name="TopStyleSegment" SelectedIndex="0" SelectionChanged="TopStyleSegment_SelectionChanged" Height="32" VerticalAlignment="Center"

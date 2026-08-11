@@ -133,10 +133,35 @@ public class AppsPageViewModel : INotifyPropertyChanged
         set => SetProperty(ref _errorMessage, value);
     }
 
+    private bool _isStoreSyncing = false;
+    private string _storeSyncText = "Sync";
+
     public bool IsDeveloperMode
     {
         get => _isDeveloperMode;
         set => SetProperty(ref _isDeveloperMode, value);
+    }
+
+    public bool IsStoreBuild => FeatureManager.IsStoreBuild;
+
+    public bool IsStoreSyncing
+    {
+        get => _isStoreSyncing;
+        set
+        {
+            if (SetProperty(ref _isStoreSyncing, value))
+            {
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(IsNotStoreSyncing)));
+            }
+        }
+    }
+
+    public bool IsNotStoreSyncing => !_isStoreSyncing;
+
+    public string StoreSyncText
+    {
+        get => _storeSyncText;
+        set => SetProperty(ref _storeSyncText, value);
     }
 
     public int LayoutModeIndex
@@ -765,6 +790,102 @@ public class AppsPageViewModel : INotifyPropertyChanged
         if (string.IsNullOrEmpty(name)) return "";
         string clean = Regex.Replace(name, @"[^a-zA-Z0-9\s]", " ");
         return Regex.Replace(clean, @"\s+", " ").Trim();
+    }
+
+    public async Task SyncFromGitHubAsync()
+    {
+        if (IsStoreSyncing) return;
+        IsStoreSyncing = true;
+        StoreSyncText = "Syncing...";
+
+        try
+        {
+            using var httpClient = new System.Net.Http.HttpClient();
+            httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("FluentDeck-App");
+
+            string remoteJsonUrl = "https://raw.githubusercontent.com/jishnu-kv/WinUI-3-Apps-List/refs/heads/feature/fluentdeck-app-integration/FluentDeck/FluentDeck/Assets/data/apps_data.json";
+            string remoteJsonContent = await httpClient.GetStringAsync(remoteJsonUrl);
+
+            using var remoteDoc = System.Text.Json.JsonDocument.Parse(remoteJsonContent);
+            string remoteVerStr = remoteDoc.RootElement.TryGetProperty("version", out var rvProp) ? rvProp.GetString() ?? "0.0" : "0.0";
+
+            string localJsonPath = GetJsonPath();
+            string localVerStr = "0.0";
+            if (File.Exists(localJsonPath))
+            {
+                using var localDoc = System.Text.Json.JsonDocument.Parse(await File.ReadAllTextAsync(localJsonPath));
+                if (localDoc.RootElement.TryGetProperty("version", out var lvProp))
+                {
+                    localVerStr = lvProp.GetString() ?? "0.0";
+                }
+            }
+
+            double.TryParse(remoteVerStr, System.Globalization.CultureInfo.InvariantCulture, out double remoteVer);
+            double.TryParse(localVerStr, System.Globalization.CultureInfo.InvariantCulture, out double localVer);
+
+            if (remoteVer > localVer)
+            {
+                await File.WriteAllTextAsync(localJsonPath, remoteJsonContent);
+
+                string assetsDir = Path.Combine(Path.GetDirectoryName(localJsonPath) ?? "", "..", "apps");
+                if (!Directory.Exists(assetsDir))
+                {
+                    Directory.CreateDirectory(assetsDir);
+                }
+
+                if (remoteDoc.RootElement.TryGetProperty("bestImplementation", out var bestArray) && bestArray.ValueKind == System.Text.Json.JsonValueKind.Array)
+                {
+                    await DownloadMissingLogosAsync(httpClient, assetsDir, bestArray);
+                }
+
+                if (remoteDoc.RootElement.TryGetProperty("appsList", out var appsArray) && appsArray.ValueKind == System.Text.Json.JsonValueKind.Array)
+                {
+                    await DownloadMissingLogosAsync(httpClient, assetsDir, appsArray);
+                }
+
+                await LoadAndDisplayDataAsync();
+                StoreSyncText = $"Synced (v{remoteVerStr})";
+            }
+            else
+            {
+                StoreSyncText = "Up to date";
+            }
+        }
+        catch
+        {
+            StoreSyncText = "Sync failed";
+        }
+        finally
+        {
+            IsStoreSyncing = false;
+        }
+    }
+
+    private async Task DownloadMissingLogosAsync(System.Net.Http.HttpClient client, string targetDir, System.Text.Json.JsonElement arrayElement)
+    {
+        foreach (var item in arrayElement.EnumerateArray())
+        {
+            if (item.TryGetProperty("logo", out var logoProp) && logoProp.GetString() is string logoPath && !string.IsNullOrEmpty(logoPath))
+            {
+                string filename = Path.GetFileName(logoPath);
+                if (string.IsNullOrEmpty(filename)) continue;
+
+                string localFilePath = Path.Combine(targetDir, filename);
+                if (!File.Exists(localFilePath))
+                {
+                    try
+                    {
+                        string remoteAssetUrl = $"https://raw.githubusercontent.com/jishnu-kv/WinUI-3-Apps-List/refs/heads/feature/fluentdeck-app-integration/FluentDeck/FluentDeck/Assets/apps/{filename}";
+                        byte[] imageBytes = await client.GetByteArrayAsync(remoteAssetUrl);
+                        await File.WriteAllBytesAsync(localFilePath, imageBytes);
+                    }
+                    catch
+                    {
+                        // Ignore individual image download failure
+                    }
+                }
+            }
+        }
     }
 
     protected bool SetProperty<T>(ref T storage, T value, [CallerMemberName] string? propertyName = null)
