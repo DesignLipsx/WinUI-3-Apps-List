@@ -227,7 +227,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser)
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/s-files-pro-x-shrestha-file-explorer/9NPNFFSV2HQM)
-- `WDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+- `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) <sup>`FOSS`</sup>
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 
 # 📑 Apps List
@@ -292,7 +292,7 @@ Last 17 apps that were recently added to list!
 - `WD` [CodexBarWin](https://github.com/nek0der/CodexBarWin) <sup>`FOSS`</sup>
 - `WDM` [EasyChat AI](https://apps.microsoft.com/detail/9nxk0pk5zs1b)
 - `WDM` [Engage](https://github.com/iamhazel/Engage) `📆 Planned` <sup>`FOSS`</sup>
-- `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) <sup>`FOSS`</sup>
+- `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) <sup>`FOSS`</sup> `❎`
 - `WD` [GPT Labs](https://github.com/mnikonov/gpt-labs)
 - `WDM` [Interviewer Copilot](https://apps.microsoft.com/detail/9pjvpmsb6gvh)
 - `WDM` [KaiROS AI](https://github.com/avikeid2007/KaiROS-AI) <sup>`FOSS`</sup>
@@ -625,7 +625,7 @@ Last 17 apps that were recently added to list!
 
 #### Tools
 - `WDM` [Audio Converter - ModernMedia Converter](https://apps.microsoft.com/detail/9nn2zc496lw5)
-- `WDA` [BetterLyrics](https://apps.microsoft.com/detail/9p1wcd1p597r)
+- `WDA` [BetterLyrics](https://github.com/jayfunc/BetterLyrics) <sup>`FOSS`</sup>
 - `WDM` [HotLyric](https://apps.microsoft.com/detail/9mxffhvqvbv9)
 - `WDM` [LyricEase](https://install.appcenter.ms/users/brandonw3612/apps/lyricease/distribution_groups/public)
 - `WD` [PodcastChapterEditor](https://github.com/snivets/PodcastChapterEditor) <sup>`FOSS`</sup>
@@ -686,7 +686,7 @@ Last 17 apps that were recently added to list!
 
 #### Tracking
 
-- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup>
+- `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup> `📆`
 - `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) <sup>`FOSS`</sup>
 - `WDM` [BiliLite](https://github.com/ywmoyue/biliuwp-lite) <sup>`FOSS`</sup>
 - `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q)
@@ -1192,7 +1192,7 @@ Last 17 apps that were recently added to list!
 - `WDM` [Service Manager](https://github.com/Chr1st1anSzech/Service-Manager) `📆` <sup>`FOSS`</sup>
 - `WDA` [Shelf File Manager & Clipboard - Widbar Widget](https://apps.microsoft.com/detail/9p18qnl4tc4g)
 - `WDM` [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv)
-- `WDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker) <sup>`FOSS`</sup>
+- `WDM` [Simple Icon File Maker](https://apps.microsoft.com/detail/9ns1bm1fb99z) <sup>`FOSS`</sup>
 - `WDM` [Simple Number Converter](https://github.com/B3W/SimpleNumberConverter) <sup>`FOSS`</sup>
 - `WDM` [Simple QR Code Maker](https://github.com/TheJoeFin/Simple-QR-Code-Maker) `📆` <sup>`FOSS`</sup>
 - `WDM` [SimpleList](https://github.com/aiguoli/SimpleList) <sup>`FOSS`</sup>

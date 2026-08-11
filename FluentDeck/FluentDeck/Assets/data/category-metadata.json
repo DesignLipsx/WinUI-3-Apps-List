@@ -1,0 +1,288 @@
+{
+  "categories": {
+    "🆕 Newly Added Apps!": {
+      "name": "Newly Added Apps",
+      "icon": "newly-added.webp"
+    },
+    "🛍️ Application Store": {
+      "name": "Application Store",
+      "icon": "application-store.webp"
+    },
+    "🤖 Artificial Intelligence (AI)": {
+      "name": "Artificial Intelligence (AI)",
+      "icon": "ai.webp"
+    },
+    "📕 Books & Reference": {
+      "name": "Books & Reference",
+      "icon": "books-reference.webp"
+    },
+    "🌐 Browser": {
+      "name": "Browser",
+      "icon": "browser.webp"
+    },
+    "💼 Business": {
+      "name": "Business",
+      "icon": "business.webp"
+    },
+    "📦 Catalogs": {
+      "name": "Catalogs",
+      "icon": "catalogs.webp"
+    },
+    "🧑‍💻 Developer Tools": {
+      "name": "Developer Tools",
+      "icon": "developer-tools.webp"
+    },
+    "GitHub Client": {
+      "name": "GitHub Client",
+      "icon": ""
+    },
+    "Other": {
+      "name": "Other",
+      "icon": ""
+    },
+    "⬇️ Download Managers": {
+      "name": "Download Managers",
+      "icon": "download-managers.webp"
+    },
+    "Full-Featured Download Manager": {
+      "name": "Full-Featured Download Manager",
+      "icon": ""
+    },
+    "Torrenting": {
+      "name": "Torrenting",
+      "icon": ""
+    },
+    "YouTube": {
+      "name": "YouTube",
+      "icon": ""
+    },
+    "🎓 Education": {
+      "name": "Education",
+      "icon": "education.webp"
+    },
+    "📧 Email": {
+      "name": "Email",
+      "icon": "email.webp"
+    },
+    "📱 Entertainment": {
+      "name": "Entertainment",
+      "icon": "entertainment.webp"
+    },
+    "📁 File Manager": {
+      "name": "File Manager",
+      "icon": "file-manager.webp"
+    },
+    "💵 Finance": {
+      "name": "Finance",
+      "icon": "finance.webp"
+    },
+    "🎮 Games": {
+      "name": "Games",
+      "icon": "games.webp"
+    },
+    "Games": {
+      "name": "Games",
+      "icon": ""
+    },
+    "Game Tools": {
+      "name": "Game Tools",
+      "icon": ""
+    },
+    "🙎‍♂️ Lifestyle": {
+      "name": "Lifestyle",
+      "icon": "lifestyle.webp"
+    },
+    "🎬 Media": {
+      "name": "Media",
+      "icon": "media.webp"
+    },
+    "🖼️ Images": {
+      "name": "Images",
+      "icon": "photo-viewer.webp"
+    },
+    "Viewers": {
+      "name": "Viewers",
+      "icon": ""
+    },
+    "Tools": {
+      "name": "Tools",
+      "icon": ""
+    },
+    "🎧 Music": {
+      "name": "Music",
+      "icon": "music-players.webp"
+    },
+    "Players": {
+      "name": "Players",
+      "icon": ""
+    },
+    "Apple Music": {
+      "name": "Apple Music",
+      "icon": ""
+    },
+    "Spotify Client": {
+      "name": "Spotify Client",
+      "icon": ""
+    },
+    "YT Music Client": {
+      "name": "YT Music Client",
+      "icon": ""
+    },
+    "📄 Documents": {
+      "name": "Documents",
+      "icon": "pdf-viewer.webp"
+    },
+    "PDF Viewer": {
+      "name": "PDF Viewer",
+      "icon": ""
+    },
+    "PDF Tools": {
+      "name": "PDF Tools",
+      "icon": ""
+    },
+    "🎙️ Podcasts": {
+      "name": "Podcasts",
+      "icon": "podcast.webp"
+    },
+    "🎬 Video": {
+      "name": "Video",
+      "icon": "video-players.webp"
+    },
+    "Streaming": {
+      "name": "Streaming",
+      "icon": ""
+    },
+    "Tracking": {
+      "name": "Tracking",
+      "icon": ""
+    },
+    "Live TV & IPTV": {
+      "name": "Live TV & IPTV",
+      "icon": ""
+    },
+    "💠 Multimedia & Design": {
+      "name": "Multimedia & Design",
+      "icon": "multimedia-design.webp"
+    },
+    "📰 News": {
+      "name": "News",
+      "icon": "news.webp"
+    },
+    "📒 Notes / To-do / Wish-lists": {
+      "name": "Notes / To-do / Wish-lists",
+      "icon": "notes-lists.webp"
+    },
+    "Draw Board": {
+      "name": "Draw Board",
+      "icon": ""
+    },
+    "Notes": {
+      "name": "Notes",
+      "icon": ""
+    },
+    "Reminders": {
+      "name": "Reminders",
+      "icon": ""
+    },
+    "To-Do / Task": {
+      "name": "To-Do / Task",
+      "icon": ""
+    },
+    "🎨 Personalization": {
+      "name": "Personalization",
+      "icon": "personalization.webp"
+    },
+    "📈 Productivity": {
+      "name": "Productivity",
+      "icon": "productivity.webp"
+    },
+    "🔒 Security & Privacy": {
+      "name": "Security & Privacy",
+      "icon": "security-privacy.webp"
+    },
+    "2FA Authenticator": {
+      "name": "2FA Authenticator",
+      "icon": ""
+    },
+    "Password Manager": {
+      "name": "Password Manager",
+      "icon": ""
+    },
+    "VPN": {
+      "name": "VPN",
+      "icon": ""
+    },
+    "👨‍💻 Social Media": {
+      "name": "Social Media",
+      "icon": "social-media.webp"
+    },
+    "Discord": {
+      "name": "Discord",
+      "icon": ""
+    },
+    "Mastodon": {
+      "name": "Mastodon",
+      "icon": ""
+    },
+    "Reddit": {
+      "name": "Reddit",
+      "icon": ""
+    },
+    "Steam": {
+      "name": "Steam",
+      "icon": ""
+    },
+    "Telegram": {
+      "name": "Telegram",
+      "icon": ""
+    },
+    "Twitter": {
+      "name": "Twitter",
+      "icon": ""
+    },
+    "VK": {
+      "name": "VK",
+      "icon": ""
+    },
+    "💻 System": {
+      "name": "System",
+      "icon": "system.webp"
+    },
+    "Calculators": {
+      "name": "Calculators",
+      "icon": ""
+    },
+    "Device Info / Monitors": {
+      "name": "Device Info / Monitors",
+      "icon": ""
+    },
+    "Optimizer / Cleaners": {
+      "name": "Optimizer / Cleaners",
+      "icon": ""
+    },
+    "🈵 Translators": {
+      "name": "Translators",
+      "icon": "translators.webp"
+    },
+    "🈵 Transcribe": {
+      "name": "Transcribe",
+      "icon": "transcribe.webp"
+    },
+    "🔧 Utilities": {
+      "name": "Utilities",
+      "icon": "utilities.webp"
+    },
+    "🌤️ Weather": {
+      "name": "Weather",
+      "icon": "weather.webp"
+    },
+    "🪟 Windows Apps": {
+      "name": "Windows Apps",
+      "icon": "windows-apps.webp"
+    },
+    "📖 Miscellaneous": {
+      "name": "Miscellaneous",
+      "icon": "miscellaneous.webp"
+    }
+  }
+}

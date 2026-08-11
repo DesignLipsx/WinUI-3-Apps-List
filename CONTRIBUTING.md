@@ -38,13 +38,8 @@ Specify the design implementation using one of the core abbreviations:
 
 ### 3. Logo URLs (Used by Fluentdeck)
 * You can add a logo link inside an HTML comment at the end of your app entry line in `README.md`: `<!-- logo: LogoURL -->`.
-  * A GitHub Actions workflow will automatically extract the logo comment from `README.md` and add it to `apps_logo.yml`.
-* Alternatively, you can manually add the logo entry directly to `apps_logo.yml` instead of adding the comment in `README.md`:
-  ```yaml
-  - name: "AppName"
-    link: "AppURL"
-    logo: "LogoURL"
-  ```
+  * A GitHub Actions workflow will automatically extract the logo comment from `README.md` and sync it into `apps_data.json`.
+* Alternatively, you can add or edit logo entries directly inside `apps_data.json`.
 * **Important**: Please use raw content/direct URLs (e.g., `https://raw.githubusercontent.com/...` or store image URLs) so they render correctly on the website.
 * If no logo is available, omit the logo comment / entry entirely.
 

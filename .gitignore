@@ -1,3 +1,12 @@
-# Ignore the cataloger utility app
-WinUI Cataloger/
-WinUI Cataloger.exe
+# Build outputs & Visual Studio files
+.vs/
+**/bin/
+**/obj/
+*.user
+*.exe
+
+# Generated static asset caches
+**/Assets/emoji/
+**/Assets/icons/
+
+

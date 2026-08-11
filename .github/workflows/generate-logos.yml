@@ -1,4 +1,4 @@
-name: Generate Apps Logo YAML
+name: Sync Apps Data JSON
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'README.md'
+      - 'apps_data.json'
   workflow_dispatch:
 
 permissions:
@@ -24,17 +25,17 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run parser script
-        run: python extract_logos.py
+      - name: Run sync script
+        run: python sync_apps.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add apps_logo.yml README.md
+          git add apps_data.json README.md
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "Auto-generate apps_logo.yml and clean logo comments from README.md"
+            git commit -m "Auto-sync apps_data.json"
             git push
           fi

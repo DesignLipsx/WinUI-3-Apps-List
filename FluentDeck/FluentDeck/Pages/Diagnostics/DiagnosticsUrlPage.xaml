@@ -1,0 +1,64 @@
+<Page
+    x:Class="FluentDeck.Pages.Diagnostics.DiagnosticsUrlPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:settings="using:CommunityToolkit.WinUI.Controls"
+    xmlns:local="using:FluentDeck.Pages.Diagnostics"
+    Background="Transparent">
+
+    <Grid>
+        <ListView x:Name="UrlIssuesList" SelectionMode="None" Padding="0,0,0,24">
+            <ListView.ItemContainerTransitions>
+                <TransitionCollection>
+                    <AddDeleteThemeTransition />
+                    <ReorderThemeTransition />
+                </TransitionCollection>
+            </ListView.ItemContainerTransitions>
+
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem" BasedOn="{StaticResource DefaultListViewItemStyle}">
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="Margin" Value="0"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="local:UrlCheckResult">
+                    <settings:SettingsCard Header="{x:Bind AppName}" Description="{x:Bind Url}" Margin="0,4" Padding="16,12" HorizontalContentAlignment="Stretch">
+                        <settings:SettingsCard.HeaderIcon>
+                            <FontIcon Glyph="{x:Bind IconGlyph}" Foreground="{x:Bind BadgeForeground}" />
+                        </settings:SettingsCard.HeaderIcon>
+                        
+                        <Grid ColumnDefinitions="*,Auto" ColumnSpacing="16" HorizontalAlignment="Stretch">
+                            <!-- Message & Tag Detail -->
+                            <StackPanel Grid.Column="0" Spacing="4" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <StackPanel Orientation="Horizontal" Spacing="8">
+                                    <Border Background="{x:Bind BadgeBackground}" CornerRadius="4" Padding="6,2" VerticalAlignment="Center">
+                                        <TextBlock Text="{x:Bind GroupTag}" Style="{StaticResource CaptionTextBlockStyle}" FontWeight="Bold" Foreground="{x:Bind BadgeForeground}" />
+                                    </Border>
+                                    <TextBlock Text="{x:Bind StatusText}" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" VerticalAlignment="Center"/>
+                                </StackPanel>
+                                <TextBlock Text="{x:Bind Message}" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" Visibility="{x:Bind HasMessageVisibility}" TextWrapping="Wrap" />
+                            </StackPanel>
+
+                            <!-- Action Buttons -->
+                            <StackPanel Grid.Column="1" Orientation="Horizontal" Spacing="8" VerticalAlignment="Center">
+                                <Button Content="Update" Click="UpdateUrlBtn_Click" CommandParameter="{x:Bind}" Visibility="{x:Bind CanUpdateUrlVisibility}" Style="{StaticResource AccentButtonStyle}" />
+                                <Button Content="Clear Logo" Click="ClearLogoBtn_Click" CommandParameter="{x:Bind}" Visibility="{x:Bind CanClearLogoVisibility}" Style="{StaticResource AccentButtonStyle}" />
+                                <Button Content="Mark Archived" Click="MarkArchivedBtn_Click" CommandParameter="{x:Bind}" Visibility="{x:Bind CanMarkArchivedVisibility}" Style="{StaticResource AccentButtonStyle}" />
+                                <Button Content="Open" Click="OpenUrlBtn_Click" CommandParameter="{x:Bind Url}" AutomationProperties.AutomationId="OpenUrlButton" />
+                            </StackPanel>
+                        </Grid>
+                    </settings:SettingsCard>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Empty State Panel -->
+        <StackPanel x:Name="UrlEmptyState" VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="12">
+            <FontIcon x:Name="UrlEmptyIcon" Glyph="&#xE774;" FontSize="48" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+            <TextBlock x:Name="UrlEmptyText" Text="No URL check results to display. Click 'Check URLs &amp; Logos' to run a diagnostics scan." Style="{StaticResource SubtitleTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>

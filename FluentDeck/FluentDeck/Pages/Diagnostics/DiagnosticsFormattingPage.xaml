@@ -1,0 +1,57 @@
+<Page
+    x:Class="FluentDeck.Pages.Diagnostics.DiagnosticsFormattingPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:settings="using:CommunityToolkit.WinUI.Controls"
+    xmlns:local="using:FluentDeck.Pages.Diagnostics"
+    Background="Transparent">
+
+    <Grid>
+        <!-- ListView of SettingsCards -->
+        <ListView x:Name="FormattingIssuesList" SelectionMode="None" Padding="0,0,0,24">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem" BasedOn="{StaticResource DefaultListViewItemStyle}">
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="Margin" Value="0"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="local:FormattingIssue">
+                    <settings:SettingsCard Header="{x:Bind Description}" Margin="0,4" Padding="16,12" HorizontalContentAlignment="Stretch">
+                        <settings:SettingsCard.HeaderIcon>
+                            <FontIcon Glyph="&#xE7BA;" Foreground="{ThemeResource SystemFillColorCriticalBrush}" />
+                        </settings:SettingsCard.HeaderIcon>
+                        
+                        <Grid ColumnDefinitions="*,Auto" ColumnSpacing="16" HorizontalAlignment="Stretch">
+                            <!-- Error line preview content -->
+                            <StackPanel Grid.Column="0" Spacing="4" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <!-- Normal issue content -->
+                                <TextBlock Text="{x:Bind DisplayOriginalText}" Visibility="{x:Bind IsNormalIssueVisibility}" FontFamily="Consolas" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" TextWrapping="Wrap" />
+                                
+                                <!-- Highlighted query parameters for MS Store issue -->
+                                <TextBlock Visibility="{x:Bind IsStoreUrlIssueVisibility}" FontFamily="Consolas" Style="{StaticResource CaptionTextBlockStyle}" TextWrapping="Wrap">
+                                    <Run Text="{x:Bind DisplayTextBeforeQuery}" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                                    <Run Text="?" Foreground="{ThemeResource SystemFillColorCriticalBrush}" FontWeight="Bold"/>
+                                    <Run Text="{x:Bind DisplayQueryParam}" Foreground="{ThemeResource SystemFillColorCriticalBrush}" FontWeight="SemiBold"/>
+                                    <Run Text="{x:Bind DisplayTextAfterQuery}" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                                </TextBlock>
+
+                                <TextBlock Text="{x:Bind DisplaySuggestionText}" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemFillColorSuccessBrush}" Visibility="{x:Bind HasSuggestionVisibility}" />
+                                <TextBlock Text="{x:Bind LineNumberString}" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource TextFillColorTertiaryBrush}" />
+                            </StackPanel>
+                            
+                            <Button Grid.Column="1" Content="Fix" Click="FixIssueBtn_Click" CommandParameter="{x:Bind}" VerticalAlignment="Center" Visibility="{x:Bind CanFixVisibility}" Style="{StaticResource AccentButtonStyle}" AutomationProperties.AutomationId="FixFormattingIssueButton" />
+                        </Grid>
+                    </settings:SettingsCard>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Empty State Panel -->
+        <StackPanel x:Name="FormattingEmptyState" VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="12" Visibility="Collapsed">
+            <FontIcon Glyph="&#xE930;" FontSize="48" Foreground="{ThemeResource SystemFillColorSuccessBrush}"/>
+            <TextBlock Text="All clear! No formatting issues found." Style="{StaticResource SubtitleTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>

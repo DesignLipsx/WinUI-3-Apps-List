@@ -1,0 +1,145 @@
+<Page
+    x:Class="FluentDeck.Pages.Apps.AppsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:labs="using:CommunityToolkit.WinUI.Controls"
+    xmlns:local="using:FluentDeck.Pages.Apps"
+    mc:Ignorable="d"
+    Background="Transparent">
+
+    <!-- Main Content Root Container -->
+    <Grid Padding="24,24,0,0" RowDefinitions="Auto,Auto,*">
+
+        <!-- =================================================================== -->
+        <!-- Header Toolbar: Search, Sync Action & Filter Controls               -->
+        <!-- =================================================================== -->
+        <Grid Grid.Row="0" Margin="0,0,24,16" ColumnDefinitions="*,Auto" ColumnSpacing="12">
+            
+            <!-- Left Header Tools: AutoSuggest Search & Remote Git Sync -->
+            <StackPanel Grid.Column="0" Orientation="Horizontal" Spacing="12" VerticalAlignment="Center">
+                <AutoSuggestBox x:Name="SearchBox" Width="280" Height="32"
+                                PlaceholderText="{x:Bind ViewModel.SearchPlaceholder, Mode=OneWay}"
+                                QueryIcon="Find"
+                                TextChanged="SearchBox_TextChanged"
+                                AutomationProperties.AutomationId="SearchBox"
+                                AutomationProperties.Name="Search apps catalog"
+                                VerticalAlignment="Center"/>
+
+                <Button x:Name="SyncChangesButton" Click="SyncChangesButton_Click" Height="32"
+                        Visibility="{x:Bind local:AppsPage.BoolToVisibility(ViewModel.IsSyncButtonVisible), Mode=OneWay}" 
+                        IsEnabled="{x:Bind ViewModel.IsSyncButtonEnabled, Mode=OneWay}"
+                        Style="{StaticResource AccentButtonStyle}" VerticalAlignment="Center" Padding="12,0"
+                        AutomationProperties.AutomationId="SyncChangesButton"
+                        AutomationProperties.Name="Sync Changes">
+                    <StackPanel Orientation="Horizontal" Spacing="6" VerticalAlignment="Center">
+                        <FontIcon Glyph="&#xE895;" FontSize="12"/>
+                        <TextBlock x:Name="SyncChangesTextBlock" Text="{x:Bind ViewModel.SyncChangesText, Mode=OneWay}" Style="{StaticResource CaptionTextBlockStyle}"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+
+            <!-- Right Header Tools: Filters, View Mode Segmented Switcher & Info -->
+            <StackPanel Grid.Column="1" Orientation="Horizontal" Spacing="8" VerticalAlignment="Center">
+                <labs:Segmented x:Name="LayoutModeSegment" SelectedIndex="0" SelectionChanged="LayoutModeSegment_SelectionChanged" Height="32"
+                                AutomationProperties.AutomationId="LayoutModeSegment" AutomationProperties.Name="Layout Mode" VerticalAlignment="Center">
+                    <labs:Segmented.ItemContainerStyle>
+                        <Style TargetType="labs:SegmentedItem">
+                            <Setter Property="MinHeight" Value="32"/>
+                            <Setter Property="Height" Value="32"/>
+                            <Setter Property="Padding" Value="0"/>
+                        </Style>
+                    </labs:Segmented.ItemContainerStyle>
+                    <labs:SegmentedItem Tag="List" ToolTipService.ToolTip="List View (Standard README)" AutomationProperties.Name="List View">
+                        <FontIcon Glyph="&#xEA37;" FontSize="16"/>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Grid" ToolTipService.ToolTip="Grid View (App Cards)" AutomationProperties.Name="Grid View">
+                        <FontIcon Glyph="&#xF0E2;" FontSize="16"/>
+                    </labs:SegmentedItem>
+                </labs:Segmented>
+
+                <Button x:Name="FilterButton" ToolTipService.ToolTip="Filter Apps" AutomationProperties.Name="Filter Apps"
+                        AutomationProperties.AutomationId="FilterButton" Height="32" Width="36" Padding="0" VerticalAlignment="Center">
+                    <FontIcon Glyph="&#xE71C;" FontSize="16"/>
+                    <Button.Flyout>
+                        <MenuFlyout>
+                            <RadioMenuFlyoutItem Text="All Pricing" GroupName="PricingGroup" IsChecked="True" Click="PricingFilter_Click" Tag="All"/>
+                            <RadioMenuFlyoutItem Text="Free" GroupName="PricingGroup" Click="PricingFilter_Click" Tag="Free"/>
+                            <RadioMenuFlyoutItem Text="Foss" GroupName="PricingGroup" Click="PricingFilter_Click" Tag="Foss"/>
+                            <RadioMenuFlyoutItem Text="Paid" GroupName="PricingGroup" Click="PricingFilter_Click" Tag="Paid"/>
+                            <MenuFlyoutSeparator/>
+                            <RadioMenuFlyoutItem Text="All Styles" GroupName="StyleGroup" IsChecked="True" Click="StyleFilter_Click" Tag="All"/>
+                            <RadioMenuFlyoutItem Text="WD" GroupName="StyleGroup" Click="StyleFilter_Click" Tag="WD"/>
+                            <RadioMenuFlyoutItem Text="WDM" GroupName="StyleGroup" Click="StyleFilter_Click" Tag="WDM"/>
+                            <RadioMenuFlyoutItem Text="WDA" GroupName="StyleGroup" Click="StyleFilter_Click" Tag="WDA"/>
+                        </MenuFlyout>
+                    </Button.Flyout>
+                </Button>
+
+                <Button x:Name="InfoButton" ToolTipService.ToolTip="Indicators &amp; Badges" AutomationProperties.Name="Guidelines and Abbreviations"
+                        Visibility="{x:Bind local:AppsPage.BoolToVisibility(ViewModel.IsDeveloperMode), Mode=OneWay}"
+                        AutomationProperties.AutomationId="InfoButton" Height="32" Width="36" Padding="0" VerticalAlignment="Center" Click="InfoButton_Click">
+                    <FontIcon Glyph="&#xE946;" FontSize="16"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+
+        <!-- =================================================================== -->
+        <!-- Visual Separator Divider                                            -->
+        <!-- =================================================================== -->
+        <Border Grid.Row="1" Height="1" Background="{ThemeResource DividerStrokeColorDefaultBrush}" Margin="0,0,24,0" />
+
+        <!-- =================================================================== -->
+        <!-- Main Content Area: State Feedback & Sub-Page Navigation Frame       -->
+        <!-- =================================================================== -->
+        <!-- Loading Progress Indicator -->
+        <ProgressRing x:Name="LoadingRing" Grid.Row="2" 
+                      IsActive="{x:Bind ViewModel.IsLoading, Mode=OneWay}"
+                      Visibility="{x:Bind local:AppsPage.BoolToVisibility(ViewModel.IsLoading), Mode=OneWay}"
+                      Width="48" Height="48"
+                      HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <!-- Error Feedback Bar -->
+        <InfoBar x:Name="ErrorBar" Grid.Row="2" Severity="Error" 
+                 Title="README.md Not Found" 
+                 Message="{x:Bind ViewModel.ErrorMessage, Mode=OneWay}" 
+                 IsOpen="{x:Bind ViewModel.IsError, Mode=OneWay}" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+        <!-- Frame Hosting List/Grid Navigation Sub-Views -->
+        <Frame x:Name="ContentFrame" Grid.Row="2">
+            <Frame.ContentTransitions>
+                <TransitionCollection>
+                    <NavigationThemeTransition />
+                </TransitionCollection>
+            </Frame.ContentTransitions>
+        </Frame>
+
+        <!-- =================================================================== -->
+        <!-- Guidelines & Badges Teaching Tip Overlay                            -->
+        <!-- =================================================================== -->
+        <TeachingTip x:Name="HelpTeachingTip"
+                     Target="{x:Bind InfoButton}"
+                     Title="Indicators &amp; Badges"
+                     PreferredPlacement="BottomLeft"
+                     IsLightDismissEnabled="True">
+            <TeachingTip.Content>
+                <ScrollViewer VerticalScrollBarVisibility="Auto"
+                              HorizontalScrollBarVisibility="Disabled"
+                              MaxHeight="450"
+                              MaxWidth="360">
+                    <StackPanel Spacing="6">
+                        <TextBlock Text="• WD: Apps matching the WinUI 3 Design Only" FontSize="12" TextWrapping="Wrap"/>
+                        <TextBlock Text="• WDM: Apps utilizing WinUI 3 design and Mica Material" FontSize="12" TextWrapping="Wrap"/>
+                        <TextBlock Text="• WDA: Apps utilizing WinUI 3 design and Acrylic Material" FontSize="12" TextWrapping="Wrap"/>
+                        <TextBlock Text="• FOSS: Free and Open Source Software (represented as &lt;sup&gt;`FOSS`&lt;/sup&gt;)" FontSize="12" TextWrapping="Wrap"/>
+                        <TextBlock Text="• 💰: Paid Apps" FontSize="12"/>
+                        <TextBlock Text="• 🎨: Theme" FontSize="12"/>
+                        <TextBlock Text="• 📆 Planned: Planned or in-development apps" FontSize="12" TextWrapping="Wrap"/>
+                        <TextBlock Text="• ❎ Discontinued: Discontinued apps" FontSize="12" TextWrapping="Wrap"/>
+                    </StackPanel>
+                </ScrollViewer>
+            </TeachingTip.Content>
+        </TeachingTip>
+    </Grid>
+</Page>

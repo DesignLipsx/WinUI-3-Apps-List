@@ -1,0 +1,68 @@
+<Page
+    x:Class="FluentDeck.Pages.Settings.SettingsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:settings="using:CommunityToolkit.WinUI.Controls"
+    mc:Ignorable="d"
+    Background="Transparent">
+
+    <Grid Padding="24,24,24,0" RowDefinitions="Auto,*">
+        <!-- Header -->
+        <TextBlock Grid.Row="0" Text="Settings" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,0,0,24" />
+
+        <!-- Scrollable Settings list -->
+        <ScrollViewer Grid.Row="1">
+            <StackPanel Spacing="4">
+                <!-- Theme Card using SettingsCard -->
+                <settings:SettingsCard Header="App Theme" Description="Select which app theme to display">
+                    <settings:SettingsCard.HeaderIcon>
+                        <FontIcon Glyph="&#xE790;" />
+                    </settings:SettingsCard.HeaderIcon>
+                    <ComboBox x:Name="ThemeModeCombo" SelectionChanged="ThemeModeCombo_SelectionChanged" Width="150" AutomationProperties.AutomationId="ThemeModeComboBox">
+                        <ComboBoxItem Content="Default" />
+                        <ComboBoxItem Content="Light" />
+                        <ComboBoxItem Content="Dark" />
+                    </ComboBox>
+                </settings:SettingsCard>
+
+                <!-- Search Shortcut Card -->
+                <settings:SettingsCard Header="Search Shortcut" Description="Select key combination to activate search box">
+                    <settings:SettingsCard.HeaderIcon>
+                        <FontIcon Glyph="&#xE721;" />
+                    </settings:SettingsCard.HeaderIcon>
+                    <ComboBox x:Name="SearchShortcutCombo" SelectionChanged="SearchShortcutCombo_SelectionChanged" Width="150" AutomationProperties.AutomationId="SearchShortcutComboBox">
+                        <ComboBoxItem Content="Ctrl+F" />
+                        <ComboBoxItem Content="F3" />
+                    </ComboBox>
+                </settings:SettingsCard>
+
+                <!-- Animated Emoji Download Mode Card -->
+                <settings:SettingsCard Header="Animated Emoji Asset Loading" Description="Choose how high-resolution animated emoji assets are retrieved">
+                    <settings:SettingsCard.HeaderIcon>
+                        <FontIcon Glyph="&#xE896;" />
+                    </settings:SettingsCard.HeaderIcon>
+                    <ComboBox x:Name="EmojiDownloadModeCombo" SelectionChanged="EmojiDownloadModeCombo_SelectionChanged" Width="200" AutomationProperties.AutomationId="EmojiDownloadModeComboBox">
+                        <ComboBoxItem Content="Download on Demand" Tag="OnDemand"/>
+                        <ComboBoxItem Content="Auto Download" Tag="AutoDownload"/>
+                        <ComboBoxItem Content="Download in Background" Tag="BackgroundDownload"/>
+                    </ComboBox>
+                </settings:SettingsCard>
+
+                <!-- GitHub API Settings using SettingsCard (Dev build only) -->
+                <settings:SettingsCard x:Name="GitHubPatCard" Header="GitHub Personal Access Token (PAT)" Description="Adding a PAT prevents API rate limiting when checking GitHub links.">
+                    <settings:SettingsCard.HeaderIcon>
+                        <FontIcon Glyph="&#xE902;" />
+                    </settings:SettingsCard.HeaderIcon>
+                    <StackPanel Orientation="Horizontal" Spacing="12" VerticalAlignment="Center">
+                        <PasswordBox x:Name="GitHubPatBox" PasswordChanged="GitHubPatBox_PasswordChanged" PlaceholderText="Enter your GitHub PAT" Width="300" Height="32" AutomationProperties.AutomationId="GitHubPatPasswordBox"/>
+                        <Button x:Name="SavePatBtn" Content="Save Token" Click="SavePatBtn_Click" Style="{StaticResource AccentButtonStyle}" Height="32" AutomationProperties.AutomationId="SavePatButton"/>
+                    </StackPanel>
+                </settings:SettingsCard>
+                
+                <TextBlock x:Name="PatStatusTxt" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemFillColorSuccessBrush}" Visibility="Collapsed" Margin="68,4,0,0" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

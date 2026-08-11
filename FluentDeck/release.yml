@@ -1,0 +1,109 @@
+name: Build FluentDeck Installers
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    strategy:
+      matrix:
+        arch: [win-x64, win-arm64]
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Restore Dependencies
+        run: dotnet restore "FluentDeck/FluentDeck.csproj" -r ${{ matrix.arch }}
+
+      - name: Publish App (${{ matrix.arch }})
+        run: >
+          dotnet publish "FluentDeck/FluentDeck.csproj"
+          -c Release
+          -r ${{ matrix.arch }}
+          -p:PublishProfile=win-${{ matrix.arch == 'win-x64' && 'x64' || 'arm64' }}
+          -o ./publish_output_${{ matrix.arch }}
+
+      - name: Zip for Auto-Updater (${{ matrix.arch }})
+        run: Compress-Archive -Path ./publish_output_${{ matrix.arch }}/* -DestinationPath WinUI-Cataloger-Update-${{ matrix.arch }}.zip
+
+      - name: Create Installer Script (${{ matrix.arch }})
+        run: |
+          $arch = "${{ matrix.arch }}"
+          $innoArch = if ($arch -eq 'win-arm64') { 'arm64' } else { 'x64' }
+
+          $iss = @"
+          [Setup]
+          AppName=FluentDeck
+          AppVersion=1.0.${{ github.run_number }}
+          DefaultDirName={autopf}\FluentDeck
+          DefaultGroupName=FluentDeck
+          OutputDir=.\installer_output
+          OutputBaseFilename=FluentDeck_Installer_$arch
+          Compression=lzma2
+          SolidCompression=yes
+          PrivilegesRequired=lowest
+          SetupIconFile=.\FluentDeck\Assets\WindowIcon.ico
+          UninstallDisplayIcon={app}\FluentDeck.exe
+          ArchitecturesAllowed=$innoArch
+          ArchitecturesInstallIn64BitMode=$innoArch
+          ChangesEnvironment=yes
+          
+          [Files]
+          Source: ".\publish_output_$arch\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+
+          [Icons]
+          Name: "{autoprograms}\FluentDeck"; Filename: "{app}\FluentDeck.exe"
+          Name: "{autodesktop}\FluentDeck"; Filename: "{app}\FluentDeck.exe"; Tasks: desktopicon
+
+          [Tasks]
+          Name: "desktopicon"; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"
+
+          [Run]
+          Filename: "{app}\FluentDeck.exe"; Description: "Launch FluentDeck"; Flags: nowait postinstall skipifsilent shellexec; WorkingDir: "{app}"
+          "@
+          Out-File -FilePath installer_$arch.iss -InputObject $iss -Encoding UTF8
+
+      - name: Compile Installer EXE (${{ matrix.arch }})
+        run: '& "C:\Program Files (x86)\Inno Setup 6\ISCC.exe" installer_${{ matrix.arch }}.iss'
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: WinUI-Cataloger-Builds-${{ matrix.arch }}
+          path: |
+            WinUI-Cataloger-Update-${{ matrix.arch }}.zip
+            installer_output/FluentDeck_Installer_${{ matrix.arch }}.exe
+
+  release:
+    name: Publish to GitHub Releases
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Build Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Create Release and Upload Assets
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: "FluentDeck v1.0.${{ github.run_number }}"
+          draft: false
+          prerelease: false
+          generate_release_notes: true
+          files: |
+            artifacts/WinUI-Cataloger-Builds-win-x64/installer_output/FluentDeck_Installer_win-x64.exe
+            artifacts/WinUI-Cataloger-Builds-win-arm64/installer_output/WinUI_Cataloger_Installer_win-arm64.exe
+            artifacts/WinUI-Cataloger-Builds-win-x64/WinUI-Cataloger-Update-win-x64.zip
+            artifacts/WinUI-Cataloger-Builds-win-arm64/WinUI-Cataloger-Update-win-arm64.zip

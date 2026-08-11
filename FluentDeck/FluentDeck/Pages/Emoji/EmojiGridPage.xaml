@@ -1,0 +1,65 @@
+<Page
+    x:Class="FluentDeck.Pages.Emoji.EmojiGridPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="using:FluentDeck.Pages.Emoji"
+    xmlns:viewmodels="using:FluentDeck.ViewModels"
+    mc:Ignorable="d"
+    NavigationCacheMode="Required"
+    Background="Transparent">
+
+    <Page.Resources>
+        <DataTemplate x:Key="EmojiItemTemplate" x:DataType="viewmodels:EmojiItem">
+            <Border Background="{ThemeResource CardBackgroundFillColorSecondaryBrush}"
+                    BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                    BorderThickness="1"
+                    CornerRadius="4"
+                    HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Grid Padding="12" RowDefinitions="*,Auto" MinHeight="160" Height="160" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                    <Image Grid.Row="0" Source="{x:Bind ImagePath}" Width="72" Height="72" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Grid.Row="1" Text="{x:Bind Name}" Style="{StaticResource CaptionTextBlockStyle}" TextAlignment="Center" TextWrapping="Wrap" MaxLines="2" TextTrimming="CharacterEllipsis" Foreground="{ThemeResource TextFillColorSecondaryBrush}" Margin="0,8,0,0" HorizontalAlignment="Center"/>
+                </Grid>
+            </Border>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <!-- Loading Ring -->
+        <ProgressRing x:Name="LoadingRing"
+                      IsActive="{x:Bind ViewModel.IsLoading, Mode=OneWay}"
+                      Visibility="{x:Bind local:EmojiPage.BoolToVisibility(ViewModel.IsLoading), Mode=OneWay}"
+                      Width="48" Height="48"
+                      HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <!-- Scrollable GridView with Auto-stretching ItemsWrapGrid -->
+        <GridView x:Name="EmojiGridView"
+                  Padding="0,16,16,16"
+                  ItemsSource="{x:Bind ViewModel.FilteredEmojis, Mode=OneWay}"
+                  SelectedItem="{x:Bind ViewModel.SelectedEmoji, Mode=TwoWay}"
+                  ItemTemplate="{StaticResource EmojiItemTemplate}"
+                  SelectionChanged="EmojiGridView_SelectionChanged"
+                  SizeChanged="EmojiGridView_SizeChanged"
+                  SelectionMode="Single"
+                  IsSynchronizedWithCurrentItem="False"
+                  Visibility="{x:Bind local:EmojiPage.InverseBoolToVisibility(ViewModel.IsLoading), Mode=OneWay}">
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <ItemsWrapGrid AreStickyGroupHeadersEnabled="False" Orientation="Horizontal" />
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
+            <GridView.ItemContainerStyle>
+                <Style TargetType="GridViewItem" BasedOn="{StaticResource DefaultGridViewItemStyle}">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="VerticalContentAlignment" Value="Stretch" />
+                    <Setter Property="HorizontalAlignment" Value="Stretch" />
+                    <Setter Property="VerticalAlignment" Value="Stretch" />
+                    <Setter Property="Margin" Value="0,0,8,8" />
+                    <Setter Property="Padding" Value="0" />
+                    <Setter Property="MinHeight" Value="160" />
+                </Style>
+            </GridView.ItemContainerStyle>
+        </GridView>
+    </Grid>
+</Page>

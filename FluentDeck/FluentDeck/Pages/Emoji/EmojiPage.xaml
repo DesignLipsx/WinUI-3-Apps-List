@@ -1,0 +1,242 @@
+<Page
+    x:Class="FluentDeck.Pages.Emoji.EmojiPage"
+    x:Name="EmojiPageRoot"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:labs="using:CommunityToolkit.WinUI.Controls"
+    xmlns:controls="using:FluentDeck.Controls"
+    xmlns:local="using:FluentDeck.Pages.Emoji"
+    xmlns:viewmodels="using:FluentDeck.ViewModels"
+    mc:Ignorable="d"
+    Background="Transparent">
+
+    <Page.Resources>
+        <DataTemplate x:Key="EmojiItemTemplate" x:DataType="viewmodels:EmojiItem">
+            <Grid Padding="12" RowDefinitions="*,Auto" MinHeight="160" Height="160" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Image Grid.Row="0" Source="{x:Bind ImagePath}" Width="72" Height="72" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Grid.Row="1" Text="{x:Bind Name}" Style="{StaticResource CaptionTextBlockStyle}" TextAlignment="Center" TextWrapping="Wrap" MaxLines="2" TextTrimming="CharacterEllipsis" Foreground="{ThemeResource TextFillColorSecondaryBrush}" Margin="0,8,0,0" HorizontalAlignment="Center"/>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <!-- Main Grid split into Left Pane and Sidebar Pane -->
+    <Grid Padding="24,24,0,0" ColumnDefinitions="*,Auto">
+
+        <!-- Left Pane (Search, Categories, Grid) -->
+        <Grid Grid.Column="0" RowDefinitions="Auto,Auto,*" Margin="0,0,16,0">
+
+            <!-- Top Bar: search box + CategorySegment -->
+            <Grid Grid.Row="0" Margin="0,0,0,16" ColumnDefinitions="*,Auto" ColumnSpacing="12">
+                <AutoSuggestBox Grid.Column="0" x:Name="SearchBox" Width="260" Height="32" PlaceholderText="{x:Bind ViewModel.SearchPlaceholder, Mode=OneWay}"
+                                QueryIcon="Find"
+                                TextChanged="SearchBox_TextChanged"
+                                AutomationProperties.AutomationId="EmojiSearchBox"
+                                AutomationProperties.Name="Search emojis"
+                                VerticalAlignment="Center" HorizontalAlignment="Left"/>
+
+                <labs:Segmented Grid.Column="1" x:Name="CategorySegment" SelectedIndex="0" SelectionChanged="CategorySegment_SelectionChanged" Height="32" VerticalAlignment="Center"
+                                AutomationProperties.AutomationId="EmojiCategorySegment" AutomationProperties.Name="Emoji Category">
+                    <labs:Segmented.ItemContainerStyle>
+                        <Style TargetType="labs:SegmentedItem">
+                            <Setter Property="MinHeight" Value="32"/>
+                            <Setter Property="Height" Value="32"/>
+                            <Setter Property="Padding" Value="0"/>
+                        </Style>
+                    </labs:Segmented.ItemContainerStyle>
+                    <labs:SegmentedItem Tag="All" ToolTipService.ToolTip="All Categories">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE8A9;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Smileys &amp; Emotion" ToolTipService.ToolTip="Smileys">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE899;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="People &amp; Body" ToolTipService.ToolTip="People">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE77B;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Animals &amp; Nature" ToolTipService.ToolTip="Animals">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xEA79;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Food &amp; Drink" ToolTipService.ToolTip="Food">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xED56;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Activities" ToolTipService.ToolTip="Activity">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE805;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Travel &amp; Places" ToolTipService.ToolTip="Travel">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE806;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Objects" ToolTipService.ToolTip="Objects">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE82F;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Symbols" ToolTipService.ToolTip="Symbols">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xEB51;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                    <labs:SegmentedItem Tag="Flags" ToolTipService.ToolTip="Flags">
+                        <labs:SegmentedItem.Content>
+                            <FontIcon Glyph="&#xE7C1;" FontSize="14"/>
+                        </labs:SegmentedItem.Content>
+                    </labs:SegmentedItem>
+                </labs:Segmented>
+            </Grid>
+
+            <!-- Divider -->
+            <MenuFlyoutSeparator Grid.Row="1" />
+
+            <!-- Content Frame for EmojiGridPage with SlideNavigationTransitionInfo -->
+            <Frame x:Name="ContentFrame" Grid.Row="2"
+                   IsNavigationStackEnabled="False" />
+        </Grid>
+
+        <!-- Right Pane (Sidebar Details) -->
+        <Border Grid.Column="1" Width="380" BorderThickness="1,0,0,0" BorderBrush="{ThemeResource DividerStrokeColorDefaultBrush}" Padding="20,0,24,24">
+            <Grid RowDefinitions="*,Auto">
+                <!-- If No Emoji is Selected -->
+                <StackPanel Spacing="16" VerticalAlignment="Center" HorizontalAlignment="Center"
+                            Visibility="{x:Bind local:EmojiPage.NullToVisibility(ViewModel.SelectedEmoji), Mode=OneWay}">
+                    <FontIcon Glyph="&#xF156;" FontSize="48" Foreground="{ThemeResource TextFillColorTertiaryBrush}"/>
+                    <TextBlock Text="Select an emoji to view details" Style="{StaticResource BodyTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" TextAlignment="Center"/>
+                </StackPanel>
+
+                <!-- If Emoji is Selected -->
+                <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled"
+                              Visibility="{x:Bind local:EmojiPage.NotNullToVisibility(ViewModel.SelectedEmoji), Mode=OneWay}">
+                    <StackPanel Spacing="16" Padding="0,0,0,0">
+                        <!-- Preview Card with 1:1 Aspect Ratio container -->
+                        <Border BorderThickness="1" Width="340" 
+                                BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}" 
+                                CornerRadius="8" 
+                                Background="{ThemeResource CardBackgroundFillColorDefaultBrush}" 
+                                Padding="20" HorizontalAlignment="Center" 
+                                VerticalAlignment="Center">
+                            <Grid RowDefinitions="*,Auto" RowSpacing="20">
+                                <!-- Image area (fills top row) -->
+                                <Grid Grid.Row="0" MinHeight="220">
+                                    <!-- Top-Right Play/Pause/Download Button (Only visible if emoji has an animated version) -->
+                                    <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top" Canvas.ZIndex="10">
+                                        <ProgressRing IsIndeterminate="False"
+                                                      Value="{x:Bind ViewModel.DownloadProgress, Mode=OneWay}"
+                                                      Visibility="{x:Bind local:EmojiPage.BoolToVisibility(ViewModel.IsDownloadingAnimation), Mode=OneWay}"
+                                                      Width="28" Height="28" Margin="4"/>
+                                        <Button Click="PlayAnimation_Click"
+                                                Padding="8" CornerRadius="16"
+                                                Background="{ThemeResource ControlAltFillColorSecondaryBrush}"
+                                                ToolTipService.ToolTip="{x:Bind local:EmojiPage.AnimationButtonToolTip(ViewModel.IsAnimatedDownloaded, ViewModel.IsPlayingAnimation), Mode=OneWay}"
+                                                Visibility="{x:Bind local:EmojiPage.AnimationButtonVisibility(ViewModel.HasAnimation, ViewModel.IsDownloadingAnimation), Mode=OneWay}">
+                                            <FontIcon Glyph="{x:Bind local:EmojiPage.AnimationButtonIcon(ViewModel.IsAnimatedDownloaded, ViewModel.IsPlayingAnimation), Mode=OneWay}" FontSize="12"/>
+                                        </Button>
+                                    </StackPanel>
+
+                                    <Grid Width="160" Height="160" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                        <!-- Normal SVG / PNG Image renderer (uses Svg.Skia for full feGaussianBlur support) -->
+                                        <controls:SvgImage SourcePath="{x:Bind ViewModel.PreviewImagePath, Mode=OneWay}"
+                                                        Width="160" Height="160"
+                                                        HorizontalAlignment="Center" VerticalAlignment="Center"
+                                                        Visibility="{x:Bind local:EmojiPage.InverseBoolToVisibility(ViewModel.IsPlayingAnimation), Mode=OneWay}"/>
+
+                                        <!-- APNG Player (Used only when playing APNG animation) -->
+                                        <controls:ApngPlayer SourcePath="{x:Bind ViewModel.AnimatedAssetPath, Mode=OneWay}"
+                                                          Width="160" Height="160" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                                          Visibility="{x:Bind local:EmojiPage.BoolToVisibility(ViewModel.IsPlayingAnimation), Mode=OneWay}"/>
+                                    </Grid>
+                                </Grid>
+
+                                <!-- Representation Style Picker (bottom of card) -->
+                                <labs:Segmented Grid.Row="1" x:Name="StyleSegment" SelectedIndex="0" SelectionChanged="StyleSegment_SelectionChanged" Height="32" HorizontalAlignment="Stretch"
+                                                AutomationProperties.AutomationId="EmojiStyleSegment" AutomationProperties.Name="Emoji Style">
+                                    <labs:Segmented.ItemContainerStyle>
+                                        <Style TargetType="labs:SegmentedItem">
+                                            <Setter Property="MinHeight" Value="32"/>
+                                            <Setter Property="Height" Value="32"/>
+                                            <Setter Property="Padding" Value="0"/>
+                                        </Style>
+                                    </labs:Segmented.ItemContainerStyle>
+                                    <labs:SegmentedItem Content="3D" Tag="3D" ToolTipService.ToolTip="Emojis with a modern, three-dimensional look"/>
+                                    <labs:SegmentedItem Content="Modern" Tag="Color" ToolTipService.ToolTip="Classic, vibrant, and detailed two-dimensional style"/>
+                                    <labs:SegmentedItem Content="Flat" Tag="Flat" ToolTipService.ToolTip="Minimalist, simplified two-dimensional style"/>
+                                    <labs:SegmentedItem Content="Mono" Tag="High Contrast" ToolTipService.ToolTip="Black and white or single-color outline style"/>
+                                </labs:Segmented>
+                            </Grid>
+                        </Border>
+
+                        <!-- Detailed Metadata Grid -->
+                        <StackPanel Spacing="12">
+                            <TextBlock Text="Metadata Details" Style="{StaticResource BodyStrongTextBlockStyle}"/>
+                            
+                            <Grid ColumnDefinitions="90,*" RowDefinitions="Auto,Auto,Auto,Auto,Auto" RowSpacing="12">
+                                <!-- Row 0: Name -->
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="Name" VerticalAlignment="Center" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                                <TextBlock Grid.Row="0" Grid.Column="1" Text="{x:Bind ViewModel.SelectedEmoji.Name, Mode=OneWay}" VerticalAlignment="Center" FontWeight="SemiBold" IsTextSelectionEnabled="True" TextWrapping="Wrap"/>
+
+                                <!-- Row 1: Unicode -->
+                                <TextBlock Grid.Row="1" Grid.Column="0" Text="Unicode" VerticalAlignment="Center" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="{x:Bind local:EmojiPage.FormatUnicodeLabel(ViewModel.SelectedEmoji.Unicode), Mode=OneWay}" VerticalAlignment="Center" IsTextSelectionEnabled="True" TextWrapping="Wrap"/>
+
+                                <!-- Row 2: Category -->
+                                <TextBlock Grid.Row="2" Grid.Column="0" Text="Category" VerticalAlignment="Center" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                                <TextBlock Grid.Row="2" Grid.Column="1" Text="{x:Bind ViewModel.SelectedEmoji.Group, Mode=OneWay}" VerticalAlignment="Center" IsTextSelectionEnabled="True" TextWrapping="Wrap"/>
+
+                                <!-- Row 3: Keywords -->
+                                <TextBlock Grid.Row="3" Grid.Column="0" Text="Keywords" VerticalAlignment="Top" Margin="0,4,0,0" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                                <TextBlock Grid.Row="3" Grid.Column="1" Text="{x:Bind local:EmojiPage.GetKeywordsString(ViewModel.SelectedEmoji.Keywords), Mode=OneWay}" VerticalAlignment="Center" IsTextSelectionEnabled="True" TextWrapping="Wrap"/>
+                            </Grid>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+
+                <!-- Bottom-pinned Actions -->
+                <StackPanel Grid.Row="1" Spacing="8" Margin="0,12,0,0"
+                            Visibility="{x:Bind local:EmojiPage.NotNullToVisibility(ViewModel.SelectedEmoji), Mode=OneWay}">
+                    <Button x:Name="CopyGlyphButton" Click="CopyGlyph_Click" Style="{ThemeResource AccentButtonStyle}" HorizontalAlignment="Stretch" Padding="12,10">
+                        <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+                            <StackPanel.RenderTransform>
+                                <ScaleTransform/>
+                            </StackPanel.RenderTransform>
+                            <FontIcon Glyph="&#xE8C8;" FontSize="14"/>
+                            <TextBlock Text="Copy Emoji Glyph"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="CopyUnicodeButton" Click="CopyUnicode_Click" HorizontalAlignment="Stretch" Padding="12,10">
+                        <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+                            <StackPanel.RenderTransform>
+                                <ScaleTransform/>
+                            </StackPanel.RenderTransform>
+                            <FontIcon Glyph="&#xE8C8;" FontSize="14"/>
+                            <TextBlock Text="Copy Unicode"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button Content="Save as Image..." Click="SaveImage_Click" HorizontalAlignment="Stretch" Padding="12,10">
+                        <Button.ContentTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Center">
+                                    <FontIcon Glyph="&#xE896;" FontSize="14"/>
+                                    <TextBlock Text="Save as Image..."/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </Button.ContentTemplate>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

@@ -1,0 +1,201 @@
+<Page
+    x:Class="FluentDeck.Pages.Apps.AppsPreviewGridPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models="using:FluentDeck.Models"
+    xmlns:local="using:FluentDeck.Pages.Apps"
+    mc:Ignorable="d"
+    Background="Transparent">
+
+    <!-- =================================================================== -->
+    <!-- Page Resources & DataTemplates                                      -->
+    <!-- =================================================================== -->
+    <Page.Resources>
+        <CollectionViewSource x:Name="CatalogCVS" IsSourceGrouped="True"/>
+
+        <!-- Single App Card Template for Virtualized Grid Layout -->
+        <DataTemplate x:Key="GridAppTemplate" x:DataType="models:CatalogAppItem">
+            <Border Margin="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                    BorderThickness="1" BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                    CornerRadius="8" Background="{ThemeResource CardBackgroundFillColorSecondaryBrush}"
+                    AutomationProperties.Name="{x:Bind Name}" AutomationProperties.AutomationId="GridAppCard">
+
+                <!-- Context Menu for Editing (Dev Mode) -->
+                <Border.ContextFlyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem Text="Edit App Info..." Click="EditApp_Click" AutomationProperties.Name="Edit App Information">
+                            <MenuFlyoutItem.Icon>
+                                <FontIcon Glyph="&#xE70F;"/>
+                            </MenuFlyoutItem.Icon>
+                        </MenuFlyoutItem>
+                    </MenuFlyout>
+                </Border.ContextFlyout>
+
+                <Grid MinHeight="214" RowDefinitions="124,*">
+
+                    <!-- App Logo Header Area -->
+                    <Border Grid.Row="0" Background="{ThemeResource ControlAltFillColorSecondaryBrush}" CornerRadius="8,8,0,0">
+                        <Grid>
+                            <!-- Custom Logo View (Ambient Layered Blur + Clean Foreground) -->
+                            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="{x:Bind local:AppsPage.BoolToVisibility(HasLogo)}">
+                                <!-- Layer 1: Ambient Background Glow -->
+                                <Image Stretch="UniformToFill" Opacity="0.4" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Image.Source>
+                                        <BitmapImage UriSource="{x:Bind DisplayLogoUrl}" DecodePixelWidth="4" DecodePixelHeight="4"/>
+                                    </Image.Source>
+                                </Image>
+                                <!-- Layer 2: Clean Foreground App Icon -->
+                                <Image Source="{x:Bind LogoSource}" Width="64" Height="64" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Grid>
+
+                            <!-- Fallback Initial Placeholder (When No Logo Remote Asset Available) -->
+                            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="{x:Bind local:AppsPage.InverseBoolToVisibility(HasLogo)}">
+                                <Border Background="{x:Bind FallbackBrush}" Opacity="0.2"/>
+                                <Border Width="64" Height="64" CornerRadius="4" Background="{x:Bind FallbackBrush}" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <TextBlock Text="{x:Bind FirstLetter}" Foreground="White" FontWeight="Bold" FontSize="28" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Border>
+
+                    <!-- App Information & Status Badges Area -->
+                    <Grid Grid.Row="1" Padding="12" RowDefinitions="*,Auto" Background="{ThemeResource CardBackgroundFillColorSecondaryBrush}" CornerRadius="0,0,8,8">
+                        <TextBlock Grid.Row="0" Text="{x:Bind Name}" Style="{StaticResource BodyStrongTextBlockStyle}" TextWrapping="Wrap" TextTrimming="CharacterEllipsis" Margin="0,0,0,8"/>
+
+                        <Grid Grid.Row="1" ColumnDefinitions="*,Auto">
+                            <!-- Design Style Indicator (WD, WDM, WDA) -->
+                            <TextBlock Grid.Column="0" Text="{x:Bind Indicator}" Style="{StaticResource CaptionTextBlockStyle}" VerticalAlignment="Center" Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+
+                            <!-- Status Badges Stack (Standard WinUI 3 Rounded Rectangle Badges) -->
+                            <StackPanel Grid.Column="1" Orientation="Horizontal" Spacing="4">
+                                <!-- FOSS Badge -->
+                                <Border Background="{ThemeResource SystemFillColorSuccessBackgroundBrush}" CornerRadius="4" Padding="6,2" Visibility="{x:Bind local:AppsPage.BoolToVisibility(IsFoss)}">
+                                    <TextBlock Text="FOSS" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemFillColorSuccessBrush}" VerticalAlignment="Center"/>
+                                </Border>
+
+                                <!-- Paid Badge -->
+                                <Border Background="{ThemeResource SystemFillColorCautionBackgroundBrush}" CornerRadius="4" Padding="6,2" Visibility="{x:Bind local:AppsPage.BoolToVisibility(IsPaid)}">
+                                    <TextBlock Text="💰" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemFillColorCautionBrush}" VerticalAlignment="Center"/>
+                                </Border>
+
+                                <!-- Planned Badge -->
+                                <Border Background="{ThemeResource ControlFillColorSecondaryBrush}" CornerRadius="4" Padding="6,2" Visibility="{x:Bind local:AppsPage.BoolToVisibility(IsPlanned)}">
+                                    <TextBlock Text="📅" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" VerticalAlignment="Center"/>
+                                </Border>
+
+                                <!-- Discontinued / Inactive Badge -->
+                                <Border Background="{ThemeResource ControlFillColorSecondaryBrush}" CornerRadius="4" Padding="6,2" Visibility="{x:Bind local:AppsPage.BoolToVisibility(IsDiscontinued)}">
+                                    <TextBlock Text="❎" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource TextFillColorSecondaryBrush}" VerticalAlignment="Center"/>
+                                </Border>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Border>
+        </DataTemplate>
+    </Page.Resources>
+
+    <!-- =================================================================== -->
+    <!-- Grid Page Content Host                                              -->
+    <!-- =================================================================== -->
+    <Grid>
+        <!-- Loading State Progress Ring -->
+        <ProgressRing x:Name="LoadingRing"
+                      IsActive="False"
+                      Visibility="Collapsed"
+                      Width="48" Height="48"
+                      HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <!-- Main Native Virtualized Grouped GridView -->
+        <GridView x:Name="GroupedGridView"
+                  Padding="0,8,0,16"
+                  ItemsSource="{x:Bind CatalogCVS.View, Mode=OneWay}"
+                  ItemTemplate="{StaticResource GridAppTemplate}"
+                  SizeChanged="GroupedGridView_SizeChanged"
+                  ItemClick="GroupedGridView_ItemClick"
+                  SelectionMode="None"
+                  IsItemClickEnabled="True">
+            <GridView.Resources>
+                <Thickness x:Key="GridViewHeaderItemMargin">0</Thickness>
+                <Thickness x:Key="GridViewHeaderItemPadding">0</Thickness>
+            </GridView.Resources>
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <ItemsWrapGrid AreStickyGroupHeadersEnabled="False" Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
+            <GridView.ItemContainerStyle>
+                <Style TargetType="GridViewItem" BasedOn="{StaticResource DefaultGridViewItemStyle}">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="VerticalContentAlignment" Value="Stretch" />
+                    <Setter Property="HorizontalAlignment" Value="Stretch" />
+                    <Setter Property="VerticalAlignment" Value="Stretch" />
+                    <Setter Property="Margin" Value="0,0,8,8" />
+                    <Setter Property="Padding" Value="0" />
+                    <Setter Property="MinHeight" Value="214" />
+                    <Setter Property="CornerRadius" Value="8" />
+                </Style>
+            </GridView.ItemContainerStyle>
+            <GridView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderContainerStyle>
+                        <Style TargetType="GridViewHeaderItem">
+                            <Setter Property="Padding" Value="0"/>
+                            <Setter Property="Margin" Value="0"/>
+                            <Setter Property="MinHeight" Value="0"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                            <Setter Property="VerticalContentAlignment" Value="Stretch"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="GridViewHeaderItem">
+                                        <ContentPresenter Content="{TemplateBinding Content}"
+                                                          ContentTemplate="{TemplateBinding ContentTemplate}"
+                                                          ContentTransitions="{TemplateBinding ContentTransitions}"
+                                                          HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                                          VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                                          Margin="0" Padding="0"/>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </GroupStyle.HeaderContainerStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate x:DataType="models:GridAppGroup">
+                            <StackPanel HorizontalAlignment="Stretch">
+                                <!-- Category Section Header -->
+                                <Grid Margin="{x:Bind local:AppsPage.HeaderMargin(Header.Level)}">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Button Grid.Column="0" Click="HeaderButton_Click" Background="Transparent" BorderThickness="0" Padding="0" VerticalAlignment="Center" HorizontalAlignment="Left" AutomationProperties.Name="{x:Bind Header.Text}">
+                                        <StackPanel Orientation="Horizontal" Spacing="8" VerticalAlignment="Center">
+                                            <Image Source="{x:Bind local:AppsPage.PathToImageSource(Header.IconPath)}" Width="28" Height="28" Stretch="Uniform" UseLayoutRounding="True" VerticalAlignment="Center" Visibility="{x:Bind Header.IconVisibility}"/>
+                                            <TextBlock Text="{x:Bind Header.Text}"
+                                                        Style="{x:Bind local:AppsPage.HeaderTextStyle(Header.Level)}"
+                                                        VerticalAlignment="Center" />
+                                        </StackPanel>
+                                    </Button>
+
+                                    <Button Grid.Column="1" x:Name="AddAppButton" Click="AddAppButton_Click" VerticalAlignment="Center"
+                                            Visibility="{x:Bind local:AppsPage.AddAppButtonVisibility(Header.IsLeafCategory)}" Padding="12,4"
+                                            ToolTipService.ToolTip="{x:Bind Header.AddButtonToolTip}" AutomationProperties.Name="Add App">
+                                        <StackPanel Orientation="Horizontal" Spacing="6">
+                                            <FontIcon Glyph="&#xE109;" FontSize="12"/>
+                                            <TextBlock Text="Add" Style="{StaticResource CaptionTextBlockStyle}"/>
+                                        </StackPanel>
+                                    </Button>
+                                </Grid>
+                                <!-- Full-Width Border line under section header -->
+                                <Border Height="1" Background="{ThemeResource DividerStrokeColorDefaultBrush}" Margin="0,8,24,8" Visibility="{x:Bind local:AppsPage.HeaderSeparatorVisibility(Header.Level)}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                </GroupStyle>
+            </GridView.GroupStyle>
+        </GridView>
+    </Grid>
+</Page>

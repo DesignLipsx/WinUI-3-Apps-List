@@ -1,0 +1,99 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <RootNamespace>FluentDeck</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Platforms>x64</Platforms>
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+    <PublishProfile>win-x64.pubxml</PublishProfile>
+    <UseWinUI>true</UseWinUI>
+    <WinUISDKReferences>false</WinUISDKReferences>
+    <EnableMsixTooling>true</EnableMsixTooling>
+    <WindowsPackageType>None</WindowsPackageType>
+    <ApplicationIcon>Assets\WindowIcon.ico</ApplicationIcon>
+    <Nullable>enable</Nullable>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <!-- Version metadata shown in Windows Explorer file properties -->
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <!-- Disable auto-generated Program entry point so our custom one runs -->
+    <DefineConstants>DISABLE_XAML_GENERATED_MAIN</DefineConstants>
+
+    <!-- Fix design-time warnings in Visual Studio -->
+    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
+    <PublishSingleFileOptionWarn>false</PublishSingleFileOptionWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Dev' or '$(DEV_BUILD)' == 'true'">
+    <DefineConstants>$(DefineConstants);DEV_BUILD</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(RuntimeIdentifier)' != ''">
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Assets\WindowIcon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Manifest Include="$(ApplicationManifest)" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(DisableMsixProjectCapabilityAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
+    <ProjectCapability Include="Msix" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.Segmented" Version="8.2.251219" />
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.SettingsControls" Version="8.2.251219" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.28000.2526" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="2.3.1" />
+    <PackageReference Include="Svg.Skia" Version="2.0.0.1" />
+    <PackageReference Include="Microsoft.Graphics.Win2D" Version="1.3.2" />
+  </ItemGroup>
+
+  <!--
+    Exclude AI, ML, and WebView2 binaries from publish single-file output.
+    These are pulled in by WindowsAppSDK but not used by this app.
+  -->
+  <Target Name="ExcludeUnneededBinaries" BeforeTargets="GenerateSingleFileBundle">
+    <ItemGroup>
+      <FilesToBundle Remove="@(FilesToBundle)" Condition="'%(Filename)' != '' and ($([System.String]::new('%(Filename)').StartsWith('DirectML'))&#xD;&#xA;                  or $([System.String]::new('%(Filename)').StartsWith('onnxruntime'))&#xD;&#xA;                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.Windows.AI'))&#xD;&#xA;                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.Web.WebView2'))&#xD;&#xA;                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.ML.OnnxRuntime'))&#xD;&#xA;                  or $([System.String]::new('%(Filename)').StartsWith('System.Numerics.Tensors')))" />
+    </ItemGroup>
+  </Target>
+
+  <!-- Clean unneeded binaries from the output folder after publish -->
+  <Target Name="CleanUnneededBinaries" AfterTargets="Publish">
+    <ItemGroup>
+      <_UnneededBinaries Include="$(PublishDir)Microsoft.Web.WebView2*" />
+      <_UnneededBinaries Include="$(PublishDir)Microsoft.Windows.AI*" />
+      <_UnneededBinaries Include="$(PublishDir)onnxruntime*" />
+      <_UnneededBinaries Include="$(PublishDir)DirectML*" />
+      <_UnneededBinaries Include="$(PublishDir)Microsoft.ML.OnnxRuntime*" />
+      <_UnneededBinaries Include="$(PublishDir)System.Numerics.Tensors*" />
+    </ItemGroup>
+    <Delete Files="@(_UnneededBinaries)" ContinueOnError="true" />
+  </Target>
+
+  <PropertyGroup Condition="'$(DisableHasPackageAndPublishMenuAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
+    <HasPackageAndPublishMenu>true</HasPackageAndPublishMenu>
+  </PropertyGroup>
+
+  <!-- Publish Properties -->
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <PublishReadyToRun>True</PublishReadyToRun>
+    <PublishTrimmed>False</PublishTrimmed>
+    <PublishSingleFile>True</PublishSingleFile>
+    <EnableCompressionInSingleFile>True</EnableCompressionInSingleFile>
+  </PropertyGroup>
+</Project>

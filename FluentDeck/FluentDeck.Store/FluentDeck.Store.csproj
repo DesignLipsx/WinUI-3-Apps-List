@@ -1,0 +1,108 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <RootNamespace>FluentDeck</RootNamespace>
+    <AssemblyName>FluentDeck</AssemblyName>
+    <ApplicationManifest>..\FluentDeck\app.manifest</ApplicationManifest>
+    <Platforms>x64</Platforms>
+    <Platform Condition="'$(Platform)' == ''">x64</Platform>
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+    <RuntimeIdentifier Condition="'$(RuntimeIdentifier)' == ''">win-x64</RuntimeIdentifier>
+    <PublishProfile>..\FluentDeck\win-x64.pubxml</PublishProfile>
+    <UseWinUI>true</UseWinUI>
+    <WinUISDKReferences>false</WinUISDKReferences>
+    <EnableMsixTooling>true</EnableMsixTooling>
+    <WindowsPackageType>None</WindowsPackageType>
+    <ApplicationIcon>..\FluentDeck\Assets\WindowIcon.ico</ApplicationIcon>
+    <Nullable>enable</Nullable>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <!-- Disable auto-generated Program entry point so our custom one runs -->
+    <DefineConstants>DISABLE_XAML_GENERATED_MAIN</DefineConstants>
+    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
+    <PublishSingleFileOptionWarn>false</PublishSingleFileOptionWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(RuntimeIdentifier)' != ''">
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\FluentDeck\**\*.cs" Exclude="..\FluentDeck\obj\**;..\FluentDeck\bin\**" />
+    <Page Include="..\FluentDeck\**\*.xaml" Exclude="..\FluentDeck\obj\**;..\FluentDeck\bin\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\FluentDeck\Assets\SplashScreen.scale-200.png" Link="Assets\SplashScreen.scale-200.png" />
+    <Content Include="..\FluentDeck\Assets\Square150x150Logo.scale-200.png" Link="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="..\FluentDeck\Assets\Square44x44Logo.scale-200.png" Link="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="..\FluentDeck\Assets\Square44x44Logo.targetsize-24_altform-unplated.png" Link="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="..\FluentDeck\Assets\StoreLogo.png" Link="Assets\StoreLogo.png" />
+    <Content Include="..\FluentDeck\Assets\Wide310x150Logo.scale-200.png" Link="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="..\FluentDeck\Assets\WindowIcon.ico" Link="Assets\WindowIcon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Manifest Include="$(ApplicationManifest)" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(DisableMsixProjectCapabilityAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
+    <ProjectCapability Include="Msix" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.Segmented" Version="8.2.251219" />
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.SettingsControls" Version="8.2.251219" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.28000.2526" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="2.3.1" />
+    <PackageReference Include="Svg.Skia" Version="2.0.0.1" />
+    <PackageReference Include="Microsoft.Graphics.Win2D" Version="1.3.2" />
+  </ItemGroup>
+
+  <Target Name="CopyLargeAssets" BeforeTargets="Build">
+    <Exec Command="robocopy &quot;$(MSBuildProjectDirectory)\..\FluentDeck\Assets&quot; &quot;$(OutDir)Assets&quot; /E /NDL /NFL /NJH /NJS /nc /ns /np" ContinueOnError="true" IgnoreExitCode="true" />
+  </Target>
+
+  <Target Name="ExcludeUnneededBinaries" BeforeTargets="GenerateSingleFileBundle">
+    <ItemGroup>
+      <FilesToBundle Remove="@(FilesToBundle)" Condition="$([System.String]::new('%(Filename)').StartsWith('DirectML'))
+                  or $([System.String]::new('%(Filename)').StartsWith('onnxruntime'))
+                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.Windows.AI'))
+                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.Web.WebView2'))
+                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.ML.OnnxRuntime'))
+                  or $([System.String]::new('%(Filename)').StartsWith('System.Numerics.Tensors'))" />
+      <ResolvedFileToPublish Remove="@(ResolvedFileToPublish)" Condition="$([System.String]::new('%(Filename)').StartsWith('DirectML'))
+                  or $([System.String]::new('%(Filename)').StartsWith('onnxruntime'))
+                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.Windows.AI'))
+                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.Web.WebView2'))
+                  or $([System.String]::new('%(Filename)').StartsWith('Microsoft.ML.OnnxRuntime'))
+                  or $([System.String]::new('%(Filename)').StartsWith('System.Numerics.Tensors'))" />
+    </ItemGroup>
+  </Target>
+
+  <Target Name="CleanUnneededBinaries" AfterTargets="Build">
+    <ItemGroup>
+      <_UnneededBinaries Include="$(OutDir)Microsoft.Web.WebView2*" />
+      <_UnneededBinaries Include="$(OutDir)Microsoft.Windows.AI*" />
+      <_UnneededBinaries Include="$(OutDir)onnxruntime*" />
+      <_UnneededBinaries Include="$(OutDir)DirectML*" />
+      <_UnneededBinaries Include="$(OutDir)Microsoft.ML.OnnxRuntime*" />
+      <_UnneededBinaries Include="$(OutDir)System.Numerics.Tensors*" />
+    </ItemGroup>
+    <Delete Files="@(_UnneededBinaries)" ContinueOnError="true" />
+  </Target>
+
+  <PropertyGroup Condition="'$(DisableHasPackageAndPublishMenuAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
+    <HasPackageAndPublishMenu>true</HasPackageAndPublishMenu>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PublishReadyToRun Condition="'$(Configuration)' == 'Debug'">False</PublishReadyToRun>
+    <PublishReadyToRun Condition="'$(Configuration)' != 'Debug'">True</PublishReadyToRun>
+    <PublishSingleFile>False</PublishSingleFile>
+  </PropertyGroup>
+</Project>
