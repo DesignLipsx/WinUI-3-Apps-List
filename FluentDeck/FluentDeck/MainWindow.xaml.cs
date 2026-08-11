@@ -4,7 +4,6 @@ using FluentDeck.Pages.Apps;
 using FluentDeck.Pages.Diagnostics;
 using FluentDeck.Pages.Emoji;
 using FluentDeck.Pages.Icons;
-using FluentDeck.Pages.Publish;
 using FluentDeck.Pages.Settings;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
@@ -245,8 +244,6 @@ public partial class MainWindow : Window
             ContentFrame.Navigate(typeof(AppsPage));
         else if (tag == "Diagnostics")
             ContentFrame.Navigate(typeof(DiagnosticsPage));
-        else if (tag == "Publish")
-            ContentFrame.Navigate(typeof(PublishPage));
         else if (tag == "Settings")
             ContentFrame.Navigate(typeof(SettingsPage));
         else if (tag == "Emoji")
