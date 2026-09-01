@@ -238,6 +238,7 @@ Last 17 apps that were recently added to list!
 
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
+- `WDM` [FontWizard](https://github.com/karnyadavdev/FontWizard) <sup>`FOSS`</sup>
 - `WDM` [Inky - PDF Reader](https://apps.microsoft.com/detail/9nblggh40fwd)
 - `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup>
 - `WDM` [MdPad](https://github.com/radueduard97/MdPad) <sup>`FOSS`</sup>
@@ -807,6 +808,7 @@ Last 17 apps that were recently added to list!
 - `WD` [FluentOBS](https://github.com/DarkForceFREEFIRE/FluentOBS) `🎨` <sup>`FOSS`</sup>
 - `WDA` [Fold11](https://apps.microsoft.com/detail/9nn3sbfdk83c)
 - `WD` [Folder Icon Painter](https://github.com/FolderPainter/FolderIconPainter) <sup>`FOSS`</sup>
+- `WDM` [FontWizard](https://github.com/karnyadavdev/FontWizard) <sup>`FOSS`</sup>
 - `WDM` [GyroShell](https://github.com/Pdawg-bytes/GyroShell) <sup>`FOSS`</sup>
 - `WD` [LegendBar](https://github.com/Baldev8910/LegendBar) <sup>`FOSS`</sup>
 - `WDM` [Lively Wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
