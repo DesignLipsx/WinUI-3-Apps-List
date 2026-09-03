@@ -254,6 +254,7 @@ Last 17 apps that were recently added to list!
 - `WDA` [Weather - WidBar Widget](https://apps.microsoft.com/detail/9n4cs86q7nv2)
 - `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt)
 - `WDM` [WidBar - Widget Taskbar system](https://apps.microsoft.com/detail/9pkldnm83tp9)
+- `WDM` [WinGlide](https://github.com/congchuahiep/WinGlide) <sup>`FOSS`</sup>
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -1227,6 +1228,7 @@ Last 17 apps that were recently added to list!
 - `WDM` [Widgets for UniGetUI](https://apps.microsoft.com/detail/9nb9m5kz8slx)
 - `WDM` [WiFiSpy - Who Is On My WiFi](https://apps.microsoft.com/store/detail/wifispy-who-is-on-my-wifi/9N64F7V2KSZH) `💰`
 - `WD` [WingetUSoft](https://github.com/xfiberex/WingetUSoft) <sup>`FOSS`</sup>
+- `WDM` [WinGlide](https://github.com/congchuahiep/WinGlide) <sup>`FOSS`</sup>
 - `WDA` [WinSweep-](https://apps.microsoft.com/detail/9n9jz16ngz0d)
 - `WDM` [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - `WDA` [WinUi++](https://apps.microsoft.com/detail/xp9brhtxn0z3v7)
