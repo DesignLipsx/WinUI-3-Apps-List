@@ -234,7 +234,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-Last 17 apps that were recently added to list!
+Last 20 apps that were recently added to list!
 
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
@@ -243,6 +243,7 @@ Last 17 apps that were recently added to list!
 - `WDA` [Linkscape](https://github.com/JohnDizzle/Linkscape) <sup>`FOSS`</sup>
 - `WDM` [MdPad](https://github.com/radueduard97/MdPad) <sup>`FOSS`</sup>
 - `WDA` [Media - WidBar Widget](https://apps.microsoft.com/detail/9nbvchs7jr0c)
+- `WD` [TidyPdf](https://apps.microsoft.com/detail/9P25MFF9VK1J)
 - `WDA` [Pomodoro Focus - WidBar Widget](https://apps.microsoft.com/detail/9nwrj4d65dhs)
 - `WDM` [Raven](https://github.com/mjishnu/Raven) <sup>`FOSS`</sup>
 - `WDA` [Shelf File Manager & Clipboard - Widbar Widget](https://apps.microsoft.com/detail/9p18qnl4tc4g)
@@ -655,6 +656,7 @@ Last 17 apps that were recently added to list!
 - `WDM` [PDF Merger | Reorder Pages | Secure Files](https://apps.microsoft.com/detail/9pdlmtdwkkrn)
 - `WDM` [PDF Splitter / Merger](https://apps.microsoft.com/detail/9n2kgnh5bz8f)
 - `WDM` [PDF.Office Converter](https://apps.microsoft.com/detail/9nw5c7830tnw)
+- `WD` [TidyPdf](https://apps.microsoft.com/detail/9P25MFF9VK1J)
 
 ### 🎙️ Podcasts
 
